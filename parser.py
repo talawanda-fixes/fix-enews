@@ -188,9 +188,39 @@ def deduplicate_items(items: List[Dict], state_file: str = "output/seen_items.js
 
     unique_items = []
     items_by_hash = {}  # Track items by hash to find earliest date
+    filtered_items = []
 
     # Group items by hash and find earliest date
     for item in items:
+        # Filter out noise items
+        title = item.get('title', '').lower()
+        content = item.get('content', '').lower()
+
+        # Check for specific footer/branding patterns
+        # These are items that are ONLY branding, not real content
+        matched_pattern = None
+
+        # Footer items that start with zoom_out_map and only contain school name/hashtag
+        if 'zoom_out_map' in title:
+            # Check if it's ONLY the school footer (no other substantive content)
+            footer_only_patterns = [
+                'talawanda high school #educate',
+                'talawanda middle school #',
+                'bogan elementary #',
+                'kramer elementary #',
+                'marshall elementary #',
+            ]
+            if any(pattern in title for pattern in footer_only_patterns):
+                matched_pattern = 'footer_branding'
+
+        if matched_pattern:
+            filtered_items.append({
+                'title': item.get('title', ''),
+                'reason': matched_pattern,
+                'content_preview': item.get('content', '')[:100]
+            })
+            continue
+
         item_hash = _hash_item(item)
         item['hash'] = item_hash
 
@@ -210,7 +240,16 @@ def deduplicate_items(items: List[Dict], state_file: str = "output/seen_items.js
     # All unique items from this run
     unique_items = list(items_by_hash.values())
 
-    print(f"Found {len(unique_items)} unique items ({len(items) - len(unique_items)} duplicates)")
+    duplicates = len(items) - len(unique_items) - len(filtered_items)
+    print(f"Found {len(unique_items)} unique items ({duplicates} duplicates, {len(filtered_items)} noise filtered)")
+
+    # Log filtered items for review
+    if filtered_items:
+        print(f"\nFiltered noise items:")
+        for filtered in filtered_items:
+            title_display = filtered['title'][:60] if filtered['title'] else '(no title)'
+            print(f"  - [{filtered['reason']}] {title_display}")
+
     return unique_items
 
 
