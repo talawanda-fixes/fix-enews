@@ -42,13 +42,21 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-chromium-
 
-      - name: Cache newsletters and summaries
+      - name: Cache newsletters
         uses: actions/cache@v4
         with:
-          path: cache/
-          key: ${{ runner.os }}-cache-${{ github.run_id }}
+          path: cache/newsletters/
+          key: ${{ runner.os }}-newsletters-${{ github.run_id }}
           restore-keys: |
-            ${{ runner.os }}-cache-
+            ${{ runner.os }}-newsletters-
+
+      - name: Cache summaries
+        uses: actions/cache@v4
+        with:
+          path: cache/summaries/
+          key: ${{ runner.os }}-summaries-${{ github.run_id }}
+          restore-keys: |
+            ${{ runner.os }}-summaries-
 
       - name: Install system dependencies
         if: steps.cache-chromium.outputs.cache-hit != 'true'
