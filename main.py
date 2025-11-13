@@ -38,15 +38,20 @@ def main():
             return 0
 
         # Step 3: Deduplicate items
-        print("\n[3/5] Deduplicating items...")
+        print("\n[3/6] Deduplicating items...")
         unique_items = deduplicate_items(items)
 
         if not unique_items:
             print("No new items to add to feed")
             return 0
 
-        # Step 4: Save JSON output
-        print("\n[4/5] Saving JSON output...")
+        # Step 4: Summarize items with Claude
+        print("\n[4/6] Generating summaries with Claude...")
+        from summarizer import summarize_items
+        unique_items = summarize_items(unique_items)
+
+        # Step 5: Save JSON output
+        print("\n[5/6] Saving JSON output...")
         import json
         from datetime import datetime, timezone
 
@@ -74,8 +79,8 @@ def main():
         # Use sorted items for feed generation too
         unique_items = sorted_items
 
-        # Step 5: Generate RSS feed
-        print("\n[5/5] Generating RSS feed...")
+        # Step 6: Generate RSS feed
+        print("\n[6/6] Generating RSS feed...")
         from feed_generator import generate_feed
         feed = generate_feed(unique_items, str(output_dir / "feed.rss"))
 
@@ -91,6 +96,10 @@ def main():
     except KeyboardInterrupt:
         print("\n\nInterrupted by user")
         return 130
+    except ValueError as e:
+        # Configuration errors (like missing API key)
+        print(f"\n\nConfiguration Error: {e}")
+        return 1
     except Exception as e:
         print(f"\n\nError: {e}")
         import traceback

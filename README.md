@@ -39,13 +39,18 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
+# Set your Anthropic API key (required for AI summaries)
+export ANTHROPIC_API_KEY='your-api-key-here'
+
 # Run the scraper and generate RSS feed
 python main.py
 
 # Outputs:
-# - output/feed.rss (RSS 2.0 feed)
+# - output/feed.rss (RSS 2.0 feed with AI-generated summaries)
 # - output/items.json (structured JSON data of all items)
 ```
+
+**Note:** The script uses Claude to generate concise, text-only summaries of each newsletter item. This replaces images and verbose text with clear, accessible markdown-formatted content.
 
 ## GitHub Actions
 

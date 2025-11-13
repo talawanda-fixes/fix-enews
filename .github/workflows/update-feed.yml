@@ -58,6 +58,8 @@ jobs:
         env:
           # Use system chromium in GitHub Actions
           CHROMEDRIVER_PATH: /usr/bin/chromedriver
+          # Anthropic API key for generating summaries
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
       - name: Upload RSS feed artifact
         uses: actions/upload-artifact@v4

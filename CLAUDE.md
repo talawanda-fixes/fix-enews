@@ -21,12 +21,15 @@ pip install -r requirements.txt
 
 ### Running the Script
 ```bash
+# Set your Anthropic API key (required for AI summaries)
+export ANTHROPIC_API_KEY='your-api-key-here'
+
 # Run the full pipeline
 python main.py
 
 # Outputs:
-# - output/feed.rss (RSS 2.0 feed)
-# - output/items.json (structured JSON data of all items)
+# - output/feed.rss (RSS 2.0 feed with AI-generated summaries)
+# - output/items.json (structured JSON data of all items with summaries)
 ```
 
 ### Testing Individual Components
@@ -56,6 +59,12 @@ generate_feed(unique, "test_feed.rss")
 
 ### Key Components
 
+**summarizer.py**:
+- Uses Claude (model: claude-sonnet-4-5-20250929) to generate concise summaries of newsletter items
+- Replaces verbose text and image descriptions with clear, text-only markdown
+- Preserves important details (dates, locations, links) while making content accessible
+- FAIL-HARD: Script will fail if API key is missing or summarization fails (no fallback)
+
 **scraper.py**:
 - Uses requests + BeautifulSoup to find Smore links on Talawanda blog (https://www.talawanda.org/talawanda-high-school-blog/)
 - Finds all `<a>` tags with `href` containing "smore.com"
@@ -74,10 +83,11 @@ generate_feed(unique, "test_feed.rss")
 
 **feed_generator.py**:
 - Uses feedgen library to create RSS 2.0 feed
-- Converts blocks to HTML: titles become `<h3>`, paragraphs become `<p>`, images become `<img>` tags
+- Converts AI-generated markdown summaries to HTML for feed items
+- REQUIRES summaries (no fallback) - will fail if summaries are missing
 - Uses block_id as GUID for RSS reader compatibility
 - Adds link back to source newsletter
-- Publication dates are set to current time (Smore doesn't expose dates reliably)
+- Publication dates use newsletter dates from blog
 
 **ocr.py**:
 - Currently not implemented (placeholder for future OCR functionality)
@@ -103,10 +113,15 @@ The `.github/workflows/update-feed.yml` workflow:
 
 ## Important Notes
 
+- **Anthropic API Key REQUIRED**: Set `ANTHROPIC_API_KEY` environment variable for AI summaries
+  - Script will FAIL if API key is missing or summarization fails (no fallback)
+  - In GitHub Actions, add `ANTHROPIC_API_KEY` as a repository secret
+  - Uses model: claude-sonnet-4-5-20250929
 - Selenium requires ChromeDriver and Chrome/Chromium to be installed
 - The 5-second wait in scraper is critical for Smore content to load
 - Block IDs are the source of truth for deduplication (not content hashing)
 - No state file is saved - the entire feed is regenerated from all newsletters each run
 - RSS feed shows all unique items from all newsletters currently on the blog
 - Items are dated based on their first newsletter appearance and sorted newest first
-- Images in RSS feed are commented out (not included in feed content)
+- AI summaries replace original content - images are described, verbose text is condensed
+- Each summary costs ~$0.001-0.002 using Claude Sonnet 4 (~300 tokens per item)

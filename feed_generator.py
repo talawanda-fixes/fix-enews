@@ -80,28 +80,21 @@ def add_item_to_feed(fg: FeedGenerator, item: Dict):
     title = item.get('title', 'Untitled').replace('\n', ' ').strip()
     fe.title(title)
 
-    # Build HTML content from blocks
-    content_parts = []
+    # Use AI-generated summary (required)
+    summary = item.get('summary')
 
-    for block in item.get('blocks', []):
-        block_type = block.get('type', '')
+    if not summary:
+        raise ValueError(f"Item '{title}' is missing AI-generated summary")
 
-        if block_type == 'text.title':
-            content_parts.append(f"<h3>{block.get('content', '')}</h3>")
-        elif block_type == 'text.paragraph':
-            content_parts.append(f"<p>{block.get('content', '')}</p>")
-        elif block_type == 'image.single':
-            img_url = block.get('url', '')
-            #content_parts.append(f'<p><img src="{img_url}" alt="Newsletter image" /></p>')
-        elif block_type == 'items':
-            content_parts.append(f"<div>{block.get('content', '')}</div>")
+    # Convert markdown summary to HTML
+    import markdown
+    content_html = markdown.markdown(summary)
 
     # Add link back to source
     source_url = item.get('source_url', '')
     if source_url:
-        content_parts.append(f'<p><a href="{source_url}">View original newsletter</a></p>')
+        content_html += f'\n<p><a href="{source_url}">View original newsletter</a></p>'
 
-    content_html = '\n'.join(content_parts)
     fe.description(content_html)
 
     # Link to source newsletter
