@@ -56,19 +56,20 @@ def parse_date_from_text(text: str) -> Optional[datetime]:
 
 def get_newsletter_links(blog_url: str = BLOG_URL, stop_at_cached: bool = True) -> List[Dict[str, str]]:
     """
-    Get all Smore newsletter URLs and dates from the Talawanda blog page
-    Follows pagination links and optionally stops when hitting a cached newsletter
+    Get all blog entries (newsletters and regular posts) from the Talawanda blog page
+    Follows pagination links and optionally stops when hitting all cached content
 
     Args:
-        blog_url: URL of the blog page containing newsletter links
-        stop_at_cached: If True, stop scraping when we hit a newsletter that's already cached
+        blog_url: URL of the blog page containing entries
+        stop_at_cached: If True, stop scraping when we hit a page with all cached content
 
     Returns:
-        List of dictionaries with 'url' and 'date' keys
+        List of dictionaries with 'url', 'date', 'type', and 'cached' keys
+        type can be 'newsletter' (Smore) or 'blog_post' (regular blog entry)
     """
-    print(f"Fetching newsletter links from {blog_url}...")
+    print(f"Fetching blog entries from {blog_url}...")
 
-    newsletter_data = []
+    entries_data = []
     seen_urls = set()
     page_num = 1
 
@@ -91,45 +92,86 @@ def get_newsletter_links(blog_url: str = BLOG_URL, stop_at_cached: bool = True) 
 
         soup = BeautifulSoup(response.text, 'html.parser')
 
-        # Find all links that point to smore.com on this page
-        page_newsletters = []
-        found_new_newsletter = False
+        # Find all blog entry wrappers
+        blog_wrappers = soup.find_all('div', class_='divBlogWrapper')
 
-        for link in soup.find_all('a', href=True):
-            href = link['href']
-            if 'smore.com' in href.lower() and href not in seen_urls:
-                seen_urls.add(href)
+        if not blog_wrappers:
+            print(f"  No blog entries found on page {page_num}, stopping pagination")
+            break
 
-                # Try to extract date from surrounding text
-                date = None
-                parent = link.parent
-                if parent:
-                    parent_text = parent.get_text()
-                    date = parse_date_from_text(parent_text)
+        page_entries = []
+        found_new_entry = False
 
-                # Check if this newsletter is cached
-                is_cached = _load_from_cache(href) is not None
+        for wrapper in blog_wrappers:
+            # Get title and entry URL
+            title_elem = wrapper.find('h3', class_='divBlogDetail-title')
+            if not title_elem:
+                continue
 
-                page_newsletters.append({
-                    'url': href,
+            title_link = title_elem.find('a')
+            if not title_link:
+                continue
+
+            entry_url = title_link.get('href', '')
+            if not entry_url or entry_url in seen_urls:
+                continue
+
+            seen_urls.add(entry_url)
+
+            # Get title text
+            title = title_link.get_text().strip()
+
+            # Try to extract date from the entry
+            date = parse_date_from_text(title)
+
+            # Check if this entry contains a Smore link
+            smore_link = wrapper.find('a', href=lambda h: h and 'smore.com' in h.lower())
+
+            if smore_link:
+                # This is a newsletter entry - use the Smore URL
+                smore_url = smore_link.get('href', '')
+                is_cached = _load_from_cache(smore_url) is not None
+
+                page_entries.append({
+                    'url': smore_url,
+                    'entry_url': entry_url,
+                    'title': title,
                     'date': date,
+                    'type': 'newsletter',
+                    'cached': is_cached
+                })
+            else:
+                # This is a regular blog post - use the entry URL
+                is_cached = _load_from_cache(entry_url) is not None
+
+                page_entries.append({
+                    'url': entry_url,
+                    'entry_url': entry_url,
+                    'title': title,
+                    'date': date,
+                    'type': 'blog_post',
                     'cached': is_cached
                 })
 
-                if not is_cached:
-                    found_new_newsletter = True
+            if not is_cached:
+                found_new_entry = True
 
-        if not page_newsletters:
-            print(f"  No newsletters found on page {page_num}, stopping pagination")
+        if not page_entries:
+            print(f"  No entries found on page {page_num}, stopping pagination")
             break
 
-        # Add newsletters from this page
-        newsletter_data.extend(page_newsletters)
-        print(f"  Found {len(page_newsletters)} newsletters on page {page_num} ({sum(1 for n in page_newsletters if not n['cached'])} new, {sum(1 for n in page_newsletters if n['cached'])} cached)")
+        # Add entries from this page
+        entries_data.extend(page_entries)
+        newsletters_count = sum(1 for e in page_entries if e['type'] == 'newsletter')
+        blog_posts_count = sum(1 for e in page_entries if e['type'] == 'blog_post')
+        new_count = sum(1 for e in page_entries if not e['cached'])
+        cached_count = sum(1 for e in page_entries if e['cached'])
 
-        # Stop if we should stop at cached and didn't find any new newsletters
-        if stop_at_cached and not found_new_newsletter:
-            print(f"  All newsletters on page {page_num} are cached, stopping pagination")
+        print(f"  Found {len(page_entries)} entries on page {page_num} ({newsletters_count} newsletters, {blog_posts_count} blog posts, {new_count} new, {cached_count} cached)")
+
+        # Stop if we should stop at cached and didn't find any new entries
+        if stop_at_cached and not found_new_entry:
+            print(f"  All entries on page {page_num} are cached, stopping pagination")
             break
 
         # Check if there's a next page link
@@ -140,8 +182,10 @@ def get_newsletter_links(blog_url: str = BLOG_URL, stop_at_cached: bool = True) 
 
         page_num += 1
 
-    print(f"Found {len(newsletter_data)} unique Smore newsletter links across {page_num} page(s)")
-    return newsletter_data
+    newsletters = sum(1 for e in entries_data if e['type'] == 'newsletter')
+    blog_posts = sum(1 for e in entries_data if e['type'] == 'blog_post')
+    print(f"Found {len(entries_data)} entries across {page_num} page(s) ({newsletters} newsletters, {blog_posts} blog posts)")
+    return entries_data
 
 
 def _get_cache_key(url: str) -> str:
@@ -196,6 +240,61 @@ def _get_all_cached_urls() -> List[str]:
     return cached_urls
 
 
+def fetch_blog_post(url: str, date: Optional[datetime] = None, title: str = "") -> Optional[Dict]:
+    """
+    Fetch a blog post (non-newsletter entry) from the school website
+
+    Args:
+        url: Blog post URL
+        date: Date of the blog post
+        title: Title of the blog post
+
+    Returns:
+        Dictionary with blog post data (url, html, title, date, type)
+    """
+    # Try to load from cache first
+    cached = _load_from_cache(url)
+    if cached:
+        print(f"  Fetching: {url} (from cache)")
+        soup = BeautifulSoup(cached['html'], 'html.parser')
+        return {
+            'url': url,
+            'html': cached['html'],
+            'soup': soup,
+            'title': cached.get('title', title),
+            'date': date,
+            'type': 'blog_post'
+        }
+
+    print(f"  Fetching: {url}")
+
+    try:
+        response = requests.get(url, timeout=10)
+        response.raise_for_status()
+        html = response.text
+        soup = BeautifulSoup(html, 'html.parser')
+
+        # Extract title if not provided
+        if not title:
+            title_elem = soup.find(['h1', 'h2'])
+            title = title_elem.get_text().strip() if title_elem else url
+
+        # Save to cache
+        _save_to_cache(url, html, title)
+
+        return {
+            'url': url,
+            'html': html,
+            'soup': soup,
+            'title': title,
+            'date': date,
+            'type': 'blog_post'
+        }
+    except Exception as e:
+        print(f"  Error fetching blog post: {e}")
+        return None
+
+
 def fetch_newsletter(url: str, date: Optional[datetime] = None) -> Dict:
     """
     Fetch a single newsletter from Smore using Selenium
@@ -220,7 +319,8 @@ def fetch_newsletter(url: str, date: Optional[datetime] = None) -> Dict:
             'html': cached['html'],
             'soup': soup,
             'title': cached['title'],
-            'date': date
+            'date': date,
+            'type': 'newsletter'
         }
 
     print(f"  Fetching: {url}")
@@ -267,7 +367,8 @@ def fetch_newsletter(url: str, date: Optional[datetime] = None) -> Dict:
             'html': html,
             'soup': soup,
             'title': title,
-            'date': date
+            'date': date,
+            'type': 'newsletter'
         }
 
     except Exception as e:
@@ -282,53 +383,65 @@ def fetch_newsletter(url: str, date: Optional[datetime] = None) -> Dict:
 
 def fetch_newsletters(blog_url: str = BLOG_URL) -> List[Dict]:
     """
-    Fetch all newsletters from the Talawanda blog
+    Fetch all blog entries (newsletters and regular posts) from the Talawanda blog
 
     Args:
         blog_url: URL of the blog page (default: Talawanda High School blog)
 
     Returns:
-        List of newsletter data dictionaries
+        List of entry data dictionaries (newsletters and blog posts)
     """
-    # Get all newsletter links with dates (may stop early at cached newsletters)
-    newsletter_data = get_newsletter_links(blog_url)
+    # Get all entry links with dates (may stop early at cached content)
+    entries_data = get_newsletter_links(blog_url)
 
-    if not newsletter_data:
-        print("No newsletter links found!")
+    if not entries_data:
+        print("No entries found!")
         return []
 
     # Get URLs we found from scraping
-    scraped_urls = {data['url'] for data in newsletter_data}
+    scraped_urls = {data['url'] for data in entries_data}
 
-    # Find any cached newsletters that weren't in the scraped pages
+    # Find any cached entries that weren't in the scraped pages
     all_cached_urls = _get_all_cached_urls()
     cached_only_urls = [url for url in all_cached_urls if url not in scraped_urls]
 
     if cached_only_urls:
-        print(f"\nFound {len(cached_only_urls)} additional cached newsletters not in scraped pages")
-        # Add them to the list (without dates since we don't know them)
+        print(f"\nFound {len(cached_only_urls)} additional cached entries not in scraped pages")
+        # Add them to the list (without dates or type since we don't know them)
+        # Assume they're newsletters since that's what we've historically cached
         for url in cached_only_urls:
-            newsletter_data.append({
+            entries_data.append({
                 'url': url,
+                'title': '',
                 'date': None,
+                'type': 'newsletter',  # Assume newsletter for old cached content
                 'cached': True
             })
 
-    # Fetch each newsletter
-    newsletters = []
-    for i, data in enumerate(newsletter_data, 1):
+    # Fetch each entry
+    entries = []
+    for i, data in enumerate(entries_data, 1):
         url = data['url']
         date = data['date']
+        entry_type = data.get('type', 'newsletter')
+        title = data.get('title', '')
         date_str = date.strftime('%m/%d/%Y') if date else 'unknown date'
-        print(f"Fetching newsletter {i}/{len(newsletter_data)} ({date_str})...")
+        type_str = 'blog post' if entry_type == 'blog_post' else 'newsletter'
+        print(f"Fetching {type_str} {i}/{len(entries_data)} ({date_str})...")
 
-        newsletter = fetch_newsletter(url, date)
-        if newsletter:
-            newsletters.append(newsletter)
+        if entry_type == 'blog_post':
+            entry = fetch_blog_post(url, date, title)
+        else:
+            entry = fetch_newsletter(url, date)
+
+        if entry:
+            entries.append(entry)
 
         # Be polite - add a small delay between requests
-        if i < len(newsletter_data):
+        if i < len(entries_data):
             time.sleep(1)
 
-    print(f"\nSuccessfully fetched {len(newsletters)} newsletters")
-    return newsletters
+    newsletters_count = sum(1 for e in entries if e.get('type') == 'newsletter')
+    blog_posts_count = sum(1 for e in entries if e.get('type') == 'blog_post')
+    print(f"\nSuccessfully fetched {len(entries)} entries ({newsletters_count} newsletters, {blog_posts_count} blog posts)")
+    return entries

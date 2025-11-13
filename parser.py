@@ -45,10 +45,10 @@ def clean_title(title: str) -> str:
 
 def parse_newsletters(newsletters: List[Dict]) -> List[Dict]:
     """
-    Parse newsletters and extract individual items
+    Parse newsletters and blog posts and extract individual items
 
     Args:
-        newsletters: List of newsletter data
+        newsletters: List of newsletter/blog post data
 
     Returns:
         List of individual news items
@@ -57,6 +57,49 @@ def parse_newsletters(newsletters: List[Dict]) -> List[Dict]:
 
     for newsletter in newsletters:
         print(f"  Parsing: {newsletter['title']}")
+
+        # Check if this is a blog post or newsletter
+        entry_type = newsletter.get('type', 'newsletter')
+
+        if entry_type == 'blog_post':
+            # Blog posts become a single item with full content
+            soup = newsletter['soup']
+
+            # Extract main content from the blog post
+            main = soup.find('main') or soup.find('div', id='main') or soup.find('article')
+            if main:
+                # Get the content body
+                content_body = main.find('div', class_='divBlockBody') or main
+
+                # Extract text content
+                content_text = content_body.get_text().strip() if content_body else ""
+
+                # Extract any images
+                images = []
+                for img in content_body.find_all('img') if content_body else []:
+                    img_src = img.get('src', '')
+                    if img_src:
+                        images.append(img_src)
+
+                # Create a single item for the blog post
+                all_items.append({
+                    'title': newsletter['title'],
+                    'block_id': f"blog_post_{newsletter['url']}",
+                    'content': content_text,
+                    'images': images,
+                    'source_url': newsletter['url'],
+                    'source_title': newsletter['title'],
+                    'date': newsletter.get('date'),
+                    'blocks': [{
+                        'type': 'blog_post_content',
+                        'content': content_text,
+                        'id': newsletter['url']
+                    }],
+                    'type': 'blog_post'
+                })
+            continue
+
+        # Handle newsletter (original logic)
         soup = newsletter['soup']
 
         # Find all content blocks
