@@ -31,10 +31,37 @@ jobs:
           echo "schools=$SCHOOLS" >> $GITHUB_OUTPUT
           echo "Schools to process: $SCHOOLS"
 
+  # Job to build Docker image with all dependencies
+  build-image:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Build and export Docker image
+        uses: docker/build-push-action@v5
+        with:
+          context: .
+          file: ./Dockerfile
+          tags: talawanda-enews:latest
+          outputs: type=docker,dest=/tmp/talawanda-enews.tar
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
+
+      - name: Upload Docker image artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: docker-image
+          path: /tmp/talawanda-enews.tar
+          retention-days: 1
+
   # Job to generate feeds for each school in parallel
   generate-feed:
     runs-on: ubuntu-latest
-    needs: setup
+    needs: [setup, build-image]
     strategy:
       matrix:
         school: ${{ fromJson(needs.setup.outputs.schools) }}
@@ -46,23 +73,16 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Download Docker image artifact
+        uses: actions/download-artifact@v4
         with:
-          python-version: '3.11'
-          cache: 'pip'
+          name: docker-image
+          path: /tmp
 
-      - name: Cache Chromium
-        id: cache-chromium
-        uses: actions/cache@v4
-        with:
-          path: |
-            /usr/bin/chromium-browser
-            /usr/bin/chromedriver
-            /usr/lib/chromium-browser
-          key: ${{ runner.os }}-chromium-${{ hashFiles('.github/workflows/update-feed.yml') }}
-          restore-keys: |
-            ${{ runner.os }}-chromium-
+      - name: Load Docker image
+        run: |
+          docker load --input /tmp/talawanda-enews.tar
+          docker image ls -a
 
       - name: Cache newsletters for ${{ matrix.school }}
         uses: actions/cache@v4
@@ -80,24 +100,14 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-summaries-${{ matrix.school }}-
 
-      - name: Install system dependencies
-        if: steps.cache-chromium.outputs.cache-hit != 'true'
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y chromium-browser chromium-chromedriver
-
-      - name: Install Python dependencies
-        run: |
-          pip install -r requirements.txt
-
       - name: Generate feed for ${{ matrix.school }}
         run: |
-          python main.py --school ${{ matrix.school }}
-        env:
-          # Use system chromium in GitHub Actions
-          CHROMEDRIVER_PATH: /usr/bin/chromedriver
-          # Anthropic API key for generating summaries
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          docker run --rm \
+            -v $(pwd)/cache:/app/cache \
+            -v $(pwd)/output:/app/output \
+            -e ANTHROPIC_API_KEY="${{ secrets.ANTHROPIC_API_KEY }}" \
+            talawanda-enews:latest \
+            python main.py --school ${{ matrix.school }}
 
       - name: Upload feed artifact for ${{ matrix.school }}
         uses: actions/upload-artifact@v4
