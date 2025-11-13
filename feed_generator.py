@@ -117,13 +117,35 @@ def add_item_to_feed(fg: FeedGenerator, item: Dict):
     # Add link back to source
     source_url = item.get('source_url', '')
     if source_url:
-        content_html += f'\n<p><a href="{source_url}">View original newsletter</a></p>'
+        # Add anchor to jump to specific item in newsletter
+        block_id = item.get('block_id', '')
+        # For multi-block items, use the first block ID as the anchor
+        if block_id and '-' in block_id:
+            anchor = block_id.split('-')[0]
+        else:
+            anchor = block_id
+
+        if anchor:
+            source_url_with_anchor = f"{source_url}#{anchor}"
+        else:
+            source_url_with_anchor = source_url
+
+        content_html += f'\n<p><a href="{source_url_with_anchor}">View original newsletter</a></p>'
 
     fe.description(content_html)
 
-    # Link to source newsletter
+    # Link to source newsletter with anchor
     if source_url:
-        fe.link(href=source_url)
+        block_id = item.get('block_id', '')
+        if block_id and '-' in block_id:
+            anchor = block_id.split('-')[0]
+        else:
+            anchor = block_id
+
+        if anchor:
+            fe.link(href=f"{source_url}#{anchor}")
+        else:
+            fe.link(href=source_url)
 
     # GUID using block_id
     guid = item.get('block_id') or item.get('hash', '')
