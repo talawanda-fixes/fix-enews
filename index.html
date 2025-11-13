@@ -49,6 +49,12 @@
         .links a:hover {
             background-color: #0052a3;
         }
+        .links a.secondary {
+            background-color: #6c757d;
+        }
+        .links a.secondary:hover {
+            background-color: #5a6268;
+        }
         .footer {
             margin-top: 40px;
             padding-top: 20px;
@@ -63,14 +69,17 @@
     <h1>Talawanda School District - RSS Feeds</h1>
     <p>Subscribe to RSS feeds for news and announcements from Talawanda schools.</p>
 
+    
     <div class="school">
         <h2>Talawanda High School</h2>
         <p>News and announcements from Talawanda High School, including events, athletics, clubs, and important dates.</p>
         <div class="links">
-            <a href="ths-feed.rss">RSS Feed</a>
-            <a href="ths-items.json">JSON Data</a>
+            <a href="viewer.html?school=ths">View Feed</a>
+            <a href="ths-feed.rss" class="secondary">RSS Feed</a>
+            <a href="ths-items.json" class="secondary">JSON Data</a>
         </div>
     </div>
+    
 
     <div class="footer">
         <p>RSS feeds are updated every 6 hours.</p>

@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Talawanda School District - Feed Viewer</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        h1 {
+            color: #333;
+            border-bottom: 3px solid #0066cc;
+            padding-bottom: 10px;
+        }
+        .controls {
+            background: white;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .controls label {
+            font-weight: 600;
+            color: #333;
+            margin-right: 10px;
+        }
+        .controls select {
+            padding: 8px 12px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 14px;
+            min-width: 200px;
+        }
+        .back-link {
+            display: inline-block;
+            margin-bottom: 10px;
+            color: #0066cc;
+            text-decoration: none;
+        }
+        .back-link:hover {
+            text-decoration: underline;
+        }
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+        }
+        .item {
+            background: white;
+            padding: 25px;
+            margin: 20px 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .item h2 {
+            color: #0066cc;
+            margin-top: 0;
+            margin-bottom: 10px;
+            font-size: 1.5em;
+        }
+        .item-meta {
+            color: #666;
+            font-size: 14px;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #eee;
+        }
+        .item-content {
+            color: #333;
+            margin: 15px 0;
+        }
+        .item-content h3 {
+            color: #333;
+            font-size: 1.1em;
+            margin-top: 15px;
+        }
+        .item-content ul, .item-content ol {
+            margin: 10px 0;
+            padding-left: 25px;
+        }
+        .item-content img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+        .item-links {
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 1px solid #eee;
+        }
+        .item-links a {
+            display: inline-block;
+            margin-right: 10px;
+            margin-bottom: 8px;
+            padding: 6px 12px;
+            background-color: #0066cc;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 13px;
+        }
+        .item-links a:hover {
+            background-color: #0052a3;
+        }
+        .item-links a.calendar {
+            background-color: #28a745;
+        }
+        .item-links a.calendar:hover {
+            background-color: #218838;
+        }
+        .error {
+            background: #fff3cd;
+            border: 1px solid #ffc107;
+            padding: 15px;
+            border-radius: 4px;
+            color: #856404;
+            margin: 20px 0;
+        }
+        .footer {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+            color: #666;
+            font-size: 14px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <a href="index.html" class="back-link">&larr; Back to Feed List</a>
+    <h1>Talawanda School District - Feed Viewer</h1>
+
+    <div class="controls">
+        <label for="school-select">Select School:</label>
+        <select id="school-select">
+            <option value="">Loading schools...</option>
+        </select>
+    </div>
+
+    <div id="content">
+        <div class="loading">Loading feed...</div>
+    </div>
+
+    <div class="footer">
+        <p>RSS feeds are updated every 6 hours.</p>
+        <p>Powered by <a href="https://claude.com/claude-code" style="color: #0066cc;">Claude Code</a></p>
+    </div>
+
+    <script>
+        let schools = [];
+
+        // Load schools configuration
+        async function loadSchools() {
+            try {
+                const response = await fetch('schools.json');
+                if (!response.ok) {
+                    throw new Error('Failed to load schools configuration');
+                }
+                schools = await response.json();
+
+                const select = document.getElementById('school-select');
+                select.innerHTML = schools.map(school =>
+                    `<option value="${school.slug}">${school.name}</option>`
+                ).join('');
+
+                // Load feed for first school or from URL parameter
+                const urlParams = new URLSearchParams(window.location.search);
+                const schoolParam = urlParams.get('school');
+                if (schoolParam && schools.find(s => s.slug === schoolParam)) {
+                    select.value = schoolParam;
+                } else if (schools.length > 0) {
+                    select.value = schools[0].slug;
+                }
+
+                loadFeed(select.value);
+            } catch (error) {
+                showError('Failed to load schools configuration: ' + error.message);
+            }
+        }
+
+        // Load and parse RSS feed
+        async function loadFeed(slug) {
+            const content = document.getElementById('content');
+            content.innerHTML = '<div class="loading">Loading feed...</div>';
+
+            try {
+                const response = await fetch(`${slug}-feed.rss`);
+                if (!response.ok) {
+                    throw new Error('Failed to load feed');
+                }
+
+                const text = await response.text();
+                const parser = new DOMParser();
+                const xml = parser.parseFromString(text, 'text/xml');
+
+                const items = xml.querySelectorAll('item');
+                if (items.length === 0) {
+                    content.innerHTML = '<div class="loading">No items found in feed.</div>';
+                    return;
+                }
+
+                const school = schools.find(s => s.slug === slug);
+                const schoolName = school ? school.name : 'School';
+
+                let html = `<h2 style="color: #333; margin-top: 0;">${schoolName} - Latest Updates</h2>`;
+
+                items.forEach(item => {
+                    const title = item.querySelector('title')?.textContent || 'Untitled';
+                    const link = item.querySelector('link')?.textContent || '#';
+                    const pubDate = item.querySelector('pubDate')?.textContent || '';
+                    const description = item.querySelector('description')?.textContent || '';
+
+                    // Format date
+                    let formattedDate = pubDate;
+                    if (pubDate) {
+                        try {
+                            const date = new Date(pubDate);
+                            formattedDate = date.toLocaleDateString('en-US', {
+                                weekday: 'long',
+                                year: 'numeric',
+                                month: 'long',
+                                day: 'numeric'
+                            });
+                        } catch (e) {
+                            // Keep original if parsing fails
+                        }
+                    }
+
+                    html += `
+                        <div class="item">
+                            <h2>${escapeHtml(title)}</h2>
+                            <div class="item-meta">
+                                Published: ${escapeHtml(formattedDate)}
+                            </div>
+                            <div class="item-content">
+                                ${description}
+                            </div>
+                            <div class="item-links">
+                                <a href="${escapeHtml(link)}" target="_blank">View Original</a>
+                            </div>
+                        </div>
+                    `;
+                });
+
+                content.innerHTML = html;
+            } catch (error) {
+                showError('Failed to load feed: ' + error.message);
+            }
+        }
+
+        function showError(message) {
+            const content = document.getElementById('content');
+            content.innerHTML = `<div class="error">${escapeHtml(message)}</div>`;
+        }
+
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        // Event listeners
+        document.getElementById('school-select').addEventListener('change', (e) => {
+            const slug = e.target.value;
+            // Update URL without reload
+            const url = new URL(window.location);
+            url.searchParams.set('school', slug);
+            window.history.pushState({}, '', url);
+            loadFeed(slug);
+        });
+
+        // Initialize
+        loadSchools();
+    </script>
+</body>
+</html>
