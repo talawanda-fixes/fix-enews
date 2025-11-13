@@ -54,49 +54,93 @@ def parse_date_from_text(text: str) -> Optional[datetime]:
     return None
 
 
-def get_newsletter_links(blog_url: str = BLOG_URL) -> List[Dict[str, str]]:
+def get_newsletter_links(blog_url: str = BLOG_URL, stop_at_cached: bool = True) -> List[Dict[str, str]]:
     """
     Get all Smore newsletter URLs and dates from the Talawanda blog page
+    Follows pagination links and optionally stops when hitting a cached newsletter
 
     Args:
         blog_url: URL of the blog page containing newsletter links
+        stop_at_cached: If True, stop scraping when we hit a newsletter that's already cached
 
     Returns:
         List of dictionaries with 'url' and 'date' keys
     """
     print(f"Fetching newsletter links from {blog_url}...")
 
-    try:
-        response = requests.get(blog_url, timeout=10)
-        response.raise_for_status()
-    except requests.RequestException as e:
-        print(f"Error fetching blog page: {e}")
-        return []
-
-    soup = BeautifulSoup(response.text, 'html.parser')
-
-    # Find all links that point to smore.com
     newsletter_data = []
     seen_urls = set()
+    page_num = 1
 
-    for link in soup.find_all('a', href=True):
-        href = link['href']
-        if 'smore.com' in href.lower() and href not in seen_urls:
-            seen_urls.add(href)
+    while True:
+        # Construct page URL
+        if page_num == 1:
+            page_url = blog_url
+        else:
+            separator = '&' if '?' in blog_url else '?'
+            page_url = f"{blog_url}{separator}page={page_num}"
 
-            # Try to extract date from surrounding text
-            date = None
-            parent = link.parent
-            if parent:
-                parent_text = parent.get_text()
-                date = parse_date_from_text(parent_text)
+        print(f"  Scraping page {page_num}: {page_url}")
 
-            newsletter_data.append({
-                'url': href,
-                'date': date
-            })
+        try:
+            response = requests.get(page_url, timeout=10)
+            response.raise_for_status()
+        except requests.RequestException as e:
+            print(f"  Error fetching page {page_num}: {e}")
+            break
 
-    print(f"Found {len(newsletter_data)} unique Smore newsletter links")
+        soup = BeautifulSoup(response.text, 'html.parser')
+
+        # Find all links that point to smore.com on this page
+        page_newsletters = []
+        found_new_newsletter = False
+
+        for link in soup.find_all('a', href=True):
+            href = link['href']
+            if 'smore.com' in href.lower() and href not in seen_urls:
+                seen_urls.add(href)
+
+                # Try to extract date from surrounding text
+                date = None
+                parent = link.parent
+                if parent:
+                    parent_text = parent.get_text()
+                    date = parse_date_from_text(parent_text)
+
+                # Check if this newsletter is cached
+                is_cached = _load_from_cache(href) is not None
+
+                page_newsletters.append({
+                    'url': href,
+                    'date': date,
+                    'cached': is_cached
+                })
+
+                if not is_cached:
+                    found_new_newsletter = True
+
+        if not page_newsletters:
+            print(f"  No newsletters found on page {page_num}, stopping pagination")
+            break
+
+        # Add newsletters from this page
+        newsletter_data.extend(page_newsletters)
+        print(f"  Found {len(page_newsletters)} newsletters on page {page_num} ({sum(1 for n in page_newsletters if not n['cached'])} new, {sum(1 for n in page_newsletters if n['cached'])} cached)")
+
+        # Stop if we should stop at cached and didn't find any new newsletters
+        if stop_at_cached and not found_new_newsletter:
+            print(f"  All newsletters on page {page_num} are cached, stopping pagination")
+            break
+
+        # Check if there's a next page link
+        next_link = soup.find('a', class_='anchPaginationLink-next')
+        if not next_link:
+            print(f"  No next page link found, stopping pagination")
+            break
+
+        page_num += 1
+
+    print(f"Found {len(newsletter_data)} unique Smore newsletter links across {page_num} page(s)")
     return newsletter_data
 
 

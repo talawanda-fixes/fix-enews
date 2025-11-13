@@ -161,12 +161,20 @@ Please provide:
    - Preserves important dates, times, locations, and links
    - Does NOT reference images - just extract and convey the information
    - Uses markdown formatting (bold, lists, links, etc.) for readability
+   - Analyzes images and extracts the information from them
+3. A concise, clear, and complete text-only representation of all of the available detail for the item in markdown format.
+   - Conveys all information from the original item. 
+   - Uses bullet points to lay out the information
+   - Includes all dates, times, locations, and links.
 
 Format your response EXACTLY as:
 TITLE: [your improved title here]
 
 SUMMARY:
-[your markdown summary here]"""
+[your markdown summary here]
+
+DETAIL:
+[your markdown detail here]"""
 
     message = client.messages.create(
         model="claude-sonnet-4-5-20250929",
@@ -180,13 +188,16 @@ SUMMARY:
     import re
     title_match = re.search(r'TITLE:\s*(.+?)(?:\n|$)', response_text)
     summary_match = re.search(r'SUMMARY:\s*(.+)', response_text, re.DOTALL)
+    detail_match = re.search(r'DETAIL:\s*(.+)', response_text, re.DOTALL)
 
     improved_title = title_match.group(1).strip() if title_match else title
     summary = summary_match.group(1).strip() if summary_match else response_text
+    detail = detail_match.group(1).strip() if detail_match else summary
 
     return {
         'title': improved_title,
-        'summary': summary
+        'summary': summary,
+        'detail': detail
     }
 
 
