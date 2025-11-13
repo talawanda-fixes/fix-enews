@@ -5,6 +5,7 @@ Uses Claude to generate concise, text-only summaries of newsletter items
 
 import os
 import json
+import re
 from pathlib import Path
 from typing import List, Dict, Optional
 from anthropic import Anthropic
@@ -13,8 +14,8 @@ from anthropic import Anthropic
 CACHE_DIR = Path("cache/summaries")
 
 
-def _load_summary_from_cache(block_id: str) -> Optional[str]:
-    """Load summary from cache if available"""
+def _load_summary_from_cache(block_id: str) -> Optional[Dict[str, str]]:
+    """Load summary and title from cache if available"""
     CACHE_DIR.mkdir(parents=True, exist_ok=True)
     cache_file = CACHE_DIR / f"{block_id}.json"
 
@@ -22,19 +23,24 @@ def _load_summary_from_cache(block_id: str) -> Optional[str]:
         try:
             with open(cache_file, 'r', encoding='utf-8') as f:
                 cached = json.load(f)
-                return cached.get('summary')
+                # Return dict with title and summary (backwards compatible)
+                return {
+                    'title': cached.get('title', ''),
+                    'summary': cached.get('summary', '')
+                }
         except Exception:
             return None
     return None
 
 
-def _save_summary_to_cache(block_id: str, summary: str):
-    """Save summary to cache"""
+def _save_summary_to_cache(block_id: str, summary: str, title: str = ''):
+    """Save summary and title to cache"""
     CACHE_DIR.mkdir(parents=True, exist_ok=True)
     cache_file = CACHE_DIR / f"{block_id}.json"
 
     cache_data = {
         'block_id': block_id,
+        'title': title,
         'summary': summary
     }
 
@@ -79,11 +85,13 @@ def summarize_items(items: List[Dict], api_key: str = None) -> List[Dict]:
         title_preview = item['title'][:50]
 
         # Try to load from cache first
-        cached_summary = _load_summary_from_cache(block_id) if block_id else None
+        cached_result = _load_summary_from_cache(block_id) if block_id else None
 
-        if cached_summary:
+        if cached_result and cached_result.get('summary'):
             print(f"  Summarizing item {i}/{len(items)}: {title_preview}... (from cache)")
-            item['summary'] = cached_summary
+            item['summary'] = cached_result['summary']
+            if cached_result.get('title'):
+                item['title'] = cached_result['title']
             cache_hits += 1
         else:
             print(f"  Summarizing item {i}/{len(items)}: {title_preview}...")
@@ -102,14 +110,15 @@ def summarize_items(items: List[Dict], api_key: str = None) -> List[Dict]:
 
             original_content = '\n\n'.join(content_parts)
 
-            # Generate summary - fail hard on error
+            # Generate summary and improved title - fail hard on error
             try:
-                summary = _generate_summary(client, item['title'], original_content)
-                item['summary'] = summary
+                result = _generate_summary(client, item['title'], original_content)
+                item['title'] = result['title']
+                item['summary'] = result['summary']
 
-                # Save to cache
+                # Save to cache (with title)
                 if block_id:
-                    _save_summary_to_cache(block_id, summary)
+                    _save_summary_to_cache(block_id, result['summary'], result['title'])
 
                 cache_misses += 1
             except Exception as e:
@@ -124,17 +133,17 @@ def summarize_items(items: List[Dict], api_key: str = None) -> List[Dict]:
     return summarized_items
 
 
-def _generate_summary(client: Anthropic, title: str, content: str) -> str:
+def _generate_summary(client: Anthropic, title: str, content: str) -> Dict[str, str]:
     """
-    Use Claude to generate a concise summary
+    Use Claude to generate a concise summary and improved title
 
     Args:
         client: Anthropic client
-        title: Item title
+        title: Item title (may be rough/duplicated)
         content: Original content
 
     Returns:
-        Markdown-formatted summary
+        Dict with 'title' and 'summary' keys
     """
     prompt = f"""You are summarizing a newsletter item from Talawanda High School.
 
@@ -143,22 +152,41 @@ The item title is: {title}
 The original content is:
 {content}
 
-Please create a concise, clear, text-only summary in markdown format that:
-1. Conveys the key information from the original item
-2. Is brief but complete (2-4 sentences or bullet points)
-3. Uses simple, accessible language
-4. Preserves important dates, times, locations, and links
-5. Does NOT reference images - just extract and convey the information
-6. Uses markdown formatting (bold, lists, links, etc.) for readability
+Please provide:
+1. A clean, concise title (3-8 words) that describes what this item is about
+2. A concise, clear, text-only summary in markdown format that:
+   - Conveys the key information from the original item
+   - Is brief but complete (2-4 sentences or bullet points)
+   - Uses simple, accessible language
+   - Preserves important dates, times, locations, and links
+   - Does NOT reference images - just extract and convey the information
+   - Uses markdown formatting (bold, lists, links, etc.) for readability
 
-Your summary:"""
+Format your response EXACTLY as:
+TITLE: [your improved title here]
+
+SUMMARY:
+[your markdown summary here]"""
 
     message = client.messages.create(
         model="claude-sonnet-4-5-20250929",
-        max_tokens=300,
+        max_tokens=400,
         messages=[{"role": "user", "content": prompt}]
     )
 
-    return message.content[0].text.strip()
+    response_text = message.content[0].text.strip()
+
+    # Parse the response to extract title and summary
+    import re
+    title_match = re.search(r'TITLE:\s*(.+?)(?:\n|$)', response_text)
+    summary_match = re.search(r'SUMMARY:\s*(.+)', response_text, re.DOTALL)
+
+    improved_title = title_match.group(1).strip() if title_match else title
+    summary = summary_match.group(1).strip() if summary_match else response_text
+
+    return {
+        'title': improved_title,
+        'summary': summary
+    }
 
 

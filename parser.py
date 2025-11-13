@@ -6,8 +6,41 @@ Extracts individual items and removes duplicates
 from typing import List, Dict, Set
 import hashlib
 import json
+import re
 from pathlib import Path
 from datetime import datetime
+
+
+def clean_title(title: str) -> str:
+    """
+    Clean up title text by removing duplicates, extra whitespace, and normalizing
+
+    Args:
+        title: Raw title text
+
+    Returns:
+        Cleaned title
+    """
+    if not title:
+        return ""
+
+    # Remove excessive whitespace and newlines
+    title = re.sub(r'\s+', ' ', title).strip()
+
+    # Check if title is duplicated (e.g., "BRAVE DAY BRAVE DAY")
+    words = title.split()
+    if len(words) % 2 == 0:
+        mid = len(words) // 2
+        first_half = ' '.join(words[:mid])
+        second_half = ' '.join(words[mid:])
+        if first_half == second_half:
+            title = first_half
+
+    # Limit length
+    if len(title) > 100:
+        title = title[:100].rsplit(' ', 1)[0] + '...'
+
+    return title
 
 
 def parse_newsletters(newsletters: List[Dict]) -> List[Dict]:
@@ -53,7 +86,7 @@ def parse_newsletters(newsletters: List[Dict]) -> List[Dict]:
                     if not current_item['title']:
                         for block in item_blocks:
                             if 'content' in block and block['content'].strip():
-                                current_item['title'] = block['content'][:50]
+                                current_item['title'] = clean_title(block['content'][:100])
                                 break
 
                     # Only add items that have some content
@@ -97,7 +130,7 @@ def parse_newsletters(newsletters: List[Dict]) -> List[Dict]:
                 title_text = block.get_text().strip()
                 # Use first title as the item title
                 if not current_item['title']:
-                    current_item['title'] = title_text
+                    current_item['title'] = clean_title(title_text)
                 item_blocks.append({'type': block_type, 'content': title_text, 'id': block_id})
 
             elif block_type == 'text.paragraph':
@@ -125,8 +158,8 @@ def parse_newsletters(newsletters: List[Dict]) -> List[Dict]:
             # If no title was found, use first content as title
             if not current_item['title']:
                 for block in item_blocks:
-                    if 'content' in block:
-                        current_item['title'] = block['content'][:50]
+                    if 'content' in block and block['content'].strip():
+                        current_item['title'] = clean_title(block['content'][:100])
                         break
 
             # Only add items that have some content
