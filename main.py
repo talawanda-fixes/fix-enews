@@ -19,13 +19,14 @@ def load_schools() -> list:
         return json.load(f)
 
 
-def process_school(school: dict, output_dir: Path) -> int:
+def process_school(school: dict, output_dir: Path, limit: int = None) -> int:
     """
     Process a single school's newsletters
 
     Args:
         school: School configuration dict with 'name', 'slug', 'blog_url', 'description'
         output_dir: Output directory path for this school
+        limit: Maximum number of items to summarize and include in feed (None for all)
 
     Returns:
         Exit code (0 for success, non-zero for failure)
@@ -65,6 +66,16 @@ def process_school(school: dict, output_dir: Path) -> int:
         if not unique_items:
             print("No new items to add to feed")
             return 0
+
+        # Apply limit if specified (take most recent items)
+        if limit and len(unique_items) > limit:
+            print(f"\n[Limiting to {limit} most recent items out of {len(unique_items)} total]")
+            # Sort by date descending (newest first) to get most recent
+            unique_items = sorted(
+                unique_items,
+                key=lambda x: x.get('date') or datetime.min.replace(tzinfo=timezone.utc),
+                reverse=True
+            )[:limit]
 
         # Step 4: Summarize items with Claude
         print("\n[4/6] Generating summaries with Claude...")
@@ -132,6 +143,7 @@ def main():
     parser = argparse.ArgumentParser(description='Generate RSS feeds for Talawanda school newsletters')
     parser.add_argument('--school', type=str, help='Process only the specified school slug (e.g., "ths", "tms")')
     parser.add_argument('--output', type=str, default='output', help='Output directory (default: output)')
+    parser.add_argument('--limit', type=int, default=7, help='Limit number of items to summarize and include in feed (default: 7)')
     args = parser.parse_args()
 
     # Load all schools
@@ -152,7 +164,7 @@ def main():
     # Process each school
     exit_codes = []
     for school in schools:
-        exit_code = process_school(school, output_dir)
+        exit_code = process_school(school, output_dir, limit=args.limit)
         exit_codes.append(exit_code)
 
     # Return non-zero if any school failed
