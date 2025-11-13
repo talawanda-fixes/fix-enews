@@ -27,7 +27,20 @@ jobs:
           python-version: '3.11'
           cache: 'pip'
 
+      - name: Cache Chromium
+        id: cache-chromium
+        uses: actions/cache@v4
+        with:
+          path: |
+            /usr/bin/chromium-browser
+            /usr/bin/chromedriver
+            /usr/lib/chromium-browser
+          key: ${{ runner.os }}-chromium-${{ hashFiles('.github/workflows/update-feed.yml') }}
+          restore-keys: |
+            ${{ runner.os }}-chromium-
+
       - name: Install system dependencies
+        if: steps.cache-chromium.outputs.cache-hit != 'true'
         run: |
           sudo apt-get update
           sudo apt-get install -y chromium-browser chromium-chromedriver
