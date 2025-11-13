@@ -20,10 +20,10 @@
       }
     ],
     "hash": "bema0kdlak-bxlyk5kb71",
-    "summary": "**BRAVE Day** is Talawanda High School's annual family building and diversity event for **sophomores on Friday, November 14th**. The program focuses on anti-bullying and personal empowerment by helping students realize they're not alone through story-sharing, activities, and listening to peers. Students are encouraged but not required to participate—those who choose not to attend should stay in their regular classes during the event."
+    "summary": "**BRAVE Day** is Talawanda High School's annual family-building and diversity event for **sophomores on Friday, November 14th**. The program focuses on anti-bullying, personal empowerment, and helping students realize they have peer and adult support within the school community. Students participate in story-sharing and activities that build connections, and **attendance is optional** – students who prefer not to participate can stay in their regular classes."
   },
   {
-    "title": "FCCLA Hosts Veterans Day Breakfast and Assembly",
+    "title": "FCCLA Hosts Annual Veterans Day Breakfast",
     "block_id": "bo2251rfd5-brymwa0v8n-bei7y2jlm5",
     "content": "",
     "images": [
@@ -50,7 +50,16 @@
       }
     ],
     "hash": "bo2251rfd5-brymwa0v8n-bei7y2jlm5",
-    "summary": "FCCLA is hosting the **Annual Veterans Day Breakfast and Assembly** on **Tuesday, November 11, 2025** at Talawanda High School (5301 University Park Blvd, Oxford, OH 45056). \n\n- **Breakfast:** 7:30 AM\n- **Assembly:** 9:00 AM\n- All veterans and one guest are invited\n\n**RSVP required:** Scan the QR code or email Mrs. Croucher at croucherk@talawanda.org with the veteran's full name, branch, and total number attending. Event is sponsored by BT/Talawanda FCCLA & THS and RSVP approved for contribution."
+    "summary": "FCCLA is hosting the **Annual Veterans Day Breakfast and Assembly** on **Tuesday, November 11, 2025** at Talawanda High School (5301 University Park Blvd, Oxford, OH 45056). \n\n- **Breakfast:** 7:30 AM\n- **Assembly:** 9:00 AM\n- All veterans and one guest are invited\n- **RSVP required:** Scan QR code or email Mrs. Croucher at croucherk@talawanda.org with veteran's full name, branch, and total number attending",
+    "event_info": [
+      {
+        "title": "FCCLA Hosts Annual Veterans Day Breakfast",
+        "start": "2025-11-11T07:30:00",
+        "end": "2025-11-11T08:30:00",
+        "description": "FCCLA is hosting the **Annual Veterans Day Breakfast and Assembly** on **Tuesday, November 11, 2025** at Talawanda High School (5301 University Park Blvd, Oxford, OH 45056). \n\n- **Breakfast:** 7:30 AM",
+        "location": "Talawanda High School, 5301 University Park Blvd, Oxford, OH 45056"
+      }
+    ]
   },
   {
     "title": "PUSH Program Home Repair Grants Available",
@@ -73,7 +82,7 @@
       }
     ],
     "hash": "b89xydgc5p-bgbaxi75cr",
-    "summary": "The **PUSH Program** provides grants to low-income homeowners in the Talawanda School District for critical and emergency home repairs. For more information or to apply, contact Jeanne or Sabrina at **513-523-8100** or visit [push-oxford.org](http://www.push-oxford.org/)."
+    "summary": "The **PUSH Program** provides grants to low-income homeowners in the Talawanda School District for critical and emergency home repairs. \n\nFor more information or to apply:\n- Call Jeanne or Sabrina at **513-523-8100**\n- Visit [push-oxford.org](http://www.push-oxford.org/)\n- Application is available (attached to original notice)"
   },
   {
     "title": "Community Food Resources and Meal Schedules",
@@ -114,7 +123,7 @@
       }
     ],
     "hash": "bq8y3z8u66-bsrb6n0j36-bp4rqisieb-bun4gk72ra-blswo3w3vo",
-    "summary": "Talawanda School District provides several food assistance resources for families:\n\n- **Little Free Pantries** are available 24/7 outside every TSD building and are restocked weekly or as needed\n- **Backpack Program** provides weekly food bags on Thursdays/Fridays at all elementary buildings (contact your building Social Worker)\n- **Emergency Food Boxes** available for pick-up or delivery within 24 hours\n- View the [calendar of community meals and TOPPS schedule](Calendar)\n- Access a [list of all Butler County food pantries](List)\n- Find the most up-to-date [SNAP information](SNAP information)\n\nFor assistance, contact your building's Social Worker listed in the Social Service Team section."
+    "summary": "The Talawanda School District provides several food resources for families in need:\n\n- **Little Free Pantries** available 24/7 outside every TSD building, restocked weekly or as needed\n- **Backpack Program** at all elementary buildings - small bags of food provided Thursdays/Fridays (contact your building Social Worker)\n- **Emergency Food boxes** available for pick-up or delivery within 24 hours\n\nAdditional resources include a **[calendar of community meals and TOPPS schedule](Calendar)**, a **[list of all Butler County food pantries](List)**, and **[SNAP information](SNAP information)**."
   },
   {
     "title": "Winter EOC Testing Schedule and Information",
@@ -139,7 +148,16 @@
       }
     ],
     "hash": "bq3h6unc4v-bgd2217j5g",
-    "summary": "**Individual Testing (12/3-12/5):** For students needing to meet graduation requirements and first-time testers not taking the class at THS. Contact Mrs. Hess for make-up testing.\n\n**Class Testing (12/16-12/19):** Only for students currently enrolled in Algebra C or Government classes, administered during exam week. Make-up testing available 1/7-1/8.\n\nEmails with specific test requirements and details will be sent to students and parents before Thanksgiving Break. Questions should be directed to Mrs. Hess at hessb@talawanda.org."
+    "summary": "**Individual Testing (12/3-12/5):** For students who need to meet graduation requirements and first-time testers not taking the class at THS. Contact Mrs. Hess for make-up testing.\n\n**Class Testing (12/16-12/19):** Only for students currently taking Algebra C or Government classes, administered during exam week. Make-up testing: 1/7-1/8.\n\nEmails with specific test information and schedules will be sent to students and parents before Thanksgiving Break. Questions should be directed to **Mrs. Hess at hessb@talawanda.org**.",
+    "event_info": [
+      {
+        "title": "Winter EOC Testing Schedule and Information",
+        "start": "2024-12-03T00:00:00",
+        "end": "2024-12-03T01:00:00",
+        "description": "**Individual Testing (12/3-12/5):** For students who need to meet graduation requirements and first-time testers not taking the class at THS. Contact Mrs. Hess for make-up testing.\n\n**Class Testing (1",
+        "location": "Talawanda High School"
+      }
+    ]
   },
   {
     "title": "Club Meetings Schedule for November 3-7",
@@ -167,10 +185,19 @@
       }
     ],
     "hash": "b16db8wtno-bwivy3q6u4-b946q64lfb",
-    "summary": "**Weekly club meetings November 3-7:**\n\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**: NO SCHOOL for students; Mock Trial (5:00-7:00pm, room 315)\n- **Wednesday, Nov 5**: Robotics Club (2:30-4:00pm, room 412, all welcome)\n- **Thursday, Nov 6**: Best Buddies (Tutorial, Cafeteria), Chess Club (2:30-3:30pm, room 603), Key Club (Tutorial, room 218), Mock Trial (5:00-7:00pm, room 315), Project Green (2:30-3:30pm, room 224), Robotics Club (2:30-4:00pm, room 412)\n- **Friday, Nov 7**: Drama (2:30-5:30pm, PAC)\n\nAdditional regular meetings: Mondays in room 400 and Tuesdays in room 400."
+    "summary": "**Club meetings for the week of November 3-7:**\n\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**: NO SCHOOL for students; Mock Trial (5:00-7:00pm, room 315)\n- **Wednesday, Nov 5**: Robotics Club (2:30-4:00pm, room 412, all welcome)\n- **Thursday, Nov 6**: Best Buddies Tutorial (Cafeteria), Chess Club (2:30-3:30pm, room 603), Key Club Tutorial (room 218), Mock Trial (5:00-7:00pm, room 315), Project Green (2:30-3:30pm, room 224), Robotics Club (2:30-4:00pm, room 412)\n- **Friday, Nov 7**: Drama (2:30-5:30pm, PAC)\n\nAdditional recurring meetings: Mondays in room 400 and Tuesdays in room 400",
+    "event_info": [
+      {
+        "title": "Club Meetings Schedule for November 3-7",
+        "start": "2024-11-03T14:30:00",
+        "end": "2024-11-03T15:30:00",
+        "description": "**Club meetings for the week of November 3-7:**\n\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**: NO SCHO",
+        "location": "Multiple rooms - see schedule for specific club locations"
+      }
+    ]
   },
   {
-    "title": "FCCLA Blood Drive - November 7th",
+    "title": "FCCLA Blood Drive - Save Lives",
     "block_id": "bo2251rfd5-bt1sd4wysi",
     "content": "",
     "images": [
@@ -192,6 +219,15 @@
       }
     ],
     "hash": "bo2251rfd5-bt1sd4wysi",
-    "summary": "**FCCLA is hosting a blood drive on November 7, 2025, from 8am-12pm at Talawanda High School Auxiliary Gym.** The event addresses the American blood shortage and helps those needing blood for illnesses, transplants, and other medical needs. Healthy individuals aged 16-65 can donate, and participants will receive free snacks and a 1-hour rest period after donating. The blood drive is TSD approved for distribution. For more information, contact +513-273-3200 or croucherk@talawanda.org."
+    "summary": "**FCCLA is hosting a blood drive on November 7, 2025, from 8am-12pm at Talawanda High School Auxiliary Gym.** The drive addresses the American blood shortage and helps those in need of blood for illnesses, transplants, and other medical needs. Healthy individuals aged 16-65 can donate. Donors will receive free snacks and 1 hour of rest. The event is TSD approved for distribution.\n\nFor more information: **+513-273-3200** or **CROUCHERK@TALAWANDA.ORG**",
+    "event_info": [
+      {
+        "title": "FCCLA Blood Drive - Save Lives",
+        "start": "2025-11-07T08:00:00",
+        "end": "2025-11-07T12:00:00",
+        "description": "**FCCLA is hosting a blood drive on November 7, 2025, from 8am-12pm at Talawanda High School Auxiliary Gym.** The drive addresses the American blood shortage and helps those in need of blood for illne",
+        "location": "Talawanda High School Auxiliary Gym"
+      }
+    ]
   }
 ]
