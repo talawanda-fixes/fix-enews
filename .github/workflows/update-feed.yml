@@ -153,12 +153,16 @@ jobs:
       - name: Combine feeds into output directory
         run: |
           mkdir -p output
-          # Copy index.html and schools.json
-          cp output/index.html output/ || echo "index.html will be generated"
+          # Copy schools.json
           cp schools.json output/
           # Copy all feed files from artifacts
           find output-artifacts -name "*.rss" -exec cp {} output/ \;
           find output-artifacts -name "*.json" -exec cp {} output/ \;
+          ls -la output/
+
+      - name: Generate index.html
+        run: |
+          python generate_index.py
           ls -la output/
 
       - name: Deploy to GitHub Pages
