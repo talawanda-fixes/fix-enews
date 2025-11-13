@@ -11,7 +11,7 @@ import re
 import json
 import hashlib
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timezone
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
@@ -47,7 +47,7 @@ def parse_date_from_text(text: str) -> Optional[datetime]:
             year = 2000 + year if year < 50 else 1900 + year
 
         try:
-            return datetime(year, int(month), int(day))
+            return datetime(year, int(month), int(day), tzinfo=timezone.utc)
         except ValueError:
             return None
 
