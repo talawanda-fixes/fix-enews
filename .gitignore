@@ -43,6 +43,7 @@ htmlcov/
 
 # Output files
 output/
+cache/
 *.rss
 *.xml
 seen_items.json

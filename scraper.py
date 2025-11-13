@@ -8,6 +8,9 @@ from typing import List, Dict, Optional
 from bs4 import BeautifulSoup
 import time
 import re
+import json
+import hashlib
+from pathlib import Path
 from datetime import datetime
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -16,9 +19,11 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
+import os
 
 
 BLOG_URL = "https://www.talawanda.org/talawanda-high-school-blog/"
+CACHE_DIR = Path("cache/newsletters")
 
 
 def parse_date_from_text(text: str) -> Optional[datetime]:
@@ -95,17 +100,68 @@ def get_newsletter_links(blog_url: str = BLOG_URL) -> List[Dict[str, str]]:
     return newsletter_data
 
 
+def _get_cache_key(url: str) -> str:
+    """Generate cache key from URL"""
+    return hashlib.md5(url.encode()).hexdigest()
+
+
+def _load_from_cache(url: str) -> Optional[Dict]:
+    """Load newsletter from cache if available"""
+    CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    cache_file = CACHE_DIR / f"{_get_cache_key(url)}.json"
+
+    if cache_file.exists():
+        try:
+            with open(cache_file, 'r', encoding='utf-8') as f:
+                cached = json.load(f)
+                return cached
+        except Exception:
+            return None
+    return None
+
+
+def _save_to_cache(url: str, html: str, title: str):
+    """Save newsletter to cache"""
+    CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    cache_file = CACHE_DIR / f"{_get_cache_key(url)}.json"
+
+    cache_data = {
+        'url': url,
+        'html': html,
+        'title': title
+    }
+
+    with open(cache_file, 'w', encoding='utf-8') as f:
+        json.dump(cache_data, f, ensure_ascii=False)
+
+
 def fetch_newsletter(url: str, date: Optional[datetime] = None) -> Dict:
     """
     Fetch a single newsletter from Smore using Selenium
     (Smore uses JavaScript rendering)
+    Uses cache to avoid re-fetching unchanged newsletters
 
     Args:
         url: Smore newsletter URL
+        date: Date of the newsletter
 
     Returns:
-        Dictionary with newsletter data (url, html, title)
+        Dictionary with newsletter data (url, html, title, date)
     """
+    # Try to load from cache first
+    cached = _load_from_cache(url)
+    if cached:
+        print(f"  Fetching: {url} (from cache)")
+        # Recreate soup from cached HTML
+        soup = BeautifulSoup(cached['html'], 'html.parser')
+        return {
+            'url': cached['url'],
+            'html': cached['html'],
+            'soup': soup,
+            'title': cached['title'],
+            'date': date
+        }
+
     print(f"  Fetching: {url}")
 
     # Setup headless Chrome
@@ -114,9 +170,16 @@ def fetch_newsletter(url: str, date: Optional[datetime] = None) -> Dict:
     chrome_options.add_argument('--no-sandbox')
     chrome_options.add_argument('--disable-dev-shm-usage')
 
+    # Use system chromedriver if specified (for GitHub Actions)
+    chromedriver_path = os.environ.get('CHROMEDRIVER_PATH')
+
     driver = None
     try:
-        service = Service(ChromeDriverManager().install())
+        if chromedriver_path:
+            service = Service(chromedriver_path)
+        else:
+            service = Service(ChromeDriverManager().install())
+
         driver = webdriver.Chrome(service=service, options=chrome_options)
         driver.get(url)
 
@@ -134,6 +197,9 @@ def fetch_newsletter(url: str, date: Optional[datetime] = None) -> Dict:
 
         # Extract title
         title = driver.title
+
+        # Save to cache
+        _save_to_cache(url, html, title)
 
         return {
             'url': url,

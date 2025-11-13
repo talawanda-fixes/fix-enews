@@ -4,13 +4,48 @@ Uses Claude to generate concise, text-only summaries of newsletter items
 """
 
 import os
-from typing import List, Dict
+import json
+from pathlib import Path
+from typing import List, Dict, Optional
 from anthropic import Anthropic
+
+
+CACHE_DIR = Path("cache/summaries")
+
+
+def _load_summary_from_cache(block_id: str) -> Optional[str]:
+    """Load summary from cache if available"""
+    CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    cache_file = CACHE_DIR / f"{block_id}.json"
+
+    if cache_file.exists():
+        try:
+            with open(cache_file, 'r', encoding='utf-8') as f:
+                cached = json.load(f)
+                return cached.get('summary')
+        except Exception:
+            return None
+    return None
+
+
+def _save_summary_to_cache(block_id: str, summary: str):
+    """Save summary to cache"""
+    CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    cache_file = CACHE_DIR / f"{block_id}.json"
+
+    cache_data = {
+        'block_id': block_id,
+        'summary': summary
+    }
+
+    with open(cache_file, 'w', encoding='utf-8') as f:
+        json.dump(cache_data, f, ensure_ascii=False, indent=2)
 
 
 def summarize_items(items: List[Dict], api_key: str = None) -> List[Dict]:
     """
     Generate concise summaries for newsletter items using Claude
+    Uses cache to avoid re-generating summaries for items with same block_id
 
     Args:
         items: List of news items
@@ -36,36 +71,56 @@ def summarize_items(items: List[Dict], api_key: str = None) -> List[Dict]:
 
     client = Anthropic(api_key=api_key)
     summarized_items = []
+    cache_hits = 0
+    cache_misses = 0
 
     for i, item in enumerate(items, 1):
-        print(f"  Summarizing item {i}/{len(items)}: {item['title'][:50]}...")
+        block_id = item.get('block_id', '')
+        title_preview = item['title'][:50]
 
-        # Build content from blocks
-        content_parts = []
-        for block in item.get('blocks', []):
-            if block.get('type') == 'text.title':
-                content_parts.append(f"# {block.get('content', '')}")
-            elif block.get('type') == 'text.paragraph':
-                content_parts.append(block.get('content', ''))
-            elif block.get('type') == 'items':
-                content_parts.append(block.get('content', ''))
-            elif block.get('type') == 'image.single':
-                content_parts.append(f"[Image: {block.get('url', '')}]")
+        # Try to load from cache first
+        cached_summary = _load_summary_from_cache(block_id) if block_id else None
 
-        original_content = '\n\n'.join(content_parts)
+        if cached_summary:
+            print(f"  Summarizing item {i}/{len(items)}: {title_preview}... (from cache)")
+            item['summary'] = cached_summary
+            cache_hits += 1
+        else:
+            print(f"  Summarizing item {i}/{len(items)}: {title_preview}...")
 
-        # Generate summary - fail hard on error
-        try:
-            summary = _generate_summary(client, item['title'], original_content)
-            item['summary'] = summary
-        except Exception as e:
-            raise Exception(
-                f"Failed to summarize item '{item['title'][:50]}': {e}"
-            ) from e
+            # Build content from blocks
+            content_parts = []
+            for block in item.get('blocks', []):
+                if block.get('type') == 'text.title':
+                    content_parts.append(f"# {block.get('content', '')}")
+                elif block.get('type') == 'text.paragraph':
+                    content_parts.append(block.get('content', ''))
+                elif block.get('type') == 'items':
+                    content_parts.append(block.get('content', ''))
+                elif block.get('type') == 'image.single':
+                    content_parts.append(f"[Image: {block.get('url', '')}]")
+
+            original_content = '\n\n'.join(content_parts)
+
+            # Generate summary - fail hard on error
+            try:
+                summary = _generate_summary(client, item['title'], original_content)
+                item['summary'] = summary
+
+                # Save to cache
+                if block_id:
+                    _save_summary_to_cache(block_id, summary)
+
+                cache_misses += 1
+            except Exception as e:
+                raise Exception(
+                    f"Failed to summarize item '{title_preview}': {e}"
+                ) from e
 
         summarized_items.append(item)
 
     print(f"Completed summarization of {len(summarized_items)} items")
+    print(f"  Cache hits: {cache_hits}, Cache misses: {cache_misses}")
     return summarized_items
 
 

@@ -11,7 +11,8 @@ This project scrapes newsletters from Smore, extracts individual items, deduplic
 - Scrapes Talawanda enews newsletters from Smore
 - Parses individual newsletter items
 - Deduplicates repeated content
-- OCR for image-only information
+- AI-powered summarization using Claude
+- Caching for newsletters and summaries (dramatically reduces costs and runtime)
 - Generates RSS 2.0 feed
 - Automated publishing via GitHub Actions
 
@@ -51,6 +52,19 @@ python main.py
 ```
 
 **Note:** The script uses Claude to generate concise, text-only summaries of each newsletter item. This replaces images and verbose text with clear, accessible markdown-formatted content.
+
+### Caching
+
+The script caches both newsletter HTML and AI-generated summaries to improve performance:
+- **Newsletter cache**: `cache/newsletters/` - Avoids re-fetching unchanged newsletters
+- **Summary cache**: `cache/summaries/` - Avoids re-generating summaries for items with same block_id
+- **Performance**: Second run completes in ~10 seconds vs ~3 minutes (no API calls, no Selenium)
+- **Cost savings**: Only new items require API calls on subsequent runs
+
+To clear the cache and fetch everything fresh:
+```bash
+rm -rf cache/
+```
 
 ## GitHub Actions
 

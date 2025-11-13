@@ -64,12 +64,14 @@ generate_feed(unique, "test_feed.rss")
 - Replaces verbose text and image descriptions with clear, text-only markdown
 - Preserves important details (dates, locations, links) while making content accessible
 - FAIL-HARD: Script will fail if API key is missing or summarization fails (no fallback)
+- Caches summaries by block_id in `cache/summaries/` to avoid re-generating on subsequent runs
 
 **scraper.py**:
 - Uses requests + BeautifulSoup to find Smore links on Talawanda blog (https://www.talawanda.org/talawanda-high-school-blog/)
 - Finds all `<a>` tags with `href` containing "smore.com"
 - Uses Selenium + Chrome (headless) to render JavaScript-heavy Smore newsletters
 - Waits 5 seconds for content to load after page renders
+- Caches newsletter HTML by URL (MD5 hash) in `cache/newsletters/` to avoid re-fetching
 - Returns list of dictionaries with 'url', 'html', 'soup', 'title'
 
 **parser.py**:
@@ -117,6 +119,11 @@ The `.github/workflows/update-feed.yml` workflow:
   - Script will FAIL if API key is missing or summarization fails (no fallback)
   - In GitHub Actions, add `ANTHROPIC_API_KEY` as a repository secret
   - Uses model: claude-sonnet-4-5-20250929
+- **Caching**: Both newsletters and summaries are cached to improve performance
+  - Newsletter HTML cached in `cache/newsletters/` by URL (MD5 hash)
+  - AI summaries cached in `cache/summaries/` by block_id
+  - Second run completes in ~10 seconds vs ~3 minutes (no API calls, no Selenium)
+  - Cache persists across runs - safe to commit to git or keep in GitHub Actions
 - Selenium requires ChromeDriver and Chrome/Chromium to be installed
 - The 5-second wait in scraper is critical for Smore content to load
 - Block IDs are the source of truth for deduplication (not content hashing)
@@ -125,3 +132,4 @@ The `.github/workflows/update-feed.yml` workflow:
 - Items are dated based on their first newsletter appearance and sorted newest first
 - AI summaries replace original content - images are described, verbose text is condensed
 - Each summary costs ~$0.001-0.002 using Claude Sonnet 4 (~300 tokens per item)
+- Cache dramatically reduces costs: only new items require API calls on subsequent runs
