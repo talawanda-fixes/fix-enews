@@ -104,12 +104,23 @@ def add_item_to_feed(fg: FeedGenerator, item: Dict):
     event_info = item.get('event_info')
     if event_info:
         try:
-            calendar_links = generate_calendar_links(event_info)
-            content_html += '\n<p><strong>Add to Calendar:</strong> '
-            content_html += f'<a href="{calendar_links["google"]}">Google Calendar</a> | '
-            content_html += f'<a href="{calendar_links["ical"]}">iCal</a> | '
-            content_html += f'<a href="{calendar_links["outlook"]}">Outlook</a>'
-            content_html += '</p>'
+            # Handle both single event (dict) and multiple events (list)
+            events = event_info if isinstance(event_info, list) else [event_info]
+
+            for i, event in enumerate(events, 1):
+                calendar_links = generate_calendar_links(event)
+
+                # Add event title if there are multiple events
+                if len(events) > 1:
+                    content_html += f'\n<p><strong>{event["title"]}</strong><br>'
+                    content_html += '<strong>Add to Calendar:</strong> '
+                else:
+                    content_html += '\n<p><strong>Add to Calendar:</strong> '
+
+                content_html += f'<a href="{calendar_links["google"]}">Google Calendar</a> | '
+                content_html += f'<a href="{calendar_links["ical"]}">iCal</a> | '
+                content_html += f'<a href="{calendar_links["outlook"]}">Outlook</a>'
+                content_html += '</p>'
         except Exception as e:
             # If calendar link generation fails, just skip it
             print(f"    Warning: Failed to generate calendar links for '{title}': {e}")

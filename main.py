@@ -112,6 +112,30 @@ def process_school(school: dict, output_dir: Path, limit: int = None) -> int:
             json_item = item.copy()
             if 'date' in json_item and isinstance(json_item['date'], datetime):
                 json_item['date'] = json_item['date'].isoformat()
+
+            # Convert event_info datetime objects (handle both single dict and array of dicts)
+            if 'event_info' in json_item:
+                event_info = json_item['event_info']
+
+                if isinstance(event_info, dict):
+                    # Single event
+                    event_copy = event_info.copy()
+                    if 'start' in event_copy and isinstance(event_copy['start'], datetime):
+                        event_copy['start'] = event_copy['start'].isoformat()
+                    if 'end' in event_copy and isinstance(event_copy['end'], datetime):
+                        event_copy['end'] = event_copy['end'].isoformat()
+                    json_item['event_info'] = event_copy
+                elif isinstance(event_info, list):
+                    # Multiple events
+                    json_item['event_info'] = [
+                        {
+                            **ev,
+                            'start': ev['start'].isoformat() if isinstance(ev['start'], datetime) else ev['start'],
+                            'end': ev['end'].isoformat() if isinstance(ev['end'], datetime) else ev['end']
+                        }
+                        for ev in event_info
+                    ]
+
             json_items.append(json_item)
 
         # Use school slug for filenames

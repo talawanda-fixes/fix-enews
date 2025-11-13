@@ -80,20 +80,36 @@ def _load_summary_from_cache(block_id: str) -> Optional[Dict]:
                 if 'event_info' in cached:
                     # Convert ISO format strings back to datetime objects
                     event_info = cached['event_info']
-                    result['event_info'] = {
-                        'title': event_info['title'],
-                        'start': datetime.fromisoformat(event_info['start']),
-                        'end': datetime.fromisoformat(event_info['end']),
-                        'description': event_info['description'],
-                        'location': event_info['location']
-                    }
+
+                    # Handle both single event (dict) and multiple events (list) for backward compatibility
+                    if isinstance(event_info, dict):
+                        # Single event - convert to single-item list
+                        result['event_info'] = [{
+                            'title': event_info['title'],
+                            'start': datetime.fromisoformat(event_info['start']),
+                            'end': datetime.fromisoformat(event_info['end']),
+                            'description': event_info['description'],
+                            'location': event_info['location']
+                        }]
+                    elif isinstance(event_info, list):
+                        # Multiple events
+                        result['event_info'] = [
+                            {
+                                'title': ev['title'],
+                                'start': datetime.fromisoformat(ev['start']),
+                                'end': datetime.fromisoformat(ev['end']),
+                                'description': ev['description'],
+                                'location': ev['location']
+                            }
+                            for ev in event_info
+                        ]
                 return result
         except Exception:
             return None
     return None
 
 
-def _save_summary_to_cache(block_id: str, summary: str, title: str = '', event_info: Dict = None):
+def _save_summary_to_cache(block_id: str, summary: str, title: str = '', event_info = None):
     """Save summary, title, and event info to cache"""
     CACHE_DIR.mkdir(parents=True, exist_ok=True)
     cache_file = CACHE_DIR / f"{block_id}.json"
@@ -106,14 +122,29 @@ def _save_summary_to_cache(block_id: str, summary: str, title: str = '', event_i
 
     if event_info:
         # Convert datetime objects to ISO format strings for JSON serialization
-        serializable_event_info = {
-            'title': event_info['title'],
-            'start': event_info['start'].isoformat(),
-            'end': event_info['end'].isoformat(),
-            'description': event_info['description'],
-            'location': event_info['location']
-        }
-        cache_data['event_info'] = serializable_event_info
+        # Handle both single event (dict) and multiple events (list)
+        if isinstance(event_info, dict):
+            # Single event - save as-is for backward compatibility
+            serializable_event_info = {
+                'title': event_info['title'],
+                'start': event_info['start'].isoformat(),
+                'end': event_info['end'].isoformat(),
+                'description': event_info['description'],
+                'location': event_info['location']
+            }
+            cache_data['event_info'] = serializable_event_info
+        elif isinstance(event_info, list):
+            # Multiple events - save as array
+            cache_data['event_info'] = [
+                {
+                    'title': ev['title'],
+                    'start': ev['start'].isoformat(),
+                    'end': ev['end'].isoformat(),
+                    'description': ev['description'],
+                    'location': ev['location']
+                }
+                for ev in event_info
+            ]
 
     with open(cache_file, 'w', encoding='utf-8') as f:
         json.dump(cache_data, f, ensure_ascii=False, indent=2)
@@ -250,7 +281,7 @@ Please provide:
    - Preserves important dates, times, locations, and links
    - Extracts and conveys information from images (do NOT say "the image shows", just state the information)
    - Uses markdown formatting (bold, lists, links, etc.) for readability
-3. If this item describes an event (meeting, game, performance, deadline, etc.), extract the event information
+3. If this item describes one or more events (meetings, games, performances, deadlines, etc.), extract the event information
 
 Format your response EXACTLY as:
 TITLE: [your improved title here]
@@ -258,8 +289,10 @@ TITLE: [your improved title here]
 SUMMARY:
 [your markdown summary here]
 
-EVENT: [YES or NO]
-[If YES, provide the following on separate lines:]
+EVENTS: [number of events, or 0 if none]
+[If EVENTS > 0, for each event provide:]
+---EVENT [number]---
+TITLE: [specific event title]
 DATE: [YYYY-MM-DD format, or "unknown" if not specified]
 TIME: [HH:MM in 24-hour format, or "unknown" if not specified]
 END_TIME: [HH:MM in 24-hour format, or "unknown" if not specified or not applicable]
@@ -293,7 +326,7 @@ LOCATION: [location text, or "unknown" if not specified]
 
     # Parse the response to extract title and summary
     title_match = re.search(r'TITLE:\s*(.+?)(?:\n|$)', response_text)
-    summary_match = re.search(r'SUMMARY:\s*(.+?)(?:\n\nEVENT:|$)', response_text, re.DOTALL)
+    summary_match = re.search(r'SUMMARY:\s*(.+?)(?:\n\nEVENTS:|$)', response_text, re.DOTALL)
 
     improved_title = title_match.group(1).strip() if title_match else title
     summary = summary_match.group(1).strip() if summary_match else response_text
@@ -304,59 +337,73 @@ LOCATION: [location text, or "unknown" if not specified]
     }
 
     # Parse event information if present
-    event_match = re.search(r'EVENT:\s*(YES|NO)', response_text, re.IGNORECASE)
-    if event_match and event_match.group(1).upper() == 'YES':
-        # Extract event details
-        date_match = re.search(r'DATE:\s*(.+?)(?:\n|$)', response_text)
-        time_match = re.search(r'TIME:\s*(.+?)(?:\n|$)', response_text)
-        end_time_match = re.search(r'END_TIME:\s*(.+?)(?:\n|$)', response_text)
-        location_match = re.search(r'LOCATION:\s*(.+?)(?:\n|$)', response_text)
+    events_match = re.search(r'EVENTS:\s*(\d+)', response_text)
+    if events_match:
+        num_events = int(events_match.group(1))
 
-        event_date = date_match.group(1).strip() if date_match else 'unknown'
-        event_time = time_match.group(1).strip() if time_match else 'unknown'
-        event_end_time = end_time_match.group(1).strip() if end_time_match else 'unknown'
-        event_location = location_match.group(1).strip() if location_match else 'unknown'
-
-        # Only include event_info if we have at least a date
-        if event_date != 'unknown':
+        if num_events > 0:
             from datetime import datetime, timedelta
 
-            try:
-                # Parse the date
-                event_datetime = datetime.fromisoformat(event_date)
+            # Find all event blocks
+            event_blocks = re.findall(r'---EVENT \d+---\s*(.+?)(?=---EVENT \d+---|$)', response_text, re.DOTALL)
 
-                # Add time if available
-                if event_time != 'unknown':
-                    time_parts = event_time.split(':')
-                    if len(time_parts) == 2:
-                        event_datetime = event_datetime.replace(
-                            hour=int(time_parts[0]),
-                            minute=int(time_parts[1])
-                        )
+            events = []
+            for event_block in event_blocks[:num_events]:  # Limit to declared number
+                # Extract event details from this block
+                event_title_match = re.search(r'TITLE:\s*(.+?)(?:\n|$)', event_block)
+                date_match = re.search(r'DATE:\s*(.+?)(?:\n|$)', event_block)
+                time_match = re.search(r'TIME:\s*(.+?)(?:\n|$)', event_block)
+                end_time_match = re.search(r'END_TIME:\s*(.+?)(?:\n|$)', event_block)
+                location_match = re.search(r'LOCATION:\s*(.+?)(?:\n|$)', event_block)
 
-                # Calculate end time
-                if event_end_time != 'unknown':
-                    end_time_parts = event_end_time.split(':')
-                    if len(end_time_parts) == 2:
-                        event_end_datetime = event_datetime.replace(
-                            hour=int(end_time_parts[0]),
-                            minute=int(end_time_parts[1])
-                        )
-                    else:
-                        event_end_datetime = event_datetime + timedelta(hours=1)
-                else:
-                    event_end_datetime = event_datetime + timedelta(hours=1)
+                event_title = event_title_match.group(1).strip() if event_title_match else improved_title
+                event_date = date_match.group(1).strip() if date_match else 'unknown'
+                event_time = time_match.group(1).strip() if time_match else 'unknown'
+                event_end_time = end_time_match.group(1).strip() if end_time_match else 'unknown'
+                event_location = location_match.group(1).strip() if location_match else 'unknown'
 
-                result['event_info'] = {
-                    'title': improved_title,
-                    'start': event_datetime,
-                    'end': event_end_datetime,
-                    'description': summary[:200],
-                    'location': event_location if event_location != 'unknown' else ''
-                }
-            except (ValueError, IndexError):
-                # If parsing fails, don't include event info
-                pass
+                # Only include event if we have at least a date
+                if event_date != 'unknown':
+                    try:
+                        # Parse the date
+                        event_datetime = datetime.fromisoformat(event_date)
+
+                        # Add time if available
+                        if event_time != 'unknown':
+                            time_parts = event_time.split(':')
+                            if len(time_parts) == 2:
+                                event_datetime = event_datetime.replace(
+                                    hour=int(time_parts[0]),
+                                    minute=int(time_parts[1])
+                                )
+
+                        # Calculate end time
+                        if event_end_time != 'unknown':
+                            end_time_parts = event_end_time.split(':')
+                            if len(end_time_parts) == 2:
+                                event_end_datetime = event_datetime.replace(
+                                    hour=int(end_time_parts[0]),
+                                    minute=int(end_time_parts[1])
+                                )
+                            else:
+                                event_end_datetime = event_datetime + timedelta(hours=1)
+                        else:
+                            event_end_datetime = event_datetime + timedelta(hours=1)
+
+                        events.append({
+                            'title': event_title,
+                            'start': event_datetime,
+                            'end': event_end_datetime,
+                            'description': summary[:200],
+                            'location': event_location if event_location != 'unknown' else ''
+                        })
+                    except (ValueError, IndexError):
+                        # If parsing fails, skip this event
+                        pass
+
+            # Store events as array if we found any
+            if events:
+                result['event_info'] = events
 
     return result
 
