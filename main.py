@@ -8,6 +8,7 @@ import os
 import sys
 import json
 import argparse
+import time
 from pathlib import Path
 from datetime import datetime, timezone
 
@@ -43,8 +44,11 @@ def process_school(school: dict, output_dir: Path, limit: int = None) -> int:
     try:
         # Step 1: Scrape newsletters from Smore
         print(f"\n[1/6] Scraping newsletters for {school_name}...")
+        start_time = time.time()
         from scraper import fetch_newsletters
         newsletters = fetch_newsletters(blog_url)
+        elapsed = time.time() - start_time
+        print(f"  ⏱️  Scraping took {elapsed:.2f}s")
 
         if not newsletters:
             print("Error: No newsletters found!")
@@ -52,8 +56,11 @@ def process_school(school: dict, output_dir: Path, limit: int = None) -> int:
 
         # Step 2: Parse and extract items
         print("\n[2/6] Parsing and extracting items...")
+        start_time = time.time()
         from parser import parse_newsletters, deduplicate_items
         items = parse_newsletters(newsletters)
+        elapsed = time.time() - start_time
+        print(f"  ⏱️  Parsing took {elapsed:.2f}s")
 
         if not items:
             print("Warning: No items found in newsletters")
@@ -61,7 +68,10 @@ def process_school(school: dict, output_dir: Path, limit: int = None) -> int:
 
         # Step 3: Deduplicate items
         print("\n[3/6] Deduplicating items...")
+        start_time = time.time()
         unique_items = deduplicate_items(items)
+        elapsed = time.time() - start_time
+        print(f"  ⏱️  Deduplication took {elapsed:.2f}s")
 
         if not unique_items:
             print("No new items to add to feed")
@@ -79,11 +89,15 @@ def process_school(school: dict, output_dir: Path, limit: int = None) -> int:
 
         # Step 4: Summarize items with Claude
         print("\n[4/6] Generating summaries with Claude...")
+        start_time = time.time()
         from summarizer import summarize_items
         unique_items = summarize_items(unique_items)
+        elapsed = time.time() - start_time
+        print(f"  ⏱️  Summarization took {elapsed:.2f}s")
 
         # Step 5: Save JSON output
         print("\n[5/6] Saving JSON output...")
+        start_time = time.time()
 
         # Sort items by date (newest first)
         sorted_items = sorted(
@@ -105,15 +119,20 @@ def process_school(school: dict, output_dir: Path, limit: int = None) -> int:
         with open(json_path, 'w', encoding='utf-8') as f:
             json.dump(json_items, f, indent=2, ensure_ascii=False)
         print(f"JSON saved to {json_path}")
+        elapsed = time.time() - start_time
+        print(f"  ⏱️  JSON output took {elapsed:.2f}s")
 
         # Use sorted items for feed generation too
         unique_items = sorted_items
 
         # Step 6: Generate RSS feed
         print("\n[6/6] Generating RSS feed...")
+        start_time = time.time()
         from feed_generator import generate_feed
         feed_path = output_dir / f"{school_slug}-feed.rss"
         feed = generate_feed(unique_items, str(feed_path), school_name, description)
+        elapsed = time.time() - start_time
+        print(f"  ⏱️  RSS generation took {elapsed:.2f}s")
 
         print("\n" + "=" * 50)
         print(f"Success!")

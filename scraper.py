@@ -344,13 +344,20 @@ def fetch_newsletter(url: str, date: Optional[datetime] = None) -> Dict:
         driver = webdriver.Chrome(service=service, options=chrome_options)
         driver.get(url)
 
-        # Wait for page to load - wait for body to be present
-        WebDriverWait(driver, 15).until(
-            EC.presence_of_element_located((By.TAG_NAME, "body"))
-        )
+        # Wait for Smore content to be present (more specific than just body)
+        # Smore newsletters have data-block-type attributes
+        try:
+            WebDriverWait(driver, 15).until(
+                EC.presence_of_element_located((By.CSS_SELECTOR, "[data-block-type]"))
+            )
+        except:
+            # Fallback to body if no data-block-type found
+            WebDriverWait(driver, 15).until(
+                EC.presence_of_element_located((By.TAG_NAME, "body"))
+            )
 
-        # Give JavaScript time to render content
-        time.sleep(5)
+        # Small delay to ensure all content is rendered
+        time.sleep(1)
 
         # Get the rendered HTML
         html = driver.page_source
@@ -419,29 +426,61 @@ def fetch_newsletters(blog_url: str = BLOG_URL) -> List[Dict]:
             })
 
     # Fetch each entry
+    # Optimize by grouping cached vs non-cached
     entries = []
-    for i, data in enumerate(entries_data, 1):
-        url = data['url']
-        date = data['date']
-        entry_type = data.get('type', 'newsletter')
-        title = data.get('title', '')
-        date_str = date.strftime('%m/%d/%Y') if date else 'unknown date'
-        type_str = 'blog post' if entry_type == 'blog_post' else 'newsletter'
-        print(f"Fetching {type_str} {i}/{len(entries_data)} ({date_str})...")
+    import time as time_module
+    fetch_start = time_module.time()
 
-        if entry_type == 'blog_post':
-            entry = fetch_blog_post(url, date, title)
-        else:
-            entry = fetch_newsletter(url, date)
+    cached_entries = [d for d in entries_data if d.get('cached', False)]
+    non_cached_entries = [d for d in entries_data if not d.get('cached', False)]
 
-        if entry:
-            entries.append(entry)
+    # Quickly load all cached entries (should be very fast)
+    if cached_entries:
+        print(f"Loading {len(cached_entries)} cached entries...")
+        cache_start = time_module.time()
+        for data in cached_entries:
+            url = data['url']
+            date = data['date']
+            entry_type = data.get('type', 'newsletter')
+            title = data.get('title', '')
 
-        # Be polite - add a small delay between requests
-        if i < len(entries_data):
-            time.sleep(1)
+            if entry_type == 'blog_post':
+                entry = fetch_blog_post(url, date, title)
+            else:
+                entry = fetch_newsletter(url, date)
 
+            if entry:
+                entries.append(entry)
+        cache_elapsed = time_module.time() - cache_start
+        print(f"  Loaded {len(entries)} cached entries in {cache_elapsed:.2f}s")
+
+    # Fetch non-cached entries with delays
+    if non_cached_entries:
+        print(f"Fetching {len(non_cached_entries)} new entries...")
+        for i, data in enumerate(non_cached_entries, 1):
+            url = data['url']
+            date = data['date']
+            entry_type = data.get('type', 'newsletter')
+            title = data.get('title', '')
+            date_str = date.strftime('%m/%d/%Y') if date else 'unknown date'
+            type_str = 'blog post' if entry_type == 'blog_post' else 'newsletter'
+            print(f"  Fetching {type_str} {i}/{len(non_cached_entries)} ({date_str})...")
+
+            if entry_type == 'blog_post':
+                entry = fetch_blog_post(url, date, title)
+            else:
+                entry = fetch_newsletter(url, date)
+
+            if entry:
+                entries.append(entry)
+
+            # Be polite - add a small delay between requests
+            if i < len(non_cached_entries):
+                time.sleep(0.2)
+
+    fetch_elapsed = time_module.time() - fetch_start
     newsletters_count = sum(1 for e in entries if e.get('type') == 'newsletter')
     blog_posts_count = sum(1 for e in entries if e.get('type') == 'blog_post')
     print(f"\nSuccessfully fetched {len(entries)} entries ({newsletters_count} newsletters, {blog_posts_count} blog posts)")
+    print(f"Total fetch time: {fetch_elapsed:.2f}s")
     return entries

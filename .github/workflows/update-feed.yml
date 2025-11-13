@@ -106,6 +106,14 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-summaries-${{ matrix.school }}-
 
+      - name: Restore parsed cache for ${{ matrix.school }}
+        uses: actions/cache/restore@v4
+        with:
+          path: cache/parsed/
+          key: ${{ runner.os }}-parsed-${{ matrix.school }}-${{ github.run_id }}
+          restore-keys: |
+            ${{ runner.os }}-parsed-${{ matrix.school }}-
+
       - name: Generate feed for ${{ matrix.school }}
         run: |
           docker run --rm \
@@ -128,6 +136,13 @@ jobs:
         with:
           path: cache/summaries/
           key: ${{ runner.os }}-summaries-${{ matrix.school }}-${{ github.run_id }}
+
+      - name: Save parsed cache for ${{ matrix.school }}
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: cache/parsed/
+          key: ${{ runner.os }}-parsed-${{ matrix.school }}-${{ github.run_id }}
 
       - name: Upload feed artifact for ${{ matrix.school }}
         uses: actions/upload-artifact@v4
