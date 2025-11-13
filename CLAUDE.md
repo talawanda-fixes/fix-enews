@@ -25,7 +25,6 @@ pip install -r requirements.txt
 python main.py
 
 # Output will be in output/feed.rss
-# State file will be in output/seen_items.json
 ```
 
 ### Testing Individual Components
@@ -67,8 +66,9 @@ generate_feed(unique, "test_feed.rss")
 - Recognizes block types: header, text.title, text.paragraph, image.single, items, misc.separator, signature
 - Groups content by `text.title` blocks (each title starts a new news item)
 - Extracts `data-block-id` from title blocks for unique identification
-- Deduplicates using block IDs (not content hashing) stored in `output/seen_items.json`
-- State file is committed back to repo to persist across runs
+- Deduplicates using block IDs (not content hashing) within current run only
+- When an item appears in multiple newsletters, keeps the earliest date
+- No state file is saved - full feed is regenerated on each run
 
 **feed_generator.py**:
 - Uses feedgen library to create RSS 2.0 feed
@@ -92,11 +92,10 @@ Smore newsletters are React/Svelte SPAs that require JavaScript rendering. Key H
 ## GitHub Actions Workflow
 
 The `.github/workflows/update-feed.yml` workflow:
-- Runs every 6 hours (cron: '0 */6 * * *')
-- Can be manually triggered via workflow_dispatch
+- Runs every 6 hours (cron: '0 */6 * * *'), on push to main, and can be manually triggered
 - Installs chromium-browser and chromium-chromedriver (for Selenium)
+- Caches Chromium installation for faster runs
 - Runs `python main.py` to generate feed
-- Commits `output/seen_items.json` back to repo with [skip ci]
 - Deploys `output/` directory to GitHub Pages (gh-pages branch)
 - RSS feed will be available at `https://[username].github.io/[repo]/feed.rss`
 
@@ -105,6 +104,7 @@ The `.github/workflows/update-feed.yml` workflow:
 - Selenium requires ChromeDriver and Chrome/Chromium to be installed
 - The 5-second wait in scraper is critical for Smore content to load
 - Block IDs are the source of truth for deduplication (not content hashing)
-- State file (`seen_items.json`) must be committed to persist between runs
-- RSS feed shows all non-duplicate items from all newsletters on the blog
-- Images in RSS feed link directly to Smore's CDN
+- No state file is saved - the entire feed is regenerated from all newsletters each run
+- RSS feed shows all unique items from all newsletters currently on the blog
+- Items are dated based on their first newsletter appearance and sorted newest first
+- Images in RSS feed are commented out (not included in feed content)

@@ -99,18 +99,17 @@ def deduplicate_items(items: List[Dict], state_file: str = "output/seen_items.js
     """
     Remove duplicate items based on content, keeping earliest date for each item
 
+    Note: State file parameter is kept for compatibility but not used.
+    Deduplication only happens within the current run across all newsletters.
+
     Args:
         items: List of news items
-        state_file: Path to file storing seen item data
+        state_file: (Unused) Path to file storing seen item data
 
     Returns:
         List of unique items with earliest dates
     """
-    print(f"\nDeduplicating {len(items)} items...")
-
-    # Load previously seen items with dates
-    seen_items_data = load_seen_items_with_dates(state_file)
-    print(f"Loaded {len(seen_items_data)} previously seen items")
+    print(f"\nDeduplicating {len(items)} items across all newsletters...")
 
     unique_items = []
     items_by_hash = {}  # Track items by hash to find earliest date
@@ -131,33 +130,10 @@ def deduplicate_items(items: List[Dict], state_file: str = "output/seen_items.js
 
             if new_date and (not existing_date or new_date < existing_date):
                 items_by_hash[item_hash] = item
+                print(f"  Using earlier date for: {item['title'][:50]}...")
 
-    # Filter against previously seen items
-    for item_hash, item in items_by_hash.items():
-        if item_hash in seen_items_data:
-            # We've seen this before - use the earlier date
-            stored_date = seen_items_data[item_hash]
-            item_date = item.get('date')
-
-            # Keep earliest date
-            if item_date and stored_date:
-                item['date'] = min(item_date, stored_date)
-            elif stored_date:
-                item['date'] = stored_date
-
-            print(f"  Skipping duplicate: {item['title'][:50]}...")
-        else:
-            # New item
-            unique_items.append(item)
-
-    # Update seen items with all hashes and dates
-    all_items_data = seen_items_data.copy()
-    for item_hash, item in items_by_hash.items():
-        item_date = item.get('date')
-        if item_hash not in all_items_data or (item_date and item_date < all_items_data.get(item_hash)):
-            all_items_data[item_hash] = item_date
-
-    save_seen_items_with_dates(all_items_data, state_file)
+    # All unique items from this run
+    unique_items = list(items_by_hash.values())
 
     print(f"Found {len(unique_items)} unique items ({len(items) - len(unique_items)} duplicates)")
     return unique_items

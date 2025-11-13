@@ -45,6 +45,7 @@ htmlcov/
 output/
 *.rss
 *.xml
+seen_items.json
 
 # Logs
 *.log
