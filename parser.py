@@ -53,14 +53,16 @@ def parse_newsletters(newsletters: List[Dict]) -> List[Dict]:
 
                 # Start new item
                 title_text = block.get_text().strip()
+                block_id = block.get('data-block-id', '')
                 current_item = {
                     'title': title_text,
+                    'block_id': block_id,  # Use this for deduplication
                     'content': '',
                     'images': [],
                     'source_url': newsletter['url'],
                     'source_title': newsletter['title']
                 }
-                item_blocks = [{'type': block_type, 'content': title_text}]
+                item_blocks = [{'type': block_type, 'content': title_text, 'id': block_id}]
 
             # Add other blocks to current item
             elif current_item:
@@ -131,17 +133,21 @@ def deduplicate_items(items: List[Dict], state_file: str = "output/seen_items.js
 
 def _hash_item(item: Dict) -> str:
     """
-    Generate a hash for a news item
+    Generate a unique identifier for a news item using its block_id
 
     Args:
         item: News item dictionary
 
     Returns:
-        SHA256 hash of the item content
+        The block_id if available, otherwise SHA256 hash of content
     """
-    # Hash based on title and all block content
-    parts = [item.get('title', '')]
+    # Use block_id as the unique identifier
+    block_id = item.get('block_id', '')
+    if block_id:
+        return block_id
 
+    # Fallback to content hash if no block_id
+    parts = [item.get('title', '')]
     for block in item.get('blocks', []):
         if 'content' in block:
             parts.append(block['content'])
