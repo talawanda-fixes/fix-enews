@@ -26,70 +26,112 @@ def parse_newsletters(newsletters: List[Dict]) -> List[Dict]:
         print(f"  Parsing: {newsletter['title']}")
         soup = newsletter['soup']
 
-        # Find all content blocks (skip header and separators)
+        # Find all content blocks
         blocks = soup.find_all('div', {'data-block-type': True})
 
         current_item = None
         item_blocks = []
+        item_block_ids = []  # Collect all block IDs for this item
 
         for block in blocks:
             block_type = block.get('data-block-type')
+            block_id = block.get('data-block-id', '')
 
-            # Skip certain block types
-            if block_type in ['header', 'misc.separator', 'signature']:
-                # If we have a current item, save it
-                if current_item and item_blocks:
-                    current_item['blocks'] = item_blocks
-                    all_items.append(current_item)
-                    current_item = None
-                    item_blocks = []
+            # Skip header
+            if block_type == 'header':
                 continue
 
-            # text.title starts a new item
-            if block_type == 'text.title':
-                # Save previous item if exists
+            # Separator or signature ends the current item and starts a new one
+            if block_type in ['misc.separator', 'signature']:
+                # Save previous item if exists and has content
                 if current_item and item_blocks:
                     current_item['blocks'] = item_blocks
-                    all_items.append(current_item)
+                    # Use all block IDs concatenated as unique identifier
+                    current_item['block_id'] = '-'.join(item_block_ids)
 
-                # Start new item
-                title_text = block.get_text().strip()
-                block_id = block.get('data-block-id', '')
+                    # If no title was found, use first content as title
+                    if not current_item['title']:
+                        for block in item_blocks:
+                            if 'content' in block and block['content'].strip():
+                                current_item['title'] = block['content'][:50]
+                                break
+
+                    # Only add items that have some content
+                    if current_item['title'] and item_block_ids:
+                        all_items.append(current_item)
+
+                # Start a new item (even if separator - it might be the only thing between separators)
                 current_item = {
-                    'title': title_text,
-                    'block_id': block_id,  # Use this for deduplication
+                    'title': '',  # Will be set from first content block
+                    'block_id': '',  # Will be set when item is complete
                     'content': '',
                     'images': [],
                     'source_url': newsletter['url'],
                     'source_title': newsletter['title'],
-                    'date': newsletter.get('date')  # Newsletter date
+                    'date': newsletter.get('date')
                 }
-                item_blocks = [{'type': block_type, 'content': title_text, 'id': block_id}]
+                item_blocks = []
+                item_block_ids = []
+                continue
 
-            # Add other blocks to current item
-            elif current_item:
-                if block_type == 'text.paragraph':
-                    text = block.get_text().strip()
-                    item_blocks.append({'type': block_type, 'content': text})
+            # If we don't have a current item yet, start one
+            if current_item is None:
+                current_item = {
+                    'title': '',
+                    'block_id': '',
+                    'content': '',
+                    'images': [],
+                    'source_url': newsletter['url'],
+                    'source_title': newsletter['title'],
+                    'date': newsletter.get('date')
+                }
+                item_blocks = []
+                item_block_ids = []
 
-                elif block_type == 'image.single':
-                    img = block.find('img')
-                    if img:
-                        img_src = img.get('src', '')
-                        # Get full size image (remove 'thumbs/' from path)
-                        full_img_src = img_src.replace('/thumbs/', '/').replace('/thumb-', '/')
-                        item_blocks.append({'type': block_type, 'url': full_img_src})
-                        current_item['images'].append(full_img_src)
+            # Add block ID to list
+            if block_id:
+                item_block_ids.append(block_id)
 
-                elif block_type == 'items':
-                    # List items block
-                    text = block.get_text().strip()
-                    item_blocks.append({'type': block_type, 'content': text})
+            # Process different block types
+            if block_type == 'text.title':
+                title_text = block.get_text().strip()
+                # Use first title as the item title
+                if not current_item['title']:
+                    current_item['title'] = title_text
+                item_blocks.append({'type': block_type, 'content': title_text, 'id': block_id})
+
+            elif block_type == 'text.paragraph':
+                text = block.get_text().strip()
+                item_blocks.append({'type': block_type, 'content': text, 'id': block_id})
+
+            elif block_type == 'image.single':
+                img = block.find('img')
+                if img:
+                    img_src = img.get('src', '')
+                    # Get full size image (remove 'thumbs/' from path)
+                    full_img_src = img_src.replace('/thumbs/', '/').replace('/thumb-', '/')
+                    item_blocks.append({'type': block_type, 'url': full_img_src, 'id': block_id})
+                    current_item['images'].append(full_img_src)
+
+            elif block_type == 'items':
+                # List items block
+                text = block.get_text().strip()
+                item_blocks.append({'type': block_type, 'content': text, 'id': block_id})
 
         # Don't forget the last item
         if current_item and item_blocks:
             current_item['blocks'] = item_blocks
-            all_items.append(current_item)
+            current_item['block_id'] = '-'.join(item_block_ids)
+            # If no title was found, use first content as title
+            if not current_item['title']:
+                for block in item_blocks:
+                    if 'content' in block:
+                        current_item['title'] = block['content'][:50]
+                        break
+
+            # Only add items that have some content
+            if current_item['title'] or current_item['blocks']:
+                all_items.append(current_item)
 
     print(f"\nExtracted {len(all_items)} items total")
     return all_items
