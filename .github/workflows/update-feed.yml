@@ -9,6 +9,12 @@ on:
     branches:
       - main
 
+# Prevent multiple runs from executing simultaneously
+# If a new run is triggered while one is in progress, it will wait
+concurrency:
+  group: update-feed
+  cancel-in-progress: false
+
 permissions:
   contents: write
   pages: write
