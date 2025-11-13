@@ -40,14 +40,33 @@ jobs:
   # Job to build Docker image with all dependencies
   build-image:
     runs-on: ubuntu-latest
+    outputs:
+      cache-hit: ${{ steps.cache-image.outputs.cache-hit }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Generate Docker image cache key
+        id: docker-cache-key
+        run: |
+          # Create hash of Dockerfile and requirements.txt
+          HASH=$(cat Dockerfile requirements.txt | sha256sum | cut -d' ' -f1)
+          echo "hash=$HASH" >> $GITHUB_OUTPUT
+          echo "Docker image hash: $HASH"
+
+      - name: Check for cached Docker image
+        id: cache-image
+        uses: actions/cache@v4
+        with:
+          path: /tmp/talawanda-enews.tar
+          key: docker-image-${{ steps.docker-cache-key.outputs.hash }}
+
       - name: Set up Docker Buildx
+        if: steps.cache-image.outputs.cache-hit != 'true'
         uses: docker/setup-buildx-action@v3
 
       - name: Build and export Docker image
+        if: steps.cache-image.outputs.cache-hit != 'true'
         uses: docker/build-push-action@v5
         with:
           context: .
