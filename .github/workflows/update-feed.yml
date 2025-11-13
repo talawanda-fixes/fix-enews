@@ -90,16 +90,16 @@ jobs:
           docker load --input /tmp/talawanda-enews.tar
           docker image ls -a
 
-      - name: Cache newsletters for ${{ matrix.school }}
-        uses: actions/cache@v4
+      - name: Restore newsletters cache for ${{ matrix.school }}
+        uses: actions/cache/restore@v4
         with:
           path: cache/newsletters/
           key: ${{ runner.os }}-newsletters-${{ matrix.school }}-${{ github.run_id }}
           restore-keys: |
             ${{ runner.os }}-newsletters-${{ matrix.school }}-
 
-      - name: Cache summaries for ${{ matrix.school }}
-        uses: actions/cache@v4
+      - name: Restore summaries cache for ${{ matrix.school }}
+        uses: actions/cache/restore@v4
         with:
           path: cache/summaries/
           key: ${{ runner.os }}-summaries-${{ matrix.school }}-${{ github.run_id }}
@@ -114,6 +114,20 @@ jobs:
             -e ANTHROPIC_API_KEY="${{ secrets.ANTHROPIC_API_KEY }}" \
             talawanda-enews:latest \
             python main.py --school ${{ matrix.school }}
+
+      - name: Save newsletters cache for ${{ matrix.school }}
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: cache/newsletters/
+          key: ${{ runner.os }}-newsletters-${{ matrix.school }}-${{ github.run_id }}
+
+      - name: Save summaries cache for ${{ matrix.school }}
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: cache/summaries/
+          key: ${{ runner.os }}-summaries-${{ matrix.school }}-${{ github.run_id }}
 
       - name: Upload feed artifact for ${{ matrix.school }}
         uses: actions/upload-artifact@v4
