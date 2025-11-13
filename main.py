@@ -38,21 +38,52 @@ def main():
             return 0
 
         # Step 3: Deduplicate items
-        print("\n[3/4] Deduplicating items...")
+        print("\n[3/5] Deduplicating items...")
         unique_items = deduplicate_items(items)
 
         if not unique_items:
             print("No new items to add to feed")
             return 0
 
-        # Step 4: Generate RSS feed
-        print("\n[4/4] Generating RSS feed...")
+        # Step 4: Save JSON output
+        print("\n[4/5] Saving JSON output...")
+        import json
+        from datetime import datetime, timezone
+
+        # Sort items by date, ascending (oldest first)
+        # Will be reversed when generating feed to get newest first in RSS
+        sorted_items = sorted(
+            unique_items,
+            key=lambda x: x.get('date') or datetime.max.replace(tzinfo=timezone.utc),
+            reverse=True
+        )
+
+        # Convert datetime objects to ISO format strings for JSON serialization
+        json_items = []
+        for item in sorted_items:
+            json_item = item.copy()
+            if 'date' in json_item and isinstance(json_item['date'], datetime):
+                json_item['date'] = json_item['date'].isoformat()
+            json_items.append(json_item)
+
+        json_path = output_dir / "items.json"
+        with open(json_path, 'w', encoding='utf-8') as f:
+            json.dump(json_items, f, indent=2, ensure_ascii=False)
+        print(f"JSON saved to {json_path}")
+
+        # Use sorted items for feed generation too
+        unique_items = sorted_items
+
+        # Step 5: Generate RSS feed
+        print("\n[5/5] Generating RSS feed...")
         from feed_generator import generate_feed
         feed = generate_feed(unique_items, str(output_dir / "feed.rss"))
 
         print("\n" + "=" * 50)
-        print(f"Success! RSS feed saved to output/feed.rss")
-        print(f"Total items in feed: {len(unique_items)}")
+        print(f"Success!")
+        print(f"  RSS feed: output/feed.rss")
+        print(f"  JSON data: output/items.json")
+        print(f"  Total items: {len(unique_items)}")
         print("=" * 50)
 
         return 0

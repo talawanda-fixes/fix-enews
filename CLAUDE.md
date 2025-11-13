@@ -24,7 +24,9 @@ pip install -r requirements.txt
 # Run the full pipeline
 python main.py
 
-# Output will be in output/feed.rss
+# Outputs:
+# - output/feed.rss (RSS 2.0 feed)
+# - output/items.json (structured JSON data of all items)
 ```
 
 ### Testing Individual Components
