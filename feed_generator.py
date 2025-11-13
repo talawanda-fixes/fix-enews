@@ -7,6 +7,7 @@ from typing import List, Dict
 from feedgen.feed import FeedGenerator
 from datetime import datetime, timezone
 from pathlib import Path
+from calendar_helper import generate_calendar_links
 
 
 def generate_feed(items: List[Dict], output_file: str = "output/feed.rss",
@@ -98,6 +99,20 @@ def add_item_to_feed(fg: FeedGenerator, item: Dict):
     # Convert markdown summary to HTML
     import markdown
     content_html = markdown.markdown(summary)
+
+    # Add calendar links if this is an event
+    event_info = item.get('event_info')
+    if event_info:
+        try:
+            calendar_links = generate_calendar_links(event_info)
+            content_html += '\n<p><strong>Add to Calendar:</strong> '
+            content_html += f'<a href="{calendar_links["google"]}">Google Calendar</a> | '
+            content_html += f'<a href="{calendar_links["ical"]}">iCal</a> | '
+            content_html += f'<a href="{calendar_links["outlook"]}">Outlook</a>'
+            content_html += '</p>'
+        except Exception as e:
+            # If calendar link generation fails, just skip it
+            print(f"    Warning: Failed to generate calendar links for '{title}': {e}")
 
     # Add link back to source
     source_url = item.get('source_url', '')
