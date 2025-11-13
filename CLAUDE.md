@@ -4,7 +4,15 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This Python automation script scrapes Talawanda High School's Smore newsletters from their blog, extracts individual news items, deduplicates them across newsletters, and generates an RSS feed. The script runs via GitHub Actions on a schedule and publishes to GitHub Pages.
+This Python automation script scrapes Talawanda School District newsletters and blog posts, extracts individual news items, deduplicates them across sources, and generates RSS feeds with AI-powered summaries and calendar links. Supports multiple schools via `schools.json` configuration. Runs via GitHub Actions on a schedule and publishes to GitHub Pages.
+
+## Commit Message Guidelines
+
+When creating commits, follow these principles:
+- **Be concise and consumable** - High-level summary followed by critical implementation details only
+- **Focus on the "why"** rather than exhaustive "what"
+- Keep to 1-2 sentences in the body, avoid bullet-point lists of every change
+- End with attribution footer (see Git Workflow section below)
 
 ## Development Commands
 
@@ -24,12 +32,18 @@ pip install -r requirements.txt
 # Set your Anthropic API key (required for AI summaries)
 export ANTHROPIC_API_KEY='your-api-key-here'
 
-# Run the full pipeline
+# Run for all schools (configured in schools.json)
 python main.py
 
-# Outputs:
-# - output/feed.rss (RSS 2.0 feed with AI-generated summaries)
-# - output/items.json (structured JSON data of all items with summaries)
+# Run for a specific school
+python main.py --school ths
+
+# Limit number of items (useful for testing)
+python main.py --school ths --limit 10
+
+# Outputs per school:
+# - output/{school-slug}-feed.rss (RSS 2.0 feed with AI-generated summaries and calendar links)
+# - output/{school-slug}-items.json (structured JSON data of all items with summaries)
 ```
 
 ### Testing Individual Components
@@ -52,44 +66,50 @@ generate_feed(unique, "test_feed.rss")
 ## Architecture
 
 ### Data Flow
-1. **Scraper** (`scraper.py`) - Fetches newsletter links from blog, then fetches each newsletter using Selenium
-2. **Parser** (`parser.py`) - Extracts individual items from newsletters and deduplicates using block IDs
-3. **Feed Generator** (`feed_generator.py`) - Creates RSS 2.0 feed with HTML content
-4. **GitHub Actions** - Publishes feed to GitHub Pages and commits state file
+1. **Scraper** (`scraper.py`) - Fetches newsletters and blog posts from school blogs, using Selenium for Smore newsletters
+2. **Parser** (`parser.py`) - Extracts individual items from sources and deduplicates using block IDs
+3. **Summarizer** (`summarizer.py`) - Generates AI summaries with event detection and calendar link generation
+4. **Feed Generator** (`feed_generator.py`) - Creates RSS 2.0 feed with HTML content and calendar links
+5. **GitHub Actions** - Builds Docker image, runs pipeline per school, publishes to GitHub Pages
 
 ### Key Components
 
 **summarizer.py**:
-- Uses Claude (model: claude-sonnet-4-5-20250929) to generate concise summaries of newsletter items
-- Replaces verbose text and image descriptions with clear, text-only markdown
-- Preserves important details (dates, locations, links) while making content accessible
+- Uses Claude (model: claude-sonnet-4-5-20250929) with vision API to analyze newsletter items and images
+- Generates concise markdown summaries, replaces verbose text with clear descriptions
+- **Event Detection**: Automatically detects events (meetings, games, deadlines) and extracts structured data
+- **Multi-Event Support**: Can extract multiple events from a single item (e.g., weekly club schedules)
+- Returns `event_info` as array of dicts with: title, start/end datetime, location, description
 - FAIL-HARD: Script will fail if API key is missing or summarization fails (no fallback)
-- Caches summaries by block_id in `cache/summaries/` to avoid re-generating on subsequent runs
+- Caches summaries by block_id in `cache/summaries/` (handles both single dict and array formats for backward compatibility)
 
 **scraper.py**:
-- Uses requests + BeautifulSoup to find Smore links on Talawanda blog (https://www.talawanda.org/talawanda-high-school-blog/)
-- Finds all `<a>` tags with `href` containing "smore.com"
+- Uses requests + BeautifulSoup to scrape school blog pages configured in `schools.json`
+- Supports both Smore newsletters (`.smore.com` links) and regular blog posts
 - Uses Selenium + Chrome (headless) to render JavaScript-heavy Smore newsletters
-- Waits 5 seconds for content to load after page renders
-- Caches newsletter HTML by URL (MD5 hash) in `cache/newsletters/` to avoid re-fetching
-- Returns list of dictionaries with 'url', 'html', 'soup', 'title'
+- Uses WebDriverWait for efficient page rendering (event-based, not fixed delays)
+- **Rate Limiting**: Implements per-host rate limiting (30 requests per 20 seconds) instead of fixed delays
+- Caches by URL (MD5 hash) in `cache/newsletters/` to avoid re-fetching
+- **Pagination**: Follows "next page" links, stops when hitting all-cached pages for efficiency
+- Returns list of dicts with 'url', 'html', 'soup', 'title', 'date', 'type' (newsletter or blog_post)
 
 **parser.py**:
-- Parses rendered Smore HTML looking for `div` elements with `data-block-type` attribute
-- Recognizes block types: header, text.title, text.paragraph, image.single, items, misc.separator, signature
-- Groups content by `text.title` blocks (each title starts a new news item)
-- Extracts `data-block-id` from title blocks for unique identification
-- Deduplicates using block IDs (not content hashing) within current run only
-- When an item appears in multiple newsletters, keeps the earliest date
-- No state file is saved - full feed is regenerated on each run
+- Parses Smore HTML (`data-block-type` divs) and blog post HTML (standard HTML content)
+- For Smore: Groups by `text.title` blocks, extracts `data-block-id` for unique identification
+- For blog posts: Creates single item per post using URL-based ID
+- **Parsed Cache**: Caches parsed items in `cache/parsed/` to avoid re-parsing HTML (~8x faster)
+- Deduplicates using block IDs/hashes across all sources
+- When an item appears in multiple sources, keeps the earliest date
+- Filters noise (footer branding, empty content)
 
 **feed_generator.py**:
 - Uses feedgen library to create RSS 2.0 feed
 - Converts AI-generated markdown summaries to HTML for feed items
+- **Calendar Links**: For events, generates "Add to Calendar" links (Google Calendar, iCal, Outlook)
+- **Multi-Event Support**: Creates separate calendar links for each event when item has multiple events
+- **Anchor Links**: Adds `#block-id` anchors to source links for deep linking to specific items
 - REQUIRES summaries (no fallback) - will fail if summaries are missing
 - Uses block_id as GUID for RSS reader compatibility
-- Adds link back to source newsletter
-- Publication dates use newsletter dates from blog
 
 **ocr.py**:
 - Currently not implemented (placeholder for future OCR functionality)
@@ -103,33 +123,66 @@ Smore newsletters are React/Svelte SPAs that require JavaScript rendering. Key H
 - Common block types: text.title (section headers), text.paragraph (text content), image.single (images)
 - Images use CDN URLs like `https://cdn.smore.com/u/thumbs/...` (replace '/thumbs/' with '/' for full size)
 
+**calendar_helper.py**:
+- Generates calendar links for event items (Google Calendar, iCal, Outlook.com)
+- Creates properly formatted URLs with encoded event data (title, dates, location, description)
+- Used by feed_generator.py to add "Add to Calendar" functionality
+
+**main.py**:
+- Entry point that orchestrates the pipeline for each school
+- Supports `--school` and `--limit` CLI arguments
+- Loads school configurations from `schools.json`
+- Handles JSON serialization of datetime objects and event_info arrays
+- Provides timing metrics for each pipeline step
+
 ## GitHub Actions Workflow
 
 The `.github/workflows/update-feed.yml` workflow:
 - Runs every 6 hours (cron: '0 */6 * * *'), on push to main, and can be manually triggered
-- Installs chromium-browser and chromium-chromedriver (for Selenium)
-- Caches Chromium installation for faster runs
-- Runs `python main.py` to generate feed
-- Deploys `output/` directory to GitHub Pages (gh-pages branch)
-- RSS feed will be available at `https://[username].github.io/[repo]/feed.rss`
+- **Setup Job**: Reads school list from `schools.json` to create matrix
+- **Build Job**: Builds Docker image with hash-based caching (skips build if Dockerfile/requirements.txt unchanged)
+- **Generate Job**: Runs per school in parallel matrix, with separate cache layers per school (newsletters, summaries, parsed)
+- **Deploy Job**: Combines all school feeds and deploys to GitHub Pages
+- RSS feeds available at `https://[username].github.io/[repo]/{school-slug}-feed.rss`
 
 ## Important Notes
 
-- **Anthropic API Key REQUIRED**: Set `ANTHROPIC_API_KEY` environment variable for AI summaries
+### API Requirements
+- **Anthropic API Key REQUIRED**: Set `ANTHROPIC_API_KEY` environment variable
   - Script will FAIL if API key is missing or summarization fails (no fallback)
-  - In GitHub Actions, add `ANTHROPIC_API_KEY` as a repository secret
-  - Uses model: claude-sonnet-4-5-20250929
-- **Caching**: Both newsletters and summaries are cached to improve performance
-  - Newsletter HTML cached in `cache/newsletters/` by URL (MD5 hash)
-  - AI summaries cached in `cache/summaries/` by block_id
-  - Second run completes in ~10 seconds vs ~3 minutes (no API calls, no Selenium)
-  - Cache persists across runs - safe to commit to git or keep in GitHub Actions
-- Selenium requires ChromeDriver and Chrome/Chromium to be installed
-- The 5-second wait in scraper is critical for Smore content to load
-- Block IDs are the source of truth for deduplication (not content hashing)
-- No state file is saved - the entire feed is regenerated from all newsletters each run
-- RSS feed shows all unique items from all newsletters currently on the blog
-- Items are dated based on their first newsletter appearance and sorted newest first
-- AI summaries replace original content - images are described, verbose text is condensed
-- Each summary costs ~$0.001-0.002 using Claude Sonnet 4 (~300 tokens per item)
-- Cache dramatically reduces costs: only new items require API calls on subsequent runs
+  - In GitHub Actions, add as repository secret
+  - Uses model: claude-sonnet-4-5-20250929 with vision API
+
+### Caching Strategy
+Three-tier cache system for optimal performance:
+- `cache/newsletters/` - Raw HTML by URL (MD5 hash), shared across all runs
+- `cache/parsed/` - Parsed items by newsletter URL, ~8x faster than re-parsing
+- `cache/summaries/` - AI summaries by block_id, saves API calls and costs
+- GitHub Actions uses separate cache keys per school for parallel processing
+- Cached runs complete in seconds vs minutes (no API calls, minimal Selenium)
+
+### Performance Optimizations
+- **Rate Limiting**: Per-host throttling (30 req/20s) instead of fixed delays
+- **Pagination Short-Circuit**: Stops scraping when hitting all-cached pages
+- **Event-Based Waiting**: WebDriverWait instead of fixed sleep delays
+- **Parallel Execution**: GitHub Actions matrix runs schools in parallel
+- **Docker Caching**: Hash-based image cache skips rebuilds when dependencies unchanged
+
+### Key Behaviors
+- Block IDs are source of truth for deduplication (not content hashing)
+- No state file saved - full feed regenerated each run from all sources
+- Items appearing in multiple sources keep earliest date
+- AI summaries replace original content completely
+- Cost: ~$0.001-0.002 per item for Claude Sonnet 4, but cache minimizes recurring costs
+
+### Git Workflow
+When committing changes, use this format:
+```
+Brief, high-level summary line
+
+One to two sentences with critical implementation details. Focus on why, not exhaustive what.
+
+Developed with Claude Code
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+```
