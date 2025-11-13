@@ -20,10 +20,52 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 import os
+from urllib.parse import urlparse
+from collections import defaultdict, deque
 
 
 BLOG_URL = "https://www.talawanda.org/talawanda-high-school-blog/"
 CACHE_DIR = Path("cache/newsletters")
+
+
+class RateLimiter:
+    """
+    Rate limiter to ensure we don't make too many requests to the same host
+
+    Limits requests to max_requests per time_window seconds per host
+    """
+    def __init__(self, max_requests: int = 30, time_window: float = 20.0):
+        self.max_requests = max_requests
+        self.time_window = time_window
+        # Track request timestamps per host
+        self.requests = defaultdict(deque)
+
+    def wait_if_needed(self, url: str):
+        """Wait if we've exceeded the rate limit for this host"""
+        host = urlparse(url).netloc
+        now = time.time()
+
+        # Remove timestamps older than time_window
+        while self.requests[host] and self.requests[host][0] < now - self.time_window:
+            self.requests[host].popleft()
+
+        # If we've hit the limit, wait until we can make another request
+        if len(self.requests[host]) >= self.max_requests:
+            oldest_request = self.requests[host][0]
+            wait_time = (oldest_request + self.time_window) - now
+            if wait_time > 0:
+                print(f"    Rate limit: waiting {wait_time:.1f}s for {host}")
+                time.sleep(wait_time)
+                # Clean up again after waiting
+                while self.requests[host] and self.requests[host][0] < time.time() - self.time_window:
+                    self.requests[host].popleft()
+
+        # Record this request
+        self.requests[host].append(time.time())
+
+
+# Global rate limiter instance
+_rate_limiter = RateLimiter(max_requests=30, time_window=20.0)
 
 
 def parse_date_from_text(text: str) -> Optional[datetime]:
@@ -268,6 +310,9 @@ def fetch_blog_post(url: str, date: Optional[datetime] = None, title: str = "") 
 
     print(f"  Fetching: {url}")
 
+    # Apply rate limiting
+    _rate_limiter.wait_if_needed(url)
+
     try:
         response = requests.get(url, timeout=10)
         response.raise_for_status()
@@ -324,6 +369,9 @@ def fetch_newsletter(url: str, date: Optional[datetime] = None) -> Dict:
         }
 
     print(f"  Fetching: {url}")
+
+    # Apply rate limiting
+    _rate_limiter.wait_if_needed(url)
 
     # Setup headless Chrome
     chrome_options = Options()
@@ -473,10 +521,6 @@ def fetch_newsletters(blog_url: str = BLOG_URL) -> List[Dict]:
 
             if entry:
                 entries.append(entry)
-
-            # Be polite - add a small delay between requests
-            if i < len(non_cached_entries):
-                time.sleep(0.2)
 
     fetch_elapsed = time_module.time() - fetch_start
     newsletters_count = sum(1 for e in entries if e.get('type') == 'newsletter')
