@@ -179,6 +179,23 @@ def _save_to_cache(url: str, html: str, title: str):
         json.dump(cache_data, f, ensure_ascii=False)
 
 
+def _get_all_cached_urls() -> List[str]:
+    """Get all URLs that are cached"""
+    CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    cached_urls = []
+
+    for cache_file in CACHE_DIR.glob("*.json"):
+        try:
+            with open(cache_file, 'r', encoding='utf-8') as f:
+                cached = json.load(f)
+                if 'url' in cached:
+                    cached_urls.append(cached['url'])
+        except Exception:
+            continue
+
+    return cached_urls
+
+
 def fetch_newsletter(url: str, date: Optional[datetime] = None) -> Dict:
     """
     Fetch a single newsletter from Smore using Selenium
@@ -273,12 +290,29 @@ def fetch_newsletters(blog_url: str = BLOG_URL) -> List[Dict]:
     Returns:
         List of newsletter data dictionaries
     """
-    # Get all newsletter links with dates
+    # Get all newsletter links with dates (may stop early at cached newsletters)
     newsletter_data = get_newsletter_links(blog_url)
 
     if not newsletter_data:
         print("No newsletter links found!")
         return []
+
+    # Get URLs we found from scraping
+    scraped_urls = {data['url'] for data in newsletter_data}
+
+    # Find any cached newsletters that weren't in the scraped pages
+    all_cached_urls = _get_all_cached_urls()
+    cached_only_urls = [url for url in all_cached_urls if url not in scraped_urls]
+
+    if cached_only_urls:
+        print(f"\nFound {len(cached_only_urls)} additional cached newsletters not in scraped pages")
+        # Add them to the list (without dates since we don't know them)
+        for url in cached_only_urls:
+            newsletter_data.append({
+                'url': url,
+                'date': None,
+                'cached': True
+            })
 
     # Fetch each newsletter
     newsletters = []
