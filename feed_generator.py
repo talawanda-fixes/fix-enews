@@ -22,11 +22,20 @@ def generate_feed(items: List[Dict], output_file: str = "output/feed.rss") -> Fe
     """
     print(f"\nGenerating RSS feed with {len(items)} items...")
 
+    # Sort items by date, ascending (oldest first)
+    # feedgen reverses the order when generating XML, so we sort ascending to get descending output
+    # Items without dates go to the beginning
+    sorted_items = sorted(
+        items,
+        key=lambda x: x.get('date') or datetime.max.replace(tzinfo=timezone.utc),
+        reverse=False
+    )
+
     # Create feed with metadata
     fg = create_feed_metadata()
 
     # Add each item to the feed
-    for item in items:
+    for item in sorted_items:
         add_item_to_feed(fg, item)
 
     # Ensure output directory exists
@@ -83,7 +92,7 @@ def add_item_to_feed(fg: FeedGenerator, item: Dict):
             content_parts.append(f"<p>{block.get('content', '')}</p>")
         elif block_type == 'image.single':
             img_url = block.get('url', '')
-            content_parts.append(f'<p><img src="{img_url}" alt="Newsletter image" /></p>')
+            #content_parts.append(f'<p><img src="{img_url}" alt="Newsletter image" /></p>')
         elif block_type == 'items':
             content_parts.append(f"<div>{block.get('content', '')}</div>")
 
@@ -104,6 +113,12 @@ def add_item_to_feed(fg: FeedGenerator, item: Dict):
     if guid:
         fe.guid(guid, permalink=False)
 
-    # Publication date - use current time
-    # (Smore newsletters don't expose reliable dates easily)
-    fe.pubDate(datetime.now(timezone.utc))
+    # Publication date - use item date from newsletter, or current time as fallback
+    item_date = item.get('date')
+    if item_date:
+        # Convert to timezone-aware datetime if needed
+        if item_date.tzinfo is None:
+            item_date = item_date.replace(tzinfo=timezone.utc)
+        fe.pubDate(item_date)
+    else:
+        fe.pubDate(datetime.now(timezone.utc))

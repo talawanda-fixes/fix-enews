@@ -7,6 +7,7 @@ from typing import List, Dict, Set
 import hashlib
 import json
 from pathlib import Path
+from datetime import datetime
 
 
 def parse_newsletters(newsletters: List[Dict]) -> List[Dict]:
@@ -60,7 +61,8 @@ def parse_newsletters(newsletters: List[Dict]) -> List[Dict]:
                     'content': '',
                     'images': [],
                     'source_url': newsletter['url'],
-                    'source_title': newsletter['title']
+                    'source_title': newsletter['title'],
+                    'date': newsletter.get('date')  # Newsletter date
                 }
                 item_blocks = [{'type': block_type, 'content': title_text, 'id': block_id}]
 
@@ -95,37 +97,67 @@ def parse_newsletters(newsletters: List[Dict]) -> List[Dict]:
 
 def deduplicate_items(items: List[Dict], state_file: str = "output/seen_items.json") -> List[Dict]:
     """
-    Remove duplicate items based on content
+    Remove duplicate items based on content, keeping earliest date for each item
 
     Args:
         items: List of news items
-        state_file: Path to file storing seen item hashes
+        state_file: Path to file storing seen item data
 
     Returns:
-        List of unique items
+        List of unique items with earliest dates
     """
     print(f"\nDeduplicating {len(items)} items...")
 
-    # Load previously seen hashes
-    seen_hashes = load_seen_items(state_file)
-    print(f"Loaded {len(seen_hashes)} previously seen item hashes")
+    # Load previously seen items with dates
+    seen_items_data = load_seen_items_with_dates(state_file)
+    print(f"Loaded {len(seen_items_data)} previously seen items")
 
     unique_items = []
-    new_hashes = set()
+    items_by_hash = {}  # Track items by hash to find earliest date
 
+    # Group items by hash and find earliest date
     for item in items:
         item_hash = _hash_item(item)
         item['hash'] = item_hash
 
-        if item_hash not in seen_hashes and item_hash not in new_hashes:
-            unique_items.append(item)
-            new_hashes.add(item_hash)
+        # If we haven't seen this item in current batch
+        if item_hash not in items_by_hash:
+            items_by_hash[item_hash] = item
         else:
-            print(f"  Skipping duplicate: {item['title'][:50]}...")
+            # Keep the one with earlier date
+            existing = items_by_hash[item_hash]
+            existing_date = existing.get('date')
+            new_date = item.get('date')
 
-    # Update seen hashes with new ones
-    all_hashes = seen_hashes | new_hashes
-    save_seen_items(all_hashes, state_file)
+            if new_date and (not existing_date or new_date < existing_date):
+                items_by_hash[item_hash] = item
+
+    # Filter against previously seen items
+    for item_hash, item in items_by_hash.items():
+        if item_hash in seen_items_data:
+            # We've seen this before - use the earlier date
+            stored_date = seen_items_data[item_hash]
+            item_date = item.get('date')
+
+            # Keep earliest date
+            if item_date and stored_date:
+                item['date'] = min(item_date, stored_date)
+            elif stored_date:
+                item['date'] = stored_date
+
+            print(f"  Skipping duplicate: {item['title'][:50]}...")
+        else:
+            # New item
+            unique_items.append(item)
+
+    # Update seen items with all hashes and dates
+    all_items_data = seen_items_data.copy()
+    for item_hash, item in items_by_hash.items():
+        item_date = item.get('date')
+        if item_hash not in all_items_data or (item_date and item_date < all_items_data.get(item_hash)):
+            all_items_data[item_hash] = item_date
+
+    save_seen_items_with_dates(all_items_data, state_file)
 
     print(f"Found {len(unique_items)} unique items ({len(items) - len(unique_items)} duplicates)")
     return unique_items
@@ -157,18 +189,51 @@ def _hash_item(item: Dict) -> str:
 
 
 def load_seen_items(state_file: str) -> Set[str]:
-    """Load previously seen item hashes"""
+    """Load previously seen item hashes (legacy function for compatibility)"""
+    data = load_seen_items_with_dates(state_file)
+    return set(data.keys())
+
+
+def load_seen_items_with_dates(state_file: str) -> Dict[str, datetime]:
+    """Load previously seen item hashes with their dates"""
     state_path = Path(state_file)
     if state_path.exists():
         with open(state_path) as f:
             data = json.load(f)
-            return set(data.get('seen_hashes', []))
-    return set()
+
+            # Handle old format (just hashes)
+            if 'seen_hashes' in data:
+                return {h: None for h in data['seen_hashes']}
+
+            # New format (hash -> date)
+            result = {}
+            for item_hash, date_str in data.items():
+                if date_str:
+                    try:
+                        result[item_hash] = datetime.fromisoformat(date_str)
+                    except (ValueError, TypeError):
+                        result[item_hash] = None
+                else:
+                    result[item_hash] = None
+            return result
+
+    return {}
 
 
 def save_seen_items(hashes: Set[str], state_file: str):
-    """Save item hashes to state file"""
+    """Save item hashes to state file (legacy function)"""
+    save_seen_items_with_dates({h: None for h in hashes}, state_file)
+
+
+def save_seen_items_with_dates(items_data: Dict[str, datetime], state_file: str):
+    """Save item hashes with their dates to state file"""
     state_path = Path(state_file)
     state_path.parent.mkdir(exist_ok=True)
+
+    # Convert dates to ISO format strings
+    data = {}
+    for item_hash, date in items_data.items():
+        data[item_hash] = date.isoformat() if date else None
+
     with open(state_path, 'w') as f:
-        json.dump({'seen_hashes': list(hashes)}, f, indent=2)
+        json.dump(data, f, indent=2)

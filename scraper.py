@@ -4,9 +4,11 @@ Fetches newsletters from Smore platform
 """
 
 import requests
-from typing import List, Dict
+from typing import List, Dict, Optional
 from bs4 import BeautifulSoup
 import time
+import re
+from datetime import datetime
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
@@ -19,15 +21,43 @@ from webdriver_manager.chrome import ChromeDriverManager
 BLOG_URL = "https://www.talawanda.org/talawanda-high-school-blog/"
 
 
-def get_newsletter_links(blog_url: str = BLOG_URL) -> List[str]:
+def parse_date_from_text(text: str) -> Optional[datetime]:
     """
-    Get all Smore newsletter URLs from the Talawanda blog page
+    Extract date from text like "THS Enews 11/7/25"
+
+    Args:
+        text: Text containing date
+
+    Returns:
+        datetime object or None
+    """
+    # Look for date patterns like MM/DD/YY or M/D/YY
+    match = re.search(r'(\d{1,2})/(\d{1,2})/(\d{2,4})', text)
+    if match:
+        month, day, year = match.groups()
+
+        # Convert 2-digit year to 4-digit
+        year = int(year)
+        if year < 100:
+            year = 2000 + year if year < 50 else 1900 + year
+
+        try:
+            return datetime(year, int(month), int(day))
+        except ValueError:
+            return None
+
+    return None
+
+
+def get_newsletter_links(blog_url: str = BLOG_URL) -> List[Dict[str, str]]:
+    """
+    Get all Smore newsletter URLs and dates from the Talawanda blog page
 
     Args:
         blog_url: URL of the blog page containing newsletter links
 
     Returns:
-        List of Smore newsletter URLs
+        List of dictionaries with 'url' and 'date' keys
     """
     print(f"Fetching newsletter links from {blog_url}...")
 
@@ -41,18 +71,31 @@ def get_newsletter_links(blog_url: str = BLOG_URL) -> List[str]:
     soup = BeautifulSoup(response.text, 'html.parser')
 
     # Find all links that point to smore.com
-    smore_links = []
+    newsletter_data = []
+    seen_urls = set()
+
     for link in soup.find_all('a', href=True):
         href = link['href']
-        if 'smore.com' in href.lower():
-            if href not in smore_links:  # Avoid duplicates
-                smore_links.append(href)
+        if 'smore.com' in href.lower() and href not in seen_urls:
+            seen_urls.add(href)
 
-    print(f"Found {len(smore_links)} unique Smore newsletter links")
-    return smore_links
+            # Try to extract date from surrounding text
+            date = None
+            parent = link.parent
+            if parent:
+                parent_text = parent.get_text()
+                date = parse_date_from_text(parent_text)
+
+            newsletter_data.append({
+                'url': href,
+                'date': date
+            })
+
+    print(f"Found {len(newsletter_data)} unique Smore newsletter links")
+    return newsletter_data
 
 
-def fetch_newsletter(url: str) -> Dict:
+def fetch_newsletter(url: str, date: Optional[datetime] = None) -> Dict:
     """
     Fetch a single newsletter from Smore using Selenium
     (Smore uses JavaScript rendering)
@@ -96,7 +139,8 @@ def fetch_newsletter(url: str) -> Dict:
             'url': url,
             'html': html,
             'soup': soup,
-            'title': title
+            'title': title,
+            'date': date
         }
 
     except Exception as e:
@@ -119,23 +163,27 @@ def fetch_newsletters(blog_url: str = BLOG_URL) -> List[Dict]:
     Returns:
         List of newsletter data dictionaries
     """
-    # Get all newsletter links
-    newsletter_urls = get_newsletter_links(blog_url)
+    # Get all newsletter links with dates
+    newsletter_data = get_newsletter_links(blog_url)
 
-    if not newsletter_urls:
+    if not newsletter_data:
         print("No newsletter links found!")
         return []
 
     # Fetch each newsletter
     newsletters = []
-    for i, url in enumerate(newsletter_urls, 1):
-        print(f"Fetching newsletter {i}/{len(newsletter_urls)}...")
-        newsletter = fetch_newsletter(url)
+    for i, data in enumerate(newsletter_data, 1):
+        url = data['url']
+        date = data['date']
+        date_str = date.strftime('%m/%d/%Y') if date else 'unknown date'
+        print(f"Fetching newsletter {i}/{len(newsletter_data)} ({date_str})...")
+
+        newsletter = fetch_newsletter(url, date)
         if newsletter:
             newsletters.append(newsletter)
 
         # Be polite - add a small delay between requests
-        if i < len(newsletter_urls):
+        if i < len(newsletter_data):
             time.sleep(1)
 
     print(f"\nSuccessfully fetched {len(newsletters)} newsletters")
