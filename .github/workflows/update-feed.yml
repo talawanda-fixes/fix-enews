@@ -15,8 +15,30 @@ permissions:
   id-token: write
 
 jobs:
-  update-feed:
+  # Job to read school list from schools.json
+  setup:
     runs-on: ubuntu-latest
+    outputs:
+      schools: ${{ steps.set-matrix.outputs.schools }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set matrix from schools.json
+        id: set-matrix
+        run: |
+          SCHOOLS=$(jq -c '[.[].slug]' schools.json)
+          echo "schools=$SCHOOLS" >> $GITHUB_OUTPUT
+          echo "Schools to process: $SCHOOLS"
+
+  # Job to generate feeds for each school in parallel
+  generate-feed:
+    runs-on: ubuntu-latest
+    needs: setup
+    strategy:
+      matrix:
+        school: ${{ fromJson(needs.setup.outputs.schools) }}
+      fail-fast: false  # Continue other schools even if one fails
 
     steps:
       - name: Checkout repository
@@ -42,21 +64,21 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-chromium-
 
-      - name: Cache newsletters
+      - name: Cache newsletters for ${{ matrix.school }}
         uses: actions/cache@v4
         with:
           path: cache/newsletters/
-          key: ${{ runner.os }}-newsletters-${{ github.run_id }}
+          key: ${{ runner.os }}-newsletters-${{ matrix.school }}-${{ github.run_id }}
           restore-keys: |
-            ${{ runner.os }}-newsletters-
+            ${{ runner.os }}-newsletters-${{ matrix.school }}-
 
-      - name: Cache summaries
+      - name: Cache summaries for ${{ matrix.school }}
         uses: actions/cache@v4
         with:
           path: cache/summaries/
-          key: ${{ runner.os }}-summaries-${{ github.run_id }}
+          key: ${{ runner.os }}-summaries-${{ matrix.school }}-${{ github.run_id }}
           restore-keys: |
-            ${{ runner.os }}-summaries-
+            ${{ runner.os }}-summaries-${{ matrix.school }}-
 
       - name: Install system dependencies
         if: steps.cache-chromium.outputs.cache-hit != 'true'
@@ -68,35 +90,50 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Run scraper and generate feed
+      - name: Generate feed for ${{ matrix.school }}
         run: |
-          python main.py
+          python main.py --school ${{ matrix.school }}
         env:
           # Use system chromium in GitHub Actions
           CHROMEDRIVER_PATH: /usr/bin/chromedriver
           # Anthropic API key for generating summaries
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
-      - name: Upload RSS feed artifact
+      - name: Upload feed artifact for ${{ matrix.school }}
         uses: actions/upload-artifact@v4
         with:
-          name: rss-feed
-          path: output/feed.rss
+          name: feed-${{ matrix.school }}
+          path: |
+            output/${{ matrix.school }}-feed.rss
+            output/${{ matrix.school }}-items.json
 
-      # Option 1: Publish to GitHub Pages
+  # Job to combine all feeds and deploy to GitHub Pages
+  deploy:
+    runs-on: ubuntu-latest
+    needs: generate-feed
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download all feed artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: output-artifacts
+
+      - name: Combine feeds into output directory
+        run: |
+          mkdir -p output
+          # Copy index.html and schools.json
+          cp output/index.html output/ || echo "index.html will be generated"
+          cp schools.json output/
+          # Copy all feed files from artifacts
+          find output-artifacts -name "*.rss" -exec cp {} output/ \;
+          find output-artifacts -name "*.json" -exec cp {} output/ \;
+          ls -la output/
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./output
           keep_files: false
-
-      # Option 2: Create GitHub Release (alternative to Pages)
-      # Uncomment if you prefer releases over Pages
-      # - name: Create Release
-      #   uses: softprops/action-gh-release@v1
-      #   with:
-      #     tag_name: feed-${{ github.run_number }}
-      #     files: output/feed.rss
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

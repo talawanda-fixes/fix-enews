@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Talawanda High School",
+    "slug": "ths",
+    "blog_url": "https://www.talawanda.org/talawanda-high-school-blog/",
+    "description": "News and announcements from Talawanda High School, including events, athletics, clubs, and important dates."
+  },
+  {
+    "name": "Talawanda Middle School",
+    "slug": "tms",
+    "blog_url": "https://www.talawanda.org/talawanda-middle-school-blog/",
+    "description": "Updates from Talawanda Middle School about academics, sports, activities, and school events."
+  },
+  {
+    "name": "Bogan Elementary",
+    "slug": "bogan",
+    "blog_url": "https://www.talawanda.org/bogan-elementary-blog/",
+    "description": "News and events from Bogan Elementary School for students, parents, and families."
+  },
+  {
+    "name": "Kramer Elementary",
+    "slug": "kramer",
+    "blog_url": "https://www.talawanda.org/kramer-elementary-blog/",
+    "description": "Kramer Elementary School updates, events, and news for the school community."
+  },
+  {
+    "name": "Marshall Elementary",
+    "slug": "marshall",
+    "blog_url": "https://www.talawanda.org/marshall-elementary-blog/",
+    "description": "Marshall Elementary School news, events, and announcements for students and families."
+  }
+]

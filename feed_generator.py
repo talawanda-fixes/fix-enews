@@ -9,13 +9,17 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 
-def generate_feed(items: List[Dict], output_file: str = "output/feed.rss") -> FeedGenerator:
+def generate_feed(items: List[Dict], output_file: str = "output/feed.rss",
+                  school_name: str = "Talawanda High School",
+                  description: str = "") -> FeedGenerator:
     """
     Generate RSS feed from news items
 
     Args:
         items: List of news items
         output_file: Path to save RSS feed
+        school_name: Name of the school for feed metadata
+        description: Description of the feed
 
     Returns:
         FeedGenerator object
@@ -32,7 +36,7 @@ def generate_feed(items: List[Dict], output_file: str = "output/feed.rss") -> Fe
     )
 
     # Create feed with metadata
-    fg = create_feed_metadata()
+    fg = create_feed_metadata(school_name, description)
 
     # Add each item to the feed
     for item in sorted_items:
@@ -49,17 +53,22 @@ def generate_feed(items: List[Dict], output_file: str = "output/feed.rss") -> Fe
     return fg
 
 
-def create_feed_metadata() -> FeedGenerator:
+def create_feed_metadata(school_name: str = "Talawanda High School",
+                         description: str = "") -> FeedGenerator:
     """
     Create feed with basic metadata
+
+    Args:
+        school_name: Name of the school
+        description: Feed description
 
     Returns:
         FeedGenerator with metadata set
     """
     fg = FeedGenerator()
-    fg.title('Talawanda High School News')
-    fg.description('Newsletter items from Talawanda High School')
-    fg.link(href='https://www.talawanda.org/talawanda-high-school-blog/', rel='alternate')
+    fg.title(f'{school_name} News')
+    fg.description(description or f'Newsletter items from {school_name}')
+    fg.link(href='https://www.talawanda.org/', rel='alternate')
     fg.language('en')
     fg.generator('Talawanda Enews RSS Converter')
 

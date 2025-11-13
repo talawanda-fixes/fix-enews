@@ -6,30 +6,51 @@ Main entry point for the scraper pipeline
 
 import os
 import sys
+import json
+import argparse
 from pathlib import Path
+from datetime import datetime, timezone
 
 
-def main():
-    """Main pipeline execution"""
-    print("Talawanda Enews RSS Converter")
-    print("=" * 50)
+def load_schools() -> list:
+    """Load school configurations from schools.json"""
+    schools_file = Path(__file__).parent / "schools.json"
+    with open(schools_file, 'r', encoding='utf-8') as f:
+        return json.load(f)
 
-    # Create output directory
-    output_dir = Path("output")
-    output_dir.mkdir(exist_ok=True)
+
+def process_school(school: dict, output_dir: Path) -> int:
+    """
+    Process a single school's newsletters
+
+    Args:
+        school: School configuration dict with 'name', 'slug', 'blog_url', 'description'
+        output_dir: Output directory path for this school
+
+    Returns:
+        Exit code (0 for success, non-zero for failure)
+    """
+    school_name = school['name']
+    school_slug = school['slug']
+    blog_url = school['blog_url']
+    description = school.get('description', '')
+
+    print(f"\n{'=' * 70}")
+    print(f"Processing: {school_name}")
+    print(f"{'=' * 70}")
 
     try:
         # Step 1: Scrape newsletters from Smore
-        print("\n[1/4] Scraping newsletters from Smore...")
+        print(f"\n[1/6] Scraping newsletters for {school_name}...")
         from scraper import fetch_newsletters
-        newsletters = fetch_newsletters()
+        newsletters = fetch_newsletters(blog_url)
 
         if not newsletters:
             print("Error: No newsletters found!")
             return 1
 
         # Step 2: Parse and extract items
-        print("\n[2/4] Parsing and extracting items...")
+        print("\n[2/6] Parsing and extracting items...")
         from parser import parse_newsletters, deduplicate_items
         items = parse_newsletters(newsletters)
 
@@ -52,11 +73,8 @@ def main():
 
         # Step 5: Save JSON output
         print("\n[5/6] Saving JSON output...")
-        import json
-        from datetime import datetime, timezone
 
-        # Sort items by date, ascending (oldest first)
-        # Will be reversed when generating feed to get newest first in RSS
+        # Sort items by date (newest first)
         sorted_items = sorted(
             unique_items,
             key=lambda x: x.get('date') or datetime.max.replace(tzinfo=timezone.utc),
@@ -71,7 +89,8 @@ def main():
                 json_item['date'] = json_item['date'].isoformat()
             json_items.append(json_item)
 
-        json_path = output_dir / "items.json"
+        # Use school slug for filenames
+        json_path = output_dir / f"{school_slug}-items.json"
         with open(json_path, 'w', encoding='utf-8') as f:
             json.dump(json_items, f, indent=2, ensure_ascii=False)
         print(f"JSON saved to {json_path}")
@@ -82,12 +101,13 @@ def main():
         # Step 6: Generate RSS feed
         print("\n[6/6] Generating RSS feed...")
         from feed_generator import generate_feed
-        feed = generate_feed(unique_items, str(output_dir / "feed.rss"))
+        feed_path = output_dir / f"{school_slug}-feed.rss"
+        feed = generate_feed(unique_items, str(feed_path), school_name, description)
 
         print("\n" + "=" * 50)
         print(f"Success!")
-        print(f"  RSS feed: output/feed.rss")
-        print(f"  JSON data: output/items.json")
+        print(f"  RSS feed: {feed_path}")
+        print(f"  JSON data: {json_path}")
         print(f"  Total items: {len(unique_items)}")
         print("=" * 50)
 
@@ -105,6 +125,38 @@ def main():
         import traceback
         traceback.print_exc()
         return 1
+
+
+def main():
+    """Main entry point with optional school parameter"""
+    parser = argparse.ArgumentParser(description='Generate RSS feeds for Talawanda school newsletters')
+    parser.add_argument('--school', type=str, help='Process only the specified school slug (e.g., "ths", "tms")')
+    parser.add_argument('--output', type=str, default='output', help='Output directory (default: output)')
+    args = parser.parse_args()
+
+    # Load all schools
+    schools = load_schools()
+
+    # Filter to specific school if requested
+    if args.school:
+        schools = [s for s in schools if s['slug'] == args.school]
+        if not schools:
+            print(f"Error: School '{args.school}' not found in schools.json")
+            print(f"Available schools: {', '.join(s['slug'] for s in load_schools())}")
+            return 1
+
+    # Create output directory
+    output_dir = Path(args.output)
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    # Process each school
+    exit_codes = []
+    for school in schools:
+        exit_code = process_school(school, output_dir)
+        exit_codes.append(exit_code)
+
+    # Return non-zero if any school failed
+    return max(exit_codes) if exit_codes else 0
 
 
 if __name__ == "__main__":
