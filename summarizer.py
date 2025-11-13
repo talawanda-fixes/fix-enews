@@ -6,12 +6,59 @@ Uses Claude to generate concise, text-only summaries of newsletter items
 import os
 import json
 import re
+import base64
+import requests
 from pathlib import Path
 from typing import List, Dict, Optional
 from anthropic import Anthropic
 
 
 CACHE_DIR = Path("cache/summaries")
+
+
+def _fetch_and_encode_image(url: str) -> Optional[Dict]:
+    """
+    Fetch an image from URL and encode it as base64 for Claude vision API
+
+    Args:
+        url: Image URL
+
+    Returns:
+        Dict with vision API format, or None if fetch fails
+    """
+    try:
+        response = requests.get(url, timeout=10)
+        response.raise_for_status()
+
+        # Determine media type from content-type header
+        content_type = response.headers.get('content-type', 'image/png')
+
+        # Convert to supported media types
+        if 'jpeg' in content_type or 'jpg' in content_type:
+            media_type = 'image/jpeg'
+        elif 'png' in content_type:
+            media_type = 'image/png'
+        elif 'gif' in content_type:
+            media_type = 'image/gif'
+        elif 'webp' in content_type:
+            media_type = 'image/webp'
+        else:
+            media_type = 'image/png'  # default
+
+        # Encode image to base64
+        image_data = base64.standard_b64encode(response.content).decode('utf-8')
+
+        return {
+            "type": "image",
+            "source": {
+                "type": "base64",
+                "media_type": media_type,
+                "data": image_data
+            }
+        }
+    except Exception as e:
+        print(f"    Warning: Failed to fetch image {url}: {e}")
+        return None
 
 
 def _load_summary_from_cache(block_id: str) -> Optional[Dict[str, str]]:
@@ -96,8 +143,10 @@ def summarize_items(items: List[Dict], api_key: str = None) -> List[Dict]:
         else:
             print(f"  Summarizing item {i}/{len(items)}: {title_preview}...")
 
-            # Build content from blocks
+            # Build content from blocks, collecting text and images separately
             content_parts = []
+            image_urls = []
+
             for block in item.get('blocks', []):
                 if block.get('type') == 'text.title':
                     content_parts.append(f"# {block.get('content', '')}")
@@ -106,13 +155,15 @@ def summarize_items(items: List[Dict], api_key: str = None) -> List[Dict]:
                 elif block.get('type') == 'items':
                     content_parts.append(block.get('content', ''))
                 elif block.get('type') == 'image.single':
-                    content_parts.append(f"[Image: {block.get('url', '')}]")
+                    img_url = block.get('url', '')
+                    if img_url:
+                        image_urls.append(img_url)
 
             original_content = '\n\n'.join(content_parts)
 
             # Generate summary and improved title - fail hard on error
             try:
-                result = _generate_summary(client, item['title'], original_content)
+                result = _generate_summary(client, item['title'], original_content, image_urls)
                 item['title'] = result['title']
                 item['summary'] = result['summary']
 
@@ -133,71 +184,80 @@ def summarize_items(items: List[Dict], api_key: str = None) -> List[Dict]:
     return summarized_items
 
 
-def _generate_summary(client: Anthropic, title: str, content: str) -> Dict[str, str]:
+def _generate_summary(client: Anthropic, title: str, content: str, image_urls: List[str] = None) -> Dict[str, str]:
     """
     Use Claude to generate a concise summary and improved title
+    Uses vision API to analyze images when present
 
     Args:
         client: Anthropic client
         title: Item title (may be rough/duplicated)
-        content: Original content
+        content: Original text content
+        image_urls: List of image URLs to analyze
 
     Returns:
         Dict with 'title' and 'summary' keys
     """
-    prompt = f"""You are summarizing a newsletter item from Talawanda High School.
+    # Build the prompt
+    prompt_text = f"""You are summarizing a newsletter item from Talawanda High School.
 
 The item title is: {title}
 
-The original content is:
+The original text content is:
 {content}
 
 Please provide:
 1. A clean, concise title (3-8 words) that describes what this item is about
 2. A concise, clear, text-only summary in markdown format that:
-   - Conveys the key information from the original item
+   - Conveys the key information from the original item AND any images
    - Is brief but complete (2-4 sentences or bullet points)
    - Uses simple, accessible language
    - Preserves important dates, times, locations, and links
-   - Does NOT reference images - just extract and convey the information
+   - Extracts and conveys information from images (do NOT say "the image shows", just state the information)
    - Uses markdown formatting (bold, lists, links, etc.) for readability
-   - Analyzes images and extracts the information from them
-3. A concise, clear, and complete text-only representation of all of the available detail for the item in markdown format.
-   - Conveys all information from the original item. 
-   - Uses bullet points to lay out the information
-   - Includes all dates, times, locations, and links.
 
 Format your response EXACTLY as:
 TITLE: [your improved title here]
 
 SUMMARY:
 [your markdown summary here]
+"""
 
-DETAIL:
-[your markdown detail here]"""
+    # Build message content with text and images
+    message_content = []
 
+    # Add images first if available
+    if image_urls:
+        for img_url in image_urls:
+            image_data = _fetch_and_encode_image(img_url)
+            if image_data:
+                message_content.append(image_data)
+
+    # Add the text prompt
+    message_content.append({
+        "type": "text",
+        "text": prompt_text
+    })
+
+    # Call Claude API
     message = client.messages.create(
         model="claude-sonnet-4-5-20250929",
-        max_tokens=400,
-        messages=[{"role": "user", "content": prompt}]
+        max_tokens=500,
+        messages=[{"role": "user", "content": message_content}]
     )
 
     response_text = message.content[0].text.strip()
 
     # Parse the response to extract title and summary
-    import re
     title_match = re.search(r'TITLE:\s*(.+?)(?:\n|$)', response_text)
     summary_match = re.search(r'SUMMARY:\s*(.+)', response_text, re.DOTALL)
-    detail_match = re.search(r'DETAIL:\s*(.+)', response_text, re.DOTALL)
 
     improved_title = title_match.group(1).strip() if title_match else title
     summary = summary_match.group(1).strip() if summary_match else response_text
-    detail = detail_match.group(1).strip() if detail_match else summary
 
     return {
         'title': improved_title,
-        'summary': summary,
-        'detail': detail
+        'summary': summary
     }
 
 
