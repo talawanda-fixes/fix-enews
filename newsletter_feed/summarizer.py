@@ -4,14 +4,11 @@ Uses Claude to generate concise, text-only summaries of newsletter items
 """
 
 import re
-from typing import List, Dict, TYPE_CHECKING
+from typing import List, Dict
 from datetime import datetime, timedelta
 
 from common.ai_integration import get_anthropic_client, fetch_and_encode_image
 from common.cache import load_summary_from_cache, save_summary_to_cache
-
-if TYPE_CHECKING:
-    from anthropic import Anthropic
 
 
 def summarize_items(items: List[Dict], api_key: str = None) -> List[Dict]:
@@ -75,7 +72,13 @@ def summarize_items(items: List[Dict], api_key: str = None) -> List[Dict]:
 
             # Generate summary and improved title - fail hard on error
             try:
-                result = _generate_summary(client, item['title'], original_content, image_urls)
+                result = _generate_summary(
+                    client,
+                    item['title'],
+                    original_content,
+                    image_urls,
+                    item.get('date')
+                )
                 item['title'] = result['title']
                 item['summary'] = result['summary']
 
@@ -105,7 +108,7 @@ def summarize_items(items: List[Dict], api_key: str = None) -> List[Dict]:
     return summarized_items
 
 
-def _generate_summary(client: Anthropic, title: str, content: str, image_urls: List[str] = None) -> Dict[str, str]:
+def _generate_summary(client, title: str, content: str, image_urls: List[str] = None, publication_date = None) -> Dict[str, str]:
     """
     Use Claude to generate a concise summary and improved title
     Uses vision API to analyze images when present
@@ -115,12 +118,17 @@ def _generate_summary(client: Anthropic, title: str, content: str, image_urls: L
         title: Item title (may be rough/duplicated)
         content: Original text content
         image_urls: List of image URLs to analyze
+        publication_date: datetime when the item was published (used for inferring event years)
 
     Returns:
         Dict with 'title', 'summary', and optional 'event_info' keys
     """
-    # Build the prompt
+    # Build the prompt with publication date context
+    pub_date_str = publication_date.strftime('%Y-%m-%d') if publication_date else 'unknown'
+
     prompt_text = f"""You are summarizing a newsletter item from Talawanda High School.
+
+This item was published on: {pub_date_str}
 
 The item title is: {title}
 
@@ -137,9 +145,10 @@ Please provide:
    - Extracts and conveys information from images (do NOT say "the image shows", just state the information)
    - Uses markdown formatting (bold, lists, links, etc.) for readability
 3. If this item describes one or more events (meetings, games, performances, deadlines, school activities, special days, assemblies, etc.) that occur on specific dates, extract the event information
-   - For dates without a year (like "November 14th"), infer the most likely year based on context
-   - School newsletters are typically published close to event dates, so assume current or next year
-   - If a month/day is mentioned, that's sufficient to extract as an event (infer the year as needed)
+   - For dates without a year (like "November 14th"), ALWAYS assume this is the FIRST occurrence of that date AFTER the publication date shown above
+   - For example: if published on 2025-11-07 and event says "November 14th", the event date is 2025-11-14 (same year, same month)
+   - For example: if published on 2025-11-07 and event says "January 15th", the event date is 2026-01-15 (next year, since January comes after the publication month)
+   - If a month/day is mentioned, that's sufficient to extract as an event (infer the year using the rule above)
 
 Format your response EXACTLY as:
 TITLE: [your improved title here]
@@ -151,7 +160,7 @@ EVENTS: [number of events, or 0 if none]
 [If EVENTS > 0, for each event provide:]
 ---EVENT [number]---
 TITLE: [specific event title]
-DATE: [YYYY-MM-DD format - infer year if not explicitly stated, use current year or next occurrence]
+DATE: [YYYY-MM-DD format - infer year if not explicitly stated using the rule above: first occurrence after publication date]
 TIME: [HH:MM in 24-hour format, or "unknown" if not specified, or "00:00" for all-day events]
 END_TIME: [HH:MM in 24-hour format, or "unknown" if not specified, or "23:59" for all-day events]
 LOCATION: [location text, or "Talawanda High School" if not specified but clearly a school event]

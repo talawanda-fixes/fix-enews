@@ -124,6 +124,7 @@ project/
 - Uses Claude (model: claude-sonnet-4-5-20250929) with vision API to analyze newsletter items and images
 - Generates concise markdown summaries, replaces verbose text with clear descriptions
 - **Event Detection**: Automatically detects events (meetings, games, deadlines) and extracts structured data
+- **Year Inference**: For incomplete dates (e.g., "November 14th"), infers year as the FIRST occurrence of that date AFTER the item's publication date
 - **Multi-Event Support**: Can extract multiple events from a single item (e.g., weekly club schedules)
 - Returns `event_info` as array of dicts with: title, start/end datetime, location, description
 - FAIL-HARD: Script will fail if API key is missing or summarization fails (no fallback)
