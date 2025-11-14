@@ -248,7 +248,7 @@ def main():
     parser = argparse.ArgumentParser(description='Generate RSS feeds for Talawanda school newsletters')
     parser.add_argument('--school', type=str, help='Process only the specified school slug (e.g., "ths", "tms")')
     parser.add_argument('--output', type=str, default='output', help='Output directory (default: output)')
-    parser.add_argument('--limit', type=int, default=7, help='Limit number of items to summarize and include in feed (default: 7)')
+    parser.add_argument('--limit', type=int, default=20, help='Limit number of items to summarize and include in feed (default: 7)')
     args = parser.parse_args()
 
     # Load all schools
