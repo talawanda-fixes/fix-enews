@@ -49,8 +49,9 @@ jobs:
       - name: Generate Docker image cache key
         id: docker-cache-key
         run: |
-          # Create hash of Dockerfile, requirements.txt, and schools.json
-          HASH=$(cat Dockerfile requirements.txt schools.json | sha256sum | cut -d' ' -f1)
+          # Create hash of Dockerfile and requirements.txt only
+          # Code is mounted at runtime, not baked into image
+          HASH=$(cat Dockerfile requirements.txt | sha256sum | cut -d' ' -f1)
           echo "hash=$HASH" >> $GITHUB_OUTPUT
           echo "Docker image hash: $HASH"
 
@@ -136,8 +137,7 @@ jobs:
       - name: Generate feed for ${{ matrix.school }}
         run: |
           docker run --rm \
-            -v $(pwd)/cache:/app/cache \
-            -v $(pwd)/output:/app/output \
+            -v $(pwd):/app \
             -e ANTHROPIC_API_KEY="${{ secrets.ANTHROPIC_API_KEY }}" \
             talawanda-enews:latest \
             python main.py --school ${{ matrix.school }}
