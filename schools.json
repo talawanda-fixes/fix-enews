@@ -4,5 +4,11 @@
     "slug": "ths",
     "blog_url": "https://www.talawanda.org/talawanda-high-school-blog/",
     "description": "News and announcements from Talawanda High School, including events, athletics, clubs, and important dates."
+  },
+  {
+    "name": "Talawanda School District",
+    "slug": "district",
+    "blog_url": "https://www.talawanda.org/district-blog/",
+    "description": "District-wide news and announcements from Talawanda School District."
   }
 ]

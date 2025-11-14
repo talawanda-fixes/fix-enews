@@ -3,7 +3,7 @@ Newsletter parser and deduplicator
 Extracts individual items and removes duplicates
 """
 
-from typing import List, Dict, Set
+from typing import List, Dict, Set, Optional
 import hashlib
 import json
 import re
@@ -59,6 +59,41 @@ def _save_parsed_items_to_cache(newsletter: Dict, items: List[Dict]):
 
     with open(cache_file, 'w', encoding='utf-8') as f:
         json.dump(serializable_items, f, ensure_ascii=False, indent=2)
+
+
+def extract_origin_blog_url(soup) -> Optional[str]:
+    """
+    Extract origin blog URL from links in blog post content
+
+    Looks for links to talawanda.org school blogs to identify cross-posted content.
+    Blog posts that reference another blog are considered cross-posts.
+
+    Args:
+        soup: BeautifulSoup object of blog post HTML
+
+    Returns:
+        Origin blog URL if found, None otherwise
+    """
+    # Find main content area
+    main = soup.find('main') or soup.find('div', id='main') or soup.find('article')
+    if not main:
+        return None
+
+    # Pattern to match Talawanda blog URLs: https://www.talawanda.org/{blog-slug}/...
+    blog_pattern = re.compile(r'https?://(?:www\.)?talawanda\.org/([^/\?#]+)')
+
+    for link in main.find_all('a', href=True):
+        href = link.get('href', '')
+        match = blog_pattern.search(href)
+
+        if match:
+            blog_slug = match.group(1)
+            # Only match blog URLs (end with -blog)
+            if blog_slug.endswith('-blog'):
+                # Normalize: add trailing slash
+                return f"https://www.talawanda.org/{blog_slug}/"
+
+    return None
 
 
 def clean_title(title: str) -> str:
@@ -145,6 +180,9 @@ def parse_newsletters(newsletters: List[Dict]) -> List[Dict]:
                     if img_src:
                         images.append(img_src)
 
+                # Extract origin blog URL (for cross-post detection)
+                origin_blog_url = extract_origin_blog_url(soup)
+
                 # Create a single item for the blog post
                 blog_item = {
                     'title': newsletter['title'],
@@ -154,6 +192,7 @@ def parse_newsletters(newsletters: List[Dict]) -> List[Dict]:
                     'source_url': newsletter['url'],
                     'source_title': newsletter['title'],
                     'date': newsletter.get('date'),
+                    'origin_blog_url': origin_blog_url,
                     'blocks': [{
                         'type': 'blog_post_content',
                         'content': content_text,

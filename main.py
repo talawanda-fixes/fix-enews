@@ -20,6 +20,56 @@ def load_schools() -> list:
         return json.load(f)
 
 
+def filter_cross_posted_items(items: list, current_blog_url: str) -> tuple:
+    """
+    Filter items to remove cross-posts (items that originated from a different blog)
+
+    Args:
+        items: List of parsed items
+        current_blog_url: The blog URL we're currently processing
+
+    Returns:
+        Tuple of (filtered_items, filtered_count)
+    """
+    # Normalize current_blog_url to ensure trailing slash for consistent comparison
+    if not current_blog_url.endswith('/'):
+        current_blog_url = current_blog_url + '/'
+
+    filtered_items = []
+    cross_posts_filtered = []
+
+    for item in items:
+        origin_url = item.get('origin_blog_url')
+
+        # If no origin URL detected, item belongs to current blog (default behavior)
+        if not origin_url:
+            filtered_items.append(item)
+            continue
+
+        # If origin URL matches current blog, keep it
+        if origin_url == current_blog_url:
+            filtered_items.append(item)
+            continue
+
+        # Item originated from different blog - filter it out
+        cross_posts_filtered.append({
+            'title': item.get('title', ''),
+            'current_blog': current_blog_url,
+            'origin_blog': origin_url,
+            'source_url': item.get('source_url', '')
+        })
+
+    if cross_posts_filtered:
+        print(f"\n  Filtered {len(cross_posts_filtered)} cross-posted items:")
+        for cp in cross_posts_filtered:
+            title_display = cp['title'][:60] if cp['title'] else '(no title)'
+            # Extract slug from URL path (handles with/without trailing slash)
+            origin_slug = cp['origin_blog'].rstrip('/').split('/')[-1] if cp['origin_blog'] else 'unknown'
+            print(f"    - {title_display} (from {origin_slug})")
+
+    return filtered_items, len(cross_posts_filtered)
+
+
 def process_school(school: dict, output_dir: Path, limit: int = None) -> int:
     """
     Process a single school's newsletters
@@ -43,7 +93,7 @@ def process_school(school: dict, output_dir: Path, limit: int = None) -> int:
 
     try:
         # Step 1: Scrape newsletters from Smore
-        print(f"\n[1/6] Scraping newsletters for {school_name}...")
+        print(f"\n[1/7] Scraping newsletters for {school_name}...")
         start_time = time.time()
         from scraper import fetch_newsletters
         newsletters = fetch_newsletters(blog_url)
@@ -55,7 +105,7 @@ def process_school(school: dict, output_dir: Path, limit: int = None) -> int:
             return 1
 
         # Step 2: Parse and extract items
-        print("\n[2/6] Parsing and extracting items...")
+        print("\n[2/7] Parsing and extracting items...")
         start_time = time.time()
         from parser import parse_newsletters, deduplicate_items
         items = parse_newsletters(newsletters)
@@ -67,7 +117,7 @@ def process_school(school: dict, output_dir: Path, limit: int = None) -> int:
             return 0
 
         # Step 3: Deduplicate items
-        print("\n[3/6] Deduplicating items...")
+        print("\n[3/7] Deduplicating items...")
         start_time = time.time()
         unique_items = deduplicate_items(items)
         elapsed = time.time() - start_time
@@ -75,6 +125,18 @@ def process_school(school: dict, output_dir: Path, limit: int = None) -> int:
 
         if not unique_items:
             print("No new items to add to feed")
+            return 0
+
+        # Step 4: Filter cross-posted items
+        print(f"\n[4/7] Filtering cross-posted items for {school_name}...")
+        start_time = time.time()
+        unique_items, filtered_count = filter_cross_posted_items(unique_items, blog_url)
+        elapsed = time.time() - start_time
+        print(f"  ⏱️  Filtering took {elapsed:.2f}s")
+        print(f"  Kept {len(unique_items)} items after filtering {filtered_count} cross-posts")
+
+        if not unique_items:
+            print("No items remaining after cross-post filtering")
             return 0
 
         # Apply limit if specified (take most recent items)
@@ -87,16 +149,16 @@ def process_school(school: dict, output_dir: Path, limit: int = None) -> int:
                 reverse=True
             )[:limit]
 
-        # Step 4: Summarize items with Claude
-        print("\n[4/6] Generating summaries with Claude...")
+        # Step 5: Summarize items with Claude
+        print("\n[5/7] Generating summaries with Claude...")
         start_time = time.time()
         from summarizer import summarize_items
         unique_items = summarize_items(unique_items)
         elapsed = time.time() - start_time
         print(f"  ⏱️  Summarization took {elapsed:.2f}s")
 
-        # Step 5: Save JSON output
-        print("\n[5/6] Saving JSON output...")
+        # Step 6: Save JSON output
+        print("\n[6/7] Saving JSON output...")
         start_time = time.time()
 
         # Sort items by date (newest first)
@@ -149,8 +211,8 @@ def process_school(school: dict, output_dir: Path, limit: int = None) -> int:
         # Use sorted items for feed generation too
         unique_items = sorted_items
 
-        # Step 6: Generate RSS feed
-        print("\n[6/6] Generating RSS feed...")
+        # Step 7: Generate RSS feed
+        print("\n[7/7] Generating RSS feed...")
         start_time = time.time()
         from feed_generator import generate_feed
         feed_path = output_dir / f"{school_slug}-feed.rss"
