@@ -226,5 +226,324 @@
         "location": "Talawanda High School Performing Arts Center"
       }
     ]
+  },
+  {
+    "title": "Builder's Club Holiday Food Drive",
+    "block_id": "bw3iufecrd-bs6itxr54g-b8hhhrmptb",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/52a3/9da78ab66da866ad8fbcee4f3f6fa7c1.png",
+      "https://cdn.smore.com/u/752b/a59396bde8f3f42e3c09b5d084b8552f.png"
+    ],
+    "source_url": "https://app.smore.com/n/dw1q0-the-spooky-scoop?ref=email",
+    "source_title": "The Spooky Scoop! | Smore Newsletters for Education",
+    "date": "2025-10-31T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "BUILDER'S \n\nCLUB \n\nFOOD \n\nDRIVE!\n\nBUILDER'S CLUB FOOD DRIVE!",
+        "id": "bw3iufecrd"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/52a3/9da78ab66da866ad8fbcee4f3f6fa7c1.png",
+        "id": "bs6itxr54g"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/752b/a59396bde8f3f42e3c09b5d084b8552f.png",
+        "id": "b8hhhrmptb"
+      }
+    ],
+    "hash": "bw3iufecrd-bs6itxr54g-b8hhhrmptb",
+    "summary": "The Talawanda Middle School Builders Club is collecting food donations to help community members enjoy a holiday meal. **Requested items include:** baking mixes (muffins, brownies, cornbread, cookies), mac and cheese, canned green beans, soup (cream of mushroom, cream of chicken), and crispy onions in a container (for green bean casserole). **Bring donations to the box in the cafeteria by November 5th.** This food drive is TSD approved for distribution.",
+    "event_info": [
+      {
+        "title": "Builder's Club Food Drive Deadline",
+        "start": "2024-11-05T00:00:00",
+        "end": "2024-11-05T23:59:00",
+        "description": "The Talawanda Middle School Builders Club is collecting food donations to help community members enjoy a holiday meal. **Requested items include:** baking mixes (muffins, brownies, cornbread, cookies)",
+        "location": "TMS Cafeteria"
+      }
+    ]
+  },
+  {
+    "title": "PUSH Grants for Low-Income Homeowners",
+    "block_id": "bhxcmzm4nz",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/gyefw-the-spooky-scoop?ref=email",
+    "source_title": "The Spooky Scoop! | Smore Newsletters for Education",
+    "date": "2025-10-24T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "zoom_out_map\n            \nPUSH provides grants to low-income homeowners in the Talawanda School District for critical and emergency home repairs. Call Jeanne or Sabrina at 513-523-8100 for more information. Application is attached. Http://www.push-oxford.org/",
+        "id": "bhxcmzm4nz"
+      }
+    ],
+    "hash": "bhxcmzm4nz",
+    "summary": "**PUSH** (Partners for a United Strong Home) provides **grants to low-income homeowners** in the Talawanda School District for critical and emergency home repairs. \n\n- **Contact:** Call Jeanne or Sabrina at 513-523-8100\n- **Website:** http://www.push-oxford.org/\n- Application available (attached to original item)"
+  },
+  {
+    "title": "Brave Buck Day Celebration - Volunteers Needed",
+    "block_id": "bdcuh4gdq8-b9llmwshcx",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/gyefw-the-spooky-scoop?ref=email",
+    "source_title": "The Spooky Scoop! | Smore Newsletters for Education",
+    "date": "2025-10-24T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "BRAVE \n\nBUCK \n\nDAY \n\nIS \n\nCOMING!\n\nBRAVE BUCK DAY IS COMING!",
+        "id": "bdcuh4gdq8"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "The students have been earning Brave Buck's all year and the celebration is coming soon! We are looking for some extra help with some of the supplies needed. If you would like to help out please use this LINK for the Sign Up Genius. Thank you so much for your continued support and help.",
+        "id": "b9llmwshcx"
+      }
+    ],
+    "hash": "bdcuh4gdq8-b9llmwshcx",
+    "summary": "**Brave Buck Day** is coming soon to celebrate students who have been earning Brave Bucks throughout the year. The school is seeking volunteers to help provide supplies for the celebration. Parents and community members can sign up to help through the **Sign Up Genius link** provided in the original announcement."
+  },
+  {
+    "title": "Lost and Found Items at TMS",
+    "block_id": "basajktgcw",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/gyefw-the-spooky-scoop?ref=email",
+    "source_title": "The Spooky Scoop! | Smore Newsletters for Education",
+    "date": "2025-10-24T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "LOST AND FOUND!\nThe Lost and Found is growing here at TMS. If your student is missing any items please remind them to check out the table in the cafeteria or ask in the office if it is a small item. A CHEVY KEY FOB WAS FOUND IN THE PARKING LOT THIS WEEK. PLEASE CALL THE OFFICE IF YOU HAVE LOST ONE.",
+        "id": "basajktgcw"
+      }
+    ],
+    "hash": "basajktgcw",
+    "summary": "The **Lost and Found** at TMS is accumulating items. Students missing belongings should check the **table in the cafeteria** for larger items or ask at the **office** for small items. **A Chevy key fob was found in the parking lot this week** - please call the office if you've lost one."
+  },
+  {
+    "title": "7th Grade Cincinnati Museum Center Field Trip",
+    "block_id": "bmso8unpem-b9at8o6xkw",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/gyefw-the-spooky-scoop?ref=email",
+    "source_title": "The Spooky Scoop! | Smore Newsletters for Education",
+    "date": "2025-10-24T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "7th \n\nGrade \n\nField \n\nTrip, \n\nTOTAL \n\nSUCCESS!!\n\n7th Grade Field Trip, TOTAL SUCCESS!!",
+        "id": "bmso8unpem"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Last week, TMS seventh graders had the opportunity to visit the Cincinnati Museum Center where groups could choose to visit the Museum of Natural History or the Museum of Science. Students enjoyed interactive exhibits and were able to see lots of cool artifacts! Afterwards, students visited the 5-story domed Omnimax Theater to watch a film entitled \"Deep Sky\". Thank you to TMS PTG for helping make this field trip possible! The students had a great time!",
+        "id": "b9at8o6xkw"
+      }
+    ],
+    "hash": "bmso8unpem-b9at8o6xkw",
+    "summary": "TMS seventh graders visited the **Cincinnati Museum Center** last week, choosing between the Museum of Natural History or Museum of Science. Students explored interactive exhibits and artifacts, then watched the film **\"Deep Sky\"** in the 5-story domed Omnimax Theater. Thanks to TMS PTG for supporting this successful trip!"
+  },
+  {
+    "title": "TMS PTG Pie & Butter Braid Fundraiser",
+    "block_id": "bzgtexc4r4-b6ol0l1mve",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/dpf05-wickedly-good-updates?ref=email",
+    "source_title": "Wickedly Good Updates! | Smore Newsletters for Education",
+    "date": "2025-10-16T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "TMS \n\nPTG \n\nPIE \n\n& \n\nBUTTER \n\nBRAID \n\nSALE!!\n\nTMS PTG PIE & BUTTER BRAID SALE!!",
+        "id": "bzgtexc4r4"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "OCTOBER 15TH - NOVEMBER 7TH\nEach year TMS PTG offers 2 fundraisers. A pie sale in the fall and a cookie dough sale in early spring. The fundraisers are set up so that students have the opportunity to earn money to help pay the cost of class trips offered in the 6th and 8th grade. Every student is welcome to participate and your decision to participate is strictly voluntary. Every student that chooses to participate in a sale will have an account created where their profit will be kept until needed to help pay for a class trip. Please use this LINK for more information on how you can participate.",
+        "id": "b6ol0l1mve"
+      }
+    ],
+    "hash": "bzgtexc4r4-b6ol0l1mve",
+    "summary": "The **TMS PTG Pie & Butter Braid Sale** runs from **October 15th - November 7th**. This is one of two annual fundraisers (pie sale in fall, cookie dough in spring) where students can earn money toward 6th and 8th grade class trips. Participation is voluntary, and profits are kept in individual student accounts until needed for trip expenses. Visit the provided **[LINK](https://www.talawanda.org/o/tms/article/709641)** for more information on how to participate.",
+    "event_info": [
+      {
+        "title": "TMS PTG Pie & Butter Braid Sale",
+        "start": "2024-10-15T00:00:00",
+        "end": "2024-10-15T23:59:00",
+        "description": "The **TMS PTG Pie & Butter Braid Sale** runs from **October 15th - November 7th**. This is one of two annual fundraisers (pie sale in fall, cookie dough in spring) where students can earn money toward",
+        "location": "Talawanda Middle School"
+      }
+    ]
+  },
+  {
+    "title": "TMS Fall Festival 2-Liter Donation Request",
+    "block_id": "bcz46n3i0c",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/dpf05-wickedly-good-updates?ref=email",
+    "source_title": "Wickedly Good Updates! | Smore Newsletters for Education",
+    "date": "2025-10-16T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "zoom_out_map\n            \nDonation Request: 2 Liters, Please!\nThe TMS Fall Festival is coming up on October 24. This is a fun, after school event planned by the Student Council. To help support 6th grade activities throughout the year, we will be hosting a \"Pop Toss\" game. If you are able, please consider donating 2-Liters (any flavor or variety!). Donations can be sent to school with your student and given to myself or a science teacher. Thank you in advance for your help!",
+        "id": "bcz46n3i0c"
+      }
+    ],
+    "hash": "bcz46n3i0c",
+    "summary": "The **TMS Fall Festival** is scheduled for **October 24** as an after-school event organized by Student Council. Families are asked to **donate 2-liter bottles** (any flavor or variety) to support the \"Pop Toss\" game, which will raise funds for 6th grade activities throughout the year. Donations can be sent to school with students and given to the requester or any science teacher.",
+    "event_info": [
+      {
+        "title": "TMS Fall Festival",
+        "start": "2024-10-24T00:00:00",
+        "end": "2024-10-24T01:00:00",
+        "description": "The **TMS Fall Festival** is scheduled for **October 24** as an after-school event organized by Student Council. Families are asked to **donate 2-liter bottles** (any flavor or variety) to support the",
+        "location": "Talawanda Middle School"
+      }
+    ]
+  },
+  {
+    "title": "No Help Sessions October 21st and 23rd",
+    "block_id": "bdkny6foe1-b1x2mem71x",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/5b66/ef4830312f4d886fd0dfac029abde7ea.png"
+    ],
+    "source_url": "https://app.smore.com/n/dpf05-wickedly-good-updates?ref=email",
+    "source_title": "Wickedly Good Updates! | Smore Newsletters for Education",
+    "date": "2025-10-16T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "NO \n\nHELP \n\nSESSIONS \n\nON \n\nTUESDAY, \n\nOCTOBER \n\n21ST \n\nOR \n\nTHURSDAY, \n\nOCTOBER \n\n23RD!!\n\nNO HELP SESSIONS ON TUESDAY, OCTOBER 21ST OR THURSDAY, OCTOBER 23RD!!",
+        "id": "bdkny6foe1"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/5b66/ef4830312f4d886fd0dfac029abde7ea.png",
+        "id": "b1x2mem71x"
+      }
+    ],
+    "hash": "bdkny6foe1-b1x2mem71x",
+    "summary": "**Help sessions are cancelled on Tuesday, October 21st and Thursday, October 23rd.** \n\nThese sessions normally occur on Tuesdays and Thursdays after school to help students complete missed assignments. Students who miss assignments during the week receive a \"green slip\" on Friday listing incomplete work and are automatically scheduled for the following week's help session, with parents receiving email notification."
+  },
+  {
+    "title": "ADHD Research Study for 5th Graders",
+    "block_id": "b35p9u2rv2",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/gzb3n2-spooktacular-updates?ref=email",
+    "source_title": "Spooktacular Updates! | Smore Newsletters for Education",
+    "date": "2025-10-10T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "The Cincinnati Children’s RISE: Resilience In Student Education project is offering an important research opportunity focused on understanding and promoting resilience among 5th grade students with ADHD or who experience difficulties with paying attention or hyperactive/impulsive behaviors. Caregivers and students can receive up to $320 for completing questionnaires about academics, organization skills, and social-emotional well-being. Complete our interest form: https://redcap.link/RISEstudy. Contact RISE at RISEstudy@cchmc.org, call 513-803-6321, or visit: studentresilience.orgLINK to Flyer",
+        "id": "b35p9u2rv2"
+      }
+    ],
+    "hash": "b35p9u2rv2",
+    "summary": "Cincinnati Children's **RISE (Resilience In Student Education)** project is recruiting 5th grade students with ADHD or attention/hyperactivity difficulties for a research study on resilience. Caregivers and students can **earn up to $320** for completing questionnaires about academics, organization skills, and social-emotional well-being. \n\n**Contact:** Complete [interest form](https://redcap.link/RISEstudy), email RISEstudy@cchmc.org, call 513-803-6321, or visit studentresilience.org"
+  },
+  {
+    "title": "Community Information Section",
+    "block_id": "b4sxk7wzp2",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/gzb3n2-spooktacular-updates?ref=email",
+    "source_title": "Spooktacular Updates! | Smore Newsletters for Education",
+    "date": "2025-10-10T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "~ \n\nCOMMUNITY \n\nINFORMATION \n\n~\n\n~ COMMUNITY INFORMATION ~",
+        "id": "b4sxk7wzp2"
+      }
+    ],
+    "hash": "b4sxk7wzp2",
+    "summary": "This is a section header for community information and announcements. No specific content, events, or details are provided in this item."
+  },
+  {
+    "title": "Community Foundation Supports Project Reboot Program",
+    "block_id": "bqi16k74y7",
+    "content": "",
+    "images": [],
+    "source_url": "https://secure.smore.com/n/5hz4e-spooky-season-is-here?ref=email",
+    "source_title": "Spooky season is here!! | Smore Newsletters for Education",
+    "date": "2025-10-03T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "A special thank you to the Oxford Community Foundation, and DRS Smith Advised Fund for supporting the Project Reboot Assemblies Program in the amount of $4000. The district, the curriculum team, and our secondary schools are very grateful for the support!",
+        "id": "bqi16k74y7"
+      }
+    ],
+    "hash": "bqi16k74y7",
+    "summary": "The **Oxford Community Foundation** and **DRS Smith Advised Fund** donated **$4,000** to support the **Project Reboot Assemblies Program** at Talawanda schools. The district, curriculum team, and secondary schools express gratitude for this generous support."
+  },
+  {
+    "title": "Ride & Dine with BCRTA Community Event",
+    "block_id": "b4sxk7wzp2-bnhcrayevq",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/700a/8a7b081a3eedec982ecfabfb55d3dd13.png"
+    ],
+    "source_url": "https://secure.smore.com/n/5hz4e-spooky-season-is-here?ref=email",
+    "source_title": "Spooky season is here!! | Smore Newsletters for Education",
+    "date": "2025-10-03T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "~ \n\nCOMMUNITY \n\nINFORMATION \n\n~\n\n~ COMMUNITY INFORMATION ~",
+        "id": "b4sxk7wzp2"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/700a/8a7b081a3eedec982ecfabfb55d3dd13.png",
+        "id": "bnhcrayevq"
+      }
+    ],
+    "hash": "b4sxk7wzp2-bnhcrayevq",
+    "summary": "**BCRTA (Butler County Regional Transit Authority) is hosting a free community event** on October 6th at 5pm. The evening includes:\n- An info session at Oxford Seniors to learn about BCRTA services\n- A free roundtrip bus ride uptown\n- An intergenerational dinner at Fiesta Charra (participants pay for their own meals)\n- Opportunity to connect with community members\n\nThe event is free, but attendees are responsible for their own meal costs.",
+    "event_info": [
+      {
+        "title": "Ride & Dine with BCRTA - Info Session and Bus Ride",
+        "start": "2024-10-06T17:00:00",
+        "end": "2024-10-06T18:00:00",
+        "description": "**BCRTA (Butler County Regional Transit Authority) is hosting a free community event** on October 6th at 5pm. The evening includes:\n- An info session at Oxford Seniors to learn about BCRTA services\n- ",
+        "location": "Oxford Seniors (info session), followed by bus ride and dinner at Fiesta Charra"
+      }
+    ]
+  },
+  {
+    "title": "Tuesday/Thursday Help Sessions for Missing Assignments",
+    "block_id": "bjka4x1zjk-b1x2mem71x",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/5b66/ef4830312f4d886fd0dfac029abde7ea.png"
+    ],
+    "source_url": "https://secure.smore.com/n/ft3nc-back-in-the-swing-of-things?ref=email",
+    "source_title": "Back in the Swing of Things! | Smore Newsletters for Education",
+    "date": "2025-09-29T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "~ \n\nClassroom \n\nNews \n\n~\n\n~ Classroom News ~",
+        "id": "bjka4x1zjk"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/5b66/ef4830312f4d886fd0dfac029abde7ea.png",
+        "id": "b1x2mem71x"
+      }
+    ],
+    "hash": "bjka4x1zjk-b1x2mem71x",
+    "summary": "Students who miss assignments during the week will receive a **green slip on Friday** listing outstanding work. They will be **automatically scheduled for after-school help sessions** the following Tuesday or Thursday to complete the work. Parents will receive an email notification. Students can either complete the work before the session or attend to get teacher help."
   }
 ]
