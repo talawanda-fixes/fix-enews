@@ -385,6 +385,40 @@
     ]
   },
   {
+    "title": "Tech Healthy Household Parent Presentation",
+    "block_id": "bwk8x8y5ub-bhm02jl6be",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/5147/1c75ae739385bd03020f2acabede0f54.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/buhag-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2025-10-15T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Around \n\nTalawanda\n\nAround Talawanda",
+        "id": "bwk8x8y5ub"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/5147/1c75ae739385bd03020f2acabede0f54.jpeg",
+        "id": "bhm02jl6be"
+      }
+    ],
+    "hash": "bwk8x8y5ub-bhm02jl6be",
+    "summary": "**Project Reboot + Talawanda School District** presents \"Keys to Building a Tech Healthy Household\" on **Tuesday, November 18th from 6-7:30 PM at Talawanda High School**. This engaging 60-minute presentation plus 30-minute Q&A, hosted by Dino Ambrosi (Founder of Project Reboot), will cover:\n- **Tech Addiction**: Why it happens and how to overcome it\n- **How to Discuss Screen Time**: Conversations with kids without eye rolling\n- **Practical Tips**: Maintaining balanced relationships with technology\n\nAll attendees receive actionable take-home resources and dinner table discussion guides. Event supported by Greater Oxford Community Foundation. More info: https://projectreboot.school",
+    "event_info": [
+      {
+        "title": "Keys to Building a Tech Healthy Household",
+        "start": "2025-11-18T18:00:00",
+        "end": "2025-11-18T19:30:00",
+        "description": "**Project Reboot + Talawanda School District** presents \"Keys to Building a Tech Healthy Household\" on **Tuesday, November 18th from 6-7:30 PM at Talawanda High School**. This engaging 60-minute prese",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
     "title": "Join PTG Remind for Updates",
     "block_id": "bpx42aowpj-bxajy0pejr-b2rpwhbne0-b5getueccr",
     "content": "",
@@ -420,38 +454,34 @@
     "summary": "**Stay connected with the Bogan PTG** by joining their Remind group for quick updates, event reminders, and volunteer opportunities sent directly to your phone. This service provides short, timely texts so you don't have to search through emails. \n\n**Join here:** https://www.remind.com/join/boganpt?utm_medium=android\n\nA QR code is also available for easy sign-up."
   },
   {
-    "title": "Tech Healthy Household Parent Presentation",
-    "block_id": "bwk8x8y5ub-bhm02jl6be",
+    "title": "Join Bogan PTG on Remind",
+    "block_id": "bxajy0pejr-b2rpwhbne0-b5getueccr",
     "content": "",
     "images": [
-      "https://cdn.smore.com/u/5147/1c75ae739385bd03020f2acabede0f54.jpeg"
+      "https://cdn.smore.com/u/9e34/e26bf0f5287333eb1234e68b41fbd8bd.png"
     ],
-    "source_url": "https://app.smore.com/n/buhag-bogan-weekly-news",
+    "source_url": "https://app.smore.com/n/wxue8-bogan-weekly-news",
     "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2025-10-15T00:00:00+00:00",
+    "date": "2025-10-10T00:00:00+00:00",
     "blocks": [
       {
         "type": "text.title",
-        "content": "Around \n\nTalawanda\n\nAround Talawanda",
-        "id": "bwk8x8y5ub"
+        "content": "Stay \n\nin \n\nthe \n\nLoop \n\nwith \n\nRemind \n\n📱\n\n Stay in the Loop with Remind 📱",
+        "id": "bxajy0pejr"
       },
       {
         "type": "image.single",
-        "url": "https://cdn.smore.com/u/5147/1c75ae739385bd03020f2acabede0f54.jpeg",
-        "id": "bhm02jl6be"
+        "url": "https://cdn.smore.com/u/9e34/e26bf0f5287333eb1234e68b41fbd8bd.png",
+        "id": "b2rpwhbne0"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Want quick updates, volunteer opportunities, and event reminders from the PTG? Join our Remind group for short, timely texts without having to dig through emails: https://www.remind.com/join/boganpt?utm_medium=android",
+        "id": "b5getueccr"
       }
     ],
-    "hash": "bwk8x8y5ub-bhm02jl6be",
-    "summary": "**Project Reboot + Talawanda School District** presents \"Keys to Building a Tech Healthy Household\" on **Tuesday, November 18th from 6-7:30 PM at Talawanda High School**. This engaging 60-minute presentation plus 30-minute Q&A, hosted by Dino Ambrosi (Founder of Project Reboot), will cover:\n- **Tech Addiction**: Why it happens and how to overcome it\n- **How to Discuss Screen Time**: Conversations with kids without eye rolling\n- **Practical Tips**: Maintaining balanced relationships with technology\n\nAll attendees receive actionable take-home resources and dinner table discussion guides. Event supported by Greater Oxford Community Foundation. More info: https://projectreboot.school",
-    "event_info": [
-      {
-        "title": "Keys to Building a Tech Healthy Household",
-        "start": "2025-11-18T18:00:00",
-        "end": "2025-11-18T19:30:00",
-        "description": "**Project Reboot + Talawanda School District** presents \"Keys to Building a Tech Healthy Household\" on **Tuesday, November 18th from 6-7:30 PM at Talawanda High School**. This engaging 60-minute prese",
-        "location": "Talawanda High School"
-      }
-    ]
+    "hash": "bxajy0pejr-b2rpwhbne0-b5getueccr",
+    "summary": "Stay connected with **Bogan PTG** through Remind to receive updates, event reminders, and volunteer opportunities directly to your phone via text message. Join by scanning the QR code or using this link: https://www.remind.com/join/boganpt?utm_medium=android\n\nNo need to sort through emails—get short, timely notifications straight to your phone!"
   },
   {
     "title": "Halloween Celebration at Bogan Elementary",
@@ -590,36 +620,6 @@
         "location": "Talawanda High School"
       }
     ]
-  },
-  {
-    "title": "Join Bogan PTG on Remind",
-    "block_id": "bxajy0pejr-b2rpwhbne0-b5getueccr",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/9e34/e26bf0f5287333eb1234e68b41fbd8bd.png"
-    ],
-    "source_url": "https://app.smore.com/n/wxue8-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2025-10-10T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Stay \n\nin \n\nthe \n\nLoop \n\nwith \n\nRemind \n\n📱\n\n Stay in the Loop with Remind 📱",
-        "id": "bxajy0pejr"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/9e34/e26bf0f5287333eb1234e68b41fbd8bd.png",
-        "id": "b2rpwhbne0"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Want quick updates, volunteer opportunities, and event reminders from the PTG? Join our Remind group for short, timely texts without having to dig through emails: https://www.remind.com/join/boganpt?utm_medium=android",
-        "id": "b5getueccr"
-      }
-    ],
-    "hash": "bxajy0pejr-b2rpwhbne0-b5getueccr",
-    "summary": "Stay connected with **Bogan PTG** through Remind to receive updates, event reminders, and volunteer opportunities directly to your phone via text message. Join by scanning the QR code or using this link: https://www.remind.com/join/boganpt?utm_medium=android\n\nNo need to sort through emails—get short, timely notifications straight to your phone!"
   },
   {
     "title": "Annual Veterans Day Breakfast and Assembly",

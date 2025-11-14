@@ -159,7 +159,7 @@
         // Load schools configuration
         async function loadSchools() {
             try {
-                const response = await fetch('schools.json');
+                const response = await fetch('newsletters.json');
                 if (!response.ok) {
                     throw new Error('Failed to load schools configuration');
                 }
