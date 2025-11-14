@@ -1,5 +1,30 @@
 [
   {
+    "title": "RAH Cart Volunteers Needed by PTG",
+    "block_id": "bpx42aowpj-b9moiccbh8",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/e144/723b24904c6c1efdc6a7fe9365b9be48.png"
+    ],
+    "source_url": "https://app.smore.com/n/gvx2zu-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2025-11-14T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PTG \n\nCorner\n\nPTG Corner",
+        "id": "bpx42aowpj"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/e144/723b24904c6c1efdc6a7fe9365b9be48.png",
+        "id": "b9moiccbh8"
+      }
+    ],
+    "hash": "bpx42aowpj-b9moiccbh8",
+    "summary": "The PTG is seeking **RAH Cart volunteers** to help distribute RAH Cart Prizes once a month on Friday mornings. Interested volunteers should email the PTG at **BoganPTG@gmail.com** to get involved."
+  },
+  {
     "title": "Lost and Found Reminder Before Winter Break",
     "block_id": "bjqvo7kz71-b7suj6dsz8",
     "content": "",
@@ -654,39 +679,5 @@
     ],
     "hash": "b0ymd04rtj",
     "summary": "**Cincinnati Children's RISE** (Resilience In Student Education) is conducting a research study for 5th grade students with ADHD or attention/hyperactivity challenges. Caregivers and students can **earn up to $320** for completing questionnaires about academics, organization skills, and social-emotional well-being. \n\n**To participate:**\n- Complete the interest form: https://redcap.link/RISEstudy\n- Email: RISEstudy@cchmc.org\n- Call: 513-803-6321\n- Visit: studentresilience.org"
-  },
-  {
-    "title": "FCCLA Trunk or Treat Event",
-    "block_id": "b9iy6nrk7c-bk141694zz",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/cbb5/ec0cb8162dab1d138d042c7510c0e5e1.png"
-    ],
-    "source_url": "https://secure.smore.com/n/s3h2n-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2025-10-03T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "FCCLA is once again sponsoring Trunk or Treat at Talawanda High School. If you and/or your organization is interested in handing out treats, please click the link or scan the QR code on the flyer.TRUNK or TREAT SIgn Up",
-        "id": "b9iy6nrk7c"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/cbb5/ec0cb8162dab1d138d042c7510c0e5e1.png",
-        "id": "bk141694zz"
-      }
-    ],
-    "hash": "b9iy6nrk7c-bk141694zz",
-    "summary": "**FCCLA is sponsoring Trunk or Treat at Talawanda High School on Tuesday, October 28th from 6:00-7:30 PM.** The event is sponsored by BT/Talawanda FCCLA and requires FSD approval for distribution. If you or your organization would like to have a \"trunk spot\" to hand out treats, scan the QR code or click the [sign-up link](TRUNK or TREAT SIgn Up) to complete the form.",
-    "event_info": [
-      {
-        "title": "FCCLA Trunk or Treat",
-        "start": "2025-10-28T18:00:00",
-        "end": "2025-10-28T19:30:00",
-        "description": "**FCCLA is sponsoring Trunk or Treat at Talawanda High School on Tuesday, October 28th from 6:00-7:30 PM.** The event is sponsored by BT/Talawanda FCCLA and requires FSD approval for distribution. If ",
-        "location": "Talawanda High School"
-      }
-    ]
   }
 ]
