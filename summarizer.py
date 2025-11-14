@@ -281,7 +281,10 @@ Please provide:
    - Preserves important dates, times, locations, and links
    - Extracts and conveys information from images (do NOT say "the image shows", just state the information)
    - Uses markdown formatting (bold, lists, links, etc.) for readability
-3. If this item describes one or more events (meetings, games, performances, deadlines, etc.), extract the event information
+3. If this item describes one or more events (meetings, games, performances, deadlines, school activities, special days, assemblies, etc.) that occur on specific dates, extract the event information
+   - For dates without a year (like "November 14th"), infer the most likely year based on context
+   - School newsletters are typically published close to event dates, so assume current or next year
+   - If a month/day is mentioned, that's sufficient to extract as an event (infer the year as needed)
 
 Format your response EXACTLY as:
 TITLE: [your improved title here]
@@ -293,10 +296,10 @@ EVENTS: [number of events, or 0 if none]
 [If EVENTS > 0, for each event provide:]
 ---EVENT [number]---
 TITLE: [specific event title]
-DATE: [YYYY-MM-DD format, or "unknown" if not specified]
-TIME: [HH:MM in 24-hour format, or "unknown" if not specified]
-END_TIME: [HH:MM in 24-hour format, or "unknown" if not specified or not applicable]
-LOCATION: [location text, or "unknown" if not specified]
+DATE: [YYYY-MM-DD format - infer year if not explicitly stated, use current year or next occurrence]
+TIME: [HH:MM in 24-hour format, or "unknown" if not specified, or "00:00" for all-day events]
+END_TIME: [HH:MM in 24-hour format, or "unknown" if not specified, or "23:59" for all-day events]
+LOCATION: [location text, or "Talawanda High School" if not specified but clearly a school event]
 """
 
     # Build message content with text and images
