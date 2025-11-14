@@ -61,12 +61,24 @@ def _fetch_and_encode_image(url: str) -> Optional[Dict]:
         return None
 
 
+def _sanitize_cache_filename(block_id: str) -> str:
+    """Sanitize block_id for use as a cache filename by replacing invalid path characters"""
+    import hashlib
+    # For blog posts with URLs, use hash to avoid path separator issues
+    if block_id.startswith('blog_post_'):
+        # Use hash of the full block_id for blog posts to avoid path issues
+        return hashlib.md5(block_id.encode()).hexdigest()
+    # For newsletter block IDs (like "abc123-def456"), use as-is
+    return block_id
+
+
 def _load_summary_from_cache(block_id: str) -> Optional[Dict]:
     """Load summary, title, and event info from cache if available"""
     from datetime import datetime
 
     CACHE_DIR.mkdir(parents=True, exist_ok=True)
-    cache_file = CACHE_DIR / f"{block_id}.json"
+    cache_filename = _sanitize_cache_filename(block_id)
+    cache_file = CACHE_DIR / f"{cache_filename}.json"
 
     if cache_file.exists():
         try:
@@ -112,7 +124,8 @@ def _load_summary_from_cache(block_id: str) -> Optional[Dict]:
 def _save_summary_to_cache(block_id: str, summary: str, title: str = '', event_info = None):
     """Save summary, title, and event info to cache"""
     CACHE_DIR.mkdir(parents=True, exist_ok=True)
-    cache_file = CACHE_DIR / f"{block_id}.json"
+    cache_filename = _sanitize_cache_filename(block_id)
+    cache_file = CACHE_DIR / f"{cache_filename}.json"
 
     cache_data = {
         'block_id': block_id,
