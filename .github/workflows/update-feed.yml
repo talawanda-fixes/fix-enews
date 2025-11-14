@@ -49,8 +49,8 @@ jobs:
       - name: Generate Docker image cache key
         id: docker-cache-key
         run: |
-          # Create hash of Dockerfile and requirements.txt
-          HASH=$(cat Dockerfile requirements.txt | sha256sum | cut -d' ' -f1)
+          # Create hash of Dockerfile, requirements.txt, and schools.json
+          HASH=$(cat Dockerfile requirements.txt schools.json | sha256sum | cut -d' ' -f1)
           echo "hash=$HASH" >> $GITHUB_OUTPUT
           echo "Docker image hash: $HASH"
 
