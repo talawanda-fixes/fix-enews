@@ -10,55 +10,7 @@ import re
 from pathlib import Path
 from datetime import datetime
 
-PARSED_CACHE_DIR = Path("cache/parsed")
-
-
-def _get_newsletter_cache_key(newsletter: Dict) -> str:
-    """Generate cache key for a newsletter based on URL"""
-    url = newsletter.get('url', '')
-    return hashlib.md5(url.encode()).hexdigest()
-
-
-def _load_parsed_items_from_cache(newsletter: Dict) -> List[Dict]:
-    """Load parsed items for a newsletter from cache if available"""
-    PARSED_CACHE_DIR.mkdir(parents=True, exist_ok=True)
-    cache_key = _get_newsletter_cache_key(newsletter)
-    cache_file = PARSED_CACHE_DIR / f"{cache_key}.json"
-
-    if cache_file.exists():
-        try:
-            with open(cache_file, 'r', encoding='utf-8') as f:
-                cached_items = json.load(f)
-                # Convert date strings back to datetime objects
-                for item in cached_items:
-                    if 'date' in item and item['date']:
-                        item['date'] = datetime.fromisoformat(item['date'])
-                return cached_items
-        except Exception:
-            return None
-    return None
-
-
-def _save_parsed_items_to_cache(newsletter: Dict, items: List[Dict]):
-    """Save parsed items for a newsletter to cache"""
-    PARSED_CACHE_DIR.mkdir(parents=True, exist_ok=True)
-    cache_key = _get_newsletter_cache_key(newsletter)
-    cache_file = PARSED_CACHE_DIR / f"{cache_key}.json"
-
-    # Convert items to JSON-serializable format
-    serializable_items = []
-    for item in items:
-        serializable_item = item.copy()
-        # Remove soup object if present
-        if 'soup' in serializable_item:
-            del serializable_item['soup']
-        # Convert datetime to ISO format
-        if 'date' in serializable_item and isinstance(serializable_item['date'], datetime):
-            serializable_item['date'] = serializable_item['date'].isoformat()
-        serializable_items.append(serializable_item)
-
-    with open(cache_file, 'w', encoding='utf-8') as f:
-        json.dump(serializable_items, f, ensure_ascii=False, indent=2)
+from common.cache import load_parsed_items_from_cache, save_parsed_items_to_cache
 
 
 def extract_origin_blog_url(soup) -> Optional[str]:
@@ -144,7 +96,7 @@ def parse_newsletters(newsletters: List[Dict]) -> List[Dict]:
 
     for newsletter in newsletters:
         # Try to load from cache first
-        cached_items = _load_parsed_items_from_cache(newsletter)
+        cached_items = load_parsed_items_from_cache(newsletter)
         if cached_items:
             all_items.extend(cached_items)
             cached_count += 1
@@ -204,7 +156,7 @@ def parse_newsletters(newsletters: List[Dict]) -> List[Dict]:
                 newsletter_items.append(blog_item)
 
             # Save to cache
-            _save_parsed_items_to_cache(newsletter, newsletter_items)
+            save_parsed_items_to_cache(newsletter, newsletter_items)
             continue
 
         # Handle newsletter (original logic)
@@ -321,7 +273,7 @@ def parse_newsletters(newsletters: List[Dict]) -> List[Dict]:
 
         # Save parsed items for this newsletter to cache
         if newsletter_items:
-            _save_parsed_items_to_cache(newsletter, newsletter_items)
+            save_parsed_items_to_cache(newsletter, newsletter_items)
 
     print(f"\nExtracted {len(all_items)} items total ({cached_count} from cache, {parsed_count} newly parsed)")
     return all_items

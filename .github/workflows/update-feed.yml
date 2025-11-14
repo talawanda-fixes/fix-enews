@@ -21,7 +21,7 @@ permissions:
   id-token: write
 
 jobs:
-  # Job to read school list from schools.json
+  # Job to read school list from newsletters.json
   setup:
     runs-on: ubuntu-latest
     outputs:
@@ -30,10 +30,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set matrix from schools.json
+      - name: Set matrix from newsletters.json
         id: set-matrix
         run: |
-          SCHOOLS=$(jq -c '[.[].slug]' schools.json)
+          SCHOOLS=$(jq -c '[.[].slug]' newsletters.json)
           echo "schools=$SCHOOLS" >> $GITHUB_OUTPUT
           echo "Schools to process: $SCHOOLS"
 
@@ -140,7 +140,7 @@ jobs:
             -v $(pwd):/app \
             -e ANTHROPIC_API_KEY="${{ secrets.ANTHROPIC_API_KEY }}" \
             talawanda-enews:latest \
-            python main.py --school ${{ matrix.school }}
+            python -m newsletter_feed.main --school ${{ matrix.school }}
 
       - name: Save newsletters cache for ${{ matrix.school }}
         if: always()
@@ -187,8 +187,8 @@ jobs:
       - name: Combine feeds into output directory
         run: |
           mkdir -p output
-          # Copy schools.json
-          cp schools.json output/
+          # Copy newsletters.json
+          cp newsletters.json output/
           # Copy all feed files from artifacts
           find output-artifacts -name "*.rss" -exec cp {} output/ \;
           find output-artifacts -name "*.json" -exec cp {} output/ \;
@@ -196,7 +196,7 @@ jobs:
 
       - name: Generate index.html
         run: |
-          python generate_index.py
+          python -m newsletter_feed.generate_index
           ls -la output/
 
       - name: Deploy to GitHub Pages

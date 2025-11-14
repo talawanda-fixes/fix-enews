@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Generate index.html and viewer.html for RSS feeds based on schools.json
+Generate index.html and viewer.html for RSS feeds based on newsletters.json
 """
 
 import json
@@ -10,9 +10,9 @@ from jinja2 import Environment, FileSystemLoader
 
 def generate_pages():
     """Generate index.html and viewer.html from templates"""
-    # Load schools
-    schools_file = Path('schools.json')
-    with open(schools_file, 'r', encoding='utf-8') as f:
+    # Load schools from newsletters.json
+    newsletters_file = Path(__file__).parent.parent / 'newsletters.json'
+    with open(newsletters_file, 'r', encoding='utf-8') as f:
         schools = json.load(f)
 
     # Setup Jinja2 environment
@@ -39,10 +39,10 @@ def generate_pages():
         f.write(viewer_html)
     print(f"Generated {viewer_file}")
 
-    # Copy schools.json to output directory for viewer to fetch
-    schools_output = output_dir / 'schools.json'
-    shutil.copy(schools_file, schools_output)
-    print(f"Copied {schools_output}")
+    # Copy newsletters.json to output directory for viewer to fetch
+    newsletters_output = output_dir / 'newsletters.json'
+    shutil.copy(newsletters_file, newsletters_output)
+    print(f"Copied {newsletters_output}")
 
 if __name__ == '__main__':
     generate_pages()

@@ -4,7 +4,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This Python automation script scrapes Talawanda School District newsletters and blog posts, extracts individual news items, deduplicates them across sources, and generates RSS feeds with AI-powered summaries and calendar links. Supports multiple schools via `schools.json` configuration. Runs via GitHub Actions on a schedule and publishes to GitHub Pages.
+This Python automation framework supports multiple independent "scrape, parse, analyze, publish" pipelines. Currently implements:
+- **newsletter_feed**: Scrapes Talawanda School District newsletters/blog posts → AI summaries → RSS feeds
+- **menu_calendar** (stub): Future pipeline for scraping school menu calendars → ICS files
+
+Configuration via `newsletters.json`. Runs via GitHub Actions, publishes to GitHub Pages.
 
 ## Commit Message Guidelines
 
@@ -27,19 +31,19 @@ source venv/bin/activate  # Linux/Mac
 pip install -r requirements.txt
 ```
 
-### Running the Script
+### Running the Newsletter Feed Pipeline
 ```bash
 # Set your Anthropic API key (required for AI summaries)
 export ANTHROPIC_API_KEY='your-api-key-here'
 
-# Run for all schools (configured in schools.json)
-python main.py
+# Run for all schools (configured in newsletters.json)
+python -m newsletter_feed.main
 
 # Run for a specific school
-python main.py --school ths
+python -m newsletter_feed.main --school ths
 
 # Limit number of items (useful for testing)
-python main.py --school ths --limit 10
+python -m newsletter_feed.main --school ths --limit 10
 
 # Outputs per school:
 # - output/{school-slug}-feed.rss (RSS 2.0 feed with AI-generated summaries and calendar links)
@@ -49,32 +53,74 @@ python main.py --school ths --limit 10
 ### Testing Individual Components
 ```python
 # Test scraper
-from scraper import get_newsletter_links, fetch_newsletter
+from common.scraper import get_newsletter_links, fetch_newsletters
 links = get_newsletter_links()
-newsletter = fetch_newsletter(links[0])
+newsletters = fetch_newsletters()
 
 # Test parser
-from parser import parse_newsletters, deduplicate_items
-items = parse_newsletters([newsletter])
+from common.parser import parse_newsletters, deduplicate_items
+items = parse_newsletters(newsletters)
 unique = deduplicate_items(items)
 
 # Test feed generation
-from feed_generator import generate_feed
-generate_feed(unique, "test_feed.rss")
+from newsletter_feed.feed_generator import generate_feed
+generate_feed(unique, "test_feed.rss", "Test School")
+```
+
+### Running Tests
+```bash
+# Run all tests
+pytest
+
+# Run specific test module
+pytest tests/common/test_scraper.py
+
+# Run with coverage
+pytest --cov=common --cov=newsletter_feed
 ```
 
 ## Architecture
 
-### Data Flow
-1. **Scraper** (`scraper.py`) - Fetches newsletters and blog posts from school blogs, using Selenium for Smore newsletters
-2. **Parser** (`parser.py`) - Extracts individual items from sources and deduplicates using block IDs
-3. **Summarizer** (`summarizer.py`) - Generates AI summaries with event detection and calendar link generation
-4. **Feed Generator** (`feed_generator.py`) - Creates RSS 2.0 feed with HTML content and calendar links
+### Project Structure
+```
+project/
+├── common/                      # Shared utilities across use cases
+│   ├── rate_limiter.py         # HTTP rate limiting
+│   ├── cache.py                # Three-tier caching (newsletters, parsed, summaries)
+│   ├── scraper.py              # HTTP + Selenium fetching
+│   ├── parser.py               # HTML parsing + deduplication
+│   └── ai_integration.py       # Anthropic client + vision API
+│
+├── newsletter_feed/             # Newsletter → RSS pipeline
+│   ├── main.py                 # Entry point
+│   ├── summarizer.py           # AI summarization with event detection
+│   ├── feed_generator.py       # RSS 2.0 generation
+│   ├── calendar_helper.py      # Calendar link generation
+│   ├── generate_index.py       # Static site generation
+│   └── templates/              # HTML templates
+│
+├── menu_calendar/               # Menu → ICS pipeline (stub)
+│   └── main.py                 # Placeholder
+│
+├── tests/                       # Test suite
+│   ├── common/                 # Tests for shared utilities
+│   ├── newsletter_feed/        # Tests for newsletter pipeline
+│   └── fixtures/               # Test data
+│
+├── newsletters.json             # Configuration for newsletter sources
+└── requirements.txt
+```
+
+### Newsletter Feed Data Flow
+1. **Scraper** (`common.scraper`) - Fetches newsletters and blog posts from school blogs, using Selenium for Smore newsletters
+2. **Parser** (`common.parser`) - Extracts individual items from sources and deduplicates using block IDs
+3. **Summarizer** (`newsletter_feed.summarizer`) - Generates AI summaries with event detection and calendar link generation
+4. **Feed Generator** (`newsletter_feed.feed_generator`) - Creates RSS 2.0 feed with HTML content and calendar links
 5. **GitHub Actions** - Builds Docker image, runs pipeline per school, publishes to GitHub Pages
 
 ### Key Components
 
-**summarizer.py**:
+**newsletter_feed/summarizer.py**:
 - Uses Claude (model: claude-sonnet-4-5-20250929) with vision API to analyze newsletter items and images
 - Generates concise markdown summaries, replaces verbose text with clear descriptions
 - **Event Detection**: Automatically detects events (meetings, games, deadlines) and extracts structured data
@@ -83,8 +129,8 @@ generate_feed(unique, "test_feed.rss")
 - FAIL-HARD: Script will fail if API key is missing or summarization fails (no fallback)
 - Caches summaries by block_id in `cache/summaries/` (handles both single dict and array formats for backward compatibility)
 
-**scraper.py**:
-- Uses requests + BeautifulSoup to scrape school blog pages configured in `schools.json`
+**common/scraper.py**:
+- Uses requests + BeautifulSoup to scrape school blog pages configured in `newsletters.json`
 - Supports both Smore newsletters (`.smore.com` links) and regular blog posts
 - Uses Selenium + Chrome (headless) to render JavaScript-heavy Smore newsletters
 - Uses WebDriverWait for efficient page rendering (event-based, not fixed delays)
@@ -93,7 +139,7 @@ generate_feed(unique, "test_feed.rss")
 - **Pagination**: Follows "next page" links, stops when hitting all-cached pages for efficiency
 - Returns list of dicts with 'url', 'html', 'soup', 'title', 'date', 'type' (newsletter or blog_post)
 
-**parser.py**:
+**common/parser.py**:
 - Parses Smore HTML (`data-block-type` divs) and blog post HTML (standard HTML content)
 - For Smore: Groups by `text.title` blocks, extracts `data-block-id` for unique identification
 - For blog posts: Creates single item per post using URL-based ID
@@ -102,7 +148,7 @@ generate_feed(unique, "test_feed.rss")
 - When an item appears in multiple sources, keeps the earliest date
 - Filters noise (footer branding, empty content)
 
-**feed_generator.py**:
+**newsletter_feed/feed_generator.py**:
 - Uses feedgen library to create RSS 2.0 feed
 - Converts AI-generated markdown summaries to HTML for feed items
 - **Calendar Links**: For events, generates "Add to Calendar" links (Google Calendar, iCal, Outlook)
@@ -111,9 +157,20 @@ generate_feed(unique, "test_feed.rss")
 - REQUIRES summaries (no fallback) - will fail if summaries are missing
 - Uses block_id as GUID for RSS reader compatibility
 
-**ocr.py**:
-- Currently not implemented (placeholder for future OCR functionality)
-- Would use pytesseract for image-to-text conversion
+**common/rate_limiter.py**:
+- Implements per-host rate limiting (30 requests per 20 seconds)
+- Used by scraper to prevent overwhelming servers
+- Tracks request timestamps per host with sliding window
+
+**common/cache.py**:
+- Consolidates all caching functionality (newsletters, parsed items, summaries)
+- Three-tier cache system for optimal performance
+- Handles JSON serialization and datetime conversions
+
+**common/ai_integration.py**:
+- Anthropic API client wrapper
+- Image fetching and base64 encoding for vision API
+- Reusable across different use cases
 
 ### Smore Newsletter Structure
 
@@ -123,26 +180,31 @@ Smore newsletters are React/Svelte SPAs that require JavaScript rendering. Key H
 - Common block types: text.title (section headers), text.paragraph (text content), image.single (images)
 - Images use CDN URLs like `https://cdn.smore.com/u/thumbs/...` (replace '/thumbs/' with '/' for full size)
 
-**calendar_helper.py**:
+**newsletter_feed/calendar_helper.py**:
 - Generates calendar links for event items (Google Calendar, iCal, Outlook.com)
 - Creates properly formatted URLs with encoded event data (title, dates, location, description)
 - Used by feed_generator.py to add "Add to Calendar" functionality
 
-**main.py**:
+**newsletter_feed/main.py**:
 - Entry point that orchestrates the pipeline for each school
 - Supports `--school` and `--limit` CLI arguments
-- Loads school configurations from `schools.json`
+- Loads school configurations from `newsletters.json`
 - Handles JSON serialization of datetime objects and event_info arrays
 - Provides timing metrics for each pipeline step
+
+**newsletter_feed/generate_index.py**:
+- Generates static HTML index pages for viewing feeds
+- Uses Jinja2 templates to render school list
+- Copies newsletters.json to output directory for viewer
 
 ## GitHub Actions Workflow
 
 The `.github/workflows/update-feed.yml` workflow:
 - Runs every 6 hours (cron: '0 */6 * * *'), on push to main, and can be manually triggered
-- **Setup Job**: Reads school list from `schools.json` to create matrix
+- **Setup Job**: Reads school list from `newsletters.json` to create matrix
 - **Build Job**: Builds Docker image with hash-based caching (skips build if Dockerfile/requirements.txt unchanged)
-- **Generate Job**: Runs per school in parallel matrix, with separate cache layers per school (newsletters, summaries, parsed)
-- **Deploy Job**: Combines all school feeds and deploys to GitHub Pages
+- **Generate Job**: Runs `python -m newsletter_feed.main` per school in parallel matrix, with separate cache layers per school
+- **Deploy Job**: Combines all school feeds, runs `python -m newsletter_feed.generate_index`, deploys to GitHub Pages
 - RSS feeds available at `https://[username].github.io/[repo]/{school-slug}-feed.rss`
 
 ## Important Notes

@@ -7,7 +7,7 @@ from typing import List, Dict
 from feedgen.feed import FeedGenerator
 from datetime import datetime, timezone
 from pathlib import Path
-from calendar_helper import generate_calendar_links
+from newsletter_feed.calendar_helper import generate_calendar_links
 
 
 def generate_feed(items: List[Dict], output_file: str = "output/feed.rss",

@@ -3,164 +3,15 @@ AI-powered content summarizer
 Uses Claude to generate concise, text-only summaries of newsletter items
 """
 
-import os
-import json
 import re
-import base64
-import requests
-from pathlib import Path
-from typing import List, Dict, Optional
-from anthropic import Anthropic
+from typing import List, Dict, TYPE_CHECKING
+from datetime import datetime, timedelta
 
+from common.ai_integration import get_anthropic_client, fetch_and_encode_image
+from common.cache import load_summary_from_cache, save_summary_to_cache
 
-CACHE_DIR = Path("cache/summaries")
-
-
-def _fetch_and_encode_image(url: str) -> Optional[Dict]:
-    """
-    Fetch an image from URL and encode it as base64 for Claude vision API
-
-    Args:
-        url: Image URL
-
-    Returns:
-        Dict with vision API format, or None if fetch fails
-    """
-    try:
-        response = requests.get(url, timeout=10)
-        response.raise_for_status()
-
-        # Determine media type from content-type header
-        content_type = response.headers.get('content-type', 'image/png')
-
-        # Convert to supported media types
-        if 'jpeg' in content_type or 'jpg' in content_type:
-            media_type = 'image/jpeg'
-        elif 'png' in content_type:
-            media_type = 'image/png'
-        elif 'gif' in content_type:
-            media_type = 'image/gif'
-        elif 'webp' in content_type:
-            media_type = 'image/webp'
-        else:
-            media_type = 'image/png'  # default
-
-        # Encode image to base64
-        image_data = base64.standard_b64encode(response.content).decode('utf-8')
-
-        return {
-            "type": "image",
-            "source": {
-                "type": "base64",
-                "media_type": media_type,
-                "data": image_data
-            }
-        }
-    except Exception as e:
-        print(f"    Warning: Failed to fetch image {url}: {e}")
-        return None
-
-
-def _sanitize_cache_filename(block_id: str) -> str:
-    """Sanitize block_id for use as a cache filename by replacing invalid path characters"""
-    import hashlib
-    # For blog posts with URLs, use hash to avoid path separator issues
-    if block_id.startswith('blog_post_'):
-        # Use hash of the full block_id for blog posts to avoid path issues
-        return hashlib.md5(block_id.encode()).hexdigest()
-    # For newsletter block IDs (like "abc123-def456"), use as-is
-    return block_id
-
-
-def _load_summary_from_cache(block_id: str) -> Optional[Dict]:
-    """Load summary, title, and event info from cache if available"""
-    from datetime import datetime
-
-    CACHE_DIR.mkdir(parents=True, exist_ok=True)
-    cache_filename = _sanitize_cache_filename(block_id)
-    cache_file = CACHE_DIR / f"{cache_filename}.json"
-
-    if cache_file.exists():
-        try:
-            with open(cache_file, 'r', encoding='utf-8') as f:
-                cached = json.load(f)
-                # Return dict with title, summary, and event_info
-                result = {
-                    'title': cached.get('title', ''),
-                    'summary': cached.get('summary', '')
-                }
-                if 'event_info' in cached:
-                    # Convert ISO format strings back to datetime objects
-                    event_info = cached['event_info']
-
-                    # Handle both single event (dict) and multiple events (list) for backward compatibility
-                    if isinstance(event_info, dict):
-                        # Single event - convert to single-item list
-                        result['event_info'] = [{
-                            'title': event_info['title'],
-                            'start': datetime.fromisoformat(event_info['start']),
-                            'end': datetime.fromisoformat(event_info['end']),
-                            'description': event_info['description'],
-                            'location': event_info['location']
-                        }]
-                    elif isinstance(event_info, list):
-                        # Multiple events
-                        result['event_info'] = [
-                            {
-                                'title': ev['title'],
-                                'start': datetime.fromisoformat(ev['start']),
-                                'end': datetime.fromisoformat(ev['end']),
-                                'description': ev['description'],
-                                'location': ev['location']
-                            }
-                            for ev in event_info
-                        ]
-                return result
-        except Exception:
-            return None
-    return None
-
-
-def _save_summary_to_cache(block_id: str, summary: str, title: str = '', event_info = None):
-    """Save summary, title, and event info to cache"""
-    CACHE_DIR.mkdir(parents=True, exist_ok=True)
-    cache_filename = _sanitize_cache_filename(block_id)
-    cache_file = CACHE_DIR / f"{cache_filename}.json"
-
-    cache_data = {
-        'block_id': block_id,
-        'title': title,
-        'summary': summary
-    }
-
-    if event_info:
-        # Convert datetime objects to ISO format strings for JSON serialization
-        # Handle both single event (dict) and multiple events (list)
-        if isinstance(event_info, dict):
-            # Single event - save as-is for backward compatibility
-            serializable_event_info = {
-                'title': event_info['title'],
-                'start': event_info['start'].isoformat(),
-                'end': event_info['end'].isoformat(),
-                'description': event_info['description'],
-                'location': event_info['location']
-            }
-            cache_data['event_info'] = serializable_event_info
-        elif isinstance(event_info, list):
-            # Multiple events - save as array
-            cache_data['event_info'] = [
-                {
-                    'title': ev['title'],
-                    'start': ev['start'].isoformat(),
-                    'end': ev['end'].isoformat(),
-                    'description': ev['description'],
-                    'location': ev['location']
-                }
-                for ev in event_info
-            ]
-
-    with open(cache_file, 'w', encoding='utf-8') as f:
-        json.dump(cache_data, f, ensure_ascii=False, indent=2)
+if TYPE_CHECKING:
+    from anthropic import Anthropic
 
 
 def summarize_items(items: List[Dict], api_key: str = None) -> List[Dict]:
@@ -179,18 +30,9 @@ def summarize_items(items: List[Dict], api_key: str = None) -> List[Dict]:
         ValueError: If API key is not available
         Exception: If any summarization fails
     """
-    if not api_key:
-        api_key = os.environ.get('ANTHROPIC_API_KEY')
-
-    if not api_key:
-        raise ValueError(
-            "ANTHROPIC_API_KEY environment variable is required for summarization. "
-            "Set it with: export ANTHROPIC_API_KEY='your-api-key-here'"
-        )
-
     print(f"\nSummarizing {len(items)} items with Claude...")
 
-    client = Anthropic(api_key=api_key)
+    client = get_anthropic_client(api_key)
     summarized_items = []
     cache_hits = 0
     cache_misses = 0
@@ -200,7 +42,7 @@ def summarize_items(items: List[Dict], api_key: str = None) -> List[Dict]:
         title_preview = item['title'][:50]
 
         # Try to load from cache first
-        cached_result = _load_summary_from_cache(block_id) if block_id else None
+        cached_result = load_summary_from_cache(block_id) if block_id else None
 
         if cached_result and cached_result.get('summary'):
             print(f"  Summarizing item {i}/{len(items)}: {title_preview}... (from cache)")
@@ -243,7 +85,7 @@ def summarize_items(items: List[Dict], api_key: str = None) -> List[Dict]:
 
                 # Save to cache (with title and event info)
                 if block_id:
-                    _save_summary_to_cache(
+                    save_summary_to_cache(
                         block_id,
                         result['summary'],
                         result['title'],
@@ -321,7 +163,7 @@ LOCATION: [location text, or "Talawanda High School" if not specified but clearl
     # Add images first if available
     if image_urls:
         for img_url in image_urls:
-            image_data = _fetch_and_encode_image(img_url)
+            image_data = fetch_and_encode_image(img_url)
             if image_data:
                 message_content.append(image_data)
 

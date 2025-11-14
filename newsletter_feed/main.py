@@ -14,9 +14,9 @@ from datetime import datetime, timezone
 
 
 def load_schools() -> list:
-    """Load school configurations from schools.json"""
-    schools_file = Path(__file__).parent / "schools.json"
-    with open(schools_file, 'r', encoding='utf-8') as f:
+    """Load school configurations from newsletters.json"""
+    newsletters_file = Path(__file__).parent.parent / "newsletters.json"
+    with open(newsletters_file, 'r', encoding='utf-8') as f:
         return json.load(f)
 
 
@@ -95,7 +95,7 @@ def process_school(school: dict, output_dir: Path, limit: int = None) -> int:
         # Step 1: Scrape newsletters from Smore
         print(f"\n[1/7] Scraping newsletters for {school_name}...")
         start_time = time.time()
-        from scraper import fetch_newsletters
+        from common.scraper import fetch_newsletters
         newsletters = fetch_newsletters(blog_url)
         elapsed = time.time() - start_time
         print(f"  ⏱️  Scraping took {elapsed:.2f}s")
@@ -107,7 +107,7 @@ def process_school(school: dict, output_dir: Path, limit: int = None) -> int:
         # Step 2: Parse and extract items
         print("\n[2/7] Parsing and extracting items...")
         start_time = time.time()
-        from parser import parse_newsletters, deduplicate_items
+        from common.parser import parse_newsletters, deduplicate_items
         items = parse_newsletters(newsletters)
         elapsed = time.time() - start_time
         print(f"  ⏱️  Parsing took {elapsed:.2f}s")
@@ -152,7 +152,7 @@ def process_school(school: dict, output_dir: Path, limit: int = None) -> int:
         # Step 5: Summarize items with Claude
         print("\n[5/7] Generating summaries with Claude...")
         start_time = time.time()
-        from summarizer import summarize_items
+        from newsletter_feed.summarizer import summarize_items
         unique_items = summarize_items(unique_items)
         elapsed = time.time() - start_time
         print(f"  ⏱️  Summarization took {elapsed:.2f}s")
@@ -214,7 +214,7 @@ def process_school(school: dict, output_dir: Path, limit: int = None) -> int:
         # Step 7: Generate RSS feed
         print("\n[7/7] Generating RSS feed...")
         start_time = time.time()
-        from feed_generator import generate_feed
+        from newsletter_feed.feed_generator import generate_feed
         feed_path = output_dir / f"{school_slug}-feed.rss"
         feed = generate_feed(unique_items, str(feed_path), school_name, description)
         elapsed = time.time() - start_time
@@ -258,7 +258,7 @@ def main():
     if args.school:
         schools = [s for s in schools if s['slug'] == args.school]
         if not schools:
-            print(f"Error: School '{args.school}' not found in schools.json")
+            print(f"Error: School '{args.school}' not found in newsletters.json")
             print(f"Available schools: {', '.join(s['slug'] for s in load_schools())}")
             return 1
 

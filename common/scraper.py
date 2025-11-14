@@ -8,8 +8,6 @@ from typing import List, Dict, Optional
 from bs4 import BeautifulSoup
 import time
 import re
-import json
-import hashlib
 from pathlib import Path
 from datetime import datetime, timezone
 from selenium import webdriver
@@ -20,49 +18,12 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 import os
-from urllib.parse import urlparse
-from collections import defaultdict, deque
+
+from common.rate_limiter import RateLimiter
+from common.cache import load_from_cache, save_to_cache, get_all_cached_urls
 
 
 BLOG_URL = "https://www.talawanda.org/talawanda-high-school-blog/"
-CACHE_DIR = Path("cache/newsletters")
-
-
-class RateLimiter:
-    """
-    Rate limiter to ensure we don't make too many requests to the same host
-
-    Limits requests to max_requests per time_window seconds per host
-    """
-    def __init__(self, max_requests: int = 30, time_window: float = 20.0):
-        self.max_requests = max_requests
-        self.time_window = time_window
-        # Track request timestamps per host
-        self.requests = defaultdict(deque)
-
-    def wait_if_needed(self, url: str):
-        """Wait if we've exceeded the rate limit for this host"""
-        host = urlparse(url).netloc
-        now = time.time()
-
-        # Remove timestamps older than time_window
-        while self.requests[host] and self.requests[host][0] < now - self.time_window:
-            self.requests[host].popleft()
-
-        # If we've hit the limit, wait until we can make another request
-        if len(self.requests[host]) >= self.max_requests:
-            oldest_request = self.requests[host][0]
-            wait_time = (oldest_request + self.time_window) - now
-            if wait_time > 0:
-                print(f"    Rate limit: waiting {wait_time:.1f}s for {host}")
-                time.sleep(wait_time)
-                # Clean up again after waiting
-                while self.requests[host] and self.requests[host][0] < time.time() - self.time_window:
-                    self.requests[host].popleft()
-
-        # Record this request
-        self.requests[host].append(time.time())
-
 
 # Global rate limiter instance
 _rate_limiter = RateLimiter(max_requests=30, time_window=20.0)
@@ -172,7 +133,7 @@ def get_newsletter_links(blog_url: str = BLOG_URL, stop_at_cached: bool = True) 
             if smore_link:
                 # This is a newsletter entry - use the Smore URL
                 smore_url = smore_link.get('href', '')
-                is_cached = _load_from_cache(smore_url) is not None
+                is_cached = load_from_cache(smore_url) is not None
 
                 page_entries.append({
                     'url': smore_url,
@@ -184,7 +145,7 @@ def get_newsletter_links(blog_url: str = BLOG_URL, stop_at_cached: bool = True) 
                 })
             else:
                 # This is a regular blog post - use the entry URL
-                is_cached = _load_from_cache(entry_url) is not None
+                is_cached = load_from_cache(entry_url) is not None
 
                 page_entries.append({
                     'url': entry_url,
@@ -230,56 +191,6 @@ def get_newsletter_links(blog_url: str = BLOG_URL, stop_at_cached: bool = True) 
     return entries_data
 
 
-def _get_cache_key(url: str) -> str:
-    """Generate cache key from URL"""
-    return hashlib.md5(url.encode()).hexdigest()
-
-
-def _load_from_cache(url: str) -> Optional[Dict]:
-    """Load newsletter from cache if available"""
-    CACHE_DIR.mkdir(parents=True, exist_ok=True)
-    cache_file = CACHE_DIR / f"{_get_cache_key(url)}.json"
-
-    if cache_file.exists():
-        try:
-            with open(cache_file, 'r', encoding='utf-8') as f:
-                cached = json.load(f)
-                return cached
-        except Exception:
-            return None
-    return None
-
-
-def _save_to_cache(url: str, html: str, title: str):
-    """Save newsletter to cache"""
-    CACHE_DIR.mkdir(parents=True, exist_ok=True)
-    cache_file = CACHE_DIR / f"{_get_cache_key(url)}.json"
-
-    cache_data = {
-        'url': url,
-        'html': html,
-        'title': title
-    }
-
-    with open(cache_file, 'w', encoding='utf-8') as f:
-        json.dump(cache_data, f, ensure_ascii=False)
-
-
-def _get_all_cached_urls() -> List[str]:
-    """Get all URLs that are cached"""
-    CACHE_DIR.mkdir(parents=True, exist_ok=True)
-    cached_urls = []
-
-    for cache_file in CACHE_DIR.glob("*.json"):
-        try:
-            with open(cache_file, 'r', encoding='utf-8') as f:
-                cached = json.load(f)
-                if 'url' in cached:
-                    cached_urls.append(cached['url'])
-        except Exception:
-            continue
-
-    return cached_urls
 
 
 def fetch_blog_post(url: str, date: Optional[datetime] = None, title: str = "") -> Optional[Dict]:
@@ -295,7 +206,7 @@ def fetch_blog_post(url: str, date: Optional[datetime] = None, title: str = "") 
         Dictionary with blog post data (url, html, title, date, type)
     """
     # Try to load from cache first
-    cached = _load_from_cache(url)
+    cached = load_from_cache(url)
     if cached:
         print(f"  Fetching: {url} (from cache)")
         soup = BeautifulSoup(cached['html'], 'html.parser')
@@ -325,7 +236,7 @@ def fetch_blog_post(url: str, date: Optional[datetime] = None, title: str = "") 
             title = title_elem.get_text().strip() if title_elem else url
 
         # Save to cache
-        _save_to_cache(url, html, title)
+        save_to_cache(url, html, title)
 
         return {
             'url': url,
@@ -354,7 +265,7 @@ def fetch_newsletter(url: str, date: Optional[datetime] = None) -> Dict:
         Dictionary with newsletter data (url, html, title, date)
     """
     # Try to load from cache first
-    cached = _load_from_cache(url)
+    cached = load_from_cache(url)
     if cached:
         print(f"  Fetching: {url} (from cache)")
         # Recreate soup from cached HTML
@@ -412,7 +323,7 @@ def fetch_newsletter(url: str, date: Optional[datetime] = None) -> Dict:
         title = driver.title
 
         # Save to cache
-        _save_to_cache(url, html, title)
+        save_to_cache(url, html, title)
 
         return {
             'url': url,
@@ -454,7 +365,7 @@ def fetch_newsletters(blog_url: str = BLOG_URL) -> List[Dict]:
     scraped_urls = {data['url'] for data in entries_data}
 
     # Find any cached entries that weren't in the scraped pages
-    all_cached_urls = _get_all_cached_urls()
+    all_cached_urls = get_all_cached_urls()
     cached_only_urls = [url for url in all_cached_urls if url not in scraped_urls]
 
     if cached_only_urls:
