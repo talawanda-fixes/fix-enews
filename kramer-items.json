@@ -221,38 +221,6 @@
     ]
   },
   {
-    "title": "Weekly Update and Report Card Distribution",
-    "block_id": "bk4dorchej-btx5k5nv3b",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/4ph3g",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2025-11-07T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Friday \n\nNovember \n\n6, \n\n2025\n\nFriday November 6, 2025",
-        "id": "bk4dorchej"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Another great week at Kramer! Colder temps moving in next week so make sure the kids bundle up! Report cards come home next Friday 11/14",
-        "id": "btx5k5nv3b"
-      }
-    ],
-    "hash": "bk4dorchej-btx5k5nv3b",
-    "summary": "Week ending November 6, 2025 at Kramer. **Colder temperatures** expected next week, so students should dress warmly. **Report cards will be distributed on Friday, November 14th**.",
-    "event_info": [
-      {
-        "title": "Report Cards Distributed",
-        "start": "2025-11-14T00:00:00",
-        "end": "2025-11-14T23:59:00",
-        "description": "Week ending November 6, 2025 at Kramer. **Colder temperatures** expected next week, so students should dress warmly. **Report cards will be distributed on Friday, November 14th**.",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
     "title": "Talawanda Food Pantry and Resources",
     "block_id": "blqwkxb9tq-bwxjyhogtc-brwujkaymx-bx576e3ldv-b69pkw92cz",
     "content": "",
@@ -372,6 +340,38 @@
         "end": "2024-11-18T19:30:00",
         "description": "The **November 18th PTG meeting has been rescheduled to Tuesday, December 2nd at 7 PM** (virtual meeting). This allows members to attend the \"Building a Tech Healthy Household\" seminar on November 18t",
         "location": "THS auditorium"
+      }
+    ]
+  },
+  {
+    "title": "Weekly Update and Report Card Distribution",
+    "block_id": "bk4dorchej-btx5k5nv3b",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/4ph3g",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2025-11-07T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Friday \n\nNovember \n\n6, \n\n2025\n\nFriday November 6, 2025",
+        "id": "bk4dorchej"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Another great week at Kramer! Colder temps moving in next week so make sure the kids bundle up! Report cards come home next Friday 11/14",
+        "id": "btx5k5nv3b"
+      }
+    ],
+    "hash": "bk4dorchej-btx5k5nv3b",
+    "summary": "Week ending November 6, 2025 at Kramer. **Colder temperatures** expected next week, so students should dress warmly. **Report cards will be distributed on Friday, November 14th**.",
+    "event_info": [
+      {
+        "title": "Report Cards Distributed",
+        "start": "2025-11-14T00:00:00",
+        "end": "2025-11-14T23:59:00",
+        "description": "Week ending November 6, 2025 at Kramer. **Colder temperatures** expected next week, so students should dress warmly. **Report cards will be distributed on Friday, November 14th**.",
+        "location": "Talawanda High School"
       }
     ]
   },
