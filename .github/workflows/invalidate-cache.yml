@@ -1,0 +1,115 @@
+name: Invalidate Cache
+
+on:
+  workflow_dispatch:
+    inputs:
+      cache_type:
+        description: 'Cache type to invalidate'
+        required: true
+        type: choice
+        options:
+          - newsletters
+          - parsed
+          - summaries
+          - all
+      feeds:
+        description: 'School slugs (comma-separated) or "all"'
+        required: false
+        type: string
+        default: 'all'
+      item_id:
+        description: 'Exact block_id to match'
+        required: false
+        type: string
+      most_recent_n:
+        description: 'Number of most recent items to invalidate'
+        required: false
+        type: string
+      since_date:
+        description: 'Invalidate items since this date (YYYY-MM-DD)'
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  invalidate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run cache invalidation
+        id: invalidate
+        run: |
+          # Build arguments array to avoid shell injection
+          ARGS=("--cache-type" "${{ inputs.cache_type }}")
+
+          if [ -n "${{ inputs.feeds }}" ]; then
+            ARGS+=("--feeds" "${{ inputs.feeds }}")
+          fi
+
+          if [ -n "${{ inputs.item_id }}" ]; then
+            ARGS+=("--item-id" "${{ inputs.item_id }}")
+          fi
+
+          if [ -n "${{ inputs.most_recent_n }}" ]; then
+            ARGS+=("--most-recent-n" "${{ inputs.most_recent_n }}")
+          fi
+
+          if [ -n "${{ inputs.since_date }}" ]; then
+            ARGS+=("--since-date" "${{ inputs.since_date }}")
+          fi
+
+          echo "Running: python -m common.cache_invalidator ${ARGS[@]}"
+          python -m common.cache_invalidator "${ARGS[@]}"
+
+      - name: Commit and push cache deletions
+        if: success()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Check if there are any changes in cache directories
+          if git diff --quiet cache/; then
+            echo "No cache files were deleted (no changes to commit)"
+          else
+            git add cache/
+            git commit -m "$(cat <<'EOF'
+Invalidate ${{ inputs.cache_type }} cache for targeted items
+
+Automated cache invalidation triggered by manual workflow dispatch.
+
+Developed with Claude Code
+
+Co-Authored-By: Claude <noreply@anthropic.com>
+EOF
+)"
+
+            git push
+            echo "Cache changes committed and pushed"
+          fi
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "## Cache Invalidation Results" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Parameters:**" >> $GITHUB_STEP_SUMMARY
+          echo "- Cache type: \`${{ inputs.cache_type }}\`" >> $GITHUB_STEP_SUMMARY
+          echo "- Feeds: \`${{ inputs.feeds || 'all' }}\`" >> $GITHUB_STEP_SUMMARY
+          echo "- Item ID: \`${{ inputs.item_id || 'none' }}\`" >> $GITHUB_STEP_SUMMARY
+          echo "- Most recent N: \`${{ inputs.most_recent_n || 'none' }}\`" >> $GITHUB_STEP_SUMMARY
+          echo "- Since date: \`${{ inputs.since_date || 'none' }}\`" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Check the logs above for detailed results." >> $GITHUB_STEP_SUMMARY
