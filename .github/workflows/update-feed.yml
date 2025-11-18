@@ -37,10 +37,17 @@ jobs:
           echo "schools=$SCHOOLS" >> $GITHUB_OUTPUT
           echo "Schools to process: $SCHOOLS"
 
+  # Ensures that the image is built prior to running the matrix so that the build step is not duplicated
+  build-image:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Docker Image
+        uses: ./.github/actions/setup-docker-image
+
   # Job to generate feeds for each school in parallel
   generate-feed:
     runs-on: ubuntu-latest
-    needs: [setup]
+    needs: [setup, build-image]
     strategy:
       matrix:
         school: ${{ fromJson(needs.setup.outputs.schools) }}
@@ -52,6 +59,7 @@ jobs:
         with:
           fetch-depth: 0
 
+      # This should always hit the cache from build-image, but reusing this action simplifies logic for no cost
       - name: Setup Docker image
         uses: ./.github/actions/setup-docker-image
 
