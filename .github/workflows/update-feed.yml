@@ -114,15 +114,16 @@ jobs:
         uses: actions/cache/restore@v4
         with:
           path: cache/newsletters/
-          key: ${{ runner.os }}-newsletters-${{ matrix.school }}-${{ github.run_id }}
+          key: enews-newsletters-${{ matrix.school }}
           restore-keys: |
             ${{ runner.os }}-newsletters-${{ matrix.school }}-
+
 
       - name: Restore summaries cache for ${{ matrix.school }}
         uses: actions/cache/restore@v4
         with:
           path: cache/summaries/
-          key: ${{ runner.os }}-summaries-${{ matrix.school }}-${{ github.run_id }}
+          key: enews-summaries-${{ matrix.school }}
           restore-keys: |
             ${{ runner.os }}-summaries-${{ matrix.school }}-
 
@@ -130,7 +131,7 @@ jobs:
         uses: actions/cache/restore@v4
         with:
           path: cache/parsed/
-          key: ${{ runner.os }}-parsed-${{ matrix.school }}-${{ github.run_id }}
+          key: enews-parsed-${{ matrix.school }}
           restore-keys: |
             ${{ runner.os }}-parsed-${{ matrix.school }}-
 
@@ -147,21 +148,21 @@ jobs:
         uses: actions/cache/save@v4
         with:
           path: cache/newsletters/
-          key: ${{ runner.os }}-newsletters-${{ matrix.school }}-${{ github.run_id }}
+          key: enews-newsletters-${{ matrix.school }}
 
       - name: Save summaries cache for ${{ matrix.school }}
         if: always()
         uses: actions/cache/save@v4
         with:
           path: cache/summaries/
-          key: ${{ runner.os }}-summaries-${{ matrix.school }}-${{ github.run_id }}
+          key: enews-summaries-${{ matrix.school }}
 
       - name: Save parsed cache for ${{ matrix.school }}
         if: always()
         uses: actions/cache/save@v4
         with:
           path: cache/parsed/
-          key: ${{ runner.os }}-parsed-${{ matrix.school }}-${{ github.run_id }}
+          key: enews-parsed-${{ matrix.school }}
 
       - name: Upload feed artifact for ${{ matrix.school }}
         uses: actions/upload-artifact@v4
