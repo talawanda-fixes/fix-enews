@@ -43,14 +43,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
+      - name: Setup Docker image
+        uses: ./.github/actions/setup-docker-image
 
       - name: Run cache invalidation
         id: invalidate
@@ -74,8 +68,8 @@ jobs:
             ARGS+=("--since-date" "${{ inputs.since_date }}")
           fi
 
-          echo "Running: python -m common.cache_invalidator ${ARGS[@]}"
-          python -m common.cache_invalidator "${ARGS[@]}"
+          echo "Running: docker run --rm -v \$(pwd):/app talawanda-enews:latest python -m common.cache_invalidator ${ARGS[@]}"
+          docker run --rm -v "$(pwd)":/app talawanda-enews:latest python -m common.cache_invalidator "${ARGS[@]}"
 
       - name: Commit and push cache deletions
         if: success()
