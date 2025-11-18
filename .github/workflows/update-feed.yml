@@ -99,11 +99,30 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Download Docker image artifact
-        uses: actions/download-artifact@v4
+      - name: Generate Docker image cache key
+        id: docker-cache-key
+        run: |
+          # Create hash of Dockerfile and requirements.txt only
+          # Must match hash generation in build-image job
+          HASH=$(cat Dockerfile requirements.txt | sha256sum | cut -d' ' -f1)
+          echo "hash=$HASH" >> $GITHUB_OUTPUT
+          echo "Docker image hash: $HASH"
+
+      - name: Restore Docker image from cache
+        id: cache-image
+        uses: actions/cache/restore@v4
         with:
-          name: docker-image
-          path: /tmp
+          path: /tmp/talawanda-enews.tar
+          key: docker-image-${{ steps.docker-cache-key.outputs.hash }}
+
+      - name: Validate cache hit
+        run: |
+          if [ "${{ steps.cache-image.outputs.cache-hit }}" != "true" ]; then
+            echo "ERROR: Docker image cache miss! Build job may have failed."
+            echo "Expected cache key: docker-image-${{ steps.docker-cache-key.outputs.hash }}"
+            exit 1
+          fi
+          echo "Docker image successfully restored from cache"
 
       - name: Load Docker image
         run: |
