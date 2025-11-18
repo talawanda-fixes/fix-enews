@@ -113,3 +113,12 @@ EOF
           echo "- Since date: \`${{ inputs.since_date || 'none' }}\`" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "Check the logs above for detailed results." >> $GITHUB_STEP_SUMMARY
+
+      - name: Trigger update-feed workflow
+        if: success()
+        run: |
+          echo "Triggering update-feed workflow to regenerate feeds with invalidated cache..."
+          gh workflow run update-feed.yml
+          echo "Update-feed workflow triggered successfully"
+        env:
+          GH_TOKEN: ${{ github.token }}
