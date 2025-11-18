@@ -102,13 +102,32 @@ def generate_calendar_links(event_info: Dict) -> Dict[str, str]:
     
     start = event_info['start']
     end = event_info['end']
-    
+
+    # Detect if this is an all-day or multi-day event
+    is_all_day = (start.hour == 0 and start.minute == 0 and
+                  end.hour == 23 and end.minute == 59)
+    is_multi_day = (end.date() - start.date()).days > 0
+
     # Format dates for different services
-    start_google = start.strftime('%Y%m%dT%H%M%S')
-    end_google = end.strftime('%Y%m%dT%H%M%S')
-    
-    start_ical = start.strftime('%Y%m%dT%H%M%S')
-    end_ical = end.strftime('%Y%m%dT%H%M%S')
+    if is_all_day and is_multi_day:
+        # Multi-day all-day event: use date-only format (YYYYMMDD)
+        # Google uses exclusive end date, so add 1 day
+        start_google = start.strftime('%Y%m%d')
+        end_google = (end + timedelta(days=1)).strftime('%Y%m%d')
+        start_ical = start.strftime('%Y%m%d')
+        end_ical = (end + timedelta(days=1)).strftime('%Y%m%d')
+    elif is_all_day:
+        # Single-day all-day event
+        start_google = start.strftime('%Y%m%d')
+        end_google = (end + timedelta(days=1)).strftime('%Y%m%d')
+        start_ical = start.strftime('%Y%m%d')
+        end_ical = (end + timedelta(days=1)).strftime('%Y%m%d')
+    else:
+        # Timed event (single or multi-day)
+        start_google = start.strftime('%Y%m%dT%H%M%S')
+        end_google = end.strftime('%Y%m%dT%H%M%S')
+        start_ical = start.strftime('%Y%m%dT%H%M%S')
+        end_ical = end.strftime('%Y%m%dT%H%M%S')
     
     # Google Calendar
     google_url = f"https://calendar.google.com/calendar/render?action=TEMPLATE&text={title}&dates={start_google}/{end_google}&details={description}&location={location}"

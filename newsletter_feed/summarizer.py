@@ -150,6 +150,14 @@ Please provide:
    - For example: if published on 2025-11-07 and event says "January 15th", the event date is 2026-01-15 (next year, since January comes after the publication month)
    - If a month/day is mentioned, that's sufficient to extract as an event (infer the year using the rule above)
 
+   EVENT EXTRACTION PATTERNS:
+   - Multi-day periods (e.g., "Finals Week Dec 16-19", "Spring Break March 10-14"): Create ONE all-day event spanning the full date range
+   - Exam/test schedules with specific times: Create SEPARATE events for each exam period, NOT regular class periods
+     Example: "Period 1 Exam 7:55-9:25" and "Period 2 Exam 9:40-11:10" should be TWO separate exam events
+   - Transportation times (e.g., "Buses depart at 2:30 PM"): Create separate events for bus departures if specific dates mentioned
+   - Regular recurring schedules: Create SEPARATE events for each occurrence with specific date/time
+   - When an item has BOTH a multi-day umbrella event AND specific timed events within it, extract BOTH
+
 Format your response EXACTLY as:
 TITLE: [your improved title here]
 
@@ -161,6 +169,7 @@ EVENTS: [number of events, or 0 if none]
 ---EVENT [number]---
 TITLE: [specific event title]
 DATE: [YYYY-MM-DD format - infer year if not explicitly stated using the rule above: first occurrence after publication date]
+END_DATE: [YYYY-MM-DD format - ONLY include if event spans multiple days, otherwise omit this field]
 TIME: [HH:MM in 24-hour format, or "unknown" if not specified, or "00:00" for all-day events]
 END_TIME: [HH:MM in 24-hour format, or "unknown" if not specified, or "23:59" for all-day events]
 LOCATION: [location text, or "Talawanda High School" if not specified but clearly a school event]
@@ -185,7 +194,7 @@ LOCATION: [location text, or "Talawanda High School" if not specified but clearl
     # Call Claude API
     message = client.messages.create(
         model="claude-sonnet-4-5-20250929",
-        max_tokens=500,
+        max_tokens=1000,  # Increased to allow more events per item
         messages=[{"role": "user", "content": message_content}]
     )
 
@@ -219,12 +228,14 @@ LOCATION: [location text, or "Talawanda High School" if not specified but clearl
                 # Extract event details from this block
                 event_title_match = re.search(r'TITLE:\s*(.+?)(?:\n|$)', event_block)
                 date_match = re.search(r'DATE:\s*(.+?)(?:\n|$)', event_block)
+                end_date_match = re.search(r'END_DATE:\s*(.+?)(?:\n|$)', event_block)
                 time_match = re.search(r'TIME:\s*(.+?)(?:\n|$)', event_block)
                 end_time_match = re.search(r'END_TIME:\s*(.+?)(?:\n|$)', event_block)
                 location_match = re.search(r'LOCATION:\s*(.+?)(?:\n|$)', event_block)
 
                 event_title = event_title_match.group(1).strip() if event_title_match else improved_title
                 event_date = date_match.group(1).strip() if date_match else 'unknown'
+                event_end_date = end_date_match.group(1).strip() if end_date_match else None
                 event_time = time_match.group(1).strip() if time_match else 'unknown'
                 event_end_time = end_time_match.group(1).strip() if end_time_match else 'unknown'
                 event_location = location_match.group(1).strip() if location_match else 'unknown'
@@ -232,10 +243,10 @@ LOCATION: [location text, or "Talawanda High School" if not specified but clearl
                 # Only include event if we have at least a date
                 if event_date != 'unknown':
                     try:
-                        # Parse the date
+                        # Parse the start date
                         event_datetime = datetime.fromisoformat(event_date)
 
-                        # Add time if available
+                        # Add start time if available
                         if event_time != 'unknown':
                             time_parts = event_time.split(':')
                             if len(time_parts) == 2:
@@ -244,18 +255,39 @@ LOCATION: [location text, or "Talawanda High School" if not specified but clearl
                                     minute=int(time_parts[1])
                                 )
 
-                        # Calculate end time
-                        if event_end_time != 'unknown':
-                            end_time_parts = event_end_time.split(':')
-                            if len(end_time_parts) == 2:
-                                event_end_datetime = event_datetime.replace(
-                                    hour=int(end_time_parts[0]),
-                                    minute=int(end_time_parts[1])
-                                )
-                            else:
+                        # Parse end date (NEW: multi-day support)
+                        # Calculate end datetime
+                        if event_end_date and event_end_date != 'unknown':
+                            # Multi-day event: parse END_DATE
+                            try:
+                                event_end_datetime = datetime.fromisoformat(event_end_date)
+                                # Apply END_TIME to end date
+                                if event_end_time != 'unknown':
+                                    end_time_parts = event_end_time.split(':')
+                                    if len(end_time_parts) == 2:
+                                        event_end_datetime = event_end_datetime.replace(
+                                            hour=int(end_time_parts[0]),
+                                            minute=int(end_time_parts[1])
+                                        )
+                                else:
+                                    # No END_TIME specified, use end of day
+                                    event_end_datetime = event_end_datetime.replace(hour=23, minute=59)
+                            except (ValueError, IndexError):
+                                # Fallback: treat as single-day event
                                 event_end_datetime = event_datetime + timedelta(hours=1)
                         else:
-                            event_end_datetime = event_datetime + timedelta(hours=1)
+                            # Single-day event: use same date, different time
+                            if event_end_time != 'unknown':
+                                end_time_parts = event_end_time.split(':')
+                                if len(end_time_parts) == 2:
+                                    event_end_datetime = event_datetime.replace(
+                                        hour=int(end_time_parts[0]),
+                                        minute=int(end_time_parts[1])
+                                    )
+                                else:
+                                    event_end_datetime = event_datetime + timedelta(hours=1)
+                            else:
+                                event_end_datetime = event_datetime + timedelta(hours=1)
 
                         events.append({
                             'title': event_title,
