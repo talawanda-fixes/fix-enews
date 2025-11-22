@@ -41,6 +41,9 @@ jobs:
   build-image:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Setup Docker Image
         uses: ./.github/actions/setup-docker-image
 
