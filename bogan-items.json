@@ -1,5 +1,39 @@
 [
   {
+    "title": "Camp Invention Summer Program at Marshall Elementary",
+    "block_id": "bwk8x8y5ub-b7d4ejj1aa",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/9879/3b793090d2bb70b1eb292df181bb0061.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/nq1yb-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2025-11-21T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Around \n\nTalawanda\n\nAround Talawanda",
+        "id": "bwk8x8y5ub"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/9879/3b793090d2bb70b1eb292df181bb0061.jpeg",
+        "id": "b7d4ejj1aa"
+      }
+    ],
+    "hash": "bwk8x8y5ub-b7d4ejj1aa",
+    "summary": "**Camp Invention** is offering a summer STEM camp for students entering grades K-6th at Marshall Elementary School (3260 Oxford Millville Road, Oxford, OH 45056) from **June 8-12, 2026, 9:00 AM - 3:30 PM**. The program costs $285 before discounts, with various promo codes available (SAVE $30 with code FUN30, SAVE $25 with code FUN25, SAVE $20 with code FUN20, SAVE $30 with code TRI2FUN, SAVE $40 for 2+ siblings). Led by qualified local educators, campers explore hands-on STEM challenges and bring their ideas to life. Register at **invent.org/ciasxv** or call **800-968-4332**. Payment plans available through 4/9/2026. TSD approved for distribution, not affiliated with TSD.",
+    "event_info": [
+      {
+        "title": "Camp Invention Summer Program",
+        "start": "2026-06-08T09:00:00",
+        "end": "2026-06-12T15:30:00",
+        "description": "**Camp Invention** is offering a summer STEM camp for students entering grades K-6th at Marshall Elementary School (3260 Oxford Millville Road, Oxford, OH 45056) from **June 8-12, 2026, 9:00 AM - 3:30",
+        "location": "Marshall Elementary School, 3260 Oxford Millville Road, Oxford, OH 45056"
+      }
+    ]
+  },
+  {
     "title": "RAH Cart Volunteers Needed by PTG",
     "block_id": "bpx42aowpj-b9moiccbh8",
     "content": "",
@@ -661,23 +695,5 @@
         "location": "Talawanda High School, 5301 University Park Blvd., Oxford, Ohio 45056"
       }
     ]
-  },
-  {
-    "title": "ADHD Research Study for 5th Graders",
-    "block_id": "b0ymd04rtj",
-    "content": "",
-    "images": [],
-    "source_url": "https://secure.smore.com/n/s3h2n-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2025-10-03T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "Cincinnati Children's RISE\nThe Cincinnati Children’s RISE: Resilience In Student Education project is offering an important research opportunity focused on understanding and promoting resilience among 5th grade students with ADHD or who experience difficulties with paying attention or hyperactive/impulsive behaviors. Caregivers and students can receive up to $320 for completing questionnaires about academics, organization skills, and social-emotional well-being. Complete our interest form: https://redcap.link/RISEstudy. Contact RISE at RISEstudy@cchmc.org, call 513-803-6321, or visit: studentresilience.orgLINK to Flyer",
-        "id": "b0ymd04rtj"
-      }
-    ],
-    "hash": "b0ymd04rtj",
-    "summary": "**Cincinnati Children's RISE** (Resilience In Student Education) is conducting a research study for 5th grade students with ADHD or attention/hyperactivity challenges. Caregivers and students can **earn up to $320** for completing questionnaires about academics, organization skills, and social-emotional well-being. \n\n**To participate:**\n- Complete the interest form: https://redcap.link/RISEstudy\n- Email: RISEstudy@cchmc.org\n- Call: 513-803-6321\n- Visit: studentresilience.org"
   }
 ]
