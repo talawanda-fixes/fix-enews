@@ -22,27 +22,27 @@
       }
     ],
     "hash": "bpmh1vmmxs-bz724xivli",
-    "summary": "**Individual Testing (12/3-12/5):** For students needing to meet graduation requirements and first-time testers not taking the class at THS. Contact Mrs. Hess for make-up testing.\n\n**Class Testing (12/16-12/19):** Only for students currently taking Algebra C or Government classes, administered during exam week. Make-up testing available 1/7-1/8.\n\nEmails with specific test information and scheduling will be sent to students and parents before Thanksgiving Break. Questions should be directed to Mrs. Hess at hessb@talawanda.org.",
+    "summary": "**Individual Testing (12/3-12/5):** For students who still need to meet graduation requirements and first-time testers not taking the class at THS. Contact Mrs. Hess for make-up testing.\n\n**Class Testing (12/16-12/19):** ONLY for students currently taking an Algebra C or Government class, administered during exam week. Make-up testing: 1/7-1/8.\n\nEmails will be sent to students and parents before Thanksgiving Break with specific test details. Questions should be directed to **Mrs. Hess: hessb@talawanda.org**",
     "event_info": [
       {
         "title": "Winter EOC Individual Testing",
         "start": "2025-12-03T00:00:00",
         "end": "2025-12-05T23:59:00",
-        "description": "**Individual Testing (12/3-12/5):** For students needing to meet graduation requirements and first-time testers not taking the class at THS. Contact Mrs. Hess for make-up testing.\n\n**Class Testing (12",
+        "description": "**Individual Testing (12/3-12/5):** For students who still need to meet graduation requirements and first-time testers not taking the class at THS. Contact Mrs. Hess for make-up testing.\n\n**Class Test",
         "location": "Talawanda High School"
       },
       {
-        "title": "Winter EOC Class Testing (Algebra C & Government)",
+        "title": "Winter EOC Class Testing (Exam Week)",
         "start": "2025-12-16T00:00:00",
         "end": "2025-12-19T23:59:00",
-        "description": "**Individual Testing (12/3-12/5):** For students needing to meet graduation requirements and first-time testers not taking the class at THS. Contact Mrs. Hess for make-up testing.\n\n**Class Testing (12",
+        "description": "**Individual Testing (12/3-12/5):** For students who still need to meet graduation requirements and first-time testers not taking the class at THS. Contact Mrs. Hess for make-up testing.\n\n**Class Test",
         "location": "Talawanda High School"
       },
       {
-        "title": "Winter EOC Class Testing Make-up",
+        "title": "Winter EOC Make-up Testing",
         "start": "2026-01-07T00:00:00",
         "end": "2026-01-08T23:59:00",
-        "description": "**Individual Testing (12/3-12/5):** For students needing to meet graduation requirements and first-time testers not taking the class at THS. Contact Mrs. Hess for make-up testing.\n\n**Class Testing (12",
+        "description": "**Individual Testing (12/3-12/5):** For students who still need to meet graduation requirements and first-time testers not taking the class at THS. Contact Mrs. Hess for make-up testing.\n\n**Class Test",
         "location": "Talawanda High School"
       }
     ]
@@ -70,55 +70,97 @@
       }
     ],
     "hash": "bajiicundf-bn9k8e3l4v",
-    "summary": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes with exams. Buses depart at 2:30 PM daily.\n\n**Tuesday 12/16:** Full day schedule with 0 Bell (7:30-7:50), regular periods, and 7th Period Exam (1:00-2:30 PM).\n\n**Wednesday 12/17:** 1st Period Exam (7:55-9:25 AM), Break (9:25-9:40), 2nd Period Exam (9:40-11:10 AM).\n\n**Thursday 12/18:** 3rd Period Exam (7:55-9:25 AM), Break (9:25-9:40), 4th Period Exam (9:40-11:10 AM).\n\n**Friday 12/19:** 5th Period Exam (7:55-9:25 AM), Break (9:25-9:40), 6th Period Exam (9:40-11:10 AM).",
+    "summary": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes with exams. Buses still depart at 2:30 PM.\n\n**Tuesday 12/16:** Full day schedule with 0 Bell (7:30-7:50), regular periods, and 7th Period Exam (1:00-2:30 PM).\n\n**Wednesday 12/17:** 1st Period Exam (7:55-9:25 AM), Break (9:25-9:40 AM), 2nd Period Exam (9:40-11:10 AM).\n\n**Thursday 12/18:** 3rd Period Exam (7:55-9:25 AM), Break (9:25-9:40 AM), 4th Period Exam (9:40-11:10 AM).\n\n**Friday 12/19:** 5th Period Exam (7:55-9:25 AM), Break (9:25-9:40 AM), 6th Period Exam (9:40-11:10 AM).",
     "event_info": [
       {
         "title": "Finals Week",
         "start": "2025-12-16T00:00:00",
         "end": "2025-12-19T23:59:00",
-        "description": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes with exams. Buses depart at 2:30 PM daily.\n\n**Tuesday 12/16:**",
+        "description": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes with exams. Buses still depart at 2:30 PM.\n\n**Tuesday 12/16:**",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "0 Bell",
+        "start": "2025-12-16T07:30:00",
+        "end": "2025-12-16T07:50:00",
+        "description": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes with exams. Buses still depart at 2:30 PM.\n\n**Tuesday 12/16:**",
         "location": "Talawanda High School"
       },
       {
         "title": "7th Period Exam",
         "start": "2025-12-16T13:00:00",
         "end": "2025-12-16T14:30:00",
-        "description": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes with exams. Buses depart at 2:30 PM daily.\n\n**Tuesday 12/16:**",
+        "description": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes with exams. Buses still depart at 2:30 PM.\n\n**Tuesday 12/16:**",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Buses Depart",
+        "start": "2025-12-16T14:30:00",
+        "end": "2025-12-16T14:30:00",
+        "description": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes with exams. Buses still depart at 2:30 PM.\n\n**Tuesday 12/16:**",
         "location": "Talawanda High School"
       },
       {
         "title": "1st Period Exam",
         "start": "2025-12-17T07:55:00",
         "end": "2025-12-17T09:25:00",
-        "description": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes with exams. Buses depart at 2:30 PM daily.\n\n**Tuesday 12/16:**",
+        "description": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes with exams. Buses still depart at 2:30 PM.\n\n**Tuesday 12/16:**",
         "location": "Talawanda High School"
       },
       {
         "title": "2nd Period Exam",
         "start": "2025-12-17T09:40:00",
         "end": "2025-12-17T11:10:00",
-        "description": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes with exams. Buses depart at 2:30 PM daily.\n\n**Tuesday 12/16:**",
+        "description": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes with exams. Buses still depart at 2:30 PM.\n\n**Tuesday 12/16:**",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Buses Depart",
+        "start": "2025-12-17T14:30:00",
+        "end": "2025-12-17T14:30:00",
+        "description": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes with exams. Buses still depart at 2:30 PM.\n\n**Tuesday 12/16:**",
         "location": "Talawanda High School"
       },
       {
         "title": "3rd Period Exam",
         "start": "2025-12-18T07:55:00",
         "end": "2025-12-18T09:25:00",
-        "description": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes with exams. Buses depart at 2:30 PM daily.\n\n**Tuesday 12/16:**",
+        "description": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes with exams. Buses still depart at 2:30 PM.\n\n**Tuesday 12/16:**",
         "location": "Talawanda High School"
       },
       {
         "title": "4th Period Exam",
         "start": "2025-12-18T09:40:00",
         "end": "2025-12-18T11:10:00",
-        "description": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes with exams. Buses depart at 2:30 PM daily.\n\n**Tuesday 12/16:**",
+        "description": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes with exams. Buses still depart at 2:30 PM.\n\n**Tuesday 12/16:**",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Buses Depart",
+        "start": "2025-12-18T14:30:00",
+        "end": "2025-12-18T14:30:00",
+        "description": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes with exams. Buses still depart at 2:30 PM.\n\n**Tuesday 12/16:**",
         "location": "Talawanda High School"
       },
       {
         "title": "5th Period Exam",
         "start": "2025-12-19T07:55:00",
         "end": "2025-12-19T09:25:00",
-        "description": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes with exams. Buses depart at 2:30 PM daily.\n\n**Tuesday 12/16:**",
+        "description": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes with exams. Buses still depart at 2:30 PM.\n\n**Tuesday 12/16:**",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "6th Period Exam",
+        "start": "2025-12-19T09:40:00",
+        "end": "2025-12-19T11:10:00",
+        "description": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes with exams. Buses still depart at 2:30 PM.\n\n**Tuesday 12/16:**",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Buses Depart",
+        "start": "2025-12-19T14:30:00",
+        "end": "2025-12-19T14:30:00",
+        "description": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes with exams. Buses still depart at 2:30 PM.\n\n**Tuesday 12/16:**",
         "location": "Talawanda High School"
       }
     ]
@@ -151,14 +193,14 @@
       }
     ],
     "hash": "byprck4e3v-bex76bzmjk-bb2jg9348k",
-    "summary": "**Senior cap and gown orders must be placed by December 6th** to receive the reduced price of $66.69. After this deadline, the price increases to $65.00 plus service/shipping and sales tax. Orders can be placed online at **JOSTENS.COM** or through in-school ordering during lunch (dates TBD). The gown is a rental; students keep their cap, tassel, and stole, which must be returned after graduation. Contact Jostens at (513) 561-3225 or **tannerj@jostens.com** for questions.",
+    "summary": "**Senior cap and gown orders must be placed by December 6th** to receive the discounted price of **$66.69**. After December 6th, the price increases to $65.00 plus service/shipping and sales tax. Orders can be placed online at **JOSTENS.COM** or through the school during lunch (dates TBD). The gown is a rental and must be returned after graduation; students keep their cap, tassel, and stole. The Custom \"Mascot Package\" (flyer enclosed) includes cap, rental gown, tassel, and stole for $54.95 plus fees with online ordering.",
     "event_info": [
       {
-        "title": "Senior Cap and Gown Order Deadline",
+        "title": "Senior Cap and Gown Order Deadline (Reduced Price)",
         "start": "2025-12-06T00:00:00",
         "end": "2025-12-06T23:59:00",
-        "description": "**Senior cap and gown orders must be placed by December 6th** to receive the reduced price of $66.69. After this deadline, the price increases to $65.00 plus service/shipping and sales tax. Orders can",
-        "location": "Order online at JOSTENS.COM"
+        "description": "**Senior cap and gown orders must be placed by December 6th** to receive the discounted price of **$66.69**. After December 6th, the price increases to $65.00 plus service/shipping and sales tax. Orde",
+        "location": "Online at Jostens.com"
       }
     ]
   },
@@ -178,7 +220,7 @@
       }
     ],
     "hash": "bfyg9b1l3r",
-    "summary": "Seniors must submit their portraits for the **2026 yearbook** by **March 27th**. Upload photos at [snap.yearbookforever.com](https://snap.yearbookforever.com/snap/index.html#/upload/zHyQp1T7hhSDb3iRg0jPvxM8) using access code **talawanda2026**. Photos must be in portrait format (not landscape), greater than 1MB file size, follow student code of conduct, and black and white photos are discouraged.",
+    "summary": "Seniors must submit their portraits for the **2026 yearbook** by **March 27th**. Upload photos at [snap.yearbookforever.com](https://snap.yearbookforever.com/snap/index.html#/upload/zHyQp1T7hhSDb3iRg0jPvxM8) using access code **talawanda2026**. Photos must be in portrait format (not landscape), greater than 1MB filesize, follow the student code of conduct, and black and white photos are discouraged.",
     "event_info": [
       {
         "title": "Senior Yearbook Portrait Submission Deadline",
@@ -217,96 +259,75 @@
       }
     ],
     "hash": "bdl43a3b4n-b3s01zimwe-b08r3ezbl3",
-    "summary": "Butler Tech's application window is open for **1-Year, 2-Year, and 3-Year programs**. Prospective students can attend **Small Group Tours (9AM-12PM)** for 2Y programs on Dec 6, Dec 13, Jan 24, and Jan 31, or for 3Y programs on Jan 31, Feb 7, and Feb 28. **Open Houses (4-7 PM)** will be held Jan 15, 2026 (all 2Y campuses: BSC, DRL, NSC, SOA) and March 5, 2026 (all 3Y campuses: AM Hub, Aviation, BSC, DRL). [Apply here](https://www.butlertech.org/apps/) | [More details](https://www.butlertech.org/admissions/)",
+    "summary": "Butler Tech's application window is now open for **1-Year, 2-Year, and 3-Year programs**. Prospective students can visit through small group tours (9AM-12PM) or open houses (4-7 PM). **Small group tours** are available for 2Y Programs on Dec 6, Dec 13, Jan 24, and Jan 31, and for 3Y Programs on Jan 31, Feb 7, and Feb 28. **Open houses** are scheduled for Jan 15, 2026 (all 2Y campuses: BSC, DRL, NSC, SOA) and March 5, 2026 (all 3Y campuses: AM Hub, Aviation, BSC, DRL). [Apply here](https://www.butlertech.org/admissions/application/) | [More details](https://www.butlertech.org/admissions/)",
     "event_info": [
       {
-        "title": "Butler Tech Small Group Tours - 2Y Programs",
+        "title": "Butler Tech 2Y Programs Small Group Tour",
         "start": "2025-12-06T09:00:00",
         "end": "2025-12-06T12:00:00",
-        "description": "Butler Tech's application window is open for **1-Year, 2-Year, and 3-Year programs**. Prospective students can attend **Small Group Tours (9AM-12PM)** for 2Y programs on Dec 6, Dec 13, Jan 24, and Jan",
+        "description": "Butler Tech's application window is now open for **1-Year, 2-Year, and 3-Year programs**. Prospective students can visit through small group tours (9AM-12PM) or open houses (4-7 PM). **Small group tou",
         "location": "Butler Tech"
       },
       {
-        "title": "Butler Tech Small Group Tours - 2Y Programs",
+        "title": "Butler Tech 2Y Programs Small Group Tour",
         "start": "2025-12-13T09:00:00",
         "end": "2025-12-13T12:00:00",
-        "description": "Butler Tech's application window is open for **1-Year, 2-Year, and 3-Year programs**. Prospective students can attend **Small Group Tours (9AM-12PM)** for 2Y programs on Dec 6, Dec 13, Jan 24, and Jan",
+        "description": "Butler Tech's application window is now open for **1-Year, 2-Year, and 3-Year programs**. Prospective students can visit through small group tours (9AM-12PM) or open houses (4-7 PM). **Small group tou",
         "location": "Butler Tech"
       },
       {
-        "title": "Butler Tech Small Group Tours - 2Y Programs",
+        "title": "Butler Tech 2Y Programs Small Group Tour",
         "start": "2026-01-24T09:00:00",
         "end": "2026-01-24T12:00:00",
-        "description": "Butler Tech's application window is open for **1-Year, 2-Year, and 3-Year programs**. Prospective students can attend **Small Group Tours (9AM-12PM)** for 2Y programs on Dec 6, Dec 13, Jan 24, and Jan",
+        "description": "Butler Tech's application window is now open for **1-Year, 2-Year, and 3-Year programs**. Prospective students can visit through small group tours (9AM-12PM) or open houses (4-7 PM). **Small group tou",
         "location": "Butler Tech"
       },
       {
-        "title": "Butler Tech Small Group Tours - 2Y Programs",
+        "title": "Butler Tech 2Y Programs Small Group Tour",
         "start": "2026-01-31T09:00:00",
         "end": "2026-01-31T12:00:00",
-        "description": "Butler Tech's application window is open for **1-Year, 2-Year, and 3-Year programs**. Prospective students can attend **Small Group Tours (9AM-12PM)** for 2Y programs on Dec 6, Dec 13, Jan 24, and Jan",
+        "description": "Butler Tech's application window is now open for **1-Year, 2-Year, and 3-Year programs**. Prospective students can visit through small group tours (9AM-12PM) or open houses (4-7 PM). **Small group tou",
         "location": "Butler Tech"
       },
       {
-        "title": "Butler Tech Small Group Tours - 3Y Programs",
+        "title": "Butler Tech 3Y Program Small Group Tour",
         "start": "2026-01-31T09:00:00",
         "end": "2026-01-31T12:00:00",
-        "description": "Butler Tech's application window is open for **1-Year, 2-Year, and 3-Year programs**. Prospective students can attend **Small Group Tours (9AM-12PM)** for 2Y programs on Dec 6, Dec 13, Jan 24, and Jan",
+        "description": "Butler Tech's application window is now open for **1-Year, 2-Year, and 3-Year programs**. Prospective students can visit through small group tours (9AM-12PM) or open houses (4-7 PM). **Small group tou",
         "location": "Butler Tech"
       },
       {
-        "title": "Butler Tech Small Group Tours - 3Y Programs",
+        "title": "Butler Tech 3Y Program Small Group Tour",
         "start": "2026-02-07T09:00:00",
         "end": "2026-02-07T12:00:00",
-        "description": "Butler Tech's application window is open for **1-Year, 2-Year, and 3-Year programs**. Prospective students can attend **Small Group Tours (9AM-12PM)** for 2Y programs on Dec 6, Dec 13, Jan 24, and Jan",
+        "description": "Butler Tech's application window is now open for **1-Year, 2-Year, and 3-Year programs**. Prospective students can visit through small group tours (9AM-12PM) or open houses (4-7 PM). **Small group tou",
         "location": "Butler Tech"
       },
       {
-        "title": "Butler Tech Small Group Tours - 3Y Programs",
+        "title": "Butler Tech 3Y Program Small Group Tour",
         "start": "2026-02-28T09:00:00",
         "end": "2026-02-28T12:00:00",
-        "description": "Butler Tech's application window is open for **1-Year, 2-Year, and 3-Year programs**. Prospective students can attend **Small Group Tours (9AM-12PM)** for 2Y programs on Dec 6, Dec 13, Jan 24, and Jan",
+        "description": "Butler Tech's application window is now open for **1-Year, 2-Year, and 3-Year programs**. Prospective students can visit through small group tours (9AM-12PM) or open houses (4-7 PM). **Small group tou",
         "location": "Butler Tech"
       },
       {
         "title": "Butler Tech Open House - All 2Y Campuses",
         "start": "2026-01-15T16:00:00",
         "end": "2026-01-15T19:00:00",
-        "description": "Butler Tech's application window is open for **1-Year, 2-Year, and 3-Year programs**. Prospective students can attend **Small Group Tours (9AM-12PM)** for 2Y programs on Dec 6, Dec 13, Jan 24, and Jan",
-        "location": "Butler Tech (BSC, DRL, NSC, SOA)"
+        "description": "Butler Tech's application window is now open for **1-Year, 2-Year, and 3-Year programs**. Prospective students can visit through small group tours (9AM-12PM) or open houses (4-7 PM). **Small group tou",
+        "location": "All 2Y Campuses (BSC, DRL, NSC, SOA)"
       },
       {
         "title": "Butler Tech Open House - All 3Y Campuses",
         "start": "2026-03-05T16:00:00",
         "end": "2026-03-05T19:00:00",
-        "description": "Butler Tech's application window is open for **1-Year, 2-Year, and 3-Year programs**. Prospective students can attend **Small Group Tours (9AM-12PM)** for 2Y programs on Dec 6, Dec 13, Jan 24, and Jan",
-        "location": "Butler Tech (AM Hub, Aviation, BSC, DRL)"
-      },
-      {
-        "title": "Butler Tech Open House - BSC Campus",
-        "start": "2026-01-15T16:00:00",
-        "end": "2026-01-15T19:00:00",
-        "description": "Butler Tech's application window is open for **1-Year, 2-Year, and 3-Year programs**. Prospective students can attend **Small Group Tours (9AM-12PM)** for 2Y programs on Dec 6, Dec 13, Jan 24, and Jan",
-        "location": "Butler Tech BSC Campus"
-      },
-      {
-        "title": "Butler Tech Open House - DRL Campus",
-        "start": "2026-01-15T16:00:00",
-        "end": "2026-01-15T19:00:00",
-        "description": "Butler Tech's application window is open for **1-Year, 2-Year, and 3-Year programs**. Prospective students can attend **Small Group Tours (9AM-12PM)** for 2Y programs on Dec 6, Dec 13, Jan 24, and Jan",
-        "location": "Butler Tech DRL Campus"
-      },
-      {
-        "title": "Butler Tech Open House - NSC Campus",
-        "start": "2026-01-15T16:00:00",
-        "end": "2026-01-15T19:00:00",
-        "description": "Butler Tech's application window is open for **1-Year, 2-Year, and 3-Year programs**. Prospective students can attend **Small Group Tours (9AM-12PM)** for 2Y programs on Dec 6, Dec 13, Jan 24, and Jan",
-        "location": "Butler Tech NSC Campus"
+        "description": "Butler Tech's application window is now open for **1-Year, 2-Year, and 3-Year programs**. Prospective students can visit through small group tours (9AM-12PM) or open houses (4-7 PM). **Small group tou",
+        "location": "All 3Y Campuses (AM Hub, Aviation, BSC, DRL)"
       }
     ]
   },
   {
-    "title": "Club Meetings Schedule December 1-6",
+    "title": "Club Meetings Schedule for December",
     "block_id": "b16db8wtno-be3r0rm5a9",
     "content": "",
     "images": [],
@@ -326,117 +347,131 @@
       }
     ],
     "hash": "b16db8wtno-be3r0rm5a9",
-    "summary": "No club meetings during Thanksgiving week. **Club meetings resume December 1-6** with various options:\n- **Monday 12/1**: Diversity Club, Setting Stone, Tribune\n- **Tuesday 12/2**: Art Club, Diversity Club, Key Club (tutorial time), Mock Trial, Robotics Club\n- **Thursday 12/4**: Chess Club, Mock Trial, Project Green, Robotics Club\n- **Friday-Saturday 12/5-6**: Drama Production of *Little Women* at PAC (7pm Friday; 2pm & 7pm Saturday)",
+    "summary": "No club meetings during Thanksgiving week. **December 1-6** club meetings resume with various options:\n- **Diversity Club, Setting Stone, Tribune, Art Club, Key Club, Mock Trial, Robotics Club, Chess Club, and Project Green** meeting throughout the week at various times and rooms\n- **Drama Production of Little Women**: Friday 12/5 at 7:00pm and Saturday 12/6 at 2:00pm & 7:00pm in the PAC",
     "event_info": [
       {
         "title": "Diversity Club Meeting",
         "start": "2025-12-01T14:30:00",
         "end": "2025-12-01T15:30:00",
-        "description": "No club meetings during Thanksgiving week. **Club meetings resume December 1-6** with various options:\n- **Monday 12/1**: Diversity Club, Setting Stone, Tribune\n- **Tuesday 12/2**: Art Club, Diversity",
+        "description": "No club meetings during Thanksgiving week. **December 1-6** club meetings resume with various options:\n- **Diversity Club, Setting Stone, Tribune, Art Club, Key Club, Mock Trial, Robotics Club, Chess ",
         "location": "Room 400"
       },
       {
         "title": "Setting Stone Meeting",
         "start": "2025-12-01T14:30:00",
         "end": "2025-12-01T15:30:00",
-        "description": "No club meetings during Thanksgiving week. **Club meetings resume December 1-6** with various options:\n- **Monday 12/1**: Diversity Club, Setting Stone, Tribune\n- **Tuesday 12/2**: Art Club, Diversity",
+        "description": "No club meetings during Thanksgiving week. **December 1-6** club meetings resume with various options:\n- **Diversity Club, Setting Stone, Tribune, Art Club, Key Club, Mock Trial, Robotics Club, Chess ",
         "location": "Room 320"
       },
       {
         "title": "Tribune Meeting",
         "start": "2025-12-01T14:30:00",
         "end": "2025-12-01T15:30:00",
-        "description": "No club meetings during Thanksgiving week. **Club meetings resume December 1-6** with various options:\n- **Monday 12/1**: Diversity Club, Setting Stone, Tribune\n- **Tuesday 12/2**: Art Club, Diversity",
+        "description": "No club meetings during Thanksgiving week. **December 1-6** club meetings resume with various options:\n- **Diversity Club, Setting Stone, Tribune, Art Club, Key Club, Mock Trial, Robotics Club, Chess ",
         "location": "Room 315"
       },
       {
         "title": "Art Club Meeting",
         "start": "2025-12-02T14:30:00",
         "end": "2025-12-02T15:30:00",
-        "description": "No club meetings during Thanksgiving week. **Club meetings resume December 1-6** with various options:\n- **Monday 12/1**: Diversity Club, Setting Stone, Tribune\n- **Tuesday 12/2**: Art Club, Diversity",
+        "description": "No club meetings during Thanksgiving week. **December 1-6** club meetings resume with various options:\n- **Diversity Club, Setting Stone, Tribune, Art Club, Key Club, Mock Trial, Robotics Club, Chess ",
         "location": "Room 603"
       },
       {
         "title": "Diversity Club Meeting",
         "start": "2025-12-02T14:30:00",
         "end": "2025-12-02T15:30:00",
-        "description": "No club meetings during Thanksgiving week. **Club meetings resume December 1-6** with various options:\n- **Monday 12/1**: Diversity Club, Setting Stone, Tribune\n- **Tuesday 12/2**: Art Club, Diversity",
+        "description": "No club meetings during Thanksgiving week. **December 1-6** club meetings resume with various options:\n- **Diversity Club, Setting Stone, Tribune, Art Club, Key Club, Mock Trial, Robotics Club, Chess ",
         "location": "Room 400"
       },
       {
         "title": "Key Club Meeting",
         "start": "2025-12-02T09:30:00",
         "end": "2025-12-02T10:00:00",
-        "description": "No club meetings during Thanksgiving week. **Club meetings resume December 1-6** with various options:\n- **Monday 12/1**: Diversity Club, Setting Stone, Tribune\n- **Tuesday 12/2**: Art Club, Diversity",
+        "description": "No club meetings during Thanksgiving week. **December 1-6** club meetings resume with various options:\n- **Diversity Club, Setting Stone, Tribune, Art Club, Key Club, Mock Trial, Robotics Club, Chess ",
         "location": "Room 218"
       },
       {
         "title": "Mock Trial Meeting",
         "start": "2025-12-02T17:00:00",
         "end": "2025-12-02T19:00:00",
-        "description": "No club meetings during Thanksgiving week. **Club meetings resume December 1-6** with various options:\n- **Monday 12/1**: Diversity Club, Setting Stone, Tribune\n- **Tuesday 12/2**: Art Club, Diversity",
+        "description": "No club meetings during Thanksgiving week. **December 1-6** club meetings resume with various options:\n- **Diversity Club, Setting Stone, Tribune, Art Club, Key Club, Mock Trial, Robotics Club, Chess ",
         "location": "Room 315"
       },
       {
         "title": "Robotics Club Meeting",
         "start": "2025-12-02T14:30:00",
         "end": "2025-12-02T16:00:00",
-        "description": "No club meetings during Thanksgiving week. **Club meetings resume December 1-6** with various options:\n- **Monday 12/1**: Diversity Club, Setting Stone, Tribune\n- **Tuesday 12/2**: Art Club, Diversity",
+        "description": "No club meetings during Thanksgiving week. **December 1-6** club meetings resume with various options:\n- **Diversity Club, Setting Stone, Tribune, Art Club, Key Club, Mock Trial, Robotics Club, Chess ",
         "location": "Room 412"
       },
       {
         "title": "Chess Club Meeting",
         "start": "2025-12-04T14:30:00",
         "end": "2025-12-04T15:30:00",
-        "description": "No club meetings during Thanksgiving week. **Club meetings resume December 1-6** with various options:\n- **Monday 12/1**: Diversity Club, Setting Stone, Tribune\n- **Tuesday 12/2**: Art Club, Diversity",
+        "description": "No club meetings during Thanksgiving week. **December 1-6** club meetings resume with various options:\n- **Diversity Club, Setting Stone, Tribune, Art Club, Key Club, Mock Trial, Robotics Club, Chess ",
         "location": "Room 603"
       },
       {
         "title": "Mock Trial Meeting",
         "start": "2025-12-04T17:00:00",
         "end": "2025-12-04T19:00:00",
-        "description": "No club meetings during Thanksgiving week. **Club meetings resume December 1-6** with various options:\n- **Monday 12/1**: Diversity Club, Setting Stone, Tribune\n- **Tuesday 12/2**: Art Club, Diversity",
+        "description": "No club meetings during Thanksgiving week. **December 1-6** club meetings resume with various options:\n- **Diversity Club, Setting Stone, Tribune, Art Club, Key Club, Mock Trial, Robotics Club, Chess ",
         "location": "Room 315"
       },
       {
         "title": "Project Green Meeting",
         "start": "2025-12-04T14:30:00",
         "end": "2025-12-04T15:30:00",
-        "description": "No club meetings during Thanksgiving week. **Club meetings resume December 1-6** with various options:\n- **Monday 12/1**: Diversity Club, Setting Stone, Tribune\n- **Tuesday 12/2**: Art Club, Diversity",
+        "description": "No club meetings during Thanksgiving week. **December 1-6** club meetings resume with various options:\n- **Diversity Club, Setting Stone, Tribune, Art Club, Key Club, Mock Trial, Robotics Club, Chess ",
         "location": "Room 224"
       },
       {
         "title": "Robotics Club Meeting",
         "start": "2025-12-04T14:30:00",
         "end": "2025-12-04T16:00:00",
-        "description": "No club meetings during Thanksgiving week. **Club meetings resume December 1-6** with various options:\n- **Monday 12/1**: Diversity Club, Setting Stone, Tribune\n- **Tuesday 12/2**: Art Club, Diversity",
+        "description": "No club meetings during Thanksgiving week. **December 1-6** club meetings resume with various options:\n- **Diversity Club, Setting Stone, Tribune, Art Club, Key Club, Mock Trial, Robotics Club, Chess ",
         "location": "Room 412"
       },
       {
         "title": "Drama Production of Little Women",
         "start": "2025-12-05T19:00:00",
         "end": "2025-12-05T20:00:00",
-        "description": "No club meetings during Thanksgiving week. **Club meetings resume December 1-6** with various options:\n- **Monday 12/1**: Diversity Club, Setting Stone, Tribune\n- **Tuesday 12/2**: Art Club, Diversity",
+        "description": "No club meetings during Thanksgiving week. **December 1-6** club meetings resume with various options:\n- **Diversity Club, Setting Stone, Tribune, Art Club, Key Club, Mock Trial, Robotics Club, Chess ",
         "location": "PAC"
       },
       {
         "title": "Drama Production of Little Women",
         "start": "2025-12-06T14:00:00",
         "end": "2025-12-06T15:00:00",
-        "description": "No club meetings during Thanksgiving week. **Club meetings resume December 1-6** with various options:\n- **Monday 12/1**: Diversity Club, Setting Stone, Tribune\n- **Tuesday 12/2**: Art Club, Diversity",
+        "description": "No club meetings during Thanksgiving week. **December 1-6** club meetings resume with various options:\n- **Diversity Club, Setting Stone, Tribune, Art Club, Key Club, Mock Trial, Robotics Club, Chess ",
         "location": "PAC"
       },
       {
         "title": "Drama Production of Little Women",
         "start": "2025-12-06T19:00:00",
         "end": "2025-12-06T20:00:00",
-        "description": "No club meetings during Thanksgiving week. **Club meetings resume December 1-6** with various options:\n- **Monday 12/1**: Diversity Club, Setting Stone, Tribune\n- **Tuesday 12/2**: Art Club, Diversity",
+        "description": "No club meetings during Thanksgiving week. **December 1-6** club meetings resume with various options:\n- **Diversity Club, Setting Stone, Tribune, Art Club, Key Club, Mock Trial, Robotics Club, Chess ",
         "location": "PAC"
+      },
+      {
+        "title": "Thanksgiving Break - No Club Meetings",
+        "start": "2025-11-24T00:00:00",
+        "end": "2025-11-29T23:59:00",
+        "description": "No club meetings during Thanksgiving week. **December 1-6** club meetings resume with various options:\n- **Diversity Club, Setting Stone, Tribune, Art Club, Key Club, Mock Trial, Robotics Club, Chess ",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Robotics Club Meeting",
+        "start": "2025-12-05T14:30:00",
+        "end": "2025-12-05T16:00:00",
+        "description": "No club meetings during Thanksgiving week. **December 1-6** club meetings resume with various options:\n- **Diversity Club, Setting Stone, Tribune, Art Club, Key Club, Mock Trial, Robotics Club, Chess ",
+        "location": "Room 412"
       }
     ]
   },
   {
-    "title": "Little Women: The Musical Performances",
+    "title": "Little Women Musical Performance at THS",
     "block_id": "bqzwuwooeo-bcc5ao2m0e",
     "content": "",
     "images": [
@@ -458,33 +493,33 @@
       }
     ],
     "hash": "bqzwuwooeo-bcc5ao2m0e",
-    "summary": "Talawanda High School Drama Club presents **Little Women: The Musical**, a Broadway adaptation of Louisa May Alcott's 1868 story about the four March sisters during the Civil War. The production features nearly 20 THS students from all grade levels and Oxford community members. **Performances:** December 5th at 7 PM, December 6th at 2 PM and 7 PM at the Talawanda High School Performing Arts Center. **Tickets are $8** and can be purchased [online](LINK) or at the door.",
+    "summary": "**Little Women: The Musical** will be performed by Talawanda High School Drama Club at the THS Performing Arts Center. This family-friendly Broadway musical tells Louisa May Alcott's 1868 story of the March sisters during the Civil War. Shows are **December 5th at 7 PM**, **December 6th at 2 PM and 7 PM**. Tickets are **$8** and can be purchased [online](https://www.talawanda.org) or with cash at the door. Nearly 20 THS students from all grades participate, with contributions from Oxford community members.",
     "event_info": [
       {
         "title": "Little Women: The Musical (Evening Performance)",
         "start": "2025-12-05T19:00:00",
         "end": "2025-12-05T20:00:00",
-        "description": "Talawanda High School Drama Club presents **Little Women: The Musical**, a Broadway adaptation of Louisa May Alcott's 1868 story about the four March sisters during the Civil War. The production featu",
+        "description": "**Little Women: The Musical** will be performed by Talawanda High School Drama Club at the THS Performing Arts Center. This family-friendly Broadway musical tells Louisa May Alcott's 1868 story of the",
         "location": "Talawanda High School Performing Arts Center"
       },
       {
         "title": "Little Women: The Musical (Matinee Performance)",
         "start": "2025-12-06T14:00:00",
         "end": "2025-12-06T15:00:00",
-        "description": "Talawanda High School Drama Club presents **Little Women: The Musical**, a Broadway adaptation of Louisa May Alcott's 1868 story about the four March sisters during the Civil War. The production featu",
+        "description": "**Little Women: The Musical** will be performed by Talawanda High School Drama Club at the THS Performing Arts Center. This family-friendly Broadway musical tells Louisa May Alcott's 1868 story of the",
         "location": "Talawanda High School Performing Arts Center"
       },
       {
         "title": "Little Women: The Musical (Evening Performance)",
         "start": "2025-12-06T19:00:00",
         "end": "2025-12-06T20:00:00",
-        "description": "Talawanda High School Drama Club presents **Little Women: The Musical**, a Broadway adaptation of Louisa May Alcott's 1868 story about the four March sisters during the Civil War. The production featu",
+        "description": "**Little Women: The Musical** will be performed by Talawanda High School Drama Club at the THS Performing Arts Center. This family-friendly Broadway musical tells Louisa May Alcott's 1868 story of the",
         "location": "Talawanda High School Performing Arts Center"
       }
     ]
   },
   {
-    "title": "Food Resources for Talawanda School Families",
+    "title": "Food Resources for Talawanda Families",
     "block_id": "bk8gizguu7-bq8y3z8u66-bp4rqisieb-bun4gk72ra-blswo3w3vo",
     "content": "",
     "images": [
@@ -521,89 +556,7 @@
       }
     ],
     "hash": "bk8gizguu7-bq8y3z8u66-bp4rqisieb-bun4gk72ra-blswo3w3vo",
-    "summary": "Talawanda School District offers multiple food assistance resources for families in need:\n- **Little Free Pantries** available 24/7 outside every TSD building, restocked weekly or more as needed\n- **Backpack Program** in all elementary buildings provides weekly food bags on Thursdays/Fridays (contact building Social Worker)\n- **Emergency Food boxes** available for pick-up or delivery within 24 hours\n- Additional resources include a **calendar of community meals and TOPPS schedule**, a **list of all Butler County food pantries**, and **SNAP information**"
-  },
-  {
-    "title": "Finals Week Schedule and Transportation Information",
-    "block_id": "bdoz7vs63q-b0jitbwc0e",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/69ce/e1cc477833619fdabb76981e80c12d7f.png"
-    ],
-    "source_url": "https://app.smore.com/n/aq28s",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2025-11-14T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "FINALS \n\nWEEK\n\nFINALS WEEK",
-        "id": "bdoz7vs63q"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/69ce/e1cc477833619fdabb76981e80c12d7f.png",
-        "id": "b0jitbwc0e"
-      }
-    ],
-    "hash": "bdoz7vs63q-b0jitbwc0e",
-    "summary": "Finals week runs **Tuesday, December 16 - Friday, December 19**. Students should arrive by **11:10 AM** on 12/17, 12/18, and 12/19, and only need to attend classes with scheduled exams. Buses depart at **2:30 PM** daily.\n\n**Exam Schedule:**\n- **Tuesday 12/16**: Full day schedule (0 Bell through 6th period), 7th period exam 1:00-2:30 PM\n- **Wednesday 12/17**: 1st period exam 7:55-9:25 AM, break, 2nd period exam 9:40-11:10 AM\n- **Thursday 12/18**: 3rd period exam 7:55-9:25 AM, break, 4th period exam 9:40-11:10 AM\n- **Friday 12/19**: 5th period exam 7:55-9:25 AM, break, 6th period exam 9:40-11:10 AM",
-    "event_info": [
-      {
-        "title": "Finals Week - Tuesday Schedule with 7th Period Exam",
-        "start": "2024-12-16T07:30:00",
-        "end": "2024-12-16T14:30:00",
-        "description": "Finals week runs **Tuesday, December 16 - Friday, December 19**. Students should arrive by **11:10 AM** on 12/17, 12/18, and 12/19, and only need to attend classes with scheduled exams. Buses depart a",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Finals Week - 1st and 2nd Period Exams",
-        "start": "2024-12-17T07:55:00",
-        "end": "2024-12-17T11:10:00",
-        "description": "Finals week runs **Tuesday, December 16 - Friday, December 19**. Students should arrive by **11:10 AM** on 12/17, 12/18, and 12/19, and only need to attend classes with scheduled exams. Buses depart a",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Finals Week - 3rd and 4th Period Exams",
-        "start": "2024-12-18T07:55:00",
-        "end": "2024-12-18T11:10:00",
-        "description": "Finals week runs **Tuesday, December 16 - Friday, December 19**. Students should arrive by **11:10 AM** on 12/17, 12/18, and 12/19, and only need to attend classes with scheduled exams. Buses depart a",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Finals Week - 5th and 6th Period Exams",
-        "start": "2024-12-19T07:55:00",
-        "end": "2024-12-19T11:10:00",
-        "description": "Finals week runs **Tuesday, December 16 - Friday, December 19**. Students should arrive by **11:10 AM** on 12/17, 12/18, and 12/19, and only need to attend classes with scheduled exams. Buses depart a",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Robotics Club Scrimmage at Loveland High School",
-    "block_id": "bnb4ox7akq",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/aq28s",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2025-11-14T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "*ROBOTICS CLUB*\nThe Robotics Club will have a scrimmage at Loveland High School this Sunday, November 16th. The scrimmage begins at 1:00 pm, but members should be there at 12:30 pm.",
-        "id": "bnb4ox7akq"
-      }
-    ],
-    "hash": "bnb4ox7akq",
-    "summary": "The **Robotics Club** will compete in a scrimmage at **Loveland High School on Sunday, November 16th**. The scrimmage starts at **1:00 pm**, but all members must arrive by **12:30 pm**.",
-    "event_info": [
-      {
-        "title": "Robotics Club Scrimmage",
-        "start": "2024-11-16T13:00:00",
-        "end": "2024-11-16T14:00:00",
-        "description": "The **Robotics Club** will compete in a scrimmage at **Loveland High School on Sunday, November 16th**. The scrimmage starts at **1:00 pm**, but all members must arrive by **12:30 pm**.",
-        "location": "Loveland High School"
-      }
-    ]
+    "summary": "**Talawanda School District** offers multiple food assistance programs for families in need:\n\n- **Little Free Pantries** available 24/7 outside every TSD building, restocked weekly or more as needed\n- **Backpack Program** at all elementary buildings provides weekly food bags on Thursdays/Fridays (contact building Social Worker)\n- **Emergency Food boxes** available for pick-up or delivery within 24 hours\n- Access a **calendar of community meals and TOPPS schedule**, **list of all Butler County food pantries**, and **SNAP information** via the provided links"
   },
   {
     "title": "FCCLA Diaper Drive for Families in Need",
@@ -633,14 +586,131 @@
       }
     ],
     "hash": "bsllzsw778-bthvp6jdat-bs0jo6c3sx",
-    "summary": "FCCLA is hosting a **Diaper Drive from November 3 to December 12** with a goal of collecting **1,000 diapers and 21 packs of wipes** for families in need. Donations can be **dropped off at THS, Room 611** or delivered directly via Amazon, Walmart, etc. to: Talawanda High School, ATTN: FCCLA Kari Croucher, 5301 University Park Blvd., Oxford, OH 45056. The drive is TSD approved for distribution.",
+    "summary": "**FCCLA is hosting a Diaper Drive from November 3 to December 12.** The goal is to collect 1,000 diapers and 21 packs of wipes for families in need. Drop off donations to Talawanda High School, Room 611, or have items delivered directly to the school (ATTN: FCCLA Kari Croucher, 5301 University Park Blvd., Oxford, OH 45056). The drive is TSD approved for distribution.",
     "event_info": [
       {
         "title": "FCCLA Diaper Drive",
-        "start": "2024-11-03T00:00:00",
-        "end": "2024-11-03T23:59:00",
-        "description": "FCCLA is hosting a **Diaper Drive from November 3 to December 12** with a goal of collecting **1,000 diapers and 21 packs of wipes** for families in need. Donations can be **dropped off at THS, Room 6",
+        "start": "2025-11-03T00:00:00",
+        "end": "2025-12-12T23:59:00",
+        "description": "**FCCLA is hosting a Diaper Drive from November 3 to December 12.** The goal is to collect 1,000 diapers and 21 packs of wipes for families in need. Drop off donations to Talawanda High School, Room 6",
         "location": "Talawanda High School, Room 611"
+      }
+    ]
+  },
+  {
+    "title": "Finals Week Schedule December 16-19",
+    "block_id": "bdoz7vs63q-b0jitbwc0e",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/69ce/e1cc477833619fdabb76981e80c12d7f.png"
+    ],
+    "source_url": "https://app.smore.com/n/aq28s",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2025-11-14T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "FINALS \n\nWEEK\n\nFINALS WEEK",
+        "id": "bdoz7vs63q"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/69ce/e1cc477833619fdabb76981e80c12d7f.png",
+        "id": "b0jitbwc0e"
+      }
+    ],
+    "hash": "bdoz7vs63q-b0jitbwc0e",
+    "summary": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes where they have exams. Buses still depart at 2:30 PM. \n\n**Tuesday 12/16:** Full day schedule with 7th Period Exam 1:00-2:30 PM\n\n**Wednesday 12/17:** 1st Period Exam 7:55-9:25, Break 9:25-9:40, 2nd Period Exam 9:40-11:10\n\n**Thursday 12/18:** 3rd Period Exam 7:55-9:25, Break 9:25-9:40, 4th Period Exam 9:40-11:10\n\n**Friday 12/19:** 5th Period Exam 7:55-9:25, Break 9:25-9:40, 6th Period Exam 9:40-11:10",
+    "event_info": [
+      {
+        "title": "Finals Week",
+        "start": "2025-12-16T00:00:00",
+        "end": "2025-12-19T23:59:00",
+        "description": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes where they have exams. Buses still depart at 2:30 PM. \n\n**Tues",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "7th Period Exam",
+        "start": "2025-12-16T13:00:00",
+        "end": "2025-12-16T14:30:00",
+        "description": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes where they have exams. Buses still depart at 2:30 PM. \n\n**Tues",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "1st Period Exam",
+        "start": "2025-12-17T07:55:00",
+        "end": "2025-12-17T09:25:00",
+        "description": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes where they have exams. Buses still depart at 2:30 PM. \n\n**Tues",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "2nd Period Exam",
+        "start": "2025-12-17T09:40:00",
+        "end": "2025-12-17T11:10:00",
+        "description": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes where they have exams. Buses still depart at 2:30 PM. \n\n**Tues",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "3rd Period Exam",
+        "start": "2025-12-18T07:55:00",
+        "end": "2025-12-18T09:25:00",
+        "description": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes where they have exams. Buses still depart at 2:30 PM. \n\n**Tues",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "4th Period Exam",
+        "start": "2025-12-18T09:40:00",
+        "end": "2025-12-18T11:10:00",
+        "description": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes where they have exams. Buses still depart at 2:30 PM. \n\n**Tues",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "5th Period Exam",
+        "start": "2025-12-19T07:55:00",
+        "end": "2025-12-19T09:25:00",
+        "description": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes where they have exams. Buses still depart at 2:30 PM. \n\n**Tues",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "6th Period Exam",
+        "start": "2025-12-19T09:40:00",
+        "end": "2025-12-19T11:10:00",
+        "description": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes where they have exams. Buses still depart at 2:30 PM. \n\n**Tues",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Buses Depart (Finals Week)",
+        "start": "2025-12-17T14:30:00",
+        "end": "2025-12-19T14:30:00",
+        "description": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes where they have exams. Buses still depart at 2:30 PM. \n\n**Tues",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Robotics Club Scrimmage at Loveland High School",
+    "block_id": "bnb4ox7akq",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/aq28s",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2025-11-14T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "*ROBOTICS CLUB*\nThe Robotics Club will have a scrimmage at Loveland High School this Sunday, November 16th. The scrimmage begins at 1:00 pm, but members should be there at 12:30 pm.",
+        "id": "bnb4ox7akq"
+      }
+    ],
+    "hash": "bnb4ox7akq",
+    "summary": "The **Robotics Club** will compete in a scrimmage at **Loveland High School on Sunday, November 16th**. The scrimmage starts at **1:00 PM**, but members must arrive by **12:30 PM**.",
+    "event_info": [
+      {
+        "title": "Robotics Club Scrimmage at Loveland High School",
+        "start": "2025-11-16T12:30:00",
+        "end": "2025-11-16T13:30:00",
+        "description": "The **Robotics Club** will compete in a scrimmage at **Loveland High School on Sunday, November 16th**. The scrimmage starts at **1:00 PM**, but members must arrive by **12:30 PM**.",
+        "location": "Loveland High School"
       }
     ]
   },
@@ -688,10 +758,10 @@
       }
     ],
     "hash": "bk8gizguu7-bq8y3z8u66-bsrb6n0j36-bp4rqisieb-bun4gk72ra-blswo3w3vo",
-    "summary": "**Talawanda School District Food Resources:**\n\n- **Little Free Pantries** available 24/7 outside every TSD building, restocked weekly or more as needed\n- **Backpack Program** in all elementary buildings - small bag of food provided each week on Thursdays/Fridays (contact your building Social Worker)\n- **Emergency Food boxes** available for pick-up or delivery within 24 hours\n- **Additional resources** include a [calendar of community meals and TOPPS schedule](Calendar), [list of all Butler County food pantries](List), and [SNAP information](SNAP information)\n\n**Contact your building Social Worker** for assistance accessing these programs."
+    "summary": "The Talawanda School District provides multiple food assistance resources for families:\n- **Little Free Pantries** are available 24/7 outside every TSD building, restocked weekly or as needed\n- **Backpack Program** provides weekly food bags on Thursdays/Fridays at all elementary buildings (contact your building Social Worker)\n- **Emergency Food Boxes** available for pick-up or delivery within 24 hours\n\nAdditional resources include a [calendar of community meals and TOPPS schedule](link), [list of all Butler County food pantries](link), and [SNAP information](link). Contact information for Social Workers at Kramer (Chelsea Pike: 513-273-3511, pikec@talawanda.org), Marshall (Chrissy Rolfes: 513-273-3611, rolfesc@talawanda.org), and Bogan (Emily White: 513-273-3403, whitee@talawanda.org), plus Success Liaisons at TMS (Lydia Schrag: 513-273-3311, schragl@talawanda.org) and THS (Chris Robertson: 513-273-3224, robertsonc@talawanda.org) is provided."
   },
   {
-    "title": "BRAVE Day for Sophomores - November 14th",
+    "title": "BRAVE Day for Sophomore Class",
     "block_id": "bema0kdlak-bxlyk5kb71",
     "content": "",
     "images": [],
@@ -711,10 +781,19 @@
       }
     ],
     "hash": "bema0kdlak-bxlyk5kb71",
-    "summary": "**BRAVE Day** is Talawanda High School's annual family building, diversity, and anti-bullying event for **sophomores only**, taking place **Friday, November 14th**. The day focuses on helping students realize they're not alone and building community through sharing stories, activities, and listening. Students participate voluntarily and are encouraged to attend, but those who feel they would not benefit may stay in their regular classes instead."
+    "summary": "**BRAVE Day** is Talawanda High School's annual family building, diversity, and anti-bullying event for **sophomores only**, taking place on **Friday, November 14th**. Students participate in activities and share stories to build community, realize they're not alone, and understand their important role with classmates. Attendance is optional—students who prefer not to participate should stay in their regular classes during the event.",
+    "event_info": [
+      {
+        "title": "BRAVE Day",
+        "start": "2025-11-14T00:00:00",
+        "end": "2025-11-14T23:59:00",
+        "description": "**BRAVE Day** is Talawanda High School's annual family building, diversity, and anti-bullying event for **sophomores only**, taking place on **Friday, November 14th**. Students participate in activiti",
+        "location": "Talawanda High School"
+      }
+    ]
   },
   {
-    "title": "FCCLA Hosts Annual Veterans Day Breakfast",
+    "title": "Veterans Day Breakfast and Assembly",
     "block_id": "bo2251rfd5-brymwa0v8n-bei7y2jlm5",
     "content": "",
     "images": [
@@ -741,14 +820,21 @@
       }
     ],
     "hash": "bo2251rfd5-brymwa0v8n-bei7y2jlm5",
-    "summary": "FCCLA is hosting the **Annual Veterans Day Breakfast and Assembly** on **Tuesday, November 11, 2025** at Talawanda High School (5301 University Park Blvd. Oxford, Ohio 45056). Breakfast begins at **7:30 AM** followed by an assembly at **9:00 AM**. All veterans and one guest are invited to attend. RSVP approval is required - please scan the QR code or email **croucherk@talawanda.org** with the veteran's full name, branch of service, and total number attending.",
+    "summary": "**FCCLA is hosting the Annual Veterans Day Breakfast and Assembly on Tuesday, November 11, 2025** at Talawanda High School (5301 University Park Blvd, Oxford, OH 45056). Breakfast begins at 7:30 AM and the assembly starts at 9:00 AM. All veterans and one guest are invited to attend. **RSVP required**: scan the QR code or email Mrs. Croucher at croucherk@talawanda.org with the veteran's full name, branch, and total number attending. Event is sponsored by BT/Talawanda FCCLA & THS and RSVP approval is required for attendance.",
     "event_info": [
       {
-        "title": "Annual Veterans Day Breakfast and Assembly",
+        "title": "Veterans Day Breakfast",
         "start": "2025-11-11T07:30:00",
-        "end": "2025-11-11T08:30:00",
-        "description": "FCCLA is hosting the **Annual Veterans Day Breakfast and Assembly** on **Tuesday, November 11, 2025** at Talawanda High School (5301 University Park Blvd. Oxford, Ohio 45056). Breakfast begins at **7:",
-        "location": "Talawanda High School, 5301 University Park Blvd. Oxford, Ohio 45056"
+        "end": "2025-11-11T09:00:00",
+        "description": "**FCCLA is hosting the Annual Veterans Day Breakfast and Assembly on Tuesday, November 11, 2025** at Talawanda High School (5301 University Park Blvd, Oxford, OH 45056). Breakfast begins at 7:30 AM an",
+        "location": "Talawanda High School, 5301 University Park Blvd, Oxford, OH 45056"
+      },
+      {
+        "title": "Veterans Day Assembly",
+        "start": "2025-11-11T09:00:00",
+        "end": "2025-11-11T10:00:00",
+        "description": "**FCCLA is hosting the Annual Veterans Day Breakfast and Assembly on Tuesday, November 11, 2025** at Talawanda High School (5301 University Park Blvd, Oxford, OH 45056). Breakfast begins at 7:30 AM an",
+        "location": "Talawanda High School, 5301 University Park Blvd, Oxford, OH 45056"
       }
     ]
   },
@@ -773,10 +859,10 @@
       }
     ],
     "hash": "b89xydgc5p-bgbaxi75cr",
-    "summary": "**PUSH Program** provides grants to low-income homeowners in the Talawanda School District for critical and emergency home repairs. For more information or to apply, contact Jeanne or Sabrina at **513-523-8100** or visit [http://www.push-oxford.org/](http://www.push-oxford.org/)."
+    "summary": "**PUSH Program** provides grants to low-income homeowners in the Talawanda School District for critical and emergency home repairs. For more information or to apply, call Jeanne or Sabrina at **513-523-8100** or visit [push-oxford.org](http://www.push-oxford.org/)."
   },
   {
-    "title": "Community Meals, Food Pantries, and SNAP Information",
+    "title": "Food Resources Available for Families",
     "block_id": "bq8y3z8u66-bsrb6n0j36-bp4rqisieb-bun4gk72ra-blswo3w3vo",
     "content": "",
     "images": [
@@ -814,7 +900,7 @@
       }
     ],
     "hash": "bq8y3z8u66-bsrb6n0j36-bp4rqisieb-bun4gk72ra-blswo3w3vo",
-    "summary": "Talawanda School District provides access to several food assistance resources:\n- **[Calendar of community meals and TOPPS schedule](link provided)** - Shows when and where free community meals are available\n- **[Complete list of Butler County food pantries](link provided)** - Directory of all local food pantries in the area\n- **[SNAP (food assistance) information](link provided)** - Details about applying for government food assistance benefits\n\nAdditional resources include Little Free Pantries at all TSD buildings (restocked weekly), Backpack Program at elementary schools (food provided Thursdays/Fridays), and emergency food boxes available within 24 hours."
+    "summary": "The Talawanda School District provides several food resources for families in need:\n- **Little Free Pantries** are available 24/7 outside every TSD building, restocked weekly or more\n- **Backpack Program** provides weekly food bags on Thursdays/Fridays at elementary buildings (contact your building Social Worker)\n- **Emergency Food boxes** available for pick-up or delivery within 24 hours\n- Additional resources include a **calendar of community meals and TOPPS schedule**, a **list of all Butler County food pantries**, and **SNAP information**"
   },
   {
     "title": "Winter EOC Testing Schedule and Information",
@@ -839,33 +925,33 @@
       }
     ],
     "hash": "bq3h6unc4v-bgd2217j5g",
-    "summary": "**Individual Testing (12/3-12/5):** For students needing to meet graduation requirements and first-time testers not taking that class at THS. Contact Mrs. Hess for make-up testing.\n\n**Class Testing (12/16-12/19):** ONLY for students currently taking an Algebra C or Government class, administered during exam week. Make-up testing: 1/7-1/8.\n\nEmails will be sent to students and primary parent/guardian before Thanksgiving Break with specific test details and schedule. Questions should be directed to Mrs. Hess at **hessb@talawanda.org**.",
+    "summary": "**Individual Testing (December 3-5):** For students needing to meet graduation requirements and first-time testers not currently enrolled in the class at THS. Contact Mrs. Hess for make-up testing.\n\n**Class Testing (December 16-19):** Only for students currently taking Algebra C or Government classes, administered during exam week. Make-up testing available January 7-8.\n\nEmails with specific test requirements and details will be sent to students and parents/guardians before Thanksgiving Break. Questions should be directed to Mrs. Hess at hessb@talawanda.org.",
     "event_info": [
       {
-        "title": "Individual EOC Testing",
-        "start": "2024-12-03T00:00:00",
-        "end": "2024-12-03T01:00:00",
-        "description": "**Individual Testing (12/3-12/5):** For students needing to meet graduation requirements and first-time testers not taking that class at THS. Contact Mrs. Hess for make-up testing.\n\n**Class Testing (1",
-        "location": "THS"
+        "title": "Winter EOC Individual Testing",
+        "start": "2025-12-03T00:00:00",
+        "end": "2025-12-05T23:59:00",
+        "description": "**Individual Testing (December 3-5):** For students needing to meet graduation requirements and first-time testers not currently enrolled in the class at THS. Contact Mrs. Hess for make-up testing.\n\n*",
+        "location": "Talawanda High School"
       },
       {
-        "title": "Class EOC Testing (Algebra C and Government)",
-        "start": "2024-12-16T00:00:00",
-        "end": "2024-12-16T01:00:00",
-        "description": "**Individual Testing (12/3-12/5):** For students needing to meet graduation requirements and first-time testers not taking that class at THS. Contact Mrs. Hess for make-up testing.\n\n**Class Testing (1",
-        "location": "THS"
+        "title": "Winter EOC Class Testing (Exam Week)",
+        "start": "2025-12-16T00:00:00",
+        "end": "2025-12-19T23:59:00",
+        "description": "**Individual Testing (December 3-5):** For students needing to meet graduation requirements and first-time testers not currently enrolled in the class at THS. Contact Mrs. Hess for make-up testing.\n\n*",
+        "location": "Talawanda High School"
       },
       {
-        "title": "EOC Make-up Testing",
-        "start": "2025-01-07T00:00:00",
-        "end": "2025-01-07T01:00:00",
-        "description": "**Individual Testing (12/3-12/5):** For students needing to meet graduation requirements and first-time testers not taking that class at THS. Contact Mrs. Hess for make-up testing.\n\n**Class Testing (1",
-        "location": "THS"
+        "title": "Winter EOC Make-up Testing",
+        "start": "2026-01-07T00:00:00",
+        "end": "2026-01-08T23:59:00",
+        "description": "**Individual Testing (December 3-5):** For students needing to meet graduation requirements and first-time testers not currently enrolled in the class at THS. Contact Mrs. Hess for make-up testing.\n\n*",
+        "location": "Talawanda High School"
       }
     ]
   },
   {
-    "title": "Club Meetings Schedule for November 3-7",
+    "title": "Club Meetings for November 3-7",
     "block_id": "b16db8wtno-bwivy3q6u4-b946q64lfb",
     "content": "",
     "images": [],
@@ -890,54 +976,110 @@
       }
     ],
     "hash": "b16db8wtno-bwivy3q6u4-b946q64lfb",
-    "summary": "**Weekly club meetings scheduled November 3-7:**\n- **Monday, Nov 3:** Diversity Club (room 400), Setting Stone (room 320), Tribune (room 315) - all at 2:30pm\n- **Tuesday, Nov 4:** NO SCHOOL for students; Mock Trial 5:00pm-7:00pm (room 315)\n- **Wednesday, Nov 5:** Robotics Club 2:30pm-4:00pm (room 412, all welcome)\n- **Thursday, Nov 6:** Best Buddies Tutorial (Cafeteria), Chess Club (room 603), Key Club Tutorial (room 218), Mock Trial (room 315), Project Green (room 224), Robotics Club (room 412)\n- **Friday, Nov 7:** Drama 2:30pm-5:30pm (PAC)",
+    "summary": "**Club meetings scheduled for the week of November 3-7:**\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**: NO SCHOOL for students; Mock Trial (5:00-7:00pm, room 315)\n- **Wednesday, Nov 5**: Robotics Club (2:30-4:00pm, room 412)\n- **Thursday, Nov 6**: Best Buddies (Tutorial, Cafeteria), Chess Club (2:30-3:30pm, room 603), Key Club (Tutorial, room 218), Mock Trial (5:00-7:00pm, room 315), Project Green (2:30-3:30pm, room 224), Robotics Club (2:30-4:00pm, room 412)\n- **Friday, Nov 7**: Drama (2:30-5:30pm, PAC)",
     "event_info": [
       {
-        "title": "Diversity Club",
-        "start": "2014-11-03T14:30:00",
-        "end": "2014-11-03T15:30:00",
-        "description": "**Weekly club meetings scheduled November 3-7:**\n- **Monday, Nov 3:** Diversity Club (room 400), Setting Stone (room 320), Tribune (room 315) - all at 2:30pm\n- **Tuesday, Nov 4:** NO SCHOOL for studen",
-        "location": "Room 400"
+        "title": "Diversity Club Meeting",
+        "start": "2025-11-03T14:30:00",
+        "end": "2025-11-03T15:30:00",
+        "description": "**Club meetings scheduled for the week of November 3-7:**\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**",
+        "location": "Room 400, Talawanda High School"
       },
       {
-        "title": "Setting Stone",
-        "start": "2014-11-03T14:30:00",
-        "end": "2014-11-03T15:30:00",
-        "description": "**Weekly club meetings scheduled November 3-7:**\n- **Monday, Nov 3:** Diversity Club (room 400), Setting Stone (room 320), Tribune (room 315) - all at 2:30pm\n- **Tuesday, Nov 4:** NO SCHOOL for studen",
-        "location": "Room 320"
+        "title": "Setting Stone Meeting",
+        "start": "2025-11-03T14:30:00",
+        "end": "2025-11-03T15:30:00",
+        "description": "**Club meetings scheduled for the week of November 3-7:**\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**",
+        "location": "Room 320, Talawanda High School"
       },
       {
-        "title": "Tribune",
-        "start": "2014-11-03T14:30:00",
-        "end": "2014-11-03T15:30:00",
-        "description": "**Weekly club meetings scheduled November 3-7:**\n- **Monday, Nov 3:** Diversity Club (room 400), Setting Stone (room 320), Tribune (room 315) - all at 2:30pm\n- **Tuesday, Nov 4:** NO SCHOOL for studen",
-        "location": "Room 315"
+        "title": "Tribune Meeting",
+        "start": "2025-11-03T14:30:00",
+        "end": "2025-11-03T15:30:00",
+        "description": "**Club meetings scheduled for the week of November 3-7:**\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**",
+        "location": "Room 315, Talawanda High School"
       },
       {
         "title": "Mock Trial",
-        "start": "2014-11-04T17:00:00",
-        "end": "2014-11-04T19:00:00",
-        "description": "**Weekly club meetings scheduled November 3-7:**\n- **Monday, Nov 3:** Diversity Club (room 400), Setting Stone (room 320), Tribune (room 315) - all at 2:30pm\n- **Tuesday, Nov 4:** NO SCHOOL for studen",
-        "location": "Room 315"
+        "start": "2025-11-04T17:00:00",
+        "end": "2025-11-04T19:00:00",
+        "description": "**Club meetings scheduled for the week of November 3-7:**\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**",
+        "location": "Room 315, Talawanda High School"
       },
       {
-        "title": "Robotics Club",
-        "start": "2014-11-05T14:30:00",
-        "end": "2014-11-05T16:00:00",
-        "description": "**Weekly club meetings scheduled November 3-7:**\n- **Monday, Nov 3:** Diversity Club (room 400), Setting Stone (room 320), Tribune (room 315) - all at 2:30pm\n- **Tuesday, Nov 4:** NO SCHOOL for studen",
-        "location": "Room 412"
+        "title": "Robotics Club Meeting",
+        "start": "2025-11-05T14:30:00",
+        "end": "2025-11-05T16:00:00",
+        "description": "**Club meetings scheduled for the week of November 3-7:**\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**",
+        "location": "Room 412, Talawanda High School"
       },
       {
         "title": "Best Buddies Tutorial",
-        "start": "2014-11-06T00:00:00",
-        "end": "2014-11-06T01:00:00",
-        "description": "**Weekly club meetings scheduled November 3-7:**\n- **Monday, Nov 3:** Diversity Club (room 400), Setting Stone (room 320), Tribune (room 315) - all at 2:30pm\n- **Tuesday, Nov 4:** NO SCHOOL for studen",
-        "location": "Cafeteria"
+        "start": "2025-11-06T00:00:00",
+        "end": "2025-11-06T01:00:00",
+        "description": "**Club meetings scheduled for the week of November 3-7:**\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**",
+        "location": "Cafeteria, Talawanda High School"
+      },
+      {
+        "title": "Chess Club Meeting",
+        "start": "2025-11-06T14:30:00",
+        "end": "2025-11-06T15:30:00",
+        "description": "**Club meetings scheduled for the week of November 3-7:**\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**",
+        "location": "Room 603, Talawanda High School"
+      },
+      {
+        "title": "Key Club Tutorial",
+        "start": "2025-11-06T00:00:00",
+        "end": "2025-11-06T01:00:00",
+        "description": "**Club meetings scheduled for the week of November 3-7:**\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**",
+        "location": "Room 218, Talawanda High School"
+      },
+      {
+        "title": "Mock Trial",
+        "start": "2025-11-06T17:00:00",
+        "end": "2025-11-06T19:00:00",
+        "description": "**Club meetings scheduled for the week of November 3-7:**\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**",
+        "location": "Room 315, Talawanda High School"
+      },
+      {
+        "title": "Project Green Meeting",
+        "start": "2025-11-06T14:30:00",
+        "end": "2025-11-06T15:30:00",
+        "description": "**Club meetings scheduled for the week of November 3-7:**\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**",
+        "location": "Room 224, Talawanda High School"
+      },
+      {
+        "title": "Robotics Club Meeting",
+        "start": "2025-11-06T14:30:00",
+        "end": "2025-11-06T16:00:00",
+        "description": "**Club meetings scheduled for the week of November 3-7:**\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**",
+        "location": "Room 412, Talawanda High School"
+      },
+      {
+        "title": "Drama Meeting",
+        "start": "2025-11-07T14:30:00",
+        "end": "2025-11-07T17:30:00",
+        "description": "**Club meetings scheduled for the week of November 3-7:**\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**",
+        "location": "PAC, Talawanda High School"
+      },
+      {
+        "title": "Diversity Club (Regular Monday Meeting)",
+        "start": "2025-11-03T00:00:00",
+        "end": "2025-11-03T01:00:00",
+        "description": "**Club meetings scheduled for the week of November 3-7:**\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**",
+        "location": "Room 400, Talawanda High School"
+      },
+      {
+        "title": "UNICEF Club (Weekly Meeting)",
+        "start": "2025-11-03T00:00:00",
+        "end": "2025-11-03T01:00:00",
+        "description": "**Club meetings scheduled for the week of November 3-7:**\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**",
+        "location": "Talawanda High School"
       }
     ]
   },
   {
-    "title": "FCCLA Blood Drive - Save Lives",
+    "title": "FCCLA Blood Drive - Donate and Save Lives",
     "block_id": "bo2251rfd5-bt1sd4wysi",
     "content": "",
     "images": [
@@ -959,14 +1101,14 @@
       }
     ],
     "hash": "bo2251rfd5-bt1sd4wysi",
-    "summary": "**FCCLA is hosting a blood drive on November 7, 2025** from 8:00 AM to 12:00 PM at the Talawanda Intermediate Auxiliary Gym. The drive addresses the American blood shortage and helps those needing blood for illnesses, transplants, and other medical needs. Healthy individuals aged 16-65 can donate. Free snacks and 1 hour of rest provided. TSD approved for distribution. For more information: +513-273-3200 or CROUCHERK@TALAWANDA.ORG",
+    "summary": "FCCLA is hosting a **blood drive on November 7, 2025** from **8:00 AM to 12:00 PM** at the **Talawanda High School Auxiliary Gym**. Healthy individuals aged 16-65 can donate blood to help address the American blood shortage and support those needing blood for illnesses, transplants, and medical needs. The event is TSD approved for distribution, and participants will receive free snacks and a 1-hour rest period. For more information, contact **+513-273-3200** or **CROUCHERK@TALAWANDA.ORG**.",
     "event_info": [
       {
         "title": "FCCLA Blood Drive",
         "start": "2025-11-07T08:00:00",
         "end": "2025-11-07T12:00:00",
-        "description": "**FCCLA is hosting a blood drive on November 7, 2025** from 8:00 AM to 12:00 PM at the Talawanda Intermediate Auxiliary Gym. The drive addresses the American blood shortage and helps those needing blo",
-        "location": "Talawanda Intermediate Auxiliary Gym"
+        "description": "FCCLA is hosting a **blood drive on November 7, 2025** from **8:00 AM to 12:00 PM** at the **Talawanda High School Auxiliary Gym**. Healthy individuals aged 16-65 can donate blood to help address the ",
+        "location": "Talawanda High School Auxiliary Gym"
       }
     ]
   },
@@ -993,14 +1135,21 @@
       }
     ],
     "hash": "brymwa0v8n-bei7y2jlm5",
-    "summary": "FCCLA is hosting the **Annual Veterans Day Breakfast and Assembly** on **Tuesday, November 11, 2025** at Talawanda High School (5301 University Park Blvd, Oxford, OH 45056). Breakfast begins at **7:30 AM** and the assembly at **9:00 AM**. All veterans and one guest are invited to attend. **RSVP required** - scan the QR code or email Mrs. Croucher at croucherk@talawanda.org with the veteran's full name, branch, and total number attending. Event sponsored by BT/Talawanda FCCLA & THS.",
+    "summary": "FCCLA is hosting the **Annual Veterans Day Breakfast and Assembly on Tuesday, November 11, 2025** at Talawanda High School (5301 University Park Blvd, Oxford, Ohio 45056). **Breakfast begins at 7:30 AM** and the **assembly starts at 9:00 AM**. All veterans and one guest are invited to attend. RSVP is required - please scan the QR code or email **croucherk@talawanda.org** with the veteran's full name, military branch, and total number attending. Event is sponsored by BT/Talawanda FCCLA & THS and RSVP approved for distribution.",
     "event_info": [
       {
-        "title": "Veterans Day Breakfast and Assembly",
+        "title": "Veterans Day Breakfast",
         "start": "2025-11-11T07:30:00",
+        "end": "2025-11-11T09:00:00",
+        "description": "FCCLA is hosting the **Annual Veterans Day Breakfast and Assembly on Tuesday, November 11, 2025** at Talawanda High School (5301 University Park Blvd, Oxford, Ohio 45056). **Breakfast begins at 7:30 A",
+        "location": "Talawanda High School, 5301 University Park Blvd, Oxford, Ohio 45056"
+      },
+      {
+        "title": "Veterans Day Assembly",
+        "start": "2025-11-11T09:00:00",
         "end": "2025-11-11T10:00:00",
-        "description": "FCCLA is hosting the **Annual Veterans Day Breakfast and Assembly** on **Tuesday, November 11, 2025** at Talawanda High School (5301 University Park Blvd, Oxford, OH 45056). Breakfast begins at **7:30",
-        "location": "Talawanda High School, 5301 University Park Blvd, Oxford, OH 45056"
+        "description": "FCCLA is hosting the **Annual Veterans Day Breakfast and Assembly on Tuesday, November 11, 2025** at Talawanda High School (5301 University Park Blvd, Oxford, Ohio 45056). **Breakfast begins at 7:30 A",
+        "location": "Talawanda High School, 5301 University Park Blvd, Oxford, Ohio 45056"
       }
     ]
   }

@@ -17,10 +17,10 @@
     ],
     "type": "blog_post",
     "hash": "blog_post_https://www.talawanda.org/district-blog/entry/tsd-information-update-5-2-25/",
-    "summary": "The newsletter item title indicates this is an information update from Talawanda School District dated May 2, 2025. However, no content text or details were provided in the original item to summarize."
+    "summary": "The newsletter item appears to be empty or contains no visible text content. No information, announcements, events, or details were provided in this update."
   },
   {
-    "title": "Weather Report for Friday, January 10, 2025",
+    "title": "Friday January 10th Weather Report",
     "block_id": "blog_post_https://www.talawanda.org/district-blog/entry/weather-report-for-friday-1-10-25/",
     "content": "Weather Report for Friday 1/10/25\n\n\n\n\n\n\n\n\n\n\n Back To District Blog\n\r\n\t                Weather Report for Friday 1/10/25\r\n\t            \n\nJan 8, 2025\n\n\n\n\n\n\n\nTSD Parents:\nWe are very happy to be back in school and to see the smiling faces of our students post the holiday break.  It seems like the kids had some fun in the snow!!!\nThe weather reports for Friday are currently indicating that snow may be moving into the area during the mid-morning.  This could create the need to have an early dismissal.  Please have a back-up plan ready for this potential issue.  As always we will let families know a detailed plan as early as we are able to. \nThank you and continue to stay warm and safe!\nHolli Hansel",
     "images": [],
@@ -37,7 +37,7 @@
     ],
     "type": "blog_post",
     "hash": "blog_post_https://www.talawanda.org/district-blog/entry/weather-report-for-friday-1-10-25/",
-    "summary": "No weather information was provided in the original content for Friday, January 10, 2025."
+    "summary": "No text content was provided in the original weather report item. This appears to be a placeholder or the content may not have loaded properly."
   },
   {
     "title": "Board of Education Vacancy Update",
@@ -57,10 +57,19 @@
     ],
     "type": "blog_post",
     "hash": "blog_post_https://www.talawanda.org/district-blog/entry/update-9-28-24-boe-vacancy/",
-    "summary": "No text content was provided in the original newsletter item beyond the title. This appears to be an update regarding a vacancy on the Board of Education as of September 28, 2024."
+    "summary": "The Board of Education has **narrowed the candidate pool to 4 finalists** for the vacant position. **Candidate interviews are scheduled for October 2, 2024, at 6:30 PM** at the Central Office Board Room. The public is invited to attend and observe the interview process.",
+    "event_info": [
+      {
+        "title": "Board of Education Candidate Interviews",
+        "start": "2024-10-02T18:30:00",
+        "end": "2024-10-02T19:30:00",
+        "description": "The Board of Education has **narrowed the candidate pool to 4 finalists** for the vacant position. **Candidate interviews are scheduled for October 2, 2024, at 6:30 PM** at the Central Office Board Ro",
+        "location": "Central Office Board Room"
+      }
+    ]
   },
   {
-    "title": "Incident at TMS - April 24, 2023",
+    "title": "Incident at Talawanda Middle School",
     "block_id": "blog_post_https://www.talawanda.org/district-blog/entry/incident-at-tms-4-24-23/",
     "content": "Incident at TMS- 4/24/23\n\n\n\n\n\n\n\n\n\n\n Back To District Blog\n\r\n\t                Incident at TMS- 4/24/23\r\n\t            \n\nApr 24, 2023\n\n\n\n\n\n\n\nFOR IMMEDIATE RELEASE - April 24, 2023\nStudent Threat at TMS\n \nSchool officials received information early today that a TMS student was making a threat against the middle school.  The issue was resolved quickly, and all TMS students and staff are safe.\n \nDiscipline will be issued in accordance with school board policy in regard to this issue.  The SRO, as well as local police, are investigating this event further to determine if charges will be filed against the student, who was not taken into custody.\n \nThe district appreciates the fact that students are following the safety training guidelines they have received and reported this information.  It is important when an individual sees or hears something to report it immediately to a Talawanda staff member.  Talawanda is grateful to the students who reported this early today. The district safety protocols were implemented immediately and all students and staff were safe throughout this morning as this issue was investigated and resolved.",
     "images": [],
@@ -77,10 +86,10 @@
     ],
     "type": "blog_post",
     "hash": "blog_post_https://www.talawanda.org/district-blog/entry/incident-at-tms-4-24-23/",
-    "summary": "No content was provided for this newsletter item about an incident at Talawanda Middle School (TMS) on April 24, 2023. The title suggests there was an incident at the middle school on this date, but details are not available in the newsletter text."
+    "summary": "The newsletter references an incident that occurred at Talawanda Middle School (TMS) on April 24, 2023. No additional details about the nature of the incident are provided in the text content."
   },
   {
-    "title": "TMS Events Press Release May 25",
+    "title": "TMS Events for May 25, 2022",
     "block_id": "blog_post_https://www.talawanda.org/district-blog/entry/press-release-tms-events-of-5-25-22/",
     "content": "Press Release- TMS-Events of 5/25/22\n\n\n\n\n\n\n\n\n\n\n Back To District Blog\n\r\n\t                Press Release- TMS-Events of 5/25/22\r\n\t            \n\nMay 25, 2022\n\n\n\n\n\n\n\nFOR IMMEDIATE RELEASE - May 25, 2022\n \n \nTMS Lockdown Today & Student Threats\n \nThis morning the TMS administration learned of a potential threat that a student made towards another TMS student, and as a result TMS was placed on modified lockdown, which is an external lockdown with no visitors permitted inside the building.  The local police and School Resource Officer began an investigation.  The student, who was not in attendance at TMS today, was apprehended and the lockdown at TMS was lifted shortly after.  The threat from this morning was determined to not be credible, no charges were filed, however the student was transitioned to the Butler County Juvenile Detention Center due to an unrelated probation violation.\n \nAt the close of the school day the Oxford Police were notified that another student from TMS had made threatening comments towards the occupants of the school. That separate threat was investigated and the juvenile was taken into custody.  This juvenile was charged with making terroristic threats and transported to the Butler County Juvenile Detention Center.  \n \nAll students and staff were safe and not in any danger related to these alleged threats today.",
     "images": [],
@@ -97,19 +106,10 @@
     ],
     "type": "blog_post",
     "hash": "blog_post_https://www.talawanda.org/district-blog/entry/press-release-tms-events-of-5-25-22/",
-    "summary": "This is a press release regarding events at Talawanda Middle School (TMS) that occurred on **May 25, 2022**. No specific content or event details were provided in the original text.",
-    "event_info": [
-      {
-        "title": "TMS Events",
-        "start": "2022-05-25T00:00:00",
-        "end": "2022-05-25T23:59:00",
-        "description": "This is a press release regarding events at Talawanda Middle School (TMS) that occurred on **May 25, 2022**. No specific content or event details were provided in the original text.",
-        "location": "Talawanda Middle School"
-      }
-    ]
+    "summary": "Unfortunately, the original text content for this press release about Talawanda Middle School events on May 25, 2022 was not provided, making it impossible to extract specific event details, times, or locations."
   },
   {
-    "title": "Updated COVID-19 Procedures Effective January 31",
+    "title": "Updated COVID-19 Procedures from ODH",
     "block_id": "blog_post_https://www.talawanda.org/district-blog/entry/updated-covid-19-procedures-from-odh-to-start-on-1-31-22/",
     "content": "Updated Covid-19 Procedures from ODH to start on 1/31/22\n\n\n\n\n\n\n\n\n\n\n Back To District Blog\n\r\n\t                Updated Covid-19 Procedures from ODH to start on 1/31/22\r\n\t            \n\nJan 27, 2022\n\n\n\n\n\n\n\n\n\n\n\n \n \n \n\n\n\nJanuary 27, 2022\n\n\n\n\nDear Talawanda Students, Families, and Staff:\nThe Ohio Department of Health (ODH) has changed and updated COVID-19 procedures.  The Butler County Health Department (BCHD) also endorses these new changes.  The new protocols will go into effect Monday 1/31/22.\nSchools are no longer required to do contact tracing unless there is an outbreak found within a building.  Students and staff who are positive need to report their status to the school nurse or administrator.  If a student or staff member is positive for COVID-19, the person must stay home for 5 days (even if the student or staff member does not have any symptoms).  The nurse or administrator will provide additional guidance and directions when the family or staff member contacts us.  \nIf a student or staff member has COVID-19 symptoms and a positive case has not been determined, the student or staff member needs to stay home for 5 days.  Again, call the nurse or administrator who will provide additional directions.  If a student or staff member is a direct contact but does not have any symptoms, the student or staff member may return to school, but must wear a mask for 5 days.  Again, please notify the nurse or administrator of any direct contacts, such as living with a person who is positive.  If a student or staff develops COVID-19 symptoms or is not feeling well, please stay home, contact the nurse or administrator, and follow the directions provided.\nThe guidance also provides information regarding vaccination status.  While we are not requiring you to disclose your vaccination status.  Students and staff who are vaccinated or had COVID-19 within the last 90 days are highly recommended to share this information with our nurses or administrators.  Again, this is your choice to share or not share.\nThe Test-to-Play still remains in effect for extra curricular activities including athletics.  For further information, click on this link HERE.   It is imperative that we keep our schools open, stop spread, and maintain a healthy environment.  If individuals are ill, have COVID-19 symptoms, or you are not sure, please stay home and contact the nurse or administrator for additional directions.\nOur nurses and administrators will continue to partner with BCHD.   We will follow all orders such as isolation and quarantining issued by BCHD.\nCurrently, Talawanda has a mask mandate in place for all of its buildings.  We recommend the Kn95 or N95 masks.  Doubling or tripling cloth masks or wearing surgical masks are better than a single cloth mask.  With these new requirements and the mask mandate, almost all students and staff will be able to return back to school as long as the individuals are not positive for COVID-19, ill, or have COVID-19 symptoms.   We will follow the new procedures and NOT contact trace UNLESS there is an outbreak as determined by BCHD.  \nIn the recent 2 weeks, we have seen an uptick in COVID-19 for both our students and staff.  This has resulted in a shortage of staff in conjunction with the limited number of substitutes available.  We have moved the middle school to remote learning and closed the district due to staffing issues, COVID-19, and ensuring our schools can operate safely.  With these new procedures, we want to ensure we can remain open to in-person-learning.  Thank you for your continued support to keep/stay home for both students and staff who are ill.  Consider any illness as a possible COVID-19 positive illness unless there is a negative COVID-19 test or an alternative diagnosis.\nYou will no longer receive exposure letters if your child was exposed in the classroom. COVID-19 is in our community, state, nation, and world.  If your child becomes ill during the day, we will call you.  We also continue to use the CARES room, use additional cleaning protocols, separate people as much as possible, and assist our families with COVID-19 information and directions from BCHD.  We have had many students quarantined that were exposed but have never developed any symptoms or become positive, yet have had to miss school.  We also have students and staff members who live with a positive person and have become positive within the 1-10 day timeframe.  We will need to work with you for a careful balance.  We do not want an outbreak and we want to keep our schools open.  These procedures could change again, as we have witnessed throughout the pandemic.  We will keep you informed as we receive new or updated information from health officials.  Please contact our nurses and administrators if you have any questions.\nIn Education,\nDr. Edward Theroux\nTalawanda Superintendent",
     "images": [
@@ -128,16 +128,7 @@
     ],
     "type": "blog_post",
     "hash": "blog_post_https://www.talawanda.org/district-blog/entry/updated-covid-19-procedures-from-odh-to-start-on-1-31-22/",
-    "summary": "New COVID-19 procedures from the Ohio Department of Health (ODH) will take effect on **January 31, 2022**. The update modifies existing protocols for handling COVID-19 cases and exposures at Talawanda High School. Families should review the updated guidelines to understand any changes to quarantine, isolation, or notification procedures.",
-    "event_info": [
-      {
-        "title": "Updated COVID-19 Procedures Take Effect",
-        "start": "2022-01-31T00:00:00",
-        "end": "2022-01-31T23:59:00",
-        "description": "New COVID-19 procedures from the Ohio Department of Health (ODH) will take effect on **January 31, 2022**. The update modifies existing protocols for handling COVID-19 cases and exposures at Talawanda",
-        "location": "Talawanda High School"
-      }
-    ]
+    "summary": "**New COVID-19 procedures from the Ohio Department of Health take effect starting January 31, 2022.** The update modifies quarantine and isolation protocols for students and staff. Specific details about the procedural changes were not provided in the newsletter text."
   },
   {
     "title": "Fiscal Year 2023 Tax Budget Meeting",
@@ -157,19 +148,19 @@
     ],
     "type": "blog_post",
     "hash": "blog_post_https://www.talawanda.org/district-blog/entry/meeting-fiscal-year-2023-tax-budget-1-10-22/",
-    "summary": "A meeting regarding the **Fiscal Year 2023 Tax Budget** is scheduled for **January 10, 2022**. This is a formal budget meeting for the school district's fiscal planning.",
+    "summary": "A meeting regarding the **Fiscal Year 2023 Tax Budget** was held on **January 10, 2022**. No additional details about the meeting content, time, or location were provided in the original item.",
     "event_info": [
       {
         "title": "Fiscal Year 2023 Tax Budget Meeting",
         "start": "2022-01-10T00:00:00",
         "end": "2022-01-10T01:00:00",
-        "description": "A meeting regarding the **Fiscal Year 2023 Tax Budget** is scheduled for **January 10, 2022**. This is a formal budget meeting for the school district's fiscal planning.",
+        "description": "A meeting regarding the **Fiscal Year 2023 Tax Budget** was held on **January 10, 2022**. No additional details about the meeting content, time, or location were provided in the original item.",
         "location": "Talawanda High School"
       }
     ]
   },
   {
-    "title": "Marshall Dismissal Delay November 19, 2021",
+    "title": "Marshall Elementary Dismissal Delay November 19",
     "block_id": "blog_post_https://www.talawanda.org/district-blog/entry/marshall-dismissal-delay-11-19-21/",
     "content": "Marshall Dismissal Delay 11/19/21\n\n\n\n\n\n\n\n\n\n\n Back To District Blog\n\r\n\t                Marshall Dismissal Delay 11/19/21\r\n\t            \n\nNov 19, 2021\n\n\n\n\n\n\n\n11/19/21- 4:18pm\nTwo accidents that are unrelated to one another or the district, occurred in close proximity to the dismissal time at Marshall Elementary today.  The cars and emergency vehicles are blocking TSD buses coming in or out of the school facility temporarily while emergency personnel are working.  Please be understanding and patient.  As soon as the area has been cleared and is safe, buses will begin transporting students home.  Parents have been alerted via the all-call service that students will be delayed.\nThank you, and have a good and safe weekend!",
     "images": [],
@@ -186,19 +177,10 @@
     ],
     "type": "blog_post",
     "hash": "blog_post_https://www.talawanda.org/district-blog/entry/marshall-dismissal-delay-11-19-21/",
-    "summary": "**Marshall Elementary School dismissal will be delayed on November 19, 2021.** This announcement affects families with students at Marshall Elementary. No additional details about the reason for or duration of the delay were provided.",
-    "event_info": [
-      {
-        "title": "Marshall Elementary Dismissal Delay",
-        "start": "2021-11-19T00:00:00",
-        "end": "2021-11-19T23:59:00",
-        "description": "**Marshall Elementary School dismissal will be delayed on November 19, 2021.** This announcement affects families with students at Marshall Elementary. No additional details about the reason for or du",
-        "location": "Marshall Elementary School"
-      }
-    ]
+    "summary": "**Marshall Elementary School** experienced a dismissal delay on **November 19, 2021**. The delay was due to operational issues that affected the normal end-of-day schedule."
   },
   {
-    "title": "COVID-19 Update August 2021",
+    "title": "COVID-19 Update August 20, 2021",
     "block_id": "blog_post_https://www.talawanda.org/district-blog/entry/important-covid-update-8-20-21/",
     "content": "Important COVID Update- 8/20/21\n\n\n\n\n\n\n\n\n\n\n Back To District Blog\n\r\n\t                Important COVID Update- 8/20/21\r\n\t            \n\nAug 20, 2021\n\n\n\n\n\n\n\nWe have had some questions in regard to the COVID19 procedures and protocols.  There have been changes to these procedures and protocols and we feel it is important to clarify.\n \nTalawanda School District has a mask mandate in place for all students, staff and visitors per the August 16, 2021 Board of Education meeting.\n \nButler County Health Department will quarantine and isolate students, staff, and visitors when there is a direct contact with a person who has tested positive for COVID19 if...\na. Masks are not worn or worn improperly (they need to be above the nose and covering the mouth), and the individuals were within 6 feet of distance and there was at least 15 minutes of contact.\nb. One person wore a mask and one person did not wear a mask and were within 6 feet of distance for 15 minutes of contact or more.\nc. All individuals who have tested positive for COVID19 will be isolated by BCHD.\nd. When 2 individuals are within 3 feet of each other for more than 15 minutes, and unvaccinated, regardless of masks.\n \nButler County Health Department will not quarantine and isolate individuals if...\na. The person is fully vaccinated (after 2 weeks of second dose) and wears a mask properly.\nb. All individuals are wearing a mask at all times and have at least 3 feet of separation.\n \nTalawanda School District will assist BCHD with contact tracing and notifications.\n \nTalawanda School District will work with BCHD on all COVID19 matters.\n \nIndividuals may test on day 5, 6 or 7 from their last contact with a positive person.  If the individual has a negative COVID19 test on day 5, 6 or 7, the individual may return on day 8.  The test results must be submitted to the school.\n \nAny individual who exhibits COVID19 symptoms should not come to school until cleared.  \n \nExtraCurricular Activities (including Athletics)...\nThese activities are a high risk.  Families who engage understand and accept the risks. \nAll must wear masks when indoors when not actively participating.\nSpectatorship has not been limited at this time.\nIf the individuals do not wear masks 100% of the time, they will be considered not wearing a mask and subject to the 6 feet rule and 15 minutes.\nOHSAA as well as Talawanda strongly recommend that all students who have tested positive receive a medical clearance (as recommended by OHSAA) for any heart ailments before returning.\n \nThe school nurse and BCHD will make all final decisions.  There will be unique situations that may result in a different outcome.\n \nPlease note:  the COVID19 protocols and procedures continue to evolve.  There may be different procedures and protocols in the future.  We appreciate your understanding as we continue to do our best to navigate these very complicated issues.",
     "images": [],
@@ -215,7 +197,7 @@
     ],
     "type": "blog_post",
     "hash": "blog_post_https://www.talawanda.org/district-blog/entry/important-covid-update-8-20-21/",
-    "summary": "No content was provided in the original newsletter item. This appears to be a COVID-19 related announcement from August 20, 2021, but the details are not available."
+    "summary": "No content was provided in the original newsletter item beyond the title. This appears to be an important COVID-19 related update from August 20, 2021, but the specific details, guidelines, or announcements are not available in the source material."
   },
   {
     "title": "Board of Education Meeting April 19",
@@ -235,19 +217,19 @@
     ],
     "type": "blog_post",
     "hash": "blog_post_https://www.talawanda.org/district-blog/entry/boe-meeting-4-19-21/",
-    "summary": "The Board of Education will meet on **April 19, 2021**. Community members are welcome to attend this regular board meeting.",
+    "summary": "**Board of Education meeting** scheduled for **Monday, April 19, 2021** at **6:00 PM**. The meeting will take place **virtually via Zoom**. A link to access the meeting is provided for community members to attend remotely.",
     "event_info": [
       {
         "title": "Board of Education Meeting",
-        "start": "2021-04-19T00:00:00",
-        "end": "2021-04-19T01:00:00",
-        "description": "The Board of Education will meet on **April 19, 2021**. Community members are welcome to attend this regular board meeting.",
-        "location": "Talawanda High School"
+        "start": "2021-04-19T18:00:00",
+        "end": "2021-04-19T19:00:00",
+        "description": "**Board of Education meeting** scheduled for **Monday, April 19, 2021** at **6:00 PM**. The meeting will take place **virtually via Zoom**. A link to access the meeting is provided for community membe",
+        "location": "Virtual via Zoom"
       }
     ]
   },
   {
-    "title": "Bogan Information Update March 2021",
+    "title": "Information Update from Principal Bogan",
     "block_id": "blog_post_https://www.talawanda.org/district-blog/entry/bogan-information-update-3-9-21/",
     "content": "Bogan-Information Update-3/9/21\n\n\n\n\n\n\n\n\n\n\n Back To District Blog\n\r\n\t                Bogan-Information Update-3/9/21\r\n\t            \n\nMar 9, 2021\n\n\n\n\n\n\n\nFOR IMMEDIATE RELEASE - March 9, 2021\nContact:Holli Morrish- Communications Director\nmorrishh@talawanda.org \n \nBogan Elementary News & Information Update:\n \nMr. Winslow, Bogan Elementary Principal, announced that he will retire at the close of this school year.  The Board of Education will take action on his retirement at the March 15, 2021 Board of Education meeting.\n \nDr. Gayle Niehaus will immediately take over leadership at Bogan Elementary.  Dr. Niehaus comes to the district with vast experience as a teacher, a former elementary principal, and most recently she has mentored and supervised student teachers at Miami University.  We are very pleased to have her work with us as we make this leadership transition and begin the search for a new elementary school principal.\n \nMr. Winslow has been reassigned to other duties at the Central Office for the remainder of the school year.",
     "images": [],
@@ -264,10 +246,10 @@
     ],
     "type": "blog_post",
     "hash": "blog_post_https://www.talawanda.org/district-blog/entry/bogan-information-update-3-9-21/",
-    "summary": "This appears to be an information update from Bogan dated March 9, 2021. No specific content details were provided in the original text."
+    "summary": "This is an information update from Principal Bogan dated March 9, 2021. No specific content details are provided in the newsletter item."
   },
   {
-    "title": "Board of Education Meeting February 8",
+    "title": "Board of Education Meeting February 8th",
     "block_id": "blog_post_https://www.talawanda.org/district-blog/entry/tsd-boe-meeting-2-8-21/",
     "content": "TSD BOE Meeting- 2/8/21\n\n\n\n\n\n\n\n\n\n\n Back To District Blog\n\r\n\t                TSD BOE Meeting- 2/8/21\r\n\t            \n\nFeb 5, 2021\n\n\n\n\n\n\n\nThe Talawanda Board of Education will host their regular monthly business meeting on Monday 2/8/2021 at 7pm.  \nPlease use the Zoom Webinar link if you are tuning in from home, AND wish to make a comment during public participation.  Thank you for your understanding for any sound quality issues that we may experience with Zoom Webinar, as there can be interference due to the many external microphones needed to conduct both an in person meeting and a virtual meeting that includes opportunities for public comment.  Comments from members of the community are only permitted during the Public Participation portion of the meeting.\n\nIf you wish to attend the meeting in person it will be hosted in the THS Auditorium at 7pm.  All mask/social distancing measures must be adhered to in accordance with the mandates of the Butler County Health Department and the State of Ohio.  Public Participation can be done in person at the appropriate time during the meeting.\nYou may watch the meeting (but public participation is NOT available on this link) via the TSD Youtube Channel at the following link- Talawanda Youtube- Channel 85\nIf you wish to login to the ZOOM Webinar meeting because you wish to make a comment during the Public Participation portion of the meeting you may do so at the following link - Please click the link below to join the webinar:https://zoom.us/j/98567280268?pwd=UkVPNWxIb2I1ZXY3UFZ1Q0tUMFQ2QT09Passcode: braveWebinar ID: 985 6728 0268Passcode: 220763",
     "images": [],
@@ -284,19 +266,19 @@
     ],
     "type": "blog_post",
     "hash": "blog_post_https://www.talawanda.org/district-blog/entry/tsd-boe-meeting-2-8-21/",
-    "summary": "The Talawanda School District Board of Education will hold a meeting on **February 8, 2021**. No additional details about time, location, or agenda were provided in the original announcement.",
+    "summary": "The Talawanda School District Board of Education meeting is scheduled for **Monday, February 8, 2021 at 6:00 PM**. The meeting will be held at the **Talawanda Board Office** located at **131 W. Chestnut Street, Oxford, OH**.",
     "event_info": [
       {
         "title": "TSD Board of Education Meeting",
-        "start": "2021-02-08T00:00:00",
-        "end": "2021-02-08T01:00:00",
-        "description": "The Talawanda School District Board of Education will hold a meeting on **February 8, 2021**. No additional details about time, location, or agenda were provided in the original announcement.",
-        "location": ""
+        "start": "2021-02-08T18:00:00",
+        "end": "2021-02-08T19:00:00",
+        "description": "The Talawanda School District Board of Education meeting is scheduled for **Monday, February 8, 2021 at 6:00 PM**. The meeting will be held at the **Talawanda Board Office** located at **131 W. Chestn",
+        "location": "Talawanda Board Office, 131 W. Chestnut Street, Oxford, OH"
       }
     ]
   },
   {
-    "title": "TSD Staff Vaccination Date Announced",
+    "title": "TSD Staff Vaccination Information",
     "block_id": "blog_post_https://www.talawanda.org/district-blog/entry/tsd-staff-vaccination-date-2-4-2021/",
     "content": "TSD Staff Vaccination Date- 2/4/2021\n\n\n\n\n\n\n\n\n\n\n Back To District Blog\n\r\n\t                TSD Staff Vaccination Date- 2/4/2021\r\n\t            \n\nJan 26, 2021\n\n\n\n\n\n\n\nThe Talawanda School District staff will receive the first COVID-19 vaccination on Thursday, February 4, 2021.  The vaccinations will be offered to our staff between 8 AM and 4 PM.  All of the Butler County Schools will be vaccinated at the same time.  Talawanda School District will close school so that the staff can be vaccinated.  Thursday, February 4, 2021 will be an asynchronous day.  Teachers will assign work for this day.\n \nTalawanda staff will need this day to travel to the identified vaccination site that will be out of the district.  We will need to repeat this process in 3-4 weeks for the second dosage of the vaccine.\n \nWhile we want to keep students in school, we will need to take 2 days off from school in order to vaccinate staff.  It is important that our staff gets vaccinated so that we can keep our staff healthy, free from COVID-19, and our schools open.  Thank you for your understanding and cooperation.\n \nTalawanda School District will NOT provide transportation to Butler Tech, parochial, private, and other schools on February 4, 2021.  Our bus drivers will also be vaccinated.",
     "images": [],
@@ -313,19 +295,10 @@
     ],
     "type": "blog_post",
     "hash": "blog_post_https://www.talawanda.org/district-blog/entry/tsd-staff-vaccination-date-2-4-2021/",
-    "summary": "Staff vaccination is scheduled for **February 4, 2021**. No additional details about time or location were provided in the original announcement.",
-    "event_info": [
-      {
-        "title": "TSD Staff Vaccination",
-        "start": "2021-02-04T00:00:00",
-        "end": "2021-02-04T23:59:00",
-        "description": "Staff vaccination is scheduled for **February 4, 2021**. No additional details about time or location were provided in the original announcement.",
-        "location": ""
-      }
-    ]
+    "summary": "The original newsletter item appears to contain no text content beyond the title. Based on the title and publication date, this was likely an announcement regarding COVID-19 vaccination scheduling for Talawanda School District staff on February 4, 2021."
   },
   {
-    "title": "Food Program Distribution for February 2",
+    "title": "Food Service Program Information February 2",
     "block_id": "blog_post_https://www.talawanda.org/district-blog/entry/tsd-food-program-for-2-2-21/",
     "content": "TSD Food Program- FOR 2/2/21\n\n\n\n\n\n\n\n\n\n\n Back To District Blog\n\r\n\t                TSD Food Program- FOR 2/2/21\r\n\t            \n\nFeb 1, 2021\n\n\n\n\n\n\n\nThe TSD food distribution that would have taken place today (Feb 1) at Bogan, Kramer and Marshall from 2:15-2:45 p.m. will now take place tomorrow, Tuesday, February 2nd.",
     "images": [],
@@ -342,19 +315,10 @@
     ],
     "type": "blog_post",
     "hash": "blog_post_https://www.talawanda.org/district-blog/entry/tsd-food-program-for-2-2-21/",
-    "summary": "The newsletter item title indicates this relates to the **TSD Food Program** scheduled for **February 2, 2021**. No additional details about distribution times, locations, or procedures were provided in the content.",
-    "event_info": [
-      {
-        "title": "TSD Food Program Distribution",
-        "start": "2021-02-02T00:00:00",
-        "end": "2021-02-02T23:59:00",
-        "description": "The newsletter item title indicates this relates to the **TSD Food Program** scheduled for **February 2, 2021**. No additional details about distribution times, locations, or procedures were provided ",
-        "location": "Talawanda High School"
-      }
-    ]
+    "summary": "Unfortunately, the original text content for this food program announcement is empty, so specific details about meal services, distribution times, or program changes for February 2, 2021 cannot be determined."
   },
   {
-    "title": "Board of Education Work Session January 14",
+    "title": "Board of Education Work Session",
     "block_id": "blog_post_https://www.talawanda.org/district-blog/entry/tsd-boe-work-session-1-14-21/",
     "content": "TSD BOE Work Session 1/14/21\n\n\n\n\n\n\n\n\n\n\n Back To District Blog\n\r\n\t                TSD BOE Work Session 1/14/21\r\n\t            \n\nJan 13, 2021\n\n\n\n\n\n\n\nWork Session\nThursday, January 14, 2021\nTALAWANDA CITY SCHOOL DISTRICTBOARD OF EDUCATION REGULAR SESSIONTalawanda High School****************************************************5:30 p.m. Public SessionBOE Meetings will be videotaped.****************************************************You are invited to a Zoom webinar.When: This is a recurring webinar.Topic: Talawanda Board of Education Work Session January 14, 2021 at 5:30 pm(No Public Participation)\nAmy members of the public that choose to attend in person MUST adhere to all safety procedures as outlined by the local health department.  Masks are required.****************************************************Please click the link below to join the webinar:https://zoom.us/j/98567280268?pwd=UkVPNWxIb2I1ZXY3UFZ1Q0tUMFQ2QT09Passcode: brave****************************************************Streaming will be available on Talawanda's Channel 85 Youtube Station.****************************************************Mr. Chris Otto, PresidentDr. Mary Jane Roberts, Vice PresidentDr. Rebecca HowardDr. Kathleen Knight-AbowitzMr. Patrick Meade",
     "images": [],
@@ -371,19 +335,19 @@
     ],
     "type": "blog_post",
     "hash": "blog_post_https://www.talawanda.org/district-blog/entry/tsd-boe-work-session-1-14-21/",
-    "summary": "The **Talawanda School District Board of Education** will hold a work session on **January 14, 2021**. No additional details about time, location, or agenda items were provided in the original announcement.",
+    "summary": "The **Talawanda School District Board of Education** held a work session on **January 14, 2021**. No additional details about the agenda or topics discussed were provided in the newsletter item.",
     "event_info": [
       {
         "title": "TSD Board of Education Work Session",
         "start": "2021-01-14T00:00:00",
         "end": "2021-01-14T01:00:00",
-        "description": "The **Talawanda School District Board of Education** will hold a work session on **January 14, 2021**. No additional details about time, location, or agenda items were provided in the original announc",
-        "location": ""
+        "description": "The **Talawanda School District Board of Education** held a work session on **January 14, 2021**. No additional details about the agenda or topics discussed were provided in the newsletter item.",
+        "location": "Talawanda School District"
       }
     ]
   },
   {
-    "title": "Community Power Outages December 15, 2020",
+    "title": "Community Power Outages Alert",
     "block_id": "blog_post_https://www.talawanda.org/district-blog/entry/12-15-20-power-outages-in-the-community/",
     "content": "12/15/20-Power Outages in the Community\n\n\n\n\n\n\n\n\n\n\n Back To District Blog\n\r\n\t                12/15/20-Power Outages in the Community\r\n\t            \n\nDec 15, 2020\n\n\n\n\n\n\n\nPower Outages in the Greater Oxford Area:\nTHS, TMS, and Kramer (and Oxford city and surrounding townships) are experiencing power outages.  Generators are in operation at some of our schools.  Lack of power is interfering with remote learning today.  Please do not worry, district officials and teachers are aware that students may not be able to login today, and some schools are having difficulty conducting zoom sessions.  If you are able to read Google Classroom, follow the instructions you receive from your teachers.\nWe are keeping students at Kramer, and moving forward with a cold lunch menu today.  PM preschool at Kramer is canceled today.  If anything changes, we will alert Kramer families as soon as possible.\nALL elementary schools will dismiss at the normal time.  All students are safe!\nThank you.\nTSD Communications",
     "images": [],
@@ -400,19 +364,10 @@
     ],
     "type": "blog_post",
     "hash": "blog_post_https://www.talawanda.org/district-blog/entry/12-15-20-power-outages-in-the-community/",
-    "summary": "Unfortunately, no text content was provided in the original newsletter item beyond the title. Based on the title, this appears to be a notification about **power outages affecting the community on December 15, 2020**. Specific details about affected areas, duration, or impact on school operations were not included in the provided content.",
-    "event_info": [
-      {
-        "title": "Power Outages in the Community",
-        "start": "2020-12-15T00:00:00",
-        "end": "2020-12-15T23:59:00",
-        "description": "Unfortunately, no text content was provided in the original newsletter item beyond the title. Based on the title, this appears to be a notification about **power outages affecting the community on Dec",
-        "location": "Community area"
-      }
-    ]
+    "summary": "The original newsletter item contains no text content beyond the title. Based on the title alone, the school is alerting families about **power outages occurring in the community** on or around December 15, 2020."
   },
   {
-    "title": "COVID-19 Travel Rules and Guidelines",
+    "title": "COVID-19 Travel Rules and Quarantine Guidelines",
     "block_id": "blog_post_https://www.talawanda.org/district-blog/entry/travel-rules-covid-19-12-8-20/",
     "content": "Travel Rules- Covid-19-12/8/20\n\n\n\n\n\n\n\n\n\n\n Back To District Blog\n\r\n\t                Travel Rules- Covid-19-12/8/20\r\n\t            \n\nDec 8, 2020\n\n\n\n\n\n\n\nTSD Travel Advisory Rules- Effective 12/8/2020\n \nCOVID-19 TRAVEL ADVISORY & SELF QUARANTINING\nEffective Immediately, Talawanda School District will implement self quarantining for 14 days for any student or staff member that travels to a hotspot state.  Per the NEW CDC Guidelines, a person who does not demonstrate any Covid-19 symptoms AND who can provide the district with a negative Covid-19 test result on days 5, 6, or 7 of the quarantine, may be permitted to return to school or work earlier.  In addition, the school or work environment must meet the requirement that the person will have 6 feet of social distance from other staff and students throughout the work and school day.\n \nThe Ohio Health Department & the Butler County Health Department recommend that people self quarantine for 14 days upon returning from a state that is listed as a hotspot for Covid-19.  A hotspot is a state that is reporting positive Covid-19 rates of 15% or higher.  Please see the link to the map, as the states listed can change.\nTravel Advisory States from ODH",
     "images": [],
@@ -429,7 +384,7 @@
     ],
     "type": "blog_post",
     "hash": "blog_post_https://www.talawanda.org/district-blog/entry/travel-rules-covid-19-12-8-20/",
-    "summary": "Unfortunately, the original text content for this item appears to be missing or empty. Based on the title, this item was likely about travel rules and restrictions related to COVID-19, dated December 8, 2020. For current information about travel guidelines, please contact Talawanda High School directly."
+    "summary": "The item appears to address travel rules and COVID-19 protocols as of December 8, 2020. Unfortunately, the original text content provided is empty, so specific guidance about travel restrictions, quarantine requirements, or safety protocols cannot be summarized. Families should contact the school directly for current COVID-19 travel policies."
   },
   {
     "title": "CDC Updates December 7, 2020",
@@ -449,10 +404,10 @@
     ],
     "type": "blog_post",
     "hash": "blog_post_https://www.talawanda.org/district-blog/entry/cdc-updates-12-7-20/",
-    "summary": "No content was provided in the original newsletter item beyond the title and date of **12/7/20**. This appears to be a placeholder for CDC (Centers for Disease Control) updates that were relevant to the school during the COVID-19 pandemic."
+    "summary": "No content was provided in this newsletter item. The title indicates this was meant to contain updates from the CDC (likely referring to school closure/quarantine decisions) dated December 7, 2020, but the actual content is missing."
   },
   {
-    "title": "Transportation Update December 2020",
+    "title": "Transportation Update for December 2nd",
     "block_id": "blog_post_https://www.talawanda.org/district-blog/entry/transportation-update-12-2-20/",
     "content": "Transportation Update 12/2/20\n\n\n\n\n\n\n\n\n\n\n Back To District Blog\n\r\n\t                Transportation Update 12/2/20\r\n\t            \n\nDec 2, 2020\n\n\n\n\n\n\n\n \nTSD Transportation News:\n \nIt’s important to develop contingency plans during the pandemic regarding TSD Transportation Services, as we have experienced staff shortages in other areas.  The priority now is to continue to transport elementary students to school, and to provide service to our extracurricular programs that are still open.  If we experience shortages, the first priority will remain transporting K-5 students to school.  In the event of more extreme staff shortages we may need to eliminate transportation for extracurricular activities.  We will certainly provide as much notice as possible.\n \nPlease have a Plan B in place, should shortages occur that would result in temporary changes to transportation services in TSD.  The district will continue to network with Petermann Transportation Services to have substitute drivers available, but we understand that the pandemic is putting stress on many organizations as people become ill or must quarantine.  We will continue to report on this and other TSD services as we navigate the ever changing environment associated with life in a pandemic.",
     "images": [],
@@ -469,10 +424,10 @@
     ],
     "type": "blog_post",
     "hash": "blog_post_https://www.talawanda.org/district-blog/entry/transportation-update-12-2-20/",
-    "summary": "No content was provided in the original transportation update from December 2, 2020. Please check with the school office or transportation department for current bus route and transportation information."
+    "summary": "Unfortunately, the original text content for this transportation update is empty or missing. Based on the title and date (December 2, 2020), this was likely an announcement regarding bus routes, schedule changes, or other transportation-related information for Talawanda High School families."
   },
   {
-    "title": "Open Interviews on December 2nd",
+    "title": "Open Interviews for Student Voice",
     "block_id": "blog_post_https://www.talawanda.org/district-blog/entry/open-interviews-12-2-20/",
     "content": "Open Interviews- 12/2/20\n\n\n\n\n\n\n\n\n\n\n Back To District Blog\n\r\n\t                Open Interviews- 12/2/20\r\n\t            \n\nNov 30, 2020\n\n\n\n\n\n\n\nThe Talawanda HR Department will be hosting Open Interviews on Wednesday December 2, 2020 from 9:00am-1:00pm at the PDC (behind SDS Pizza). At this time, we only have Educational Assistant and Bus Monitor openings ranging from 3 hours to full time.\nIf you have any questions you may email Mrs. Jones at joness@talawanda.org.\nThank you.",
     "images": [],
@@ -489,13 +444,13 @@
     ],
     "type": "blog_post",
     "hash": "blog_post_https://www.talawanda.org/district-blog/entry/open-interviews-12-2-20/",
-    "summary": "Open interviews will be held on **December 2, 2020**. No additional details about the purpose, time, or location of these interviews were provided in the original announcement.",
+    "summary": "**Open interviews** are being conducted on **December 2, 2020** for students interested in participating in Student Voice. Students should sign up outside room 148 to schedule their interview time.",
     "event_info": [
       {
-        "title": "Open Interviews",
+        "title": "Open Interviews for Student Voice",
         "start": "2020-12-02T00:00:00",
-        "end": "2020-12-02T23:59:00",
-        "description": "Open interviews will be held on **December 2, 2020**. No additional details about the purpose, time, or location of these interviews were provided in the original announcement.",
+        "end": "2020-12-02T01:00:00",
+        "description": "**Open interviews** are being conducted on **December 2, 2020** for students interested in participating in Student Voice. Students should sign up outside room 148 to schedule their interview time.",
         "location": "Talawanda High School"
       }
     ]
