@@ -312,6 +312,52 @@
     ]
   },
   {
+    "title": "Talawanda Food Pantry and Resources Available",
+    "block_id": "b07vkiqo8i-blqwkxb9tq-bwxjyhogtc-brwujkaymx-bx576e3ldv-b69pkw92cz",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/a2ed/3046586343ee5c5f496cf01c0f0965ff.png",
+      "https://cdn.smore.com/u/e43f/73359dc655ec2964428fe8056ebd689e.png"
+    ],
+    "source_url": "https://app.smore.com/n/n0ek9",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2025-11-21T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/a2ed/3046586343ee5c5f496cf01c0f0965ff.png",
+        "id": "b07vkiqo8i"
+      },
+      {
+        "type": "text.title",
+        "content": "TALAWANDA \n\nFOOD \n\nRESOURCES\n\nTALAWANDA FOOD RESOURCES",
+        "id": "blqwkxb9tq"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "KRAMER FREE PANTRY\nThe food pantry in front of Kramer is stocked! Please take any items you may need for your family. Talawanda has many resources available to help in a time of need. Please contact Chelsea Pike at 513-273-3511 for any needs you or your family may have.If you would like to donate to the pantry, contact Chelsea or drop off donations to the Kramer office.",
+        "id": "bwxjyhogtc"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/e43f/73359dc655ec2964428fe8056ebd689e.png",
+        "id": "brwujkaymx"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "OTHER TALAWANDA FREE RESOURCES\nSEE IMAGES BELOW FOR MORE INFORMATION",
+        "id": "bx576e3ldv"
+      },
+      {
+        "type": "items",
+        "content": "zoom_out_map\n                \n\n\n\n\n\n\n\n\nzoom_out_map",
+        "id": "b69pkw92cz"
+      }
+    ],
+    "hash": "b07vkiqo8i-blqwkxb9tq-bwxjyhogtc-brwujkaymx-bx576e3ldv-b69pkw92cz",
+    "summary": "The **Kramer Free Pantry** located at the entrance of Kramer is stocked with free food and hygiene items for all students, including cereal, fruit, veggies, peanut butter, spaghetti, mac and cheese, soup, shampoo, and toothbrushes. Students can take what they need, and donations can be dropped off at the Kramer office. For questions, donations, or additional family needs, contact **Chelsea Pike, Kramer Social Worker** at **513-273-3511** or **pikec@talawanda.org**."
+  },
+  {
     "title": "Student Thanksgiving Turkey Art Display",
     "block_id": "bsg025psm2-b1lhjrkr22",
     "content": "",
@@ -369,52 +415,6 @@
         "location": "Talawanda High School"
       }
     ]
-  },
-  {
-    "title": "Talawanda Food Pantry and Resources Available",
-    "block_id": "b07vkiqo8i-blqwkxb9tq-bwxjyhogtc-brwujkaymx-bx576e3ldv-b69pkw92cz",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/a2ed/3046586343ee5c5f496cf01c0f0965ff.png",
-      "https://cdn.smore.com/u/e43f/73359dc655ec2964428fe8056ebd689e.png"
-    ],
-    "source_url": "https://app.smore.com/n/n0ek9",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2025-11-21T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/a2ed/3046586343ee5c5f496cf01c0f0965ff.png",
-        "id": "b07vkiqo8i"
-      },
-      {
-        "type": "text.title",
-        "content": "TALAWANDA \n\nFOOD \n\nRESOURCES\n\nTALAWANDA FOOD RESOURCES",
-        "id": "blqwkxb9tq"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "KRAMER FREE PANTRY\nThe food pantry in front of Kramer is stocked! Please take any items you may need for your family. Talawanda has many resources available to help in a time of need. Please contact Chelsea Pike at 513-273-3511 for any needs you or your family may have.If you would like to donate to the pantry, contact Chelsea or drop off donations to the Kramer office.",
-        "id": "bwxjyhogtc"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/e43f/73359dc655ec2964428fe8056ebd689e.png",
-        "id": "brwujkaymx"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "OTHER TALAWANDA FREE RESOURCES\nSEE IMAGES BELOW FOR MORE INFORMATION",
-        "id": "bx576e3ldv"
-      },
-      {
-        "type": "items",
-        "content": "zoom_out_map\n                \n\n\n\n\n\n\n\n\nzoom_out_map",
-        "id": "b69pkw92cz"
-      }
-    ],
-    "hash": "b07vkiqo8i-blqwkxb9tq-bwxjyhogtc-brwujkaymx-bx576e3ldv-b69pkw92cz",
-    "summary": "The **Kramer Free Pantry** located at the entrance of Kramer is stocked with free food and hygiene items for all students, including cereal, fruit, veggies, peanut butter, spaghetti, mac and cheese, soup, shampoo, and toothbrushes. Students can take what they need, and donations can be dropped off at the Kramer office. For questions, donations, or additional family needs, contact **Chelsea Pike, Kramer Social Worker** at **513-273-3511** or **pikec@talawanda.org**."
   },
   {
     "title": "PTG Meeting Rescheduled & Community Updates",
@@ -655,6 +655,24 @@
     ]
   },
   {
+    "title": "Friday November 14, 2025",
+    "block_id": "bsg025psm2",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/a3m21",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2025-11-14T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Friday \n\nNovember \n\n14, \n\n2025\n\nFriday November 14, 2025",
+        "id": "bsg025psm2"
+      }
+    ],
+    "hash": "bsg025psm2",
+    "summary": "This is a date header for Friday, November 14, 2025. No specific events, announcements, or information are included in this newsletter item."
+  },
+  {
     "title": "Holiday Adopt-a-Family Program for Kramer Students",
     "block_id": "bqgqrdqkpf-b83zbtnhew-bpfdmjta7x",
     "content": "",
@@ -683,24 +701,6 @@
     ],
     "hash": "bqgqrdqkpf-b83zbtnhew-bpfdmjta7x",
     "summary": "Support Kramer Elementary families this holiday season by purchasing gifts from their **Amazon Wishlist**. Every gift goes directly to a Kramer student or family in need of extra support. For questions or if your family needs holiday assistance, contact Chelsea Pike at **pikec@talawanda.org**. [Shop the wishlist here](https://www.amazon.com/hz/wishlist/ls/20IM1FE5Z3VJ2?ref_=wl_share)."
-  },
-  {
-    "title": "Friday November 14, 2025",
-    "block_id": "bsg025psm2",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/a3m21",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2025-11-14T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Friday \n\nNovember \n\n14, \n\n2025\n\nFriday November 14, 2025",
-        "id": "bsg025psm2"
-      }
-    ],
-    "hash": "bsg025psm2",
-    "summary": "This is a date header for Friday, November 14, 2025. No specific events, announcements, or information are included in this newsletter item."
   },
   {
     "title": "Weekly PAX Leaders Highlighted at Kramer",

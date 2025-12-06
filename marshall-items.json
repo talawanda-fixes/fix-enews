@@ -102,29 +102,6 @@
     ]
   },
   {
-    "title": "Head Lice Check Before School Break",
-    "block_id": "b1yn1wgaoa-be5mcnuv2d",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/f1bzs",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2025-11-21T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "NURSE'S \n\nCORNER\n\nNURSE'S CORNER",
-        "id": "b1yn1wgaoa"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Dear Parents and Guardians,As we head into the upcoming school break, I kindly ask that you take a few minutes to check your child's head for signs of head lice. School breaks, gatherings and sleepovers are a common time for lice to spread, and early detection and treatment helps us maintain a healthy school environment for all students.If you find any signs of lice or nits, please begin treatment before your child returns to school. Feel free to contact me if you have any questions or need guidance. There is also information about head lice on the school website, under \"Departments\" then click \"School Nursing Offices\". Thank you for your support and cooperation!Tonja Fangman, BSN, RN, LSNDistrict Nursefangmant@talawanda.org",
-        "id": "be5mcnuv2d"
-      }
-    ],
-    "hash": "b1yn1wgaoa-be5mcnuv2d",
-    "summary": "The district nurse requests that parents check their children for head lice before returning from the upcoming school break. Lice commonly spread during breaks, gatherings, and sleepovers, so early detection and treatment is important. If lice or nits are found, please treat before returning to school. Additional information is available on the school website under **Departments > School Nursing Offices**. Contact: Tonja Fangman, BSN, RN, LSN at fangmant@talawanda.org."
-  },
-  {
     "title": "December Breakfast and Lunch Menus",
     "block_id": "bhzdnlnw9b-byck0tbmts-bnmbq6ritu-bz78wtzkac",
     "content": "",
@@ -216,6 +193,29 @@
         "location": "Marshall Elementary School or Board Office"
       }
     ]
+  },
+  {
+    "title": "Head Lice Check Before School Break",
+    "block_id": "b1yn1wgaoa-be5mcnuv2d",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/f1bzs",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2025-11-21T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "NURSE'S \n\nCORNER\n\nNURSE'S CORNER",
+        "id": "b1yn1wgaoa"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Dear Parents and Guardians,As we head into the upcoming school break, I kindly ask that you take a few minutes to check your child's head for signs of head lice. School breaks, gatherings and sleepovers are a common time for lice to spread, and early detection and treatment helps us maintain a healthy school environment for all students.If you find any signs of lice or nits, please begin treatment before your child returns to school. Feel free to contact me if you have any questions or need guidance. There is also information about head lice on the school website, under \"Departments\" then click \"School Nursing Offices\". Thank you for your support and cooperation!Tonja Fangman, BSN, RN, LSNDistrict Nursefangmant@talawanda.org",
+        "id": "be5mcnuv2d"
+      }
+    ],
+    "hash": "b1yn1wgaoa-be5mcnuv2d",
+    "summary": "The district nurse requests that parents check their children for head lice before returning from the upcoming school break. Lice commonly spread during breaks, gatherings, and sleepovers, so early detection and treatment is important. If lice or nits are found, please treat before returning to school. Additional information is available on the school website under **Departments > School Nursing Offices**. Contact: Tonja Fangman, BSN, RN, LSN at fangmant@talawanda.org."
   },
   {
     "title": "Tech Healthy Household Presentation Event",

@@ -484,6 +484,46 @@
     ]
   },
   {
+    "title": "Food Resources for Talawanda Families",
+    "block_id": "bk8gizguu7-bq8y3z8u66-bp4rqisieb-bun4gk72ra-blswo3w3vo",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/16c4/1cadd81061d00b81ce929f8df53f7e38.png"
+    ],
+    "source_url": "https://app.smore.com/n/p5dkw",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2025-11-21T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "COMMUNITY \n\nINFORMATION\n\nCOMMUNITY INFORMATION",
+        "id": "bk8gizguu7"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/16c4/1cadd81061d00b81ce929f8df53f7e38.png",
+        "id": "bq8y3z8u66"
+      },
+      {
+        "type": "text.title",
+        "content": "Calendar \n\nof \n\ncommunity \n\nmeals \n\nand \n\nTOPPS \n\nschedule\n\nCalendar of community meals and TOPPS schedule",
+        "id": "bp4rqisieb"
+      },
+      {
+        "type": "text.title",
+        "content": "List \n\nof \n\nall \n\nButler \n\nCounty \n\nfood \n\npantries\n\nList of all Butler County food pantries",
+        "id": "bun4gk72ra"
+      },
+      {
+        "type": "text.title",
+        "content": "SNAP \n\ninformation\n\nSNAP information",
+        "id": "blswo3w3vo"
+      }
+    ],
+    "hash": "bk8gizguu7-bq8y3z8u66-bp4rqisieb-bun4gk72ra-blswo3w3vo",
+    "summary": "**Talawanda School District** offers multiple food assistance programs for families in need:\n\n- **Little Free Pantries** available 24/7 outside every TSD building, restocked weekly or more as needed\n- **Backpack Program** at all elementary buildings provides weekly food bags on Thursdays/Fridays (contact building Social Worker)\n- **Emergency Food boxes** available for pick-up or delivery within 24 hours\n- Access a **calendar of community meals and TOPPS schedule**, **list of all Butler County food pantries**, and **SNAP information** via the provided links"
+  },
+  {
     "title": "Club Meetings Schedule for December",
     "block_id": "b16db8wtno-be3r0rm5a9",
     "content": "",
@@ -674,46 +714,6 @@
         "location": "Talawanda High School Performing Arts Center"
       }
     ]
-  },
-  {
-    "title": "Food Resources for Talawanda Families",
-    "block_id": "bk8gizguu7-bq8y3z8u66-bp4rqisieb-bun4gk72ra-blswo3w3vo",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/16c4/1cadd81061d00b81ce929f8df53f7e38.png"
-    ],
-    "source_url": "https://app.smore.com/n/p5dkw",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2025-11-21T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "COMMUNITY \n\nINFORMATION\n\nCOMMUNITY INFORMATION",
-        "id": "bk8gizguu7"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/16c4/1cadd81061d00b81ce929f8df53f7e38.png",
-        "id": "bq8y3z8u66"
-      },
-      {
-        "type": "text.title",
-        "content": "Calendar \n\nof \n\ncommunity \n\nmeals \n\nand \n\nTOPPS \n\nschedule\n\nCalendar of community meals and TOPPS schedule",
-        "id": "bp4rqisieb"
-      },
-      {
-        "type": "text.title",
-        "content": "List \n\nof \n\nall \n\nButler \n\nCounty \n\nfood \n\npantries\n\nList of all Butler County food pantries",
-        "id": "bun4gk72ra"
-      },
-      {
-        "type": "text.title",
-        "content": "SNAP \n\ninformation\n\nSNAP information",
-        "id": "blswo3w3vo"
-      }
-    ],
-    "hash": "bk8gizguu7-bq8y3z8u66-bp4rqisieb-bun4gk72ra-blswo3w3vo",
-    "summary": "**Talawanda School District** offers multiple food assistance programs for families in need:\n\n- **Little Free Pantries** available 24/7 outside every TSD building, restocked weekly or more as needed\n- **Backpack Program** at all elementary buildings provides weekly food bags on Thursdays/Fridays (contact building Social Worker)\n- **Emergency Food boxes** available for pick-up or delivery within 24 hours\n- Access a **calendar of community meals and TOPPS schedule**, **list of all Butler County food pantries**, and **SNAP information** via the provided links"
   },
   {
     "title": "FCCLA Diaper Drive for Families in Need",
