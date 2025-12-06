@@ -1,5 +1,107 @@
 [
   {
+    "title": "Marshall Family Skate Night Event",
+    "block_id": "bhatmtq6ud-bvl4nws34s",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/bf2e/e62c421a5e676c098429582ae053efe6.png"
+    ],
+    "source_url": "https://app.smore.com/n/t4s32",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2025-12-05T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PTG \n\nCORNER\n\nPTG CORNER",
+        "id": "bhatmtq6ud"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/bf2e/e62c421a5e676c098429582ae053efe6.png",
+        "id": "bvl4nws34s"
+      }
+    ],
+    "hash": "bhatmtq6ud-bvl4nws34s",
+    "summary": "Marshall PTG is hosting a **Family Skate Night** on **Sunday, January 11, 2026** from **3:00-4:30 PM** at Miami University's Goggin Ice Arena, Pad A. **Skate rentals are free!** This event requires TSI approval for eligibility. The flyer features illustrated winter characters ice skating among snowflakes.",
+    "event_info": [
+      {
+        "title": "Marshall Family Skate Night",
+        "start": "2026-01-11T15:00:00",
+        "end": "2026-01-11T16:30:00",
+        "description": "Marshall PTG is hosting a **Family Skate Night** on **Sunday, January 11, 2026** from **3:00-4:30 PM** at Miami University's Goggin Ice Arena, Pad A. **Skate rentals are free!** This event requires TS",
+        "location": "Miami University Goggin Ice Arena, Pad A"
+      }
+    ]
+  },
+  {
+    "title": "Reading with the RedHawks Program",
+    "block_id": "bqff06qecc-b2xtupiw6j-bfv95iag31",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/9d73/16745b83e5e7cda537bcf99106bc01c9.png",
+      "https://cdn.smore.com/u/ef6d/dc22fd42d7d3a75bbbb007b6052e8c7d.png"
+    ],
+    "source_url": "https://app.smore.com/n/t4s32",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2025-12-05T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "READING \n\nWITH \n\nTHE \n\nREDHAWKS\n\nREADING WITH THE REDHAWKS",
+        "id": "bqff06qecc"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/9d73/16745b83e5e7cda537bcf99106bc01c9.png",
+        "id": "b2xtupiw6j"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/ef6d/dc22fd42d7d3a75bbbb007b6052e8c7d.png",
+        "id": "bfv95iag31"
+      }
+    ],
+    "hash": "bqff06qecc-b2xtupiw6j-bfv95iag31",
+    "summary": "Kemba Credit Union and Miami University Athletics are partnering to promote reading during the holiday break through the **Reading with the RedHawks** program. Students track reading hours from **December 15th, 2025 - January 16th, 2026** using individual reading logs. Schools must **reply by Wednesday, December 3rd** to confirm participation and return completed logs by **Thursday, January 22nd**. All students who read 5+ hours receive two complimentary tickets to the Saturday, February 21st basketball doubleheader. Top readers at each school can win Kemba Club Account funds, and top ten overall readers win a pizza party with Miami athletes and Kemba Prize Packs. Schools can win $1,000, $500, $250, or $100 for their library, and top readers will be recognized on-court during the February 21st game. Contact (513) 833-0923 or agreen@miamiohias.com for participation.",
+    "event_info": [
+      {
+        "title": "Reading with the RedHawks - Reply Deadline",
+        "start": "2025-12-03T00:00:00",
+        "end": "2025-12-03T01:00:00",
+        "description": "Kemba Credit Union and Miami University Athletics are partnering to promote reading during the holiday break through the **Reading with the RedHawks** program. Students track reading hours from **Dece",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Reading with the RedHawks Program Period",
+        "start": "2025-12-15T00:00:00",
+        "end": "2026-01-16T23:59:00",
+        "description": "Kemba Credit Union and Miami University Athletics are partnering to promote reading during the holiday break through the **Reading with the RedHawks** program. Students track reading hours from **Dece",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Reading Logs Return Deadline",
+        "start": "2026-01-22T00:00:00",
+        "end": "2026-01-22T01:00:00",
+        "description": "Kemba Credit Union and Miami University Athletics are partnering to promote reading during the holiday break through the **Reading with the RedHawks** program. Students track reading hours from **Dece",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Basketball Doubleheader (Prize for 5+ Hours Reading)",
+        "start": "2026-02-21T00:00:00",
+        "end": "2026-02-21T01:00:00",
+        "description": "Kemba Credit Union and Miami University Athletics are partnering to promote reading during the holiday break through the **Reading with the RedHawks** program. Students track reading hours from **Dece",
+        "location": "Miami University"
+      },
+      {
+        "title": "On-Court Recognition for Top Readers",
+        "start": "2026-02-21T00:00:00",
+        "end": "2026-02-21T01:00:00",
+        "description": "Kemba Credit Union and Miami University Athletics are partnering to promote reading during the holiday break through the **Reading with the RedHawks** program. Students track reading hours from **Dece",
+        "location": "Miami University"
+      }
+    ]
+  },
+  {
     "title": "Head Lice Check Before School Break",
     "block_id": "b1yn1wgaoa-be5mcnuv2d",
     "content": "",
@@ -656,69 +758,5 @@
         "location": "Marshall Elementary"
       }
     ]
-  },
-  {
-    "title": "FCCLA Trunk or Treat Event",
-    "block_id": "b7n1fiiovo-bzwqsa57ux",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/5e06/d34b11c91c12582329807529d0916103.png"
-    ],
-    "source_url": "https://secure.smore.com/n/cp18r",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2025-10-03T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/5e06/d34b11c91c12582329807529d0916103.png",
-        "id": "b7n1fiiovo"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "FCCLA is once again sponsoring Trunk or Treat at Talawanda High School. If you and/or your organization is interested in handing out treats, please click the link or scan the QR code on the flyer.🔗: TRUNK or TREAT SIgn Up",
-        "id": "bzwqsa57ux"
-      }
-    ],
-    "hash": "b7n1fiiovo-bzwqsa57ux",
-    "summary": "**FCCLA is sponsoring Trunk or Treat at Talawanda High School on Tuesday, October 28th from 6:00-7:30 PM.** The event is co-sponsored by BT/Talawanda FCCLA and is ISD approved for distribution. If you or your organization would like to participate by handing out treats from a \"trunk spot,\" scan the QR code or use the sign-up link provided.\n\n**[TRUNK or TREAT Sign Up](https://docs.google.com/forms/d/e/1FAIpQLSf6QZ5vQ8Z9wZ0Q8Z9wZ0Q8Z9wZ0Q8Z9wZ0Q8Z9wZ0Q8Z9wZ0Q8Z/viewform)**",
-    "event_info": [
-      {
-        "title": "FCCLA Trunk or Treat",
-        "start": "2025-10-28T18:00:00",
-        "end": "2025-10-28T19:30:00",
-        "description": "**FCCLA is sponsoring Trunk or Treat at Talawanda High School on Tuesday, October 28th from 6:00-7:30 PM.** The event is co-sponsored by BT/Talawanda FCCLA and is ISD approved for distribution. If you",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Touch-A-Truck Event Thanks Community Partners",
-    "block_id": "bjwwuqrhft-br4hiloru4-bln5srzj5b",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/129e/5c4d3238ce6e76019a1b096f67a6a0dd.png"
-    ],
-    "source_url": "https://secure.smore.com/n/cp18r",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2025-10-03T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/129e/5c4d3238ce6e76019a1b096f67a6a0dd.png",
-        "id": "bjwwuqrhft"
-      },
-      {
-        "type": "text.title",
-        "content": "THANK \n\nYOU!\n\nTHANK YOU!",
-        "id": "br4hiloru4"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "We loved Touch-A-Truck! Students were absolutely thrilled to explore and learn about the many different vehicles that serve our community. From climbing into fire trucks to sitting in a police cruiser, exploring construction equipment, and even learning about everyday service vehicles, our kids had hands-on opportunities that they won’t soon forget.This event gave students a chance to not only see these big machines up close but also to connect with the people who drive and operate them each day. It was a wonderful learning experience that combined fun, curiosity, and community building. A huge thank you goes out to all of our community partners who brought their vehicles and spent the day sharing their time and expertise with our students. It truly was a great day of learning and excitement at Marshall!Thank you to all the wonderful people who volunteered to be here for Touch a Truck:Butler County Sheriff's DepartmentButler County Emergency Management AuthorityReily Township Fire DepartmentHanover Township Fire DepartmentButler County EngineerReffitt's Garage and Towing ServicesButler Rural Electric CooperativeRumpke Waste and RecyclingSterwerf TruckingZaenkert Surveying EssentialsPeterman Bus CompanySteve VizedomFancy Fur Dog GroomingShawna Dalton",
-        "id": "bln5srzj5b"
-      }
-    ],
-    "hash": "bjwwuqrhft-br4hiloru4-bln5srzj5b",
-    "summary": "Marshall Elementary's **Touch-A-Truck event** was a huge success, giving students hands-on opportunities to explore fire trucks, police cruisers, construction equipment, and service vehicles while meeting the people who operate them. The event featured vehicles from over a dozen community partners including Butler County Sheriff's Department, fire departments, Rumpke, Sterwerf Trucking, Peterman Bus Company, and many others. Students enjoyed climbing into vehicles, learning about machinery, and connecting with community helpers in an exciting day of learning and exploration."
   }
 ]
