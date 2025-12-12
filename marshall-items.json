@@ -1,5 +1,39 @@
 [
   {
+    "title": "Science of Snowflakes Family Event",
+    "block_id": "bisgsi05ub-byd6dtgtb5",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/c56b/3d206b173b1d5c6346b33392f97de303.png"
+    ],
+    "source_url": "https://app.smore.com/n/g089q",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2025-12-12T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "AROUND \n\nTHE \n\nCOMMUNITY \n\nAROUND THE COMMUNITY",
+        "id": "bisgsi05ub"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/c56b/3d206b173b1d5c6346b33392f97de303.png",
+        "id": "byd6dtgtb5"
+      }
+    ],
+    "hash": "bisgsi05ub-byd6dtgtb5",
+    "summary": "**Girl Scouts of Western Ohio** is hosting a free family event called \"The Science of Snowflakes\" on **Saturday, December 13 from 11:00 am - 12:00 pm** at **Oxford Lane Library, 441 S Locust St, Oxford, OH 45056**. Participants will learn about how snowflakes are formed and studied, meet local Girl Scout Troops, make a snowflake craft, and possibly have a snowball fight. For questions or to RSVP, contact Derek Greene at 513.619.1423 or derekgreene@gswo.org.",
+    "event_info": [
+      {
+        "title": "The Science of Snowflakes Family Event",
+        "start": "2025-12-13T11:00:00",
+        "end": "2025-12-13T12:00:00",
+        "description": "**Girl Scouts of Western Ohio** is hosting a free family event called \"The Science of Snowflakes\" on **Saturday, December 13 from 11:00 am - 12:00 pm** at **Oxford Lane Library, 441 S Locust St, Oxfor",
+        "location": "Oxford Lane Library, 441 S Locust St, Oxford, OH 45056"
+      }
+    ]
+  },
+  {
     "title": "Marshall Family Skate Night Event",
     "block_id": "bhatmtq6ud-bvl4nws34s",
     "content": "",
@@ -711,51 +745,6 @@
         "end": "2025-10-31T23:59:00",
         "description": "The Kiwanis K-Kids are organizing a food drive from **Monday, October 20th through Friday, October 31st** to help feed local families. Needed items include instant mashed potatoes (any flavor), stuffi",
         "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "October Breakfast and Lunch Menus",
-    "block_id": "b35j0e9j0n-bjmcuv8rgb-bhzdnlnw9b-brarfa20fg",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/a0bd/282ca5b326503b543511cceed17b785b.png",
-      "https://cdn.smore.com/u/b4ff/84ab0145ae3ef2f360b8b4c3635ecc2a.png"
-    ],
-    "source_url": "https://secure.smore.com/n/cp18r",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2025-10-03T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "OCTOBER \n\n- \n\nBREAKFAST \n\nMENU \n\nOCTOBER - BREAKFAST MENU",
-        "id": "b35j0e9j0n"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/a0bd/282ca5b326503b543511cceed17b785b.png",
-        "id": "bjmcuv8rgb"
-      },
-      {
-        "type": "text.title",
-        "content": "OCTOBER \n\n- \n\nLUNCH \n\nMENU\n\nOCTOBER - LUNCH MENU",
-        "id": "bhzdnlnw9b"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/b4ff/84ab0145ae3ef2f360b8b4c3635ecc2a.png",
-        "id": "brarfa20fg"
-      }
-    ],
-    "hash": "b35j0e9j0n-bjmcuv8rgb-bhzdnlnw9b-brarfa20fg",
-    "summary": "The **October 2025 breakfast and lunch menus** for Marshall Elementary are now available. Breakfast options include items like Mini Maple Pancakes, Breakfast Burritos, French Toast Bites, and various bagel sandwiches. **100% fruit juice, assorted fruit selection, and milk are included with every breakfast.** Lunch offerings feature entrees such as Chicken Tenders, Tony's Deep Dish Pizza, Mini Corn Dogs, Taco Bites, and Chicken Nuggets, with **choice of milk included with every lunch**. A **Fall Break** is scheduled for October 17, 2025, with no school that day. Special days include **National Apple Day on October 21** and **Halloween on October 31**. Menu is subject to change based on product availability.",
-    "event_info": [
-      {
-        "title": "Fall Break - No School",
-        "start": "2025-10-17T00:00:00",
-        "end": "2025-10-17T23:59:00",
-        "description": "The **October 2025 breakfast and lunch menus** for Marshall Elementary are now available. Breakfast options include items like Mini Maple Pancakes, Breakfast Burritos, French Toast Bites, and various ",
-        "location": "Marshall Elementary"
       }
     ]
   }
