@@ -117,6 +117,47 @@
     ]
   },
   {
+    "title": "Winter Baseball Clinic Registration Open",
+    "block_id": "bfxrj9bbz0-bhofakokqv",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/6ecd/cf64734eaecf52e371d0efcd71101ed6.png"
+    ],
+    "source_url": "https://app.smore.com/n/6cqhs-winter-wonders-weekly?ref=email",
+    "source_title": "Winter Wonders Weekly | Smore Newsletters for Education",
+    "date": "2025-12-05T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Winter \n\nBaseball \n\nClinic!\n\nWinter Baseball Clinic!",
+        "id": "bfxrj9bbz0"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/6ecd/cf64734eaecf52e371d0efcd71101ed6.png",
+        "id": "bhofakokqv"
+      }
+    ],
+    "hash": "bfxrj9bbz0-bhofakokqv",
+    "summary": "**Talawanda Baseball Winter Clinic** for grades K-8 on **January 18th and 19th, 9:00AM-11:00AM** at THS Gymnasium. Varsity and junior-varsity staff will teach hitting, fielding, throwing, and pitching/catching. \n\n**Cost:** One day $30, Two days $50 (discounts for additional family members). Bring baseball glove, water bottle, bat, and helmet. \n\n**Registration deadline:** January 5th to receive a clinic T-shirt. Register online at https://forms.gle/cgfxGjopmEKmrXpD8 or in-person January 19th. Questions: lykinsm@talawanda.org",
+    "event_info": [
+      {
+        "title": "Winter Baseball Clinic - Day 1",
+        "start": "2026-01-18T09:00:00",
+        "end": "2026-01-18T11:00:00",
+        "description": "**Talawanda Baseball Winter Clinic** for grades K-8 on **January 18th and 19th, 9:00AM-11:00AM** at THS Gymnasium. Varsity and junior-varsity staff will teach hitting, fielding, throwing, and pitching",
+        "location": "THS Gymnasium"
+      },
+      {
+        "title": "Winter Baseball Clinic - Day 2",
+        "start": "2026-01-19T09:00:00",
+        "end": "2026-01-19T11:00:00",
+        "description": "**Talawanda Baseball Winter Clinic** for grades K-8 on **January 18th and 19th, 9:00AM-11:00AM** at THS Gymnasium. Varsity and junior-varsity staff will teach hitting, fielding, throwing, and pitching",
+        "location": "THS Gymnasium"
+      }
+    ]
+  },
+  {
     "title": "Last Chance for Holiday Spirit Wear Sale",
     "block_id": "bivr76ch4f-bsc6ubw7fw-b9f8yqsnds-bwwq8nx0f7",
     "content": "",
@@ -157,47 +198,6 @@
         "end": "2025-12-23T23:59:00",
         "description": "**30% off sitewide** on Talawanda spirit wear with **free shipping on orders over $75**. This is the last chance to order custom holiday gifts for the whole family with **delivery guaranteed by Decemb",
         "location": "Online - 1stplace.sale/71854"
-      }
-    ]
-  },
-  {
-    "title": "Winter Baseball Clinic Registration Open",
-    "block_id": "bfxrj9bbz0-bhofakokqv",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/6ecd/cf64734eaecf52e371d0efcd71101ed6.png"
-    ],
-    "source_url": "https://app.smore.com/n/6cqhs-winter-wonders-weekly?ref=email",
-    "source_title": "Winter Wonders Weekly | Smore Newsletters for Education",
-    "date": "2025-12-05T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Winter \n\nBaseball \n\nClinic!\n\nWinter Baseball Clinic!",
-        "id": "bfxrj9bbz0"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/6ecd/cf64734eaecf52e371d0efcd71101ed6.png",
-        "id": "bhofakokqv"
-      }
-    ],
-    "hash": "bfxrj9bbz0-bhofakokqv",
-    "summary": "**Talawanda Baseball Winter Clinic** for grades K-8 on **January 18th and 19th, 9:00AM-11:00AM** at THS Gymnasium. Varsity and junior-varsity staff will teach hitting, fielding, throwing, and pitching/catching. \n\n**Cost:** One day $30, Two days $50 (discounts for additional family members). Bring baseball glove, water bottle, bat, and helmet. \n\n**Registration deadline:** January 5th to receive a clinic T-shirt. Register online at https://forms.gle/cgfxGjopmEKmrXpD8 or in-person January 19th. Questions: lykinsm@talawanda.org",
-    "event_info": [
-      {
-        "title": "Winter Baseball Clinic - Day 1",
-        "start": "2026-01-18T09:00:00",
-        "end": "2026-01-18T11:00:00",
-        "description": "**Talawanda Baseball Winter Clinic** for grades K-8 on **January 18th and 19th, 9:00AM-11:00AM** at THS Gymnasium. Varsity and junior-varsity staff will teach hitting, fielding, throwing, and pitching",
-        "location": "THS Gymnasium"
-      },
-      {
-        "title": "Winter Baseball Clinic - Day 2",
-        "start": "2026-01-19T09:00:00",
-        "end": "2026-01-19T11:00:00",
-        "description": "**Talawanda Baseball Winter Clinic** for grades K-8 on **January 18th and 19th, 9:00AM-11:00AM** at THS Gymnasium. Varsity and junior-varsity staff will teach hitting, fielding, throwing, and pitching",
-        "location": "THS Gymnasium"
       }
     ]
   },
