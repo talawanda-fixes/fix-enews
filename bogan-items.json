@@ -1,5 +1,69 @@
 [
   {
+    "title": "Cold and Flu Season Guidelines",
+    "block_id": "bfk3x3z2v4-bcrt7yqe5l-bwlb9ga51b",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/75fe/1e32d28814eeec058f8eb8ad56e9f9e4.png"
+    ],
+    "source_url": "https://app.smore.com/n/wjnd4-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2025-12-12T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Nurse's \n\nNotes\n\nNurse's Notes",
+        "id": "bfk3x3z2v4"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Hi Bogan Families!Cold and flu season are officially here and I wanted to share with you the guidelines on when to keep your sick children at home. This chart touches on more than just cold and flu but is a good reminder to all when we need to stay home and when we are able to return back to school.Please be sure if your child is out sick to call and let our attendance line know they will not be at school. Also, if your child has a doctor's note for excused days, have your child drop that off to the front office.Please click the photo below for information from the CDC.",
+        "id": "bcrt7yqe5l"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/75fe/1e32d28814eeec058f8eb8ad56e9f9e4.png",
+        "id": "bwlb9ga51b"
+      }
+    ],
+    "hash": "bfk3x3z2v4-bcrt7yqe5l-bwlb9ga51b",
+    "summary": "Cold and flu season is here. Students should stay home with: **fever of 100°F or higher**, **frequent coughing or difficulty breathing**, **diarrhea or vomiting**, **body rash with fever**, **active head lice**, **eye infection with discharge**, or **sore throat with congestion**. Students may return when fever-free for 24 hours without fever-reducing medication, symptoms improve, and specific conditions are met for each illness. If your child is absent due to illness, **call the attendance line** and submit any doctor's notes to the front office."
+  },
+  {
+    "title": "Christmas Party for Bogan Elementary Students",
+    "block_id": "bwk8x8y5ub-bjagu81tjt",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/79fb/cc2e658d291a483ea5d8ee0cca34dc0b.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/wjnd4-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2025-12-12T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Around \n\nTalawanda\n\nAround Talawanda",
+        "id": "bwk8x8y5ub"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/79fb/cc2e658d291a483ea5d8ee0cca34dc0b.jpeg",
+        "id": "bjagu81tjt"
+      }
+    ],
+    "hash": "bwk8x8y5ub-bjagu81tjt",
+    "summary": "Bogan Elementary boys and girls ages 6-12 are invited to a **Christmas Party on December 15, 2025, from 3:50pm-5:15pm**. The event is **KSP APPROVED for distribution** but not affiliated with TSD. A **QR code is available to register** a child for the party. This event is organized by the Christmas Party Club and approved by CEF (Community Events Foundation).",
+    "event_info": [
+      {
+        "title": "Christmas Party for Bogan Elementary Students (Ages 6-12)",
+        "start": "2025-12-15T15:50:00",
+        "end": "2025-12-15T17:15:00",
+        "description": "Bogan Elementary boys and girls ages 6-12 are invited to a **Christmas Party on December 15, 2025, from 3:50pm-5:15pm**. The event is **KSP APPROVED for distribution** but not affiliated with TSD. A *",
+        "location": "Bogan Elementary"
+      }
+    ]
+  },
+  {
     "title": "School Holiday Spirit Week Activities",
     "block_id": "bjqvo7kz71-bu698n5sv6",
     "content": "",
@@ -614,69 +678,5 @@
     ],
     "hash": "bpx42aowpj-bxajy0pejr-b2rpwhbne0-b5getueccr",
     "summary": "The Bogan PTG is encouraging families to join their Remind group for quick updates, volunteer opportunities, and event reminders sent directly to your phone. **Join at: https://www.remind.com/join/boganpt?utm_medium=android** - Scan the QR code or use the link to receive timely texts without searching through emails."
-  },
-  {
-    "title": "Join Bogan PTG Remind for Updates",
-    "block_id": "bxajy0pejr-b2rpwhbne0-b5getueccr",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/9e34/e26bf0f5287333eb1234e68b41fbd8bd.png"
-    ],
-    "source_url": "https://app.smore.com/n/wxue8-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2025-10-10T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Stay \n\nin \n\nthe \n\nLoop \n\nwith \n\nRemind \n\n📱\n\n Stay in the Loop with Remind 📱",
-        "id": "bxajy0pejr"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/9e34/e26bf0f5287333eb1234e68b41fbd8bd.png",
-        "id": "b2rpwhbne0"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Want quick updates, volunteer opportunities, and event reminders from the PTG? Join our Remind group for short, timely texts without having to dig through emails: https://www.remind.com/join/boganpt?utm_medium=android",
-        "id": "b5getueccr"
-      }
-    ],
-    "hash": "bxajy0pejr-b2rpwhbne0-b5getueccr",
-    "summary": "Join the Bogan PTG Remind group to receive quick updates, volunteer opportunities, and event reminders via text message. The service provides timely notifications without needing to search through emails. **Join at:** https://www.remind.com/join/boganpt?utm_medium=android\n\nA QR code is also available for easy sign-up."
-  },
-  {
-    "title": "Halloween Celebration and Costume Guidelines",
-    "block_id": "b4evzqiooh",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/wxue8-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2025-10-10T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "Halloween\nWe will celebrate Halloween at Bogan on Friday, October 31st. Costumes will be permitted with the following guidelines:1. No Costume Masks2. No Props3. Minimal Makeup4. Costumes must be worn to school. There will not be a “change time”. Please make sure that your child will be able to function comfortably throughout the day (bathroom needs, recess, school work, specials) while wearing his/her costume.Weather permitting, we will have a costume parade outside of the building at 9:30am. If your child is a car rider, you are welcome to pull around and park in our lot to wait for the parade to begin. If it is raining, parents will be permitted to line up in the gym and students will parade through.In addition, many of our classrooms are having Halloween parties. Many teachers are doing many different things, so please look for communication from your child's teacher for their specific plan.If you would not like your child to participate in the Halloween festivities, please let your child's teacher know.",
-        "id": "b4evzqiooh"
-      }
-    ],
-    "hash": "b4evzqiooh",
-    "summary": "**Halloween will be celebrated on Friday, October 31st** with costumes permitted under specific guidelines: no masks, props, or minimal makeup only, and costumes must be worn to school all day. A **costume parade will take place at 9:30am** outside (weather permitting) or in the gym if raining, with parents welcome to attend. Classroom Halloween parties will also occur—check with your child's teacher for specific plans, and notify them if you prefer your child not participate.",
-    "event_info": [
-      {
-        "title": "Halloween Celebration at Bogan",
-        "start": "2025-10-31T00:00:00",
-        "end": "2025-10-31T23:59:00",
-        "description": "**Halloween will be celebrated on Friday, October 31st** with costumes permitted under specific guidelines: no masks, props, or minimal makeup only, and costumes must be worn to school all day. A **co",
-        "location": "Bogan"
-      },
-      {
-        "title": "Halloween Costume Parade",
-        "start": "2025-10-31T09:30:00",
-        "end": "2025-10-31T10:30:00",
-        "description": "**Halloween will be celebrated on Friday, October 31st** with costumes permitted under specific guidelines: no masks, props, or minimal makeup only, and costumes must be worn to school all day. A **co",
-        "location": "Bogan (outside or gym)"
-      }
-    ]
   }
 ]

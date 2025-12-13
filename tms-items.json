@@ -1,5 +1,83 @@
 [
   {
+    "title": "Talent Show Auditions Rescheduled to December 16th",
+    "block_id": "b7zilmj8sr-b5nzscho4h-ber85efn7n",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/1995/741a41912834acfcb08886971da234e6.png"
+    ],
+    "source_url": "https://app.smore.com/n/gezab-frosty-features?ref=email",
+    "source_title": "Frosty Features | Smore Newsletters for Education",
+    "date": "2025-12-12T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "TALENT \n\nSHOW \n\nAUDITIONS \n\nHAVE \n\nBEEN \n\nMOVED!\n\nTALENT SHOW AUDITIONS HAVE BEEN MOVED!",
+        "id": "b7zilmj8sr"
+      },
+      {
+        "type": "text.title",
+        "content": "AUDITIONS \n\nWILL \n\nBE \n\nDECEMBER \n\n16TH!\n\nAUDITIONS WILL BE DECEMBER 16TH!",
+        "id": "b5nzscho4h"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/1995/741a41912834acfcb08886971da234e6.png",
+        "id": "ber85efn7n"
+      }
+    ],
+    "hash": "b7zilmj8sr-b5nzscho4h-ber85efn7n",
+    "summary": "**Middle School Talent Show auditions have been moved to December 16th.** The auditions will take place at 2:10-3:30 PM in the TMS Band Room. Students can showcase talents including acting, singing, dancing, magic, comedy, or music—no experience needed. The show exhibit will be held at 7:00 PM at Talawanda High School Auditorium.",
+    "event_info": [
+      {
+        "title": "Middle School Talent Show Auditions",
+        "start": "2025-12-16T14:10:00",
+        "end": "2025-12-16T15:30:00",
+        "description": "**Middle School Talent Show auditions have been moved to December 16th.** The auditions will take place at 2:10-3:30 PM in the TMS Band Room. Students can showcase talents including acting, singing, d",
+        "location": "TMS Band Room"
+      }
+    ]
+  },
+  {
+    "title": "Talawanda Spirit Wear Holiday Sale",
+    "block_id": "bivr76ch4f-bsc6ubw7fw-baxkmer343",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/f726/e948a2f65c8fb518b029d9b0eb2aff0e.png"
+    ],
+    "source_url": "https://app.smore.com/n/gezab-frosty-features?ref=email",
+    "source_title": "Frosty Features | Smore Newsletters for Education",
+    "date": "2025-12-12T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Looking \n\nfor \n\nHoliday \n\nGift \n\nIdeas?\n\nLooking for Holiday Gift Ideas?",
+        "id": "bivr76ch4f"
+      },
+      {
+        "type": "text.title",
+        "content": "Let \n\nUs \n\nHelp \n\nYou \n\nOut!\n\nLet Us Help You Out!",
+        "id": "bsc6ubw7fw"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/f726/e948a2f65c8fb518b029d9b0eb2aff0e.png",
+        "id": "baxkmer343"
+      }
+    ],
+    "hash": "bivr76ch4f-bsc6ubw7fw-baxkmer343",
+    "summary": "**Last chance for holiday delivery by December 23rd!** Take advantage of **30% off sitewide** on Talawanda spirit wear, plus **free shipping on orders over $75**. Shop at **1stplace.sale/71854** for athletic apparel including polos, quarter-zips, and other branded items.",
+    "event_info": [
+      {
+        "title": "Spirit Wear Holiday Sale Delivery Deadline",
+        "start": "2025-12-23T00:00:00",
+        "end": "2025-12-23T23:59:00",
+        "description": "**Last chance for holiday delivery by December 23rd!** Take advantage of **30% off sitewide** on Talawanda spirit wear, plus **free shipping on orders over $75**. Shop at **1stplace.sale/71854** for a",
+        "location": "Online at 1stplace.sale/71854"
+      }
+    ]
+  },
+  {
     "title": "Brave Bazaar - December 18",
     "block_id": "baq6z3iyha-blwkwzcik1-b57onimylv",
     "content": "",
@@ -594,46 +672,5 @@
     ],
     "hash": "bdcuh4gdq8-b9llmwshcx",
     "summary": "**Brave Buck Day** is coming soon to celebrate students who have been earning Brave Bucks all year! The school is seeking volunteers to help provide supplies for the celebration. Parents and community members can sign up to help through the **Sign Up Genius link** provided."
-  },
-  {
-    "title": "Lost and Found Items at TMS",
-    "block_id": "basajktgcw",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/gyefw-the-spooky-scoop?ref=email",
-    "source_title": "The Spooky Scoop! | Smore Newsletters for Education",
-    "date": "2025-10-24T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "LOST AND FOUND!\nThe Lost and Found is growing here at TMS. If your student is missing any items please remind them to check out the table in the cafeteria or ask in the office if it is a small item. A CHEVY KEY FOB WAS FOUND IN THE PARKING LOT THIS WEEK. PLEASE CALL THE OFFICE IF YOU HAVE LOST ONE.",
-        "id": "basajktgcw"
-      }
-    ],
-    "hash": "basajktgcw",
-    "summary": "The Lost and Found at TMS is growing with unclaimed items. Students missing belongings should check the table in the cafeteria for larger items or ask in the office for small items. **A Chevy key fob was found in the parking lot this week** - contact the office if you've lost one."
-  },
-  {
-    "title": "7th Grade Cincinnati Museum Center Trip Success",
-    "block_id": "bmso8unpem-b9at8o6xkw",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/gyefw-the-spooky-scoop?ref=email",
-    "source_title": "The Spooky Scoop! | Smore Newsletters for Education",
-    "date": "2025-10-24T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "7th \n\nGrade \n\nField \n\nTrip, \n\nTOTAL \n\nSUCCESS!!\n\n7th Grade Field Trip, TOTAL SUCCESS!!",
-        "id": "bmso8unpem"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Last week, TMS seventh graders had the opportunity to visit the Cincinnati Museum Center where groups could choose to visit the Museum of Natural History or the Museum of Science. Students enjoyed interactive exhibits and were able to see lots of cool artifacts! Afterwards, students visited the 5-story domed Omnimax Theater to watch a film entitled \"Deep Sky\". Thank you to TMS PTG for helping make this field trip possible! The students had a great time!",
-        "id": "b9at8o6xkw"
-      }
-    ],
-    "hash": "bmso8unpem-b9at8o6xkw",
-    "summary": "TMS seventh graders visited the **Cincinnati Museum Center** last week, choosing between the Museum of Natural History or Museum of Science. Students explored interactive exhibits and artifacts, then watched the film **\"Deep Sky\"** in the 5-story domed Omnimax Theater. The TMS PTG helped make this successful field trip possible."
   }
 ]
