@@ -322,24 +322,6 @@
     "summary": "Due to uncertainty around SNAP benefits in November, multiple food resources are available to students and families:\n- **Little Free Pantry** - Located outside main entrance at Bogan, restocked daily\n- **Backpack Program** - Small food bags sent home with students every Thursday\n- **Family Food Boxes** - Can be picked up or delivered within 24 hours\n- **Community Pantries** - Additional resources linked in the image\n\nFor assistance accessing these resources, contact Emily, Bogan Social Worker at **513-273-3403** or **whitee@talawanda.org**."
   },
   {
-    "title": "Lost and Found Items Need Claiming",
-    "block_id": "b7suj6dsz8",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/zqt8c-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2025-10-31T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "zoom_out_map\n            \nLost and Found\nOur lost and found is filling up! Please encourage your student to visit the lost and found if they have misplaced a lunchbox or article of clothing. Any items not claimed by winter break will be donated.Also, please make sure your child's name is written on the tag so that we can ensure lost items get back to students. Thank you!",
-        "id": "b7suj6dsz8"
-      }
-    ],
-    "hash": "b7suj6dsz8",
-    "summary": "The school's lost and found is filling up with lunchboxes and clothing. Students should check the lost and found for missing items, as **unclaimed items will be donated after winter break**. Parents are reminded to **label their child's belongings with their name** to help return lost items."
-  },
-  {
     "title": "November Cafeteria Lunch Account and Menu Information",
     "block_id": "b0srpil80f-b570fb3xuh-bfr77vevhd-bkdkrlbhb6",
     "content": "",
@@ -373,6 +355,24 @@
     ],
     "hash": "b0srpil80f-b570fb3xuh-bfr77vevhd-bkdkrlbhb6",
     "summary": "**Lunch Account Reminders:**\n- Add funds to student lunch accounts through **PaySchool Central**\n- Accounts reaching **-$50** will be rolled into school fees; keep accounts current\n\n**November Menus:** Breakfast and lunch menus for November are now available. November breakfast menu includes items like Mini Chocolate Chip French Toast (Nov 3), Stuffed Hash Brown (Nov 10), Bagel Sandwich with Sausage and Cheese (Nov 17), and various options throughout the month. No school on November 24-25 for Thanksgiving break."
+  },
+  {
+    "title": "Lost and Found Items Need Claiming",
+    "block_id": "b7suj6dsz8",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/zqt8c-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2025-10-31T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "zoom_out_map\n            \nLost and Found\nOur lost and found is filling up! Please encourage your student to visit the lost and found if they have misplaced a lunchbox or article of clothing. Any items not claimed by winter break will be donated.Also, please make sure your child's name is written on the tag so that we can ensure lost items get back to students. Thank you!",
+        "id": "b7suj6dsz8"
+      }
+    ],
+    "hash": "b7suj6dsz8",
+    "summary": "The school's lost and found is filling up with lunchboxes and clothing. Students should check the lost and found for missing items, as **unclaimed items will be donated after winter break**. Parents are reminded to **label their child's belongings with their name** to help return lost items."
   },
   {
     "title": "Kiwanis Holiday Food Drive for TOPSS",
