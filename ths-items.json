@@ -1,5 +1,337 @@
 [
   {
+    "title": "Costa Rica Trip Information Meeting",
+    "block_id": "beg2fgtv9b-bhi4om00j0-bzyj2ppusq",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/7dd7/f16e395d013d2abb91041de8eb4899ab.png"
+    ],
+    "source_url": "https://app.smore.com/n/62kp3",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-01-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "FCCLA\n\nFCCLA",
+        "id": "beg2fgtv9b"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/7dd7/f16e395d013d2abb91041de8eb4899ab.png",
+        "id": "bhi4om00j0"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Is your student interested in adventure, wildlife, ziplining, volcanoes, and exploring another culture? Mrs. Croucher is hosting a trip to Costa Rica in June 2027 with EF Tours!Come to a parent informational meeting on Wednesday, January 21st @6:30 in Room 611. If you can't make it, RSVP to get updates and information.If Costa Rica is on your bucket list, don’t miss it!https://rsvp.eftours.com/5cjgbka",
+        "id": "bzyj2ppusq"
+      }
+    ],
+    "hash": "beg2fgtv9b-bhi4om00j0-bzyj2ppusq",
+    "summary": "**FCCLA is organizing a trip to Costa Rica in June 2027** with EF Tours, featuring adventure activities, wildlife viewing, ziplining, volcanoes, and cultural exploration. An informational meeting for parents and students will be held **Wednesday, January 21st at 6:30 PM in Room 611**. If you cannot attend, you can [RSVP online](https://rsvp.eftours.com/5cjgbka) to receive updates and information.",
+    "event_info": [
+      {
+        "title": "Costa Rica Trip Information Meeting",
+        "start": "2026-01-21T18:30:00",
+        "end": "2026-01-21T19:30:00",
+        "description": "**FCCLA is organizing a trip to Costa Rica in June 2027** with EF Tours, featuring adventure activities, wildlife viewing, ziplining, volcanoes, and cultural exploration. An informational meeting for ",
+        "location": "Room 611"
+      }
+    ]
+  },
+  {
+    "title": "Community Flyers Available Online",
+    "block_id": "bc39ui2yc2",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/62kp3",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-01-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "Please click here for Community Flyers",
+        "id": "bc39ui2yc2"
+      }
+    ],
+    "hash": "bc39ui2yc2",
+    "summary": "Community flyers are now available for viewing. **[Click here to access the community flyers](https://www.talawanda.org/o/ths/page/community-flyers)** for information about local programs, activities, and resources."
+  },
+  {
+    "title": "Senior Cap and Gown Orders Now Available",
+    "block_id": "byprck4e3v-bb2jg9348k-bahpip8prm",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/4e2f/a3183352bc2fb265d031e522c7170507.png"
+    ],
+    "source_url": "https://app.smore.com/n/62kp3",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-01-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "SENIORS\n\nSENIORS",
+        "id": "byprck4e3v"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/4e2f/a3183352bc2fb265d031e522c7170507.png",
+        "id": "bb2jg9348k"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "To order click here",
+        "id": "bahpip8prm"
+      }
+    ],
+    "hash": "byprck4e3v-bb2jg9348k-bahpip8prm",
+    "summary": "**Jostens cap and gown orders** are now open for the Class of 2026. Order online at [jostens.com](https://www.jostens.com) or during in-school ordering at lunch (dates TBD). **Deadline to order is December 6, 2025** to receive items within 10 business days. The \"Mascot Package\" includes cap, rental gown, tassel, and stole for **$54.95** (or $66.69 after 12/6/25). Gowns are rentals and must be returned after graduation. Contact tannerj@jostens.com or call (513) 561-3225 with questions. **Custom class rings also available.**",
+    "event_info": [
+      {
+        "title": "Senior Cap and Gown Order Deadline",
+        "start": "2025-12-06T00:00:00",
+        "end": "2025-12-06T23:59:00",
+        "description": "**Jostens cap and gown orders** are now open for the Class of 2026. Order online at [jostens.com](https://www.jostens.com) or during in-school ordering at lunch (dates TBD). **Deadline to order is Dec",
+        "location": "Online at jostens.com or Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Weekly Club Meeting Schedule and Events",
+    "block_id": "b16db8wtno-bhmk3vsme3",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/62kp3",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-01-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "CLUB \n\nMEETINGS\n\nCLUB MEETINGS",
+        "id": "b16db8wtno"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Sunday, January 11thMock Trial at UCMonday, January 12thDiversity Club 2:30 - 3:30 PM, room 400Robotics 2:30 - 3:30 PM, room 412Setting Stone 2:30 - 3:30 PM, room 320Tribune 2:30 - 3:30 PM, room 315Tuesday, January 13thArt Club 2:30 - 3:30 PM, room 603Diversity Club 2:30 - 3:30 PM, room 400Mock Trial 5:00 - 7:00 PM, room 315Robotics 2:30 - 3:30 PM, room 412Wednesday, January 14thRobotics 2:30 - 3:30 PM, room 412Thursday, January 15thChess Club 2:30 - 3:30 PM, room 603Mock Trial 5:00 - 7:00 PM, room 315Project Green 2:30 - 3:30 PM, room 224 All are welcome!Friday, January 16thDrama 2:30 - 5:30 PM, PACSaturday, January 17thRobotics Competition in Lebanon - all members should register on the first website. See Ms. Schran with any questions.ON THE HORIZONTuesday, January 27th - Diversity Club will meet at Kofenya after schoolFriday, February 27th - 7:30 - 9:30 PM - Setting Stone Coffee House, THS Cafeteria",
+        "id": "bhmk3vsme3"
+      }
+    ],
+    "hash": "b16db8wtno-bhmk3vsme3",
+    "summary": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 PM, room 315). **Robotics** has a competition in Lebanon on Saturday (registration required). Upcoming events include **Diversity Club at Kofenya** on January 27th and **Setting Stone Coffee House** on February 27th (7:30-9:30 PM, THS Cafeteria).",
+    "event_info": [
+      {
+        "title": "Mock Trial at UC",
+        "start": "2026-01-11T00:00:00",
+        "end": "2026-01-11T01:00:00",
+        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
+        "location": "UC"
+      },
+      {
+        "title": "Diversity Club Meeting",
+        "start": "2026-01-12T14:30:00",
+        "end": "2026-01-12T15:30:00",
+        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
+        "location": "Room 400, Talawanda High School"
+      },
+      {
+        "title": "Robotics Meeting",
+        "start": "2026-01-12T14:30:00",
+        "end": "2026-01-12T15:30:00",
+        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
+        "location": "Room 412, Talawanda High School"
+      },
+      {
+        "title": "Setting Stone Meeting",
+        "start": "2026-01-12T14:30:00",
+        "end": "2026-01-12T15:30:00",
+        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
+        "location": "Room 320, Talawanda High School"
+      },
+      {
+        "title": "Tribune Meeting",
+        "start": "2026-01-12T14:30:00",
+        "end": "2026-01-12T15:30:00",
+        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
+        "location": "Room 315, Talawanda High School"
+      },
+      {
+        "title": "Art Club Meeting",
+        "start": "2026-01-13T14:30:00",
+        "end": "2026-01-13T15:30:00",
+        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
+        "location": "Room 603, Talawanda High School"
+      },
+      {
+        "title": "Diversity Club Meeting",
+        "start": "2026-01-13T14:30:00",
+        "end": "2026-01-13T15:30:00",
+        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
+        "location": "Room 400, Talawanda High School"
+      },
+      {
+        "title": "Mock Trial Meeting",
+        "start": "2026-01-13T17:00:00",
+        "end": "2026-01-13T19:00:00",
+        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
+        "location": "Room 315, Talawanda High School"
+      },
+      {
+        "title": "Robotics Meeting",
+        "start": "2026-01-13T14:30:00",
+        "end": "2026-01-13T15:30:00",
+        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
+        "location": "Room 412, Talawanda High School"
+      },
+      {
+        "title": "Robotics Meeting",
+        "start": "2026-01-14T14:30:00",
+        "end": "2026-01-14T15:30:00",
+        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
+        "location": "Room 412, Talawanda High School"
+      },
+      {
+        "title": "Chess Club Meeting",
+        "start": "2026-01-15T14:30:00",
+        "end": "2026-01-15T15:30:00",
+        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
+        "location": "Room 603, Talawanda High School"
+      },
+      {
+        "title": "Mock Trial Meeting",
+        "start": "2026-01-15T17:00:00",
+        "end": "2026-01-15T19:00:00",
+        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
+        "location": "Room 315, Talawanda High School"
+      },
+      {
+        "title": "Project Green Meeting",
+        "start": "2026-01-15T14:30:00",
+        "end": "2026-01-15T15:30:00",
+        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
+        "location": "Room 224, Talawanda High School"
+      },
+      {
+        "title": "Drama Meeting",
+        "start": "2026-01-16T14:30:00",
+        "end": "2026-01-16T17:30:00",
+        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
+        "location": "PAC, Talawanda High School"
+      },
+      {
+        "title": "Robotics Competition in Lebanon",
+        "start": "2026-01-17T00:00:00",
+        "end": "2026-01-17T23:59:00",
+        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
+        "location": "Lebanon"
+      },
+      {
+        "title": "Diversity Club at Kofenya",
+        "start": "2026-01-27T14:30:00",
+        "end": "2026-01-27T15:30:00",
+        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
+        "location": "Kofenya"
+      },
+      {
+        "title": "Setting Stone Coffee House",
+        "start": "2026-02-27T00:00:00",
+        "end": "2026-02-27T01:00:00",
+        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
+        "location": ""
+      }
+    ]
+  },
+  {
+    "title": "Health Reminder for Flu Season",
+    "block_id": "bk8gizguu7-bj1d5phbur",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/62kp3",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-01-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "COMMUNITY \n\nINFORMATION\n\nCOMMUNITY INFORMATION",
+        "id": "bk8gizguu7"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "HEALTH AND WELLNESS\nHealth Reminder: Flu and Seasonal IllnessWe are seeing an increase in flu and seasonal illnesses at school. To help prevent the spread ofillness, please keep your child home if they have a fever (100°F or higher), vomiting or diarrhea,significant cough, sore throat with fever, body aches, extreme fatigue, or flu-like symptoms.Students should be fever-free for 24 hours without medication and symptom-free for 24 hoursafter vomiting or diarrhea before returning to school. Thank you for helping keep our schoolcommunity healthy.",
+        "id": "bj1d5phbur"
+      }
+    ],
+    "hash": "bk8gizguu7-bj1d5phbur",
+    "summary": "**Flu and seasonal illnesses are increasing at school.** Please keep students home if they have a fever (100°F or higher), vomiting, diarrhea, significant cough, sore throat with fever, body aches, extreme fatigue, or flu-like symptoms. Students must be **fever-free for 24 hours without medication** and **symptom-free for 24 hours** after vomiting or diarrhea before returning to school."
+  },
+  {
+    "title": "Food Resources Available for Families",
+    "block_id": "bq8y3z8u66-bp4rqisieb-bun4gk72ra-blswo3w3vo",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/16c4/1cadd81061d00b81ce929f8df53f7e38.png"
+    ],
+    "source_url": "https://app.smore.com/n/62kp3",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-01-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/16c4/1cadd81061d00b81ce929f8df53f7e38.png",
+        "id": "bq8y3z8u66"
+      },
+      {
+        "type": "text.title",
+        "content": "Calendar \n\nof \n\ncommunity \n\nmeals \n\nand \n\nTOPPS \n\nschedule\n\nCalendar of community meals and TOPPS schedule",
+        "id": "bp4rqisieb"
+      },
+      {
+        "type": "text.title",
+        "content": "List \n\nof \n\nall \n\nButler \n\nCounty \n\nfood \n\npantries\n\nList of all Butler County food pantries",
+        "id": "bun4gk72ra"
+      },
+      {
+        "type": "text.title",
+        "content": "SNAP \n\ninformation\n\nSNAP information",
+        "id": "blswo3w3vo"
+      }
+    ],
+    "hash": "bq8y3z8u66-bp4rqisieb-bun4gk72ra-blswo3w3vo",
+    "summary": "The Talawanda School District provides multiple food resources for families in need:\n- **Little Free Pantries** are available 24/7 outside every TSD building, restocked weekly\n- **Backpack Program** provides weekly food bags on Thursdays/Fridays at elementary buildings (contact building Social Worker)\n- **Emergency Food boxes** available for pick-up or delivery within 24 hours\n- Resources include a [calendar of community meals and TOPPS schedule](link), [list of all Butler County food pantries](link), and [SNAP information](link)"
+  },
+  {
+    "title": "Preschool Application Lottery Opens for 2026/27",
+    "block_id": "biuuv0myyv",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/62kp3",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-01-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "Preschool Application for 2026/27 School Year\nTalawanda Preschool Application 2026/2027In order to fill the limited spaces in our preschool classrooms, typically developing children will enter the program through a lottery. Please use the following link to apply for the Talawanda Preschool lottery for the 2026/2027 school year. Applications must be completed by January 31, 2026. The lottery will take place on February 13, 2026. Families will be notified of their placement on the roster or on the waitlist after February 13, 2026.Please send any questions to the Preschool Coordinator, Beth Fuechsl, at fuechsle@talawanda.org.Preschool Application",
+        "id": "biuuv0myyv"
+      }
+    ],
+    "hash": "biuuv0myyv",
+    "summary": "The **Talawanda Preschool lottery application** for the 2026/2027 school year is now open for typically developing children. Applications must be **completed by January 31, 2026**, and the lottery drawing will take place on **February 13, 2026**. Families will be notified of their placement on the roster or waitlist after February 13th. Questions can be directed to Preschool Coordinator Beth Fuechsl at fuechsle@talawanda.org.",
+    "event_info": [
+      {
+        "title": "Preschool Application Deadline",
+        "start": "2026-01-31T23:59:00",
+        "end": "2026-01-31T23:59:00",
+        "description": "The **Talawanda Preschool lottery application** for the 2026/2027 school year is now open for typically developing children. Applications must be **completed by January 31, 2026**, and the lottery dra",
+        "location": "Talawanda Preschool"
+      },
+      {
+        "title": "Preschool Lottery Drawing",
+        "start": "2026-02-13T00:00:00",
+        "end": "2026-02-13T23:59:00",
+        "description": "The **Talawanda Preschool lottery application** for the 2026/2027 school year is now open for typically developing children. Applications must be **completed by January 31, 2026**, and the lottery dra",
+        "location": "Talawanda Preschool"
+      }
+    ]
+  },
+  {
     "title": "Senior Scholarship Booklets Available - Due 12/19",
     "block_id": "bgdjvjhtzu-bzlacz5fg1",
     "content": "",
@@ -868,370 +1200,6 @@
         "end": "2025-11-16T13:30:00",
         "description": "The **Robotics Club** will compete in a scrimmage at **Loveland High School on Sunday, November 16th**. The scrimmage starts at **1:00 PM**, but members must arrive by **12:30 PM**.",
         "location": "Loveland High School"
-      }
-    ]
-  },
-  {
-    "title": "Community Food Resources and Support Services",
-    "block_id": "bk8gizguu7-bq8y3z8u66-bsrb6n0j36-bp4rqisieb-bun4gk72ra-blswo3w3vo",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/16c4/1cadd81061d00b81ce929f8df53f7e38.png",
-      "https://cdn.smore.com/u/1c8a/fad091641459315357e8c99c2bd6fb7e.png"
-    ],
-    "source_url": "https://app.smore.com/n/aq28s",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2025-11-14T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "COMMUNITY \n\nINFORMATION\n\nCOMMUNITY INFORMATION",
-        "id": "bk8gizguu7"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/16c4/1cadd81061d00b81ce929f8df53f7e38.png",
-        "id": "bq8y3z8u66"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/1c8a/fad091641459315357e8c99c2bd6fb7e.png",
-        "id": "bsrb6n0j36"
-      },
-      {
-        "type": "text.title",
-        "content": "Calendar \n\nof \n\ncommunity \n\nmeals \n\nand \n\nTOPPS \n\nschedule\n\nCalendar of community meals and TOPPS schedule",
-        "id": "bp4rqisieb"
-      },
-      {
-        "type": "text.title",
-        "content": "List \n\nof \n\nall \n\nButler \n\nCounty \n\nfood \n\npantries\n\nList of all Butler County food pantries",
-        "id": "bun4gk72ra"
-      },
-      {
-        "type": "text.title",
-        "content": "SNAP \n\ninformation\n\nSNAP information",
-        "id": "blswo3w3vo"
-      }
-    ],
-    "hash": "bk8gizguu7-bq8y3z8u66-bsrb6n0j36-bp4rqisieb-bun4gk72ra-blswo3w3vo",
-    "summary": "The Talawanda School District provides multiple food assistance resources for families:\n- **Little Free Pantries** are available 24/7 outside every TSD building, restocked weekly or as needed\n- **Backpack Program** provides weekly food bags on Thursdays/Fridays at all elementary buildings (contact your building Social Worker)\n- **Emergency Food Boxes** available for pick-up or delivery within 24 hours\n\nAdditional resources include a [calendar of community meals and TOPPS schedule](link), [list of all Butler County food pantries](link), and [SNAP information](link). Contact information for Social Workers at Kramer (Chelsea Pike: 513-273-3511, pikec@talawanda.org), Marshall (Chrissy Rolfes: 513-273-3611, rolfesc@talawanda.org), and Bogan (Emily White: 513-273-3403, whitee@talawanda.org), plus Success Liaisons at TMS (Lydia Schrag: 513-273-3311, schragl@talawanda.org) and THS (Chris Robertson: 513-273-3224, robertsonc@talawanda.org) is provided."
-  },
-  {
-    "title": "BRAVE Day for Sophomore Class",
-    "block_id": "bema0kdlak-bxlyk5kb71",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/4wu8f",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2025-11-07T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "BRAVE \n\nDAY\n\nBRAVE DAY",
-        "id": "bema0kdlak"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "BRAVE Day at Talawanda High School is our annual family building and diversity event for our Sophomore class. The focus of the day is on making students realize that they are not alone at Talawanda, and they have many other peers and adults that care about and support them. Our students are a large part of our community, and by sharing stories, participating in activities, and most importantly - listening - they realize the important role they play with their classmates. Since 2009, BRAVE Day has been an influential part of our Anti-bullying, personal empowerment program at THS and our students come out of this experience better people for it.The event will take place…FRIDAY, NOVEMBER 14TH The effort that our students put into the day is an amazing thing to witness. Not only do students participate, they also encourage each other throughout the day on a level that is not normally seen in a typical High School. As a School District we appreciate their willingness to let go of their normal day and try to become a better person. Talawanda is thankful for them, and realizes that we have some of the most caring students around.If you feel your student would not benefit from the day, or would be negatively affected by the activities provided, they are not required to attend. We will not force students to participate, but rather want to provide the opportunity for them to improve as Talawanda students during BRAVE Day. They should stay in class during the event if they do not want to attend.",
-        "id": "bxlyk5kb71"
-      }
-    ],
-    "hash": "bema0kdlak-bxlyk5kb71",
-    "summary": "**BRAVE Day** is Talawanda High School's annual family building, diversity, and anti-bullying event for **sophomores only**, taking place on **Friday, November 14th**. Students participate in activities and share stories to build community, realize they're not alone, and understand their important role with classmates. Attendance is optional—students who prefer not to participate should stay in their regular classes during the event.",
-    "event_info": [
-      {
-        "title": "BRAVE Day",
-        "start": "2025-11-14T00:00:00",
-        "end": "2025-11-14T23:59:00",
-        "description": "**BRAVE Day** is Talawanda High School's annual family building, diversity, and anti-bullying event for **sophomores only**, taking place on **Friday, November 14th**. Students participate in activiti",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Veterans Day Breakfast and Assembly",
-    "block_id": "bo2251rfd5-brymwa0v8n-bei7y2jlm5",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/b341/c90bdad1d786c95b9078d17fa350f392.png"
-    ],
-    "source_url": "https://app.smore.com/n/4wu8f",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2025-11-07T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "FCCLA\n\nFCCLA",
-        "id": "bo2251rfd5"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/b341/c90bdad1d786c95b9078d17fa350f392.png",
-        "id": "brymwa0v8n"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "FCCLA is honored and excited to once again host the Veteran’s Day breakfast and assembly. If you are a Veteran, please RSVP at this link and join us on November 11th!",
-        "id": "bei7y2jlm5"
-      }
-    ],
-    "hash": "bo2251rfd5-brymwa0v8n-bei7y2jlm5",
-    "summary": "**FCCLA is hosting the Annual Veterans Day Breakfast and Assembly on Tuesday, November 11, 2025** at Talawanda High School (5301 University Park Blvd, Oxford, OH 45056). Breakfast begins at 7:30 AM and the assembly starts at 9:00 AM. All veterans and one guest are invited to attend. **RSVP required**: scan the QR code or email Mrs. Croucher at croucherk@talawanda.org with the veteran's full name, branch, and total number attending. Event is sponsored by BT/Talawanda FCCLA & THS and RSVP approval is required for attendance.",
-    "event_info": [
-      {
-        "title": "Veterans Day Breakfast",
-        "start": "2025-11-11T07:30:00",
-        "end": "2025-11-11T09:00:00",
-        "description": "**FCCLA is hosting the Annual Veterans Day Breakfast and Assembly on Tuesday, November 11, 2025** at Talawanda High School (5301 University Park Blvd, Oxford, OH 45056). Breakfast begins at 7:30 AM an",
-        "location": "Talawanda High School, 5301 University Park Blvd, Oxford, OH 45056"
-      },
-      {
-        "title": "Veterans Day Assembly",
-        "start": "2025-11-11T09:00:00",
-        "end": "2025-11-11T10:00:00",
-        "description": "**FCCLA is hosting the Annual Veterans Day Breakfast and Assembly on Tuesday, November 11, 2025** at Talawanda High School (5301 University Park Blvd, Oxford, OH 45056). Breakfast begins at 7:30 AM an",
-        "location": "Talawanda High School, 5301 University Park Blvd, Oxford, OH 45056"
-      }
-    ]
-  },
-  {
-    "title": "PUSH Program Home Repair Grants Available",
-    "block_id": "b89xydgc5p-bgbaxi75cr",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/4wu8f",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2025-11-07T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "COMMUNITY \n\nPAGE\n\nCOMMUNITY PAGE",
-        "id": "b89xydgc5p"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "zoom_out_map\n            \nPUSH Program\nPUSH provides grants to low-income homeowners in the Talawanda School District for critical and emergency home repairs. Call Jeanne or Sabrina at 513-523-8100 for more information. Application is attached. Http://www.push-oxford.org/",
-        "id": "bgbaxi75cr"
-      }
-    ],
-    "hash": "b89xydgc5p-bgbaxi75cr",
-    "summary": "**PUSH Program** provides grants to low-income homeowners in the Talawanda School District for critical and emergency home repairs. For more information or to apply, call Jeanne or Sabrina at **513-523-8100** or visit [push-oxford.org](http://www.push-oxford.org/)."
-  },
-  {
-    "title": "Food Resources Available for Families",
-    "block_id": "bq8y3z8u66-bsrb6n0j36-bp4rqisieb-bun4gk72ra-blswo3w3vo",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/16c4/1cadd81061d00b81ce929f8df53f7e38.png",
-      "https://cdn.smore.com/u/1c8a/fad091641459315357e8c99c2bd6fb7e.png"
-    ],
-    "source_url": "https://app.smore.com/n/4wu8f",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2025-11-07T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/16c4/1cadd81061d00b81ce929f8df53f7e38.png",
-        "id": "bq8y3z8u66"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/1c8a/fad091641459315357e8c99c2bd6fb7e.png",
-        "id": "bsrb6n0j36"
-      },
-      {
-        "type": "text.title",
-        "content": "Calendar \n\nof \n\ncommunity \n\nmeals \n\nand \n\nTOPPS \n\nschedule\n\nCalendar of community meals and TOPPS schedule",
-        "id": "bp4rqisieb"
-      },
-      {
-        "type": "text.title",
-        "content": "List \n\nof \n\nall \n\nButler \n\nCounty \n\nfood \n\npantries\n\nList of all Butler County food pantries",
-        "id": "bun4gk72ra"
-      },
-      {
-        "type": "text.title",
-        "content": "SNAP \n\ninformation\n\nSNAP information",
-        "id": "blswo3w3vo"
-      }
-    ],
-    "hash": "bq8y3z8u66-bsrb6n0j36-bp4rqisieb-bun4gk72ra-blswo3w3vo",
-    "summary": "The Talawanda School District provides several food resources for families in need:\n- **Little Free Pantries** are available 24/7 outside every TSD building, restocked weekly or more\n- **Backpack Program** provides weekly food bags on Thursdays/Fridays at elementary buildings (contact your building Social Worker)\n- **Emergency Food boxes** available for pick-up or delivery within 24 hours\n- Additional resources include a **calendar of community meals and TOPPS schedule**, a **list of all Butler County food pantries**, and **SNAP information**"
-  },
-  {
-    "title": "Winter EOC Testing Schedule and Information",
-    "block_id": "bq3h6unc4v-bgd2217j5g",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/b4c4/d4030e848a50c471771967ab192c93ce.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/mgf06",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2025-10-31T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "EOC \n\nTESTING\n\nEOC TESTING",
-        "id": "bq3h6unc4v"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/b4c4/d4030e848a50c471771967ab192c93ce.jpeg",
-        "id": "bgd2217j5g"
-      }
-    ],
-    "hash": "bq3h6unc4v-bgd2217j5g",
-    "summary": "**Individual Testing (December 3-5):** For students needing to meet graduation requirements and first-time testers not currently enrolled in the class at THS. Contact Mrs. Hess for make-up testing.\n\n**Class Testing (December 16-19):** Only for students currently taking Algebra C or Government classes, administered during exam week. Make-up testing available January 7-8.\n\nEmails with specific test requirements and details will be sent to students and parents/guardians before Thanksgiving Break. Questions should be directed to Mrs. Hess at hessb@talawanda.org.",
-    "event_info": [
-      {
-        "title": "Winter EOC Individual Testing",
-        "start": "2025-12-03T00:00:00",
-        "end": "2025-12-05T23:59:00",
-        "description": "**Individual Testing (December 3-5):** For students needing to meet graduation requirements and first-time testers not currently enrolled in the class at THS. Contact Mrs. Hess for make-up testing.\n\n*",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Winter EOC Class Testing (Exam Week)",
-        "start": "2025-12-16T00:00:00",
-        "end": "2025-12-19T23:59:00",
-        "description": "**Individual Testing (December 3-5):** For students needing to meet graduation requirements and first-time testers not currently enrolled in the class at THS. Contact Mrs. Hess for make-up testing.\n\n*",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Winter EOC Make-up Testing",
-        "start": "2026-01-07T00:00:00",
-        "end": "2026-01-08T23:59:00",
-        "description": "**Individual Testing (December 3-5):** For students needing to meet graduation requirements and first-time testers not currently enrolled in the class at THS. Contact Mrs. Hess for make-up testing.\n\n*",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Club Meetings for November 3-7",
-    "block_id": "b16db8wtno-bwivy3q6u4-b946q64lfb",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/mgf06",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2025-10-31T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "CLUB \n\nMEETINGS\n\nCLUB MEETINGS",
-        "id": "b16db8wtno"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Monday, November 3rdDiversity Club 2:30pm -3:30pm - room 400Setting Stone 2:30pm - room 320Tribune 2:30pm - room 315Tuesday, November 4thNO SCHOOL for studentsMock Trial 5:00pm - 7:00pm room 315Wednesday, November 5thRobotics Club 2:30pm - 4:00pm - room 412, All are welcome!Thursday, November 6thBest Buddies Tutorial - Cafeteria see insert belowChess Club 2:30 - 3:30pm - room 603Key Club Tutorial - room 218Mock Trial 5:00pm - 7:00pm room 315Project Green 2:30pm - 3:30pm room 224Robotics Club 2:30pm - 4:00pm - room 412Friday, November 7thDrama 2:30pm - 5:30 - PAC",
-        "id": "bwivy3q6u4"
-      },
-      {
-        "type": "items",
-        "content": "zoom_out_map\n                \n\n\nMondays, room 400\n\n\n\n\n\nzoom_out_map\n                \n\n\n\n\n\n\nzoom_out_map\n                \n\n\nTuesdays, room 400",
-        "id": "b946q64lfb"
-      }
-    ],
-    "hash": "b16db8wtno-bwivy3q6u4-b946q64lfb",
-    "summary": "**Club meetings scheduled for the week of November 3-7:**\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**: NO SCHOOL for students; Mock Trial (5:00-7:00pm, room 315)\n- **Wednesday, Nov 5**: Robotics Club (2:30-4:00pm, room 412)\n- **Thursday, Nov 6**: Best Buddies (Tutorial, Cafeteria), Chess Club (2:30-3:30pm, room 603), Key Club (Tutorial, room 218), Mock Trial (5:00-7:00pm, room 315), Project Green (2:30-3:30pm, room 224), Robotics Club (2:30-4:00pm, room 412)\n- **Friday, Nov 7**: Drama (2:30-5:30pm, PAC)",
-    "event_info": [
-      {
-        "title": "Diversity Club Meeting",
-        "start": "2025-11-03T14:30:00",
-        "end": "2025-11-03T15:30:00",
-        "description": "**Club meetings scheduled for the week of November 3-7:**\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**",
-        "location": "Room 400, Talawanda High School"
-      },
-      {
-        "title": "Setting Stone Meeting",
-        "start": "2025-11-03T14:30:00",
-        "end": "2025-11-03T15:30:00",
-        "description": "**Club meetings scheduled for the week of November 3-7:**\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**",
-        "location": "Room 320, Talawanda High School"
-      },
-      {
-        "title": "Tribune Meeting",
-        "start": "2025-11-03T14:30:00",
-        "end": "2025-11-03T15:30:00",
-        "description": "**Club meetings scheduled for the week of November 3-7:**\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**",
-        "location": "Room 315, Talawanda High School"
-      },
-      {
-        "title": "Mock Trial",
-        "start": "2025-11-04T17:00:00",
-        "end": "2025-11-04T19:00:00",
-        "description": "**Club meetings scheduled for the week of November 3-7:**\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**",
-        "location": "Room 315, Talawanda High School"
-      },
-      {
-        "title": "Robotics Club Meeting",
-        "start": "2025-11-05T14:30:00",
-        "end": "2025-11-05T16:00:00",
-        "description": "**Club meetings scheduled for the week of November 3-7:**\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**",
-        "location": "Room 412, Talawanda High School"
-      },
-      {
-        "title": "Best Buddies Tutorial",
-        "start": "2025-11-06T00:00:00",
-        "end": "2025-11-06T01:00:00",
-        "description": "**Club meetings scheduled for the week of November 3-7:**\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**",
-        "location": "Cafeteria, Talawanda High School"
-      },
-      {
-        "title": "Chess Club Meeting",
-        "start": "2025-11-06T14:30:00",
-        "end": "2025-11-06T15:30:00",
-        "description": "**Club meetings scheduled for the week of November 3-7:**\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**",
-        "location": "Room 603, Talawanda High School"
-      },
-      {
-        "title": "Key Club Tutorial",
-        "start": "2025-11-06T00:00:00",
-        "end": "2025-11-06T01:00:00",
-        "description": "**Club meetings scheduled for the week of November 3-7:**\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**",
-        "location": "Room 218, Talawanda High School"
-      },
-      {
-        "title": "Mock Trial",
-        "start": "2025-11-06T17:00:00",
-        "end": "2025-11-06T19:00:00",
-        "description": "**Club meetings scheduled for the week of November 3-7:**\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**",
-        "location": "Room 315, Talawanda High School"
-      },
-      {
-        "title": "Project Green Meeting",
-        "start": "2025-11-06T14:30:00",
-        "end": "2025-11-06T15:30:00",
-        "description": "**Club meetings scheduled for the week of November 3-7:**\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**",
-        "location": "Room 224, Talawanda High School"
-      },
-      {
-        "title": "Robotics Club Meeting",
-        "start": "2025-11-06T14:30:00",
-        "end": "2025-11-06T16:00:00",
-        "description": "**Club meetings scheduled for the week of November 3-7:**\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**",
-        "location": "Room 412, Talawanda High School"
-      },
-      {
-        "title": "Drama Meeting",
-        "start": "2025-11-07T14:30:00",
-        "end": "2025-11-07T17:30:00",
-        "description": "**Club meetings scheduled for the week of November 3-7:**\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**",
-        "location": "PAC, Talawanda High School"
-      },
-      {
-        "title": "Diversity Club (Regular Monday Meeting)",
-        "start": "2025-11-03T00:00:00",
-        "end": "2025-11-03T01:00:00",
-        "description": "**Club meetings scheduled for the week of November 3-7:**\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**",
-        "location": "Room 400, Talawanda High School"
-      },
-      {
-        "title": "UNICEF Club (Weekly Meeting)",
-        "start": "2025-11-03T00:00:00",
-        "end": "2025-11-03T01:00:00",
-        "description": "**Club meetings scheduled for the week of November 3-7:**\n- **Monday, Nov 3**: Diversity Club (2:30-3:30pm, room 400), Setting Stone (2:30pm, room 320), Tribune (2:30pm, room 315)\n- **Tuesday, Nov 4**",
-        "location": "Talawanda High School"
       }
     ]
   }
