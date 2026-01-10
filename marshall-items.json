@@ -1,82 +1,5 @@
 [
   {
-    "title": "January 2026 Breakfast and Lunch Menus",
-    "block_id": "bhzdnlnw9b-bchchtsa93-bnmbq6ritu-bvwjr7l97t",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/40d8/e78e0ab12e298311ebde8c5149cab6c2.png",
-      "https://cdn.smore.com/u/bb3e/87b741e551cdd4d8f8c88b4ce86cf076.png"
-    ],
-    "source_url": "https://app.smore.com/n/qspr4",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-01-09T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "JANUARY \n\n- \n\nBREAKFAST \n\nMENU\n\nJANUARY - BREAKFAST MENU",
-        "id": "bhzdnlnw9b"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/40d8/e78e0ab12e298311ebde8c5149cab6c2.png",
-        "id": "bchchtsa93"
-      },
-      {
-        "type": "text.title",
-        "content": "JANUARY \n\n- \n\nLUNCH \n\nMENU\n\nJANUARY - LUNCH MENU",
-        "id": "bnmbq6ritu"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/bb3e/87b741e551cdd4d8f8c88b4ce86cf076.png",
-        "id": "bvwjr7l97t"
-      }
-    ],
-    "hash": "bhzdnlnw9b-bchchtsa93-bnmbq6ritu-bvwjr7l97t",
-    "summary": "Marshall Elementary's January 2026 meal menus are now available. **100% fruit juice, apples, oranges or other fresh fruit selection and milk included with every breakfast.** Choice of milk is included with every lunch. School is closed January 1-2 (New Year's), January 5-6, and January 19-20 (Martin Luther King Jr. Day). Menu items include breakfast options like pancake on a stick, breakfast pizza, cinnamon buns, and mini donuts, plus lunch options like chicken tenders, corn dogs, popcorn chicken, and various sandwiches. Menus are subject to change based on product availability."
-  },
-  {
-    "title": "Talawanda Baseball Winter Clinic Registration",
-    "block_id": "bisgsi05ub-b3iqujxdko",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/9ead/a2f6de23a961088d006e96edb7c66c8d.png"
-    ],
-    "source_url": "https://app.smore.com/n/qspr4",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-01-09T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "AROUND \n\nTHE \n\nCOMMUNITY \n\nAROUND THE COMMUNITY",
-        "id": "bisgsi05ub"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/9ead/a2f6de23a961088d006e96edb7c66c8d.png",
-        "id": "b3iqujxdko"
-      }
-    ],
-    "hash": "bisgsi05ub-b3iqujxdko",
-    "summary": "**Talawanda Baseball Winter Clinic** for boys and girls in grades K-8 on **January 18th and 19th, 9:00 AM-11:00 AM** at THS Gymnasium. Varsity and junior-varsity staff will teach hitting, fielding, throwing, and pitching basics plus offensive/defensive situations. \n\n**Cost:** $30 for one day or $50 for both days ($10 off each additional family member). Bring baseball glove, water bottle, bat, and helmet. \n\n**Registration deadline: January 8th** to receive a clinic T-shirt. Register online at https://forms.gle/cgfxGjopmEKmrXpD8 or in-person January 19th. Questions: tykinsm@talawanda.org",
-    "event_info": [
-      {
-        "title": "Talawanda Baseball Winter Clinic - Day 1",
-        "start": "2026-01-18T09:00:00",
-        "end": "2026-01-18T11:00:00",
-        "description": "**Talawanda Baseball Winter Clinic** for boys and girls in grades K-8 on **January 18th and 19th, 9:00 AM-11:00 AM** at THS Gymnasium. Varsity and junior-varsity staff will teach hitting, fielding, th",
-        "location": "THS Gymnasium"
-      },
-      {
-        "title": "Talawanda Baseball Winter Clinic - Day 2",
-        "start": "2026-01-19T09:00:00",
-        "end": "2026-01-19T11:00:00",
-        "description": "**Talawanda Baseball Winter Clinic** for boys and girls in grades K-8 on **January 18th and 19th, 9:00 AM-11:00 AM** at THS Gymnasium. Varsity and junior-varsity staff will teach hitting, fielding, th",
-        "location": "THS Gymnasium"
-      }
-    ]
-  },
-  {
     "title": "Health Reminder: Flu and Seasonal Illness Protocol",
     "block_id": "bobv91nep5-bk9dm1ntkb",
     "content": "",
@@ -171,6 +94,83 @@
         "end": "2026-02-03T19:30:00",
         "description": "The Talawanda Middle School Parent-Teacher Group needs officers and participants for the 2026-2027 school year. Open positions include President, Vice President, Secretary, and Treasurer. A PTG meetin",
         "location": "Oxford Lane Library, Havighurst Meeting Room"
+      }
+    ]
+  },
+  {
+    "title": "January 2026 Breakfast and Lunch Menus",
+    "block_id": "bhzdnlnw9b-bchchtsa93-bnmbq6ritu-bvwjr7l97t",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/40d8/e78e0ab12e298311ebde8c5149cab6c2.png",
+      "https://cdn.smore.com/u/bb3e/87b741e551cdd4d8f8c88b4ce86cf076.png"
+    ],
+    "source_url": "https://app.smore.com/n/qspr4",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-01-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "JANUARY \n\n- \n\nBREAKFAST \n\nMENU\n\nJANUARY - BREAKFAST MENU",
+        "id": "bhzdnlnw9b"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/40d8/e78e0ab12e298311ebde8c5149cab6c2.png",
+        "id": "bchchtsa93"
+      },
+      {
+        "type": "text.title",
+        "content": "JANUARY \n\n- \n\nLUNCH \n\nMENU\n\nJANUARY - LUNCH MENU",
+        "id": "bnmbq6ritu"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/bb3e/87b741e551cdd4d8f8c88b4ce86cf076.png",
+        "id": "bvwjr7l97t"
+      }
+    ],
+    "hash": "bhzdnlnw9b-bchchtsa93-bnmbq6ritu-bvwjr7l97t",
+    "summary": "Marshall Elementary's January 2026 meal menus are now available. **100% fruit juice, apples, oranges or other fresh fruit selection and milk included with every breakfast.** Choice of milk is included with every lunch. School is closed January 1-2 (New Year's), January 5-6, and January 19-20 (Martin Luther King Jr. Day). Menu items include breakfast options like pancake on a stick, breakfast pizza, cinnamon buns, and mini donuts, plus lunch options like chicken tenders, corn dogs, popcorn chicken, and various sandwiches. Menus are subject to change based on product availability."
+  },
+  {
+    "title": "Talawanda Baseball Winter Clinic Registration",
+    "block_id": "bisgsi05ub-b3iqujxdko",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/9ead/a2f6de23a961088d006e96edb7c66c8d.png"
+    ],
+    "source_url": "https://app.smore.com/n/qspr4",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-01-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "AROUND \n\nTHE \n\nCOMMUNITY \n\nAROUND THE COMMUNITY",
+        "id": "bisgsi05ub"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/9ead/a2f6de23a961088d006e96edb7c66c8d.png",
+        "id": "b3iqujxdko"
+      }
+    ],
+    "hash": "bisgsi05ub-b3iqujxdko",
+    "summary": "**Talawanda Baseball Winter Clinic** for boys and girls in grades K-8 on **January 18th and 19th, 9:00 AM-11:00 AM** at THS Gymnasium. Varsity and junior-varsity staff will teach hitting, fielding, throwing, and pitching basics plus offensive/defensive situations. \n\n**Cost:** $30 for one day or $50 for both days ($10 off each additional family member). Bring baseball glove, water bottle, bat, and helmet. \n\n**Registration deadline: January 8th** to receive a clinic T-shirt. Register online at https://forms.gle/cgfxGjopmEKmrXpD8 or in-person January 19th. Questions: tykinsm@talawanda.org",
+    "event_info": [
+      {
+        "title": "Talawanda Baseball Winter Clinic - Day 1",
+        "start": "2026-01-18T09:00:00",
+        "end": "2026-01-18T11:00:00",
+        "description": "**Talawanda Baseball Winter Clinic** for boys and girls in grades K-8 on **January 18th and 19th, 9:00 AM-11:00 AM** at THS Gymnasium. Varsity and junior-varsity staff will teach hitting, fielding, th",
+        "location": "THS Gymnasium"
+      },
+      {
+        "title": "Talawanda Baseball Winter Clinic - Day 2",
+        "start": "2026-01-19T09:00:00",
+        "end": "2026-01-19T11:00:00",
+        "description": "**Talawanda Baseball Winter Clinic** for boys and girls in grades K-8 on **January 18th and 19th, 9:00 AM-11:00 AM** at THS Gymnasium. Varsity and junior-varsity staff will teach hitting, fielding, th",
+        "location": "THS Gymnasium"
       }
     ]
   },

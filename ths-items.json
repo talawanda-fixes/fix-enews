@@ -1,62 +1,5 @@
 [
   {
-    "title": "Costa Rica Trip Information Meeting",
-    "block_id": "beg2fgtv9b-bhi4om00j0-bzyj2ppusq",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/7dd7/f16e395d013d2abb91041de8eb4899ab.png"
-    ],
-    "source_url": "https://app.smore.com/n/62kp3",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-01-09T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "FCCLA\n\nFCCLA",
-        "id": "beg2fgtv9b"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/7dd7/f16e395d013d2abb91041de8eb4899ab.png",
-        "id": "bhi4om00j0"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Is your student interested in adventure, wildlife, ziplining, volcanoes, and exploring another culture? Mrs. Croucher is hosting a trip to Costa Rica in June 2027 with EF Tours!Come to a parent informational meeting on Wednesday, January 21st @6:30 in Room 611. If you can't make it, RSVP to get updates and information.If Costa Rica is on your bucket list, don’t miss it!https://rsvp.eftours.com/5cjgbka",
-        "id": "bzyj2ppusq"
-      }
-    ],
-    "hash": "beg2fgtv9b-bhi4om00j0-bzyj2ppusq",
-    "summary": "**FCCLA is organizing a trip to Costa Rica in June 2027** with EF Tours, featuring adventure activities, wildlife viewing, ziplining, volcanoes, and cultural exploration. An informational meeting for parents and students will be held **Wednesday, January 21st at 6:30 PM in Room 611**. If you cannot attend, you can [RSVP online](https://rsvp.eftours.com/5cjgbka) to receive updates and information.",
-    "event_info": [
-      {
-        "title": "Costa Rica Trip Information Meeting",
-        "start": "2026-01-21T18:30:00",
-        "end": "2026-01-21T19:30:00",
-        "description": "**FCCLA is organizing a trip to Costa Rica in June 2027** with EF Tours, featuring adventure activities, wildlife viewing, ziplining, volcanoes, and cultural exploration. An informational meeting for ",
-        "location": "Room 611"
-      }
-    ]
-  },
-  {
-    "title": "Community Flyers Available Online",
-    "block_id": "bc39ui2yc2",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/62kp3",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-01-09T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "Please click here for Community Flyers",
-        "id": "bc39ui2yc2"
-      }
-    ],
-    "hash": "bc39ui2yc2",
-    "summary": "Community flyers are now available for viewing. **[Click here to access the community flyers](https://www.talawanda.org/o/ths/page/community-flyers)** for information about local programs, activities, and resources."
-  },
-  {
     "title": "Senior Cap and Gown Orders Now Available",
     "block_id": "byprck4e3v-bb2jg9348k-bahpip8prm",
     "content": "",
@@ -92,6 +35,45 @@
         "end": "2025-12-06T23:59:00",
         "description": "**Jostens cap and gown orders** are now open for the Class of 2026. Order online at [jostens.com](https://www.jostens.com) or during in-school ordering at lunch (dates TBD). **Deadline to order is Dec",
         "location": "Online at jostens.com or Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Costa Rica Trip Information Meeting",
+    "block_id": "beg2fgtv9b-bhi4om00j0-bzyj2ppusq",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/7dd7/f16e395d013d2abb91041de8eb4899ab.png"
+    ],
+    "source_url": "https://app.smore.com/n/62kp3",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-01-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "FCCLA\n\nFCCLA",
+        "id": "beg2fgtv9b"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/7dd7/f16e395d013d2abb91041de8eb4899ab.png",
+        "id": "bhi4om00j0"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Is your student interested in adventure, wildlife, ziplining, volcanoes, and exploring another culture? Mrs. Croucher is hosting a trip to Costa Rica in June 2027 with EF Tours!Come to a parent informational meeting on Wednesday, January 21st @6:30 in Room 611. If you can't make it, RSVP to get updates and information.If Costa Rica is on your bucket list, don’t miss it!https://rsvp.eftours.com/5cjgbka",
+        "id": "bzyj2ppusq"
+      }
+    ],
+    "hash": "beg2fgtv9b-bhi4om00j0-bzyj2ppusq",
+    "summary": "**FCCLA is organizing a trip to Costa Rica in June 2027** with EF Tours, featuring adventure activities, wildlife viewing, ziplining, volcanoes, and cultural exploration. An informational meeting for parents and students will be held **Wednesday, January 21st at 6:30 PM in Room 611**. If you cannot attend, you can [RSVP online](https://rsvp.eftours.com/5cjgbka) to receive updates and information.",
+    "event_info": [
+      {
+        "title": "Costa Rica Trip Information Meeting",
+        "start": "2026-01-21T18:30:00",
+        "end": "2026-01-21T19:30:00",
+        "description": "**FCCLA is organizing a trip to Costa Rica in June 2027** with EF Tours, featuring adventure activities, wildlife viewing, ziplining, volcanoes, and cultural exploration. An informational meeting for ",
+        "location": "Room 611"
       }
     ]
   },
@@ -332,6 +314,24 @@
     ]
   },
   {
+    "title": "Community Flyers Available Online",
+    "block_id": "bc39ui2yc2",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/62kp3",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-01-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "Please click here for Community Flyers",
+        "id": "bc39ui2yc2"
+      }
+    ],
+    "hash": "bc39ui2yc2",
+    "summary": "Community flyers are now available for viewing. **[Click here to access the community flyers](https://www.talawanda.org/o/ths/page/community-flyers)** for information about local programs, activities, and resources."
+  },
+  {
     "title": "Senior Scholarship Booklets Available - Due 12/19",
     "block_id": "bgdjvjhtzu-bzlacz5fg1",
     "content": "",
@@ -489,81 +489,6 @@
     ]
   },
   {
-    "title": "Winter EOC Testing Schedule and Information",
-    "block_id": "bpmh1vmmxs-bz724xivli",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/9ee6/230fa830180010bd2633ef31a1baf5fb.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/p5dkw",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2025-11-21T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "WINTER \n\nEOC\n\nWINTER EOC",
-        "id": "bpmh1vmmxs"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/9ee6/230fa830180010bd2633ef31a1baf5fb.jpeg",
-        "id": "bz724xivli"
-      }
-    ],
-    "hash": "bpmh1vmmxs-bz724xivli",
-    "summary": "**Individual Testing (12/3-12/5):** For students who still need to meet graduation requirements and first-time testers not taking the class at THS. Contact Mrs. Hess for make-up testing.\n\n**Class Testing (12/16-12/19):** ONLY for students currently taking an Algebra C or Government class, administered during exam week. Make-up testing: 1/7-1/8.\n\nEmails will be sent to students and parents before Thanksgiving Break with specific test details. Questions should be directed to **Mrs. Hess: hessb@talawanda.org**",
-    "event_info": [
-      {
-        "title": "Winter EOC Individual Testing",
-        "start": "2025-12-03T00:00:00",
-        "end": "2025-12-05T23:59:00",
-        "description": "**Individual Testing (12/3-12/5):** For students who still need to meet graduation requirements and first-time testers not taking the class at THS. Contact Mrs. Hess for make-up testing.\n\n**Class Test",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Winter EOC Class Testing (Exam Week)",
-        "start": "2025-12-16T00:00:00",
-        "end": "2025-12-19T23:59:00",
-        "description": "**Individual Testing (12/3-12/5):** For students who still need to meet graduation requirements and first-time testers not taking the class at THS. Contact Mrs. Hess for make-up testing.\n\n**Class Test",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Winter EOC Make-up Testing",
-        "start": "2026-01-07T00:00:00",
-        "end": "2026-01-08T23:59:00",
-        "description": "**Individual Testing (12/3-12/5):** For students who still need to meet graduation requirements and first-time testers not taking the class at THS. Contact Mrs. Hess for make-up testing.\n\n**Class Test",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Senior Yearbook Portrait Submission Information",
-    "block_id": "bfyg9b1l3r",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/p5dkw",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2025-11-21T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "Senior Yearbook Portrait Information \nFollow these instructions to submit your portrait for the 2026 yearbook!1. Use the link - https://snap.yearbookforever.com/snap/index.html#/upload/zHyQp1T7hhSDb3iRg0jPvxM8 2. Use the access code: talawanda20263. Upload a picture greater than 1MBIf you are submitting a senior portrait, please follow these rules!Photos must be submitted in portrait format, NOT landscapePhoto must be greater than 1MB in filesizePortrait must follow the student code of conduct - no guns, drugs, etcBlack and white photos are DISCOURAGEDThe deadline to submit a senior photo is MARCH 27th! Don't wait until the last minute!",
-        "id": "bfyg9b1l3r"
-      }
-    ],
-    "hash": "bfyg9b1l3r",
-    "summary": "Seniors must submit their portraits for the **2026 yearbook** by **March 27th**. Upload photos at [snap.yearbookforever.com](https://snap.yearbookforever.com/snap/index.html#/upload/zHyQp1T7hhSDb3iRg0jPvxM8) using access code **talawanda2026**. Photos must be in portrait format (not landscape), greater than 1MB filesize, follow the student code of conduct, and black and white photos are discouraged.",
-    "event_info": [
-      {
-        "title": "Senior Yearbook Portrait Submission Deadline",
-        "start": "2026-03-27T00:00:00",
-        "end": "2026-03-27T23:59:00",
-        "description": "Seniors must submit their portraits for the **2026 yearbook** by **March 27th**. Upload photos at [snap.yearbookforever.com](https://snap.yearbookforever.com/snap/index.html#/upload/zHyQp1T7hhSDb3iRg0",
-        "location": "Online submission"
-      }
-    ]
-  },
-  {
     "title": "Butler Tech Application Window Now Open",
     "block_id": "bdl43a3b4n-b3s01zimwe-b08r3ezbl3",
     "content": "",
@@ -655,6 +580,81 @@
         "end": "2026-03-05T19:00:00",
         "description": "Butler Tech's application window is now open for **1-Year, 2-Year, and 3-Year programs**. Prospective students can visit through small group tours (9AM-12PM) or open houses (4-7 PM). **Small group tou",
         "location": "All 3Y Campuses (AM Hub, Aviation, BSC, DRL)"
+      }
+    ]
+  },
+  {
+    "title": "Winter EOC Testing Schedule and Information",
+    "block_id": "bpmh1vmmxs-bz724xivli",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/9ee6/230fa830180010bd2633ef31a1baf5fb.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/p5dkw",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2025-11-21T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "WINTER \n\nEOC\n\nWINTER EOC",
+        "id": "bpmh1vmmxs"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/9ee6/230fa830180010bd2633ef31a1baf5fb.jpeg",
+        "id": "bz724xivli"
+      }
+    ],
+    "hash": "bpmh1vmmxs-bz724xivli",
+    "summary": "**Individual Testing (12/3-12/5):** For students who still need to meet graduation requirements and first-time testers not taking the class at THS. Contact Mrs. Hess for make-up testing.\n\n**Class Testing (12/16-12/19):** ONLY for students currently taking an Algebra C or Government class, administered during exam week. Make-up testing: 1/7-1/8.\n\nEmails will be sent to students and parents before Thanksgiving Break with specific test details. Questions should be directed to **Mrs. Hess: hessb@talawanda.org**",
+    "event_info": [
+      {
+        "title": "Winter EOC Individual Testing",
+        "start": "2025-12-03T00:00:00",
+        "end": "2025-12-05T23:59:00",
+        "description": "**Individual Testing (12/3-12/5):** For students who still need to meet graduation requirements and first-time testers not taking the class at THS. Contact Mrs. Hess for make-up testing.\n\n**Class Test",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Winter EOC Class Testing (Exam Week)",
+        "start": "2025-12-16T00:00:00",
+        "end": "2025-12-19T23:59:00",
+        "description": "**Individual Testing (12/3-12/5):** For students who still need to meet graduation requirements and first-time testers not taking the class at THS. Contact Mrs. Hess for make-up testing.\n\n**Class Test",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Winter EOC Make-up Testing",
+        "start": "2026-01-07T00:00:00",
+        "end": "2026-01-08T23:59:00",
+        "description": "**Individual Testing (12/3-12/5):** For students who still need to meet graduation requirements and first-time testers not taking the class at THS. Contact Mrs. Hess for make-up testing.\n\n**Class Test",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Senior Yearbook Portrait Submission Information",
+    "block_id": "bfyg9b1l3r",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/p5dkw",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2025-11-21T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "Senior Yearbook Portrait Information \nFollow these instructions to submit your portrait for the 2026 yearbook!1. Use the link - https://snap.yearbookforever.com/snap/index.html#/upload/zHyQp1T7hhSDb3iRg0jPvxM8 2. Use the access code: talawanda20263. Upload a picture greater than 1MBIf you are submitting a senior portrait, please follow these rules!Photos must be submitted in portrait format, NOT landscapePhoto must be greater than 1MB in filesizePortrait must follow the student code of conduct - no guns, drugs, etcBlack and white photos are DISCOURAGEDThe deadline to submit a senior photo is MARCH 27th! Don't wait until the last minute!",
+        "id": "bfyg9b1l3r"
+      }
+    ],
+    "hash": "bfyg9b1l3r",
+    "summary": "Seniors must submit their portraits for the **2026 yearbook** by **March 27th**. Upload photos at [snap.yearbookforever.com](https://snap.yearbookforever.com/snap/index.html#/upload/zHyQp1T7hhSDb3iRg0jPvxM8) using access code **talawanda2026**. Photos must be in portrait format (not landscape), greater than 1MB filesize, follow the student code of conduct, and black and white photos are discouraged.",
+    "event_info": [
+      {
+        "title": "Senior Yearbook Portrait Submission Deadline",
+        "start": "2026-03-27T00:00:00",
+        "end": "2026-03-27T23:59:00",
+        "description": "Seniors must submit their portraits for the **2026 yearbook** by **March 27th**. Upload photos at [snap.yearbookforever.com](https://snap.yearbookforever.com/snap/index.html#/upload/zHyQp1T7hhSDb3iRg0",
+        "location": "Online submission"
       }
     ]
   },

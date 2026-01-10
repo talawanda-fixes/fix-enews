@@ -1,5 +1,248 @@
 [
   {
+    "title": "Flu and Seasonal Illness Health Reminder",
+    "block_id": "bxpf65p4r6-bcrzxk9zuh",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/m9kun-happy-new-year?ref=email",
+    "source_title": "Happy New Year! | Smore Newsletters for Education",
+    "date": "2026-01-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Health \n\nReminder: \n\nFlu \n\nand \n\nSeasonal \n\nIllness\n\nHealth Reminder: Flu and Seasonal Illness",
+        "id": "bxpf65p4r6"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "zoom_out_map\n            \nWe are seeing an increase in flu and seasonal illnesses at school. To help prevent the spread of illness, please keep your child home if they have a fever (100°F or higher), vomiting or diarrhea, significant cough, sore throat with fever, body aches, extreme fatigue, or flu-like symptoms. Students should be fever-free for 24 hours without medication and symptom-free for 24 hours after vomiting or diarrhea before returning to school. Thank you for helping keep our school community healthy.",
+        "id": "bcrzxk9zuh"
+      }
+    ],
+    "hash": "bxpf65p4r6-bcrzxk9zuh",
+    "summary": "The school is experiencing an increase in flu and seasonal illnesses. **Keep your child home if they have:** a fever (100°F or higher), vomiting/diarrhea, significant cough, sore throat with fever, body aches, extreme fatigue, or flu-like symptoms. **Return to school only after:** fever-free for 24 hours without medication AND symptom-free for 24 hours after vomiting or diarrhea."
+  },
+  {
+    "title": "Talawanda Preschool Application Lottery 2026/2027",
+    "block_id": "b3046wv2u6-b9v8v1pamm",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/m9kun-happy-new-year?ref=email",
+    "source_title": "Happy New Year! | Smore Newsletters for Education",
+    "date": "2026-01-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Talawanda \n\nPreschool \n\nApplication \n\n2026/2027\n\nTalawanda Preschool Application 2026/2027",
+        "id": "b3046wv2u6"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "In order to fill the limited spaces in our preschool classrooms, typically developing children will enter the program through a lottery. Please use the following LINK to apply for the Talawanda Preschool lottery for the 2026/2027 school year. Applications must be completed by January 31, 2026. The lottery will take place on February 13, 2026. Families will be notified of their placement on the roster or on the waitlist after February 13, 2026.Please send any questions to the Preschool Coordinator, Beth Fuechsl, at fuechsle@talawanda.org.",
+        "id": "b9v8v1pamm"
+      }
+    ],
+    "hash": "b3046wv2u6-b9v8v1pamm",
+    "summary": "Applications are now open for the **Talawanda Preschool lottery for the 2026/2027 school year**. Typically developing children will enter the program through a lottery to fill limited spaces. **Applications must be completed by January 31, 2026**, and the lottery will be held on **February 13, 2026**. Families will be notified of their placement or waitlist status after the lottery date. Questions can be sent to Preschool Coordinator Beth Fuechsl at fuechsle@talawanda.org.",
+    "event_info": [
+      {
+        "title": "Talawanda Preschool Application Deadline",
+        "start": "2026-01-31T23:59:00",
+        "end": "2026-01-31T23:59:00",
+        "description": "Applications are now open for the **Talawanda Preschool lottery for the 2026/2027 school year**. Typically developing children will enter the program through a lottery to fill limited spaces. **Applic",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Talawanda Preschool Lottery",
+        "start": "2026-02-13T00:00:00",
+        "end": "2026-02-13T23:59:00",
+        "description": "Applications are now open for the **Talawanda Preschool lottery for the 2026/2027 school year**. Typically developing children will enter the program through a lottery to fill limited spaces. **Applic",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Gamers Club Returns This Month",
+    "block_id": "bptqkgxbtg-bu3jrj1sxw",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/070d/b3b81986b566b02ccec5dd3dee330a96.png"
+    ],
+    "source_url": "https://app.smore.com/n/m9kun-happy-new-year?ref=email",
+    "source_title": "Happy New Year! | Smore Newsletters for Education",
+    "date": "2026-01-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Gamers \n\nClub \n\nis \n\nBACK!\n\nGamers Club is BACK!",
+        "id": "bptqkgxbtg"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/070d/b3b81986b566b02ccec5dd3dee330a96.png",
+        "id": "bu3jrj1sxw"
+      }
+    ],
+    "hash": "bptqkgxbtg-bu3jrj1sxw",
+    "summary": "Gamers Club is returning to Talawanda High School! The club will meet on the following dates: **January 21, January 28, February 11, February 25, March 11, March 25, April 15, and April 29**.",
+    "event_info": [
+      {
+        "title": "Gamers Club Meeting",
+        "start": "2026-01-21T00:00:00",
+        "end": "2026-01-21T01:00:00",
+        "description": "Gamers Club is returning to Talawanda High School! The club will meet on the following dates: **January 21, January 28, February 11, February 25, March 11, March 25, April 15, and April 29**.",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Gamers Club Meeting",
+        "start": "2026-01-28T00:00:00",
+        "end": "2026-01-28T01:00:00",
+        "description": "Gamers Club is returning to Talawanda High School! The club will meet on the following dates: **January 21, January 28, February 11, February 25, March 11, March 25, April 15, and April 29**.",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Gamers Club Meeting",
+        "start": "2026-02-11T00:00:00",
+        "end": "2026-02-11T01:00:00",
+        "description": "Gamers Club is returning to Talawanda High School! The club will meet on the following dates: **January 21, January 28, February 11, February 25, March 11, March 25, April 15, and April 29**.",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Gamers Club Meeting",
+        "start": "2026-02-25T00:00:00",
+        "end": "2026-02-25T01:00:00",
+        "description": "Gamers Club is returning to Talawanda High School! The club will meet on the following dates: **January 21, January 28, February 11, February 25, March 11, March 25, April 15, and April 29**.",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Gamers Club Meeting",
+        "start": "2026-03-11T00:00:00",
+        "end": "2026-03-11T01:00:00",
+        "description": "Gamers Club is returning to Talawanda High School! The club will meet on the following dates: **January 21, January 28, February 11, February 25, March 11, March 25, April 15, and April 29**.",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Gamers Club Meeting",
+        "start": "2026-03-25T00:00:00",
+        "end": "2026-03-25T01:00:00",
+        "description": "Gamers Club is returning to Talawanda High School! The club will meet on the following dates: **January 21, January 28, February 11, February 25, March 11, March 25, April 15, and April 29**.",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Gamers Club Meeting",
+        "start": "2026-04-15T00:00:00",
+        "end": "2026-04-15T01:00:00",
+        "description": "Gamers Club is returning to Talawanda High School! The club will meet on the following dates: **January 21, January 28, February 11, February 25, March 11, March 25, April 15, and April 29**.",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Gamers Club Meeting",
+        "start": "2026-04-29T00:00:00",
+        "end": "2026-04-29T01:00:00",
+        "description": "Gamers Club is returning to Talawanda High School! The club will meet on the following dates: **January 21, January 28, February 11, February 25, March 11, March 25, April 15, and April 29**.",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Spirit Wear Year-End Clearance Sale",
+    "block_id": "bw1nxiz8c4-b4ugys43wj-bvx8idmngk",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/a908/76dac1144ef733f8728368f8ad103696.png"
+    ],
+    "source_url": "https://app.smore.com/n/m9kun-happy-new-year?ref=email",
+    "source_title": "Happy New Year! | Smore Newsletters for Education",
+    "date": "2026-01-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "SALE! \n\nSALE! \n\nSALE! \n\nSALE!\n\nSALE! SALE! SALE! SALE!",
+        "id": "bw1nxiz8c4"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Parents, our Talawanda Middle School Year-End Spirit Wear Clearance Sale ends this weekend! Save $5 on tees, $10 on hoodies, and $15 on jackets through January 11th. Prices start at $18.49, with FREE shipping on orders $85+. Don’t miss out—every purchase supports our school! https://1stplace.sale/71854",
+        "id": "b4ugys43wj"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/a908/76dac1144ef733f8728368f8ad103696.png",
+        "id": "bvx8idmngk"
+      }
+    ],
+    "hash": "bw1nxiz8c4-b4ugys43wj-bvx8idmngk",
+    "summary": "**Year-End Spirit Wear Clearance Sale** ends this weekend (January 11th). Save **$5 on t-shirts** (as low as $18.49), **$10 on hoodies** (as low as $32.49), and **$15 on jackets** (as low as $44.99). **FREE shipping on orders over $85**. Shop at [1stplace.sale/71854](https://1stplace.sale/71854) to support the school.",
+    "event_info": [
+      {
+        "title": "Spirit Wear Clearance Sale Ends",
+        "start": "2026-01-11T00:00:00",
+        "end": "2026-01-11T23:59:00",
+        "description": "**Year-End Spirit Wear Clearance Sale** ends this weekend (January 11th). Save **$5 on t-shirts** (as low as $18.49), **$10 on hoodies** (as low as $32.49), and **$15 on jackets** (as low as $44.99). ",
+        "location": "Online at 1stplace.sale/71854"
+      }
+    ]
+  },
+  {
+    "title": "Costa Rica Trip for Rising 9th Graders",
+    "block_id": "b7g9uzzekb-bv5lcygbty",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/2e6e/3c009b47d37f18765beeb50ee2efa6b9.png"
+    ],
+    "source_url": "https://app.smore.com/n/m9kun-happy-new-year?ref=email",
+    "source_title": "Happy New Year! | Smore Newsletters for Education",
+    "date": "2026-01-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/2e6e/3c009b47d37f18765beeb50ee2efa6b9.png",
+        "id": "b7g9uzzekb"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Attention parents of 8th graders(soon to be 9th graders)!Is your student interested in adventure, wildlife, ziplining, volcanoes, and exploring another culture? Mrs. Croucher, teacher at THS, is hosting a trip to Costa Rica in June 2027 with EF Tours!Come to a parent informational meeting on Wednesday, January 21st @6:30 in Room 611 at THS. If you can't make it, RSVP to get updates and information.If Costa Rica is on your bucket list, don’t miss it!https://rsvp.eftours.com/5cjgbka",
+        "id": "bv5lcygbty"
+      }
+    ],
+    "hash": "b7g9uzzekb-bv5lcygbty",
+    "summary": "**Rising 9th graders** (current 8th graders) are invited to join a **Costa Rica trip in June 2027** with EF Tours, featuring adventure activities, wildlife, ziplining, volcanoes, and cultural exploration. A **parent informational meeting** will be held **Wednesday, January 21st at 6:30 PM in Room 611 at THS**. If you can't attend, [RSVP here](https://rsvp.eftours.com/5cjgbka) to receive updates and information.",
+    "event_info": [
+      {
+        "title": "Costa Rica Trip Parent Informational Meeting",
+        "start": "2026-01-21T18:30:00",
+        "end": "2026-01-21T19:30:00",
+        "description": "**Rising 9th graders** (current 8th graders) are invited to join a **Costa Rica trip in June 2027** with EF Tours, featuring adventure activities, wildlife, ziplining, volcanoes, and cultural explorat",
+        "location": "Room 611, Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Mental Health Resources and Support Information",
+    "block_id": "b4sxk7wzp2-bcwz2mhnlj",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/e56f/8dd7ae354b9dbe1242e9f74fb9956dfe.png"
+    ],
+    "source_url": "https://app.smore.com/n/m9kun-happy-new-year?ref=email",
+    "source_title": "Happy New Year! | Smore Newsletters for Education",
+    "date": "2026-01-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "~ \n\nCOMMUNITY \n\nINFORMATION \n\n~\n\n~ COMMUNITY INFORMATION ~",
+        "id": "b4sxk7wzp2"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/e56f/8dd7ae354b9dbe1242e9f74fb9956dfe.png",
+        "id": "bcwz2mhnlj"
+      }
+    ],
+    "hash": "b4sxk7wzp2-bcwz2mhnlj",
+    "summary": "The **Mental Health Corner** provides information about **rumination** (repetitive negative thoughts that are hard to control and cause emotional distress) and strategies to combat it. Recommended coping strategies include moving to a different location, reading or playing games, focusing on spiritual practices, taking walks outside, speaking to someone you trust, listening to uplifting music, and practicing self-compassion. Signs that therapy might be needed for students include behavior changes, emotional struggles, anger management issues, social/school problems, physical symptoms, regressions, risky behavior, or abnormal thoughts. Parents should contact school counselors to connect with integrated services. **Immediate crisis resources** include:\n- **Butler County Crisis Line: (513)881-7180**\n- **Psychiatric Intake Response Center (PIRC): (513)636-4124**"
+  },
+  {
     "title": "Talent Show Auditions Rescheduled to December 16th",
     "block_id": "b7zilmj8sr-b5nzscho4h-ber85efn7n",
     "content": "",
@@ -500,177 +743,5 @@
         "location": "Talawanda High School"
       }
     ]
-  },
-  {
-    "title": "TMS Mountain Bike Club Year Recap",
-    "block_id": "bu0pidpnqn",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/dw1q0-the-spooky-scoop?ref=email",
-    "source_title": "The Spooky Scoop! | Smore Newsletters for Education",
-    "date": "2025-10-31T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "zoom_out_map\n            \n The TMS Mountain Bike Club had a great start to the year as we learned how to change our tires, maintenance tips, and practiced bike corner control and how and when to change gears. If your student would like to join in the spring, be on the lookout for up-and-coming dates.",
-        "id": "bu0pidpnqn"
-      }
-    ],
-    "hash": "bu0pidpnqn",
-    "summary": "The **TMS Mountain Bike Club** had a successful start to the year, with members learning tire changing, maintenance tips, bike corner control, and proper gear shifting techniques. Students interested in joining should **watch for spring session dates** to be announced."
-  },
-  {
-    "title": "Second Parent-Teacher Conference Night Scheduled",
-    "block_id": "bws65vljhk-bjp1t14r61-beqhhmbkwa",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/1b44/77e76d87062a0886cae21adc301cf033.png"
-    ],
-    "source_url": "https://app.smore.com/n/dw1q0-the-spooky-scoop?ref=email",
-    "source_title": "The Spooky Scoop! | Smore Newsletters for Education",
-    "date": "2025-10-31T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Did \n\nyou \n\nmiss \n\nthe \n\n1st \n\nConference \n\nNight?\n\nDid you miss the 1st Conference Night?",
-        "id": "bws65vljhk"
-      },
-      {
-        "type": "text.title",
-        "content": "If \n\nso, \n\nHERE \n\nIS \n\nANOTHER!\n\nIf so, HERE IS ANOTHER!",
-        "id": "bjp1t14r61"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/1b44/77e76d87062a0886cae21adc301cf033.png",
-        "id": "beqhhmbkwa"
-      }
-    ],
-    "hash": "bws65vljhk-bjp1t14r61-beqhhmbkwa",
-    "summary": "A second parent-teacher conference night is scheduled for **November 18, 2025, from 2:30-6:30 PM** for families who missed the first conference night. To schedule your conference appointment, call the office at **513.273.3300**.",
-    "event_info": [
-      {
-        "title": "Parent-Teacher Conference Night",
-        "start": "2025-11-18T14:30:00",
-        "end": "2025-11-18T18:30:00",
-        "description": "A second parent-teacher conference night is scheduled for **November 18, 2025, from 2:30-6:30 PM** for families who missed the first conference night. To schedule your conference appointment, call the",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Talent Show Sign-Ups Now Open",
-    "block_id": "bco2ro1m7x",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/dw1q0-the-spooky-scoop?ref=email",
-    "source_title": "The Spooky Scoop! | Smore Newsletters for Education",
-    "date": "2025-10-31T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "Talent Show Sign-Ups Are Now Open! Think you’ve got talent? Here’s your chance to shine! Students can sign up for the TMS Talent Show in the cafeteria during lunch. Sign-ups will remain open until all spots are filled.Auditions will begin in November in the band room after school, where participants will perform their acts before a panel of three school staff judges. Once auditions are complete, the final lineup of acts will be announced.Practices will be held after school through April, leading up to a full dress rehearsal and the big performance on April 16th at the Talawanda High School Performing Arts Center.Don’t miss your moment to take the stage—sign up today and show us what you’ve got!",
-        "id": "bco2ro1m7x"
-      }
-    ],
-    "hash": "bco2ro1m7x",
-    "summary": "**TMS Talent Show sign-ups** are now open in the cafeteria during lunch until all spots are filled. Auditions will begin in **November** in the band room after school with three staff judges. Practices run through April, with the final performance on **April 16th** at the **Talawanda High School Performing Arts Center**.",
-    "event_info": [
-      {
-        "title": "Talent Show Auditions Begin",
-        "start": "2025-11-01T00:00:00",
-        "end": "2025-11-30T23:59:00",
-        "description": "**TMS Talent Show sign-ups** are now open in the cafeteria during lunch until all spots are filled. Auditions will begin in **November** in the band room after school with three staff judges. Practice",
-        "location": "Band room (after school)"
-      },
-      {
-        "title": "TMS Talent Show Performance",
-        "start": "2026-04-16T00:00:00",
-        "end": "2026-04-16T01:00:00",
-        "description": "**TMS Talent Show sign-ups** are now open in the cafeteria during lunch until all spots are filled. Auditions will begin in **November** in the band room after school with three staff judges. Practice",
-        "location": "Talawanda High School Performing Arts Center"
-      }
-    ]
-  },
-  {
-    "title": "Builder's Club Food Drive for Community Families",
-    "block_id": "bw3iufecrd-bs6itxr54g-b8hhhrmptb",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/52a3/9da78ab66da866ad8fbcee4f3f6fa7c1.png",
-      "https://cdn.smore.com/u/752b/a59396bde8f3f42e3c09b5d084b8552f.png"
-    ],
-    "source_url": "https://app.smore.com/n/dw1q0-the-spooky-scoop?ref=email",
-    "source_title": "The Spooky Scoop! | Smore Newsletters for Education",
-    "date": "2025-10-31T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "BUILDER'S \n\nCLUB \n\nFOOD \n\nDRIVE!\n\nBUILDER'S CLUB FOOD DRIVE!",
-        "id": "bw3iufecrd"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/52a3/9da78ab66da866ad8fbcee4f3f6fa7c1.png",
-        "id": "bs6itxr54g"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/752b/a59396bde8f3f42e3c09b5d084b8552f.png",
-        "id": "b8hhhrmptb"
-      }
-    ],
-    "hash": "bw3iufecrd-bs6itxr54g-b8hhhrmptb",
-    "summary": "The **Talawanda Middle School Builders Club** (in partnership with Kiwanis Builders Club and TOPSS) is collecting food donations to help friends and families in the community enjoy a holiday meal. \n\n**Requested items include:**\n- Baking mixes (muffins, brownies, cornbread, cookies)\n- Mac n Cheese\n- Canned green beans\n- Soup (cream of mushroom, cream of chicken)\n- Crispy onions in container (for green bean casserole)\n- Noodles, pickles, canned fish, potato chips, juice, and candy\n\n**Bring donations to the box in the cafeteria between October 27 and November 5th.** This food drive is TSD approved for distribution.",
-    "event_info": [
-      {
-        "title": "Builder's Club Food Drive Collection Period",
-        "start": "2025-10-27T00:00:00",
-        "end": "2025-11-05T23:59:00",
-        "description": "The **Talawanda Middle School Builders Club** (in partnership with Kiwanis Builders Club and TOPSS) is collecting food donations to help friends and families in the community enjoy a holiday meal. \n\n*",
-        "location": "Cafeteria (Talawanda Middle School)"
-      }
-    ]
-  },
-  {
-    "title": "PUSH Grants for Low-Income Homeowners",
-    "block_id": "bhxcmzm4nz",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/gyefw-the-spooky-scoop?ref=email",
-    "source_title": "The Spooky Scoop! | Smore Newsletters for Education",
-    "date": "2025-10-24T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "zoom_out_map\n            \nPUSH provides grants to low-income homeowners in the Talawanda School District for critical and emergency home repairs. Call Jeanne or Sabrina at 513-523-8100 for more information. Application is attached. Http://www.push-oxford.org/",
-        "id": "bhxcmzm4nz"
-      }
-    ],
-    "hash": "bhxcmzm4nz",
-    "summary": "**PUSH** (Promoting Unity, Stability and Housing) provides **grants to low-income homeowners** in the Talawanda School District for critical and emergency home repairs. For more information or to apply, call Jeanne or Sabrina at **513-523-8100** or visit [www.push-oxford.org](http://www.push-oxford.org/)."
-  },
-  {
-    "title": "Brave Buck Day Celebration Needs Volunteers",
-    "block_id": "bdcuh4gdq8-b9llmwshcx",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/gyefw-the-spooky-scoop?ref=email",
-    "source_title": "The Spooky Scoop! | Smore Newsletters for Education",
-    "date": "2025-10-24T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "BRAVE \n\nBUCK \n\nDAY \n\nIS \n\nCOMING!\n\nBRAVE BUCK DAY IS COMING!",
-        "id": "bdcuh4gdq8"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "The students have been earning Brave Buck's all year and the celebration is coming soon! We are looking for some extra help with some of the supplies needed. If you would like to help out please use this LINK for the Sign Up Genius. Thank you so much for your continued support and help.",
-        "id": "b9llmwshcx"
-      }
-    ],
-    "hash": "bdcuh4gdq8-b9llmwshcx",
-    "summary": "**Brave Buck Day** is coming soon to celebrate students who have been earning Brave Bucks all year! The school is seeking volunteers to help provide supplies for the celebration. Parents and community members can sign up to help through the **Sign Up Genius link** provided."
   }
 ]

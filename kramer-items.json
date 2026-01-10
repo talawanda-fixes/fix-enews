@@ -399,6 +399,29 @@
     ]
   },
   {
+    "title": "Lost and Found Items Available for Claim",
+    "block_id": "ban7wu1q79-bb7q5bdg34-betljqw0ad-b3ezgmpwsd",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/bezan",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2025-12-12T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "*LOST \n\nAND \n\nFOUND*\n\n*LOST AND FOUND*",
+        "id": "ban7wu1q79"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Student government has done a fantastic job organizing and numbering our lost and found! See the PDF below and if you see something that belongs to your student, fill out the Google form and we can get the item to you!",
+        "id": "bb7q5bdg34"
+      }
+    ],
+    "hash": "ban7wu1q79-bb7q5bdg34-betljqw0ad-b3ezgmpwsd",
+    "summary": "Student government has organized and numbered all lost and found items. Families can view a PDF showing available items, then fill out a Google form to claim items belonging to their student. The student government will arrange to return claimed items to students."
+  },
+  {
     "title": "5th Grade Visit Rescheduled to Wednesday 12/17",
     "block_id": "by9xmdhxaa-b07vkiqo8i",
     "content": "",
@@ -431,29 +454,6 @@
         "location": "Talawanda High School"
       }
     ]
-  },
-  {
-    "title": "Lost and Found Items Available for Claim",
-    "block_id": "ban7wu1q79-bb7q5bdg34-betljqw0ad-b3ezgmpwsd",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/bezan",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2025-12-12T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "*LOST \n\nAND \n\nFOUND*\n\n*LOST AND FOUND*",
-        "id": "ban7wu1q79"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Student government has done a fantastic job organizing and numbering our lost and found! See the PDF below and if you see something that belongs to your student, fill out the Google form and we can get the item to you!",
-        "id": "bb7q5bdg34"
-      }
-    ],
-    "hash": "ban7wu1q79-bb7q5bdg34-betljqw0ad-b3ezgmpwsd",
-    "summary": "Student government has organized and numbered all lost and found items. Families can view a PDF showing available items, then fill out a Google form to claim items belonging to their student. The student government will arrange to return claimed items to students."
   },
   {
     "title": "PTG Updates: Kramer Meeting, Holiday Shop & More",
