@@ -321,45 +321,6 @@
     ]
   },
   {
-    "title": "Brave Bazaar - December 18",
-    "block_id": "baq6z3iyha-blwkwzcik1-b57onimylv",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/7166/b563a206cde535da30531753663cc1d3.png"
-    ],
-    "source_url": "https://app.smore.com/n/6cqhs-winter-wonders-weekly?ref=email",
-    "source_title": "Winter Wonders Weekly | Smore Newsletters for Education",
-    "date": "2025-12-05T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Please \n\ncheck \n\nout \n\nthe \n\nBrave \n\nBazaar \n\ninformation \n\nbelow!\n\nPlease check out the Brave Bazaar information below!",
-        "id": "baq6z3iyha"
-      },
-      {
-        "type": "text.title",
-        "content": "Donate \n\nyour \n\ntime \n\nor \n\ngoods \n\nif \n\nyou're \n\nable \n\nHERE!\n\nDonate your time or goods if you're able HERE!",
-        "id": "blwkwzcik1"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/7166/b563a206cde535da30531753663cc1d3.png",
-        "id": "b57onimylv"
-      }
-    ],
-    "hash": "baq6z3iyha-blwkwzcik1-b57onimylv",
-    "summary": "The **Brave Bazaar** will be held on **Thursday, December 18** during school hours. Students can use their earned Brave Bucks to purchase items for themselves or as holiday gifts, and larger items will be raffled off. The school is seeking donations of **wrapping paper (partial or full rolls) and/or gift bags** for students to wrap their purchases. You can donate time or goods through the link provided.",
-    "event_info": [
-      {
-        "title": "Brave Bazaar",
-        "start": "2025-12-18T00:00:00",
-        "end": "2025-12-18T23:59:00",
-        "description": "The **Brave Bazaar** will be held on **Thursday, December 18** during school hours. Students can use their earned Brave Bucks to purchase items for themselves or as holiday gifts, and larger items wil",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
     "title": "Winter Baseball Clinic Registration Open",
     "block_id": "bfxrj9bbz0-bhofakokqv",
     "content": "",
@@ -397,6 +358,45 @@
         "end": "2026-01-19T11:00:00",
         "description": "**Talawanda Baseball Winter Clinic** for grades K-8 on **January 18th and 19th, 9:00AM-11:00AM** at THS Gymnasium. Varsity and junior-varsity staff will teach hitting, fielding, throwing, and pitching",
         "location": "THS Gymnasium"
+      }
+    ]
+  },
+  {
+    "title": "Brave Bazaar - December 18",
+    "block_id": "baq6z3iyha-blwkwzcik1-b57onimylv",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/7166/b563a206cde535da30531753663cc1d3.png"
+    ],
+    "source_url": "https://app.smore.com/n/6cqhs-winter-wonders-weekly?ref=email",
+    "source_title": "Winter Wonders Weekly | Smore Newsletters for Education",
+    "date": "2025-12-05T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Please \n\ncheck \n\nout \n\nthe \n\nBrave \n\nBazaar \n\ninformation \n\nbelow!\n\nPlease check out the Brave Bazaar information below!",
+        "id": "baq6z3iyha"
+      },
+      {
+        "type": "text.title",
+        "content": "Donate \n\nyour \n\ntime \n\nor \n\ngoods \n\nif \n\nyou're \n\nable \n\nHERE!\n\nDonate your time or goods if you're able HERE!",
+        "id": "blwkwzcik1"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/7166/b563a206cde535da30531753663cc1d3.png",
+        "id": "b57onimylv"
+      }
+    ],
+    "hash": "baq6z3iyha-blwkwzcik1-b57onimylv",
+    "summary": "The **Brave Bazaar** will be held on **Thursday, December 18** during school hours. Students can use their earned Brave Bucks to purchase items for themselves or as holiday gifts, and larger items will be raffled off. The school is seeking donations of **wrapping paper (partial or full rolls) and/or gift bags** for students to wrap their purchases. You can donate time or goods through the link provided.",
+    "event_info": [
+      {
+        "title": "Brave Bazaar",
+        "start": "2025-12-18T00:00:00",
+        "end": "2025-12-18T23:59:00",
+        "description": "The **Brave Bazaar** will be held on **Thursday, December 18** during school hours. Students can use their earned Brave Bucks to purchase items for themselves or as holiday gifts, and larger items wil",
+        "location": "Talawanda High School"
       }
     ]
   },
