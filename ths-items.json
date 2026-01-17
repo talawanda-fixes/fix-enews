@@ -276,6 +276,116 @@
     ]
   },
   {
+    "title": "Health Reminder for Flu Season",
+    "block_id": "bk8gizguu7-bj1d5phbur",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/62kp3",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-01-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "COMMUNITY \n\nINFORMATION\n\nCOMMUNITY INFORMATION",
+        "id": "bk8gizguu7"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "HEALTH AND WELLNESS\nHealth Reminder: Flu and Seasonal IllnessWe are seeing an increase in flu and seasonal illnesses at school. To help prevent the spread ofillness, please keep your child home if they have a fever (100°F or higher), vomiting or diarrhea,significant cough, sore throat with fever, body aches, extreme fatigue, or flu-like symptoms.Students should be fever-free for 24 hours without medication and symptom-free for 24 hoursafter vomiting or diarrhea before returning to school. Thank you for helping keep our schoolcommunity healthy.",
+        "id": "bj1d5phbur"
+      }
+    ],
+    "hash": "bk8gizguu7-bj1d5phbur",
+    "summary": "**Flu and seasonal illnesses are increasing at school.** Please keep students home if they have a fever (100°F or higher), vomiting, diarrhea, significant cough, sore throat with fever, body aches, extreme fatigue, or flu-like symptoms. Students must be **fever-free for 24 hours without medication** and **symptom-free for 24 hours** after vomiting or diarrhea before returning to school."
+  },
+  {
+    "title": "Food Resources Available for Families",
+    "block_id": "bq8y3z8u66-bp4rqisieb-bun4gk72ra-blswo3w3vo",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/16c4/1cadd81061d00b81ce929f8df53f7e38.png"
+    ],
+    "source_url": "https://app.smore.com/n/62kp3",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-01-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/16c4/1cadd81061d00b81ce929f8df53f7e38.png",
+        "id": "bq8y3z8u66"
+      },
+      {
+        "type": "text.title",
+        "content": "Calendar \n\nof \n\ncommunity \n\nmeals \n\nand \n\nTOPPS \n\nschedule\n\nCalendar of community meals and TOPPS schedule",
+        "id": "bp4rqisieb"
+      },
+      {
+        "type": "text.title",
+        "content": "List \n\nof \n\nall \n\nButler \n\nCounty \n\nfood \n\npantries\n\nList of all Butler County food pantries",
+        "id": "bun4gk72ra"
+      },
+      {
+        "type": "text.title",
+        "content": "SNAP \n\ninformation\n\nSNAP information",
+        "id": "blswo3w3vo"
+      }
+    ],
+    "hash": "bq8y3z8u66-bp4rqisieb-bun4gk72ra-blswo3w3vo",
+    "summary": "The Talawanda School District provides multiple food resources for families in need:\n- **Little Free Pantries** are available 24/7 outside every TSD building, restocked weekly\n- **Backpack Program** provides weekly food bags on Thursdays/Fridays at elementary buildings (contact building Social Worker)\n- **Emergency Food boxes** available for pick-up or delivery within 24 hours\n- Resources include a [calendar of community meals and TOPPS schedule](link), [list of all Butler County food pantries](link), and [SNAP information](link)"
+  },
+  {
+    "title": "Preschool Application Lottery Opens for 2026/27",
+    "block_id": "biuuv0myyv",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/62kp3",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-01-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "Preschool Application for 2026/27 School Year\nTalawanda Preschool Application 2026/2027In order to fill the limited spaces in our preschool classrooms, typically developing children will enter the program through a lottery. Please use the following link to apply for the Talawanda Preschool lottery for the 2026/2027 school year. Applications must be completed by January 31, 2026. The lottery will take place on February 13, 2026. Families will be notified of their placement on the roster or on the waitlist after February 13, 2026.Please send any questions to the Preschool Coordinator, Beth Fuechsl, at fuechsle@talawanda.org.Preschool Application",
+        "id": "biuuv0myyv"
+      }
+    ],
+    "hash": "biuuv0myyv",
+    "summary": "The **Talawanda Preschool lottery application** for the 2026/2027 school year is now open for typically developing children. Applications must be **completed by January 31, 2026**, and the lottery drawing will take place on **February 13, 2026**. Families will be notified of their placement on the roster or waitlist after February 13th. Questions can be directed to Preschool Coordinator Beth Fuechsl at fuechsle@talawanda.org.",
+    "event_info": [
+      {
+        "title": "Preschool Application Deadline",
+        "start": "2026-01-31T23:59:00",
+        "end": "2026-01-31T23:59:00",
+        "description": "The **Talawanda Preschool lottery application** for the 2026/2027 school year is now open for typically developing children. Applications must be **completed by January 31, 2026**, and the lottery dra",
+        "location": "Talawanda Preschool"
+      },
+      {
+        "title": "Preschool Lottery Drawing",
+        "start": "2026-02-13T00:00:00",
+        "end": "2026-02-13T23:59:00",
+        "description": "The **Talawanda Preschool lottery application** for the 2026/2027 school year is now open for typically developing children. Applications must be **completed by January 31, 2026**, and the lottery dra",
+        "location": "Talawanda Preschool"
+      }
+    ]
+  },
+  {
+    "title": "Community Flyers Available Online",
+    "block_id": "bc39ui2yc2",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/62kp3",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-01-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "Please click here for Community Flyers",
+        "id": "bc39ui2yc2"
+      }
+    ],
+    "hash": "bc39ui2yc2",
+    "summary": "Community flyers are now available for viewing. **[Click here to access the community flyers](https://www.talawanda.org/o/ths/page/community-flyers)** for information about local programs, activities, and resources."
+  },
+  {
     "title": "Weekly Club Meeting Schedule and Events",
     "block_id": "b16db8wtno-bhmk3vsme3",
     "content": "",
@@ -418,116 +528,6 @@
         "location": ""
       }
     ]
-  },
-  {
-    "title": "Health Reminder for Flu Season",
-    "block_id": "bk8gizguu7-bj1d5phbur",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/62kp3",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-01-09T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "COMMUNITY \n\nINFORMATION\n\nCOMMUNITY INFORMATION",
-        "id": "bk8gizguu7"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "HEALTH AND WELLNESS\nHealth Reminder: Flu and Seasonal IllnessWe are seeing an increase in flu and seasonal illnesses at school. To help prevent the spread ofillness, please keep your child home if they have a fever (100°F or higher), vomiting or diarrhea,significant cough, sore throat with fever, body aches, extreme fatigue, or flu-like symptoms.Students should be fever-free for 24 hours without medication and symptom-free for 24 hoursafter vomiting or diarrhea before returning to school. Thank you for helping keep our schoolcommunity healthy.",
-        "id": "bj1d5phbur"
-      }
-    ],
-    "hash": "bk8gizguu7-bj1d5phbur",
-    "summary": "**Flu and seasonal illnesses are increasing at school.** Please keep students home if they have a fever (100°F or higher), vomiting, diarrhea, significant cough, sore throat with fever, body aches, extreme fatigue, or flu-like symptoms. Students must be **fever-free for 24 hours without medication** and **symptom-free for 24 hours** after vomiting or diarrhea before returning to school."
-  },
-  {
-    "title": "Food Resources Available for Families",
-    "block_id": "bq8y3z8u66-bp4rqisieb-bun4gk72ra-blswo3w3vo",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/16c4/1cadd81061d00b81ce929f8df53f7e38.png"
-    ],
-    "source_url": "https://app.smore.com/n/62kp3",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-01-09T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/16c4/1cadd81061d00b81ce929f8df53f7e38.png",
-        "id": "bq8y3z8u66"
-      },
-      {
-        "type": "text.title",
-        "content": "Calendar \n\nof \n\ncommunity \n\nmeals \n\nand \n\nTOPPS \n\nschedule\n\nCalendar of community meals and TOPPS schedule",
-        "id": "bp4rqisieb"
-      },
-      {
-        "type": "text.title",
-        "content": "List \n\nof \n\nall \n\nButler \n\nCounty \n\nfood \n\npantries\n\nList of all Butler County food pantries",
-        "id": "bun4gk72ra"
-      },
-      {
-        "type": "text.title",
-        "content": "SNAP \n\ninformation\n\nSNAP information",
-        "id": "blswo3w3vo"
-      }
-    ],
-    "hash": "bq8y3z8u66-bp4rqisieb-bun4gk72ra-blswo3w3vo",
-    "summary": "The Talawanda School District provides multiple food resources for families in need:\n- **Little Free Pantries** are available 24/7 outside every TSD building, restocked weekly\n- **Backpack Program** provides weekly food bags on Thursdays/Fridays at elementary buildings (contact building Social Worker)\n- **Emergency Food boxes** available for pick-up or delivery within 24 hours\n- Resources include a [calendar of community meals and TOPPS schedule](link), [list of all Butler County food pantries](link), and [SNAP information](link)"
-  },
-  {
-    "title": "Preschool Application Lottery Opens for 2026/27",
-    "block_id": "biuuv0myyv",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/62kp3",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-01-09T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "Preschool Application for 2026/27 School Year\nTalawanda Preschool Application 2026/2027In order to fill the limited spaces in our preschool classrooms, typically developing children will enter the program through a lottery. Please use the following link to apply for the Talawanda Preschool lottery for the 2026/2027 school year. Applications must be completed by January 31, 2026. The lottery will take place on February 13, 2026. Families will be notified of their placement on the roster or on the waitlist after February 13, 2026.Please send any questions to the Preschool Coordinator, Beth Fuechsl, at fuechsle@talawanda.org.Preschool Application",
-        "id": "biuuv0myyv"
-      }
-    ],
-    "hash": "biuuv0myyv",
-    "summary": "The **Talawanda Preschool lottery application** for the 2026/2027 school year is now open for typically developing children. Applications must be **completed by January 31, 2026**, and the lottery drawing will take place on **February 13, 2026**. Families will be notified of their placement on the roster or waitlist after February 13th. Questions can be directed to Preschool Coordinator Beth Fuechsl at fuechsle@talawanda.org.",
-    "event_info": [
-      {
-        "title": "Preschool Application Deadline",
-        "start": "2026-01-31T23:59:00",
-        "end": "2026-01-31T23:59:00",
-        "description": "The **Talawanda Preschool lottery application** for the 2026/2027 school year is now open for typically developing children. Applications must be **completed by January 31, 2026**, and the lottery dra",
-        "location": "Talawanda Preschool"
-      },
-      {
-        "title": "Preschool Lottery Drawing",
-        "start": "2026-02-13T00:00:00",
-        "end": "2026-02-13T23:59:00",
-        "description": "The **Talawanda Preschool lottery application** for the 2026/2027 school year is now open for typically developing children. Applications must be **completed by January 31, 2026**, and the lottery dra",
-        "location": "Talawanda Preschool"
-      }
-    ]
-  },
-  {
-    "title": "Community Flyers Available Online",
-    "block_id": "bc39ui2yc2",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/62kp3",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-01-09T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "Please click here for Community Flyers",
-        "id": "bc39ui2yc2"
-      }
-    ],
-    "hash": "bc39ui2yc2",
-    "summary": "Community flyers are now available for viewing. **[Click here to access the community flyers](https://www.talawanda.org/o/ths/page/community-flyers)** for information about local programs, activities, and resources."
   },
   {
     "title": "Senior Scholarship Booklets Available - Due 12/19",

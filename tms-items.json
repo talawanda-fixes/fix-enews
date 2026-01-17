@@ -291,6 +291,40 @@
     ]
   },
   {
+    "title": "Costa Rica Trip for Rising 9th Graders",
+    "block_id": "b7g9uzzekb-bv5lcygbty",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/2e6e/3c009b47d37f18765beeb50ee2efa6b9.png"
+    ],
+    "source_url": "https://app.smore.com/n/m9kun-happy-new-year?ref=email",
+    "source_title": "Happy New Year! | Smore Newsletters for Education",
+    "date": "2026-01-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/2e6e/3c009b47d37f18765beeb50ee2efa6b9.png",
+        "id": "b7g9uzzekb"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Attention parents of 8th graders(soon to be 9th graders)!Is your student interested in adventure, wildlife, ziplining, volcanoes, and exploring another culture? Mrs. Croucher, teacher at THS, is hosting a trip to Costa Rica in June 2027 with EF Tours!Come to a parent informational meeting on Wednesday, January 21st @6:30 in Room 611 at THS. If you can't make it, RSVP to get updates and information.If Costa Rica is on your bucket list, don’t miss it!https://rsvp.eftours.com/5cjgbka",
+        "id": "bv5lcygbty"
+      }
+    ],
+    "hash": "b7g9uzzekb-bv5lcygbty",
+    "summary": "**Rising 9th graders** (current 8th graders) are invited to join a **Costa Rica trip in June 2027** with EF Tours, featuring adventure activities, wildlife, ziplining, volcanoes, and cultural exploration. A **parent informational meeting** will be held **Wednesday, January 21st at 6:30 PM in Room 611 at THS**. If you can't attend, [RSVP here](https://rsvp.eftours.com/5cjgbka) to receive updates and information.",
+    "event_info": [
+      {
+        "title": "Costa Rica Trip Parent Informational Meeting",
+        "start": "2026-01-21T18:30:00",
+        "end": "2026-01-21T19:30:00",
+        "description": "**Rising 9th graders** (current 8th graders) are invited to join a **Costa Rica trip in June 2027** with EF Tours, featuring adventure activities, wildlife, ziplining, volcanoes, and cultural explorat",
+        "location": "Room 611, Talawanda High School"
+      }
+    ]
+  },
+  {
     "title": "Spirit Wear Year-End Clearance Sale",
     "block_id": "bw1nxiz8c4-b4ugys43wj-bvx8idmngk",
     "content": "",
@@ -326,40 +360,6 @@
         "end": "2026-01-11T23:59:00",
         "description": "**Year-End Spirit Wear Clearance Sale** ends this weekend (January 11th). Save **$5 on t-shirts** (as low as $18.49), **$10 on hoodies** (as low as $32.49), and **$15 on jackets** (as low as $44.99). ",
         "location": "Online at 1stplace.sale/71854"
-      }
-    ]
-  },
-  {
-    "title": "Costa Rica Trip for Rising 9th Graders",
-    "block_id": "b7g9uzzekb-bv5lcygbty",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/2e6e/3c009b47d37f18765beeb50ee2efa6b9.png"
-    ],
-    "source_url": "https://app.smore.com/n/m9kun-happy-new-year?ref=email",
-    "source_title": "Happy New Year! | Smore Newsletters for Education",
-    "date": "2026-01-09T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/2e6e/3c009b47d37f18765beeb50ee2efa6b9.png",
-        "id": "b7g9uzzekb"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Attention parents of 8th graders(soon to be 9th graders)!Is your student interested in adventure, wildlife, ziplining, volcanoes, and exploring another culture? Mrs. Croucher, teacher at THS, is hosting a trip to Costa Rica in June 2027 with EF Tours!Come to a parent informational meeting on Wednesday, January 21st @6:30 in Room 611 at THS. If you can't make it, RSVP to get updates and information.If Costa Rica is on your bucket list, don’t miss it!https://rsvp.eftours.com/5cjgbka",
-        "id": "bv5lcygbty"
-      }
-    ],
-    "hash": "b7g9uzzekb-bv5lcygbty",
-    "summary": "**Rising 9th graders** (current 8th graders) are invited to join a **Costa Rica trip in June 2027** with EF Tours, featuring adventure activities, wildlife, ziplining, volcanoes, and cultural exploration. A **parent informational meeting** will be held **Wednesday, January 21st at 6:30 PM in Room 611 at THS**. If you can't attend, [RSVP here](https://rsvp.eftours.com/5cjgbka) to receive updates and information.",
-    "event_info": [
-      {
-        "title": "Costa Rica Trip Parent Informational Meeting",
-        "start": "2026-01-21T18:30:00",
-        "end": "2026-01-21T19:30:00",
-        "description": "**Rising 9th graders** (current 8th graders) are invited to join a **Costa Rica trip in June 2027** with EF Tours, featuring adventure activities, wildlife, ziplining, volcanoes, and cultural explorat",
-        "location": "Room 611, Talawanda High School"
       }
     ]
   },

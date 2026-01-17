@@ -264,6 +264,29 @@
     ]
   },
   {
+    "title": "Head Lice Prevention and Treatment Reminder",
+    "block_id": "bfk3x3z2v4-bcrt7yqe5l",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/js7y0-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-01-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Nurse's \n\nNotes\n\nNurse's Notes",
+        "id": "bfk3x3z2v4"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Updated December 19th\nDear Parents and Guardians,This is a friendly reminder to please check your child’s hair regularly for head lice. Early detection helps prevent the spread at school. If you notice any signs of lice or nits, please begin treatment promptly and inform the school nurse.In accordance with the CDC we do not need to send students with a head lice infestation home early from school. They can go home at the end of the day, be treated, and return to class after beginning appropriate treatment. The school district follows the CDC guidelines for communicable diseases so please see the attached links below for further information: CDC Head LiceTSD Head Lice Information",
+        "id": "bcrt7yqe5l"
+      }
+    ],
+    "hash": "bfk3x3z2v4-bcrt7yqe5l",
+    "summary": "Parents are reminded to check their children's hair regularly for **head lice** to help prevent spread at school. If lice or nits are found, begin treatment promptly and notify the school nurse. According to **CDC guidelines**, students with head lice do not need to be sent home early—they can be treated at the end of the day and return to school after beginning appropriate treatment. Resources available: [CDC Head Lice](https://www.cdc.gov/parasites/lice/head/) and TSD Head Lice Information."
+  },
+  {
     "title": "2025-2026 Yearbook Orders Now Available",
     "block_id": "bjqvo7kz71-b2pmshiux7-byyh2xao17",
     "content": "",
@@ -331,29 +354,6 @@
     ],
     "hash": "bh1mh3rers-b1dqxl9g73-brgbbrg4g9",
     "summary": "Due to uncertainty with SNAP benefits in November, multiple food resources are available to students and families:\n- **Little Free Pantry**: Located outside main entrance at Bogan, restocked daily\n- **Backpack Program**: Small bag of food for students every Thursday\n- **Family Food Boxes**: Can be picked up or delivered within 24 hours\n- **Community Pantries**: Available via linked resources\n\nFor help accessing these options, contact Emily, Bogan Social Worker at 513-273-3403 or whitee@talawanda.org."
-  },
-  {
-    "title": "Head Lice Prevention and Treatment Reminder",
-    "block_id": "bfk3x3z2v4-bcrt7yqe5l",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/js7y0-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-01-09T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Nurse's \n\nNotes\n\nNurse's Notes",
-        "id": "bfk3x3z2v4"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Updated December 19th\nDear Parents and Guardians,This is a friendly reminder to please check your child’s hair regularly for head lice. Early detection helps prevent the spread at school. If you notice any signs of lice or nits, please begin treatment promptly and inform the school nurse.In accordance with the CDC we do not need to send students with a head lice infestation home early from school. They can go home at the end of the day, be treated, and return to class after beginning appropriate treatment. The school district follows the CDC guidelines for communicable diseases so please see the attached links below for further information: CDC Head LiceTSD Head Lice Information",
-        "id": "bcrt7yqe5l"
-      }
-    ],
-    "hash": "bfk3x3z2v4-bcrt7yqe5l",
-    "summary": "Parents are reminded to check their children's hair regularly for **head lice** to help prevent spread at school. If lice or nits are found, begin treatment promptly and notify the school nurse. According to **CDC guidelines**, students with head lice do not need to be sent home early—they can be treated at the end of the day and return to school after beginning appropriate treatment. Resources available: [CDC Head Lice](https://www.cdc.gov/parasites/lice/head/) and TSD Head Lice Information."
   },
   {
     "title": "Talawanda Preschool Application Lottery 2026-2027",
