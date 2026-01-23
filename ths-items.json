@@ -1,5 +1,98 @@
 [
   {
+    "title": "School Fees Payment Reminder",
+    "block_id": "bq4h6h25rg-bjyqd4benx",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/0vf16",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-01-23T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "SCHOOL \n\nFEES\n\nSCHOOL FEES",
+        "id": "bq4h6h25rg"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Just a reminder that Senior fees must be paid before graduation. All fees can be paid by cash or check in the Main office or online through the PaySchool Central link below. You may also manage your students lunch account through the link as well.PaySchools Central LINK",
+        "id": "bjyqd4benx"
+      }
+    ],
+    "hash": "bq4h6h25rg-bjyqd4benx",
+    "summary": "**Senior fees must be paid before graduation.** All school fees can be paid by cash or check in the Main Office or online through [PaySchools Central](link). You can also manage student lunch accounts through the same link."
+  },
+  {
+    "title": "Costa Rica 2027 Trip Enrollment Open",
+    "block_id": "beg2fgtv9b-bu0l6cq559-bt4f3ml9zw",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/5d48/0242b5c40396cc9985a907367052534c.png"
+    ],
+    "source_url": "https://app.smore.com/n/0vf16",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-01-23T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "FCCLA\n\nFCCLA",
+        "id": "beg2fgtv9b"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/5d48/0242b5c40396cc9985a907367052534c.png",
+        "id": "bu0l6cq559"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Exciting news – enrollment for our upcoming adventure to Costa Rica in Summer 2027 is officially OPEN! Ready to explore rainforests, spot wildlife, and create unforgettable memories? You can secure your spot with just $95 down! But here's the exciting part – enroll by January 23 at 11:59 PM and you'll save a whopping $300!  That's extra money for souvenirs, snacks, or maybe a sloth plushie! And don't worry – EF offers risk-free enrollment, so you have 7 days to cancel for a full refund if plans change. No stress! Enroll now and explore the trip details here: www.eftours.com/3008612UYE-mail croucherk@talawanda.org with any questions!",
+        "id": "bt4f3ml9zw"
+      }
+    ],
+    "hash": "beg2fgtv9b-bu0l6cq559-bt4f3ml9zw",
+    "summary": "**Enrollment is now open for the FCCLA Costa Rica trip in Summer 2027.** Secure your spot with just $95 down. **Enroll by January 30th at 11:59 PM to save $200** (note: flyer mentions $200 off, original text mentioned $300). The trip includes rainforests and wildlife exploration. Visit www.eftours.com/3008612UY to enroll or email croucherk@talawanda.org with questions. Risk-free enrollment with 7-day full refund available.",
+    "event_info": [
+      {
+        "title": "Costa Rica 2027 Early Enrollment Deadline ($200 Off)",
+        "start": "2026-01-30T23:59:00",
+        "end": "2026-01-30T23:59:00",
+        "description": "**Enrollment is now open for the FCCLA Costa Rica trip in Summer 2027.** Secure your spot with just $95 down. **Enroll by January 30th at 11:59 PM to save $200** (note: flyer mentions $200 off, origin",
+        "location": "Online enrollment at www.eftours.com/3008612UY"
+      }
+    ]
+  },
+  {
+    "title": "2026 Reds Straight A Recipients Announced",
+    "block_id": "bbdj879owu-bu27a3acto-ba22c6oaer",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/f4cc/b11a08cbe1397174ecc817a1c12e7127.png",
+      "https://cdn.smore.com/u/0279/71c3ab6c6487407651b9e3bd08ae15b4.png"
+    ],
+    "source_url": "https://app.smore.com/n/0vf16",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-01-23T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "CONGRATULATIONS \n\nTO \n\nTHE \n\n2026 \n\nREDS \n\nSTRAIGHT \n\nA \n\nRECIPIENTS!\n\nCONGRATULATIONS TO THE 2026 REDS STRAIGHT A RECIPIENTS!",
+        "id": "bbdj879owu"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/f4cc/b11a08cbe1397174ecc817a1c12e7127.png",
+        "id": "bu27a3acto"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/0279/71c3ab6c6487407651b9e3bd08ae15b4.png",
+        "id": "ba22c6oaer"
+      }
+    ],
+    "hash": "bbdj879owu-bu27a3acto-ba22c6oaer",
+    "summary": "Congratulations to the Talawanda High School Class of 2026 students who earned Reds Straight A recognition! Over 150 students achieved straight A's, including Sadie Abbitt, Ashlynn Adler, Brady Arnos, Evan Arnos, Colton Back, Cierra Beckman, Abigail Berryman, Beau Betz, Charlotte Bidwell, Baylie Brewer, Autumn Brown, Olivia Buell, Katelyn Bulanda, Jaylyn Byers, Janna Cary, Elsa Castillo, Hazel Cheatham, Calista Clayton, Isabella Cobb, Leo Conatser, Taryn Davie, Sydney Dougherty, Miles Dumyahn, Henry Eckhardt, Emerson Endres, David Fahner, Sarah Farmer, Madeleine Francis Hicks, Garrison Franks, Quinn Frieden, Layla Fritzsche, Dimitri Garrett, Sophia Garrett, Aiden Graham, Ethan Graham, Alexander Green, Aiden Gronas, Desarae Guthrie, Ethan Hainline, Mason Hainline, Payton Hansel, Dakoda Hatfield, Ana Hernandez, Ava Hibbard, Max Hicks, Nolan Hodgson, Alyssa Hornsby, Wallace Howard, Douglas Ingram, Lyla Isgro, Lauren James, Evelyn Jeong, Jaylinn Johnson, Bella Jones, Brayden Jones, Elias Jones, Gabriel Jones, Dalton Jordon, Paul Kenworthy, Greer Kist, Felix Larson, John Larson, Alexa Lema, Claire Li, Vincent Liu, Emeline Longcamp, Alexandria Luking, Fee Mayer, Callie Mccullough, Camryn Mccullough, Allison McMickle, Melody Miao, Evelyn Miller, Lilyana Miller, Elle Moeller, Shr-Lin Moore, Javier Motta, Henry Moul, Patrick Mullally, Joie Mullins, Jordyn Murphy, Nora Murphy, John Murray, Makayla Nunn, Lillian (Li) O'malley, Cailin Pasquale, Gnan Patel, Zoe Patrick, Brayan Perez-Guzman, Elder Perez-Guzman, Lyla Perry, Austin Puckett, Milo Reitz, Jesse Reynolds, Olive Rice, Grace Richardson, Natylie Richardson, Gabrielle Riggle, Evelyn Robb, Claire Rode, Afton Sanders, Amelia Saul, Elizabeth Saul, Joshua Saul, Ella Schulte, Dylan Sexton, Stella Sheffield, Peyton Shepherd-Layman, Kylie Smith, Isabella Snyder, Kathryn Sparks, Madison Sparks, Lyla Spurlock, Luke Staton, Elijah Stenger, Elijah Suttmann, Rebecca Suttmann, Ella Tackett, Caitlyn Tanner, William Tanner, Anna Thompson, Maximillian Timmerman, Madison Titus, Jesse Troy, Desi-Rae Van Houten, Leah Vocke, Elena Von Mizener, Aiden Vorhees, Samantha Warholak, Rachel Wasburn-Moses, Sarah Watkins, Isla Weekley, Rory West Poley, Akio Wiese, Nyare Williams, Presley Williamson, Bryce Wortman, and Samuel Yoches."
+  },
+  {
     "title": "Club Meetings Week of January 19th",
     "block_id": "b16db8wtno-bhmk3vsme3-beb8wm9hov",
     "content": "",
@@ -1155,132 +1248,6 @@
         "end": "2025-12-19T14:30:00",
         "description": "**Finals Week runs December 16-19, 2025.** Students should arrive by 11:10 AM on 12/17, 12/18, and 12/19, and only need to attend classes with exams. Buses still depart at 2:30 PM.\n\n**Tuesday 12/16:**",
         "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Senior Cap and Gown Order Deadline",
-    "block_id": "byprck4e3v-bex76bzmjk-bb2jg9348k",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/4e2f/a3183352bc2fb265d031e522c7170507.png"
-    ],
-    "source_url": "https://app.smore.com/n/p5dkw",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2025-11-21T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "SENIORS\n\nSENIORS",
-        "id": "byprck4e3v"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Talawanda Senior Families:Graduation is just around the corner........ Senior caps and gowns need to be ordered by December 6th to receive the reduced price of $66.69. After December 6th the price goes up.Please see the flyer below for Graduation information from Jostens. You can also visit JOSTENS.COM to order.",
-        "id": "bex76bzmjk"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/4e2f/a3183352bc2fb265d031e522c7170507.png",
-        "id": "bb2jg9348k"
-      }
-    ],
-    "hash": "byprck4e3v-bex76bzmjk-bb2jg9348k",
-    "summary": "**Senior cap and gown orders must be placed by December 6th** to receive the discounted price of **$66.69**. After December 6th, the price increases to $65.00 plus service/shipping and sales tax. Orders can be placed online at **JOSTENS.COM** or through the school during lunch (dates TBD). The gown is a rental and must be returned after graduation; students keep their cap, tassel, and stole. The Custom \"Mascot Package\" (flyer enclosed) includes cap, rental gown, tassel, and stole for $54.95 plus fees with online ordering.",
-    "event_info": [
-      {
-        "title": "Senior Cap and Gown Order Deadline (Reduced Price)",
-        "start": "2025-12-06T00:00:00",
-        "end": "2025-12-06T23:59:00",
-        "description": "**Senior cap and gown orders must be placed by December 6th** to receive the discounted price of **$66.69**. After December 6th, the price increases to $65.00 plus service/shipping and sales tax. Orde",
-        "location": "Online at Jostens.com"
-      }
-    ]
-  },
-  {
-    "title": "Little Women Musical Performance at THS",
-    "block_id": "bqzwuwooeo-bcc5ao2m0e",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/efc5/c4f9c44c078ec965bf46aeece5cd1b5e.png"
-    ],
-    "source_url": "https://app.smore.com/n/p5dkw",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2025-11-21T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/efc5/c4f9c44c078ec965bf46aeece5cd1b5e.png",
-        "id": "bqzwuwooeo"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "This family friendly Broadway musical features the heartwarming 1868 story by Louisa May Alcott of the 4 March sisters as they navigate life during the Civil War, the trials of becoming individuals, and their pursuits for happiness in very different circumstances. The production features performances and tech work of close to 20 THS students from all class levels, with many contributions from Oxford community members. Tickets may be purchased at this LINK or with cash at the door.",
-        "id": "bcc5ao2m0e"
-      }
-    ],
-    "hash": "bqzwuwooeo-bcc5ao2m0e",
-    "summary": "**Little Women: The Musical** will be performed by Talawanda High School Drama Club at the THS Performing Arts Center. This family-friendly Broadway musical tells Louisa May Alcott's 1868 story of the March sisters during the Civil War. Shows are **December 5th at 7 PM**, **December 6th at 2 PM and 7 PM**. Tickets are **$8** and can be purchased [online](https://www.talawanda.org) or with cash at the door. Nearly 20 THS students from all grades participate, with contributions from Oxford community members.",
-    "event_info": [
-      {
-        "title": "Little Women: The Musical (Evening Performance)",
-        "start": "2025-12-05T19:00:00",
-        "end": "2025-12-05T20:00:00",
-        "description": "**Little Women: The Musical** will be performed by Talawanda High School Drama Club at the THS Performing Arts Center. This family-friendly Broadway musical tells Louisa May Alcott's 1868 story of the",
-        "location": "Talawanda High School Performing Arts Center"
-      },
-      {
-        "title": "Little Women: The Musical (Matinee Performance)",
-        "start": "2025-12-06T14:00:00",
-        "end": "2025-12-06T15:00:00",
-        "description": "**Little Women: The Musical** will be performed by Talawanda High School Drama Club at the THS Performing Arts Center. This family-friendly Broadway musical tells Louisa May Alcott's 1868 story of the",
-        "location": "Talawanda High School Performing Arts Center"
-      },
-      {
-        "title": "Little Women: The Musical (Evening Performance)",
-        "start": "2025-12-06T19:00:00",
-        "end": "2025-12-06T20:00:00",
-        "description": "**Little Women: The Musical** will be performed by Talawanda High School Drama Club at the THS Performing Arts Center. This family-friendly Broadway musical tells Louisa May Alcott's 1868 story of the",
-        "location": "Talawanda High School Performing Arts Center"
-      }
-    ]
-  },
-  {
-    "title": "FCCLA Diaper Drive for Families in Need",
-    "block_id": "bsllzsw778-bthvp6jdat-bs0jo6c3sx",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/3fc8/5c4f09abb4353fb2f2a2f1327d909d7e.png"
-    ],
-    "source_url": "https://app.smore.com/n/aq28s",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2025-11-14T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "FCCLA\n\nFCCLA",
-        "id": "bsllzsw778"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/3fc8/5c4f09abb4353fb2f2a2f1327d909d7e.png",
-        "id": "bthvp6jdat"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "FCCLA is hosting a Diaper Drive! You may drop them off OR have them delivered (via Amazon, Wal-Mart, etc) directly to: Talawanda High SchoolATTN: FCCLA Kari Croucher5301 University Park Blvd.Oxford, OH 45056",
-        "id": "bs0jo6c3sx"
-      }
-    ],
-    "hash": "bsllzsw778-bthvp6jdat-bs0jo6c3sx",
-    "summary": "**FCCLA is hosting a Diaper Drive from November 3 to December 12.** The goal is to collect 1,000 diapers and 21 packs of wipes for families in need. Drop off donations to Talawanda High School, Room 611, or have items delivered directly to the school (ATTN: FCCLA Kari Croucher, 5301 University Park Blvd., Oxford, OH 45056). The drive is TSD approved for distribution.",
-    "event_info": [
-      {
-        "title": "FCCLA Diaper Drive",
-        "start": "2025-11-03T00:00:00",
-        "end": "2025-12-12T23:59:00",
-        "description": "**FCCLA is hosting a Diaper Drive from November 3 to December 12.** The goal is to collect 1,000 diapers and 21 packs of wipes for families in need. Drop off donations to Talawanda High School, Room 6",
-        "location": "Talawanda High School, Room 611"
       }
     ]
   }
