@@ -151,6 +151,87 @@
     "summary": "**People United for Self Help (PUSH)** provides grants to low-income homeowners in the Talawanda School District for critical and emergency home repairs. Contact Jeanne or Sabrina at **513-523-8100** for more information. More community events available at the [Talawanda Community Page](http://www.push-oxford.org/)."
   },
   {
+    "title": "Lost and Found Items Available for Pickup",
+    "block_id": "ban7wu1q79-bb7q5bdg34-b9rttv7qvy-b3ezgmpwsd",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/hcskyd",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-01-16T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "LOST \n\nAND \n\nFOUND\n\nLOST AND FOUND",
+        "id": "ban7wu1q79"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Student government has done a fantastic job organizing and numbering our lost and found! See the PDF below and if you see something that belongs to your student, fill out the Google form and we can get the item to you!",
+        "id": "bb7q5bdg34"
+      }
+    ],
+    "hash": "ban7wu1q79-bb7q5bdg34-b9rttv7qvy-b3ezgmpwsd",
+    "summary": "Student government has organized and numbered all **lost and found items**. Parents can view a PDF catalog of items and fill out a **Google form** to request their student's belongings for pickup. Each item has been assigned a number for easy identification."
+  },
+  {
+    "title": "Health Reminder About Flu and Illness",
+    "block_id": "bbb0bjna15-b789aylexn",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/hcskyd",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-01-16T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "NURSE \n\nNOTES\n\nNURSE NOTES",
+        "id": "bbb0bjna15"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Health Reminder: Flu and Seasonal IllnessWe are seeing an increase in flu and seasonal illnesses at school. To help prevent the spread ofillness, please keep your child home if they have a fever (100°F or higher), vomiting or diarrhea,significant cough, sore throat with fever, body aches, extreme fatigue, or flu-like symptoms.Students should be fever-free for 24 hours without medication and symptom-free for 24 hoursafter vomiting or diarrhea before returning to school. Thank you for helping keep our schoolcommunity healthy.",
+        "id": "b789aylexn"
+      }
+    ],
+    "hash": "bbb0bjna15-b789aylexn",
+    "summary": "The school is experiencing an increase in flu and seasonal illnesses. **Keep your child home** if they have: fever (100°F+), vomiting/diarrhea, significant cough, sore throat with fever, body aches, extreme fatigue, or flu-like symptoms. Students must be **fever-free for 24 hours without medication** and **symptom-free for 24 hours** after vomiting/diarrhea before returning to school."
+  },
+  {
+    "title": "Kramer Free Pantry for Students",
+    "block_id": "blqwkxb9tq-brwujkaymx-bx576e3ldv-b69pkw92cz",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/e43f/73359dc655ec2964428fe8056ebd689e.png"
+    ],
+    "source_url": "https://app.smore.com/n/hcskyd",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-01-16T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "TALAWANDA \n\nFOOD \n\nRESOURCES\n\nTALAWANDA FOOD RESOURCES",
+        "id": "blqwkxb9tq"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/e43f/73359dc655ec2964428fe8056ebd689e.png",
+        "id": "brwujkaymx"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "OTHER TALAWANDA FREE RESOURCES\nSEE IMAGES BELOW FOR MORE INFORMATION",
+        "id": "bx576e3ldv"
+      },
+      {
+        "type": "items",
+        "content": "zoom_out_map\n                \n\n\n\n\n\n\n\n\nzoom_out_map",
+        "id": "b69pkw92cz"
+      }
+    ],
+    "hash": "blqwkxb9tq-brwujkaymx-bx576e3ldv-b69pkw92cz",
+    "summary": "A **free food and hygiene pantry** is available to all students at the entrance of Kramer Hall. Items include cereal, fruit, vegetables, peanut butter, spaghetti, mac and cheese, soup, shampoo, and toothbrushes. For questions, donations, or suggestions, contact **Chelsea Pike, Kramer Social Worker** at **513-273-3511** or **pikec@talawanda.org**."
+  },
+  {
     "title": "Kindergarten Registration at Kramer Elementary",
     "block_id": "b0irlb5ac3-bc297t72u6",
     "content": "",
@@ -244,87 +325,6 @@
     ]
   },
   {
-    "title": "Lost and Found Items Available for Pickup",
-    "block_id": "ban7wu1q79-bb7q5bdg34-b9rttv7qvy-b3ezgmpwsd",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/hcskyd",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-01-16T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "LOST \n\nAND \n\nFOUND\n\nLOST AND FOUND",
-        "id": "ban7wu1q79"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Student government has done a fantastic job organizing and numbering our lost and found! See the PDF below and if you see something that belongs to your student, fill out the Google form and we can get the item to you!",
-        "id": "bb7q5bdg34"
-      }
-    ],
-    "hash": "ban7wu1q79-bb7q5bdg34-b9rttv7qvy-b3ezgmpwsd",
-    "summary": "Student government has organized and numbered all **lost and found items**. Parents can view a PDF catalog of items and fill out a **Google form** to request their student's belongings for pickup. Each item has been assigned a number for easy identification."
-  },
-  {
-    "title": "Health Reminder About Flu and Illness",
-    "block_id": "bbb0bjna15-b789aylexn",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/hcskyd",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-01-16T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "NURSE \n\nNOTES\n\nNURSE NOTES",
-        "id": "bbb0bjna15"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Health Reminder: Flu and Seasonal IllnessWe are seeing an increase in flu and seasonal illnesses at school. To help prevent the spread ofillness, please keep your child home if they have a fever (100°F or higher), vomiting or diarrhea,significant cough, sore throat with fever, body aches, extreme fatigue, or flu-like symptoms.Students should be fever-free for 24 hours without medication and symptom-free for 24 hoursafter vomiting or diarrhea before returning to school. Thank you for helping keep our schoolcommunity healthy.",
-        "id": "b789aylexn"
-      }
-    ],
-    "hash": "bbb0bjna15-b789aylexn",
-    "summary": "The school is experiencing an increase in flu and seasonal illnesses. **Keep your child home** if they have: fever (100°F+), vomiting/diarrhea, significant cough, sore throat with fever, body aches, extreme fatigue, or flu-like symptoms. Students must be **fever-free for 24 hours without medication** and **symptom-free for 24 hours** after vomiting/diarrhea before returning to school."
-  },
-  {
-    "title": "Kramer Free Pantry for Students",
-    "block_id": "blqwkxb9tq-brwujkaymx-bx576e3ldv-b69pkw92cz",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/e43f/73359dc655ec2964428fe8056ebd689e.png"
-    ],
-    "source_url": "https://app.smore.com/n/hcskyd",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-01-16T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "TALAWANDA \n\nFOOD \n\nRESOURCES\n\nTALAWANDA FOOD RESOURCES",
-        "id": "blqwkxb9tq"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/e43f/73359dc655ec2964428fe8056ebd689e.png",
-        "id": "brwujkaymx"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "OTHER TALAWANDA FREE RESOURCES\nSEE IMAGES BELOW FOR MORE INFORMATION",
-        "id": "bx576e3ldv"
-      },
-      {
-        "type": "items",
-        "content": "zoom_out_map\n                \n\n\n\n\n\n\n\n\nzoom_out_map",
-        "id": "b69pkw92cz"
-      }
-    ],
-    "hash": "blqwkxb9tq-brwujkaymx-bx576e3ldv-b69pkw92cz",
-    "summary": "A **free food and hygiene pantry** is available to all students at the entrance of Kramer Hall. Items include cereal, fruit, vegetables, peanut butter, spaghetti, mac and cheese, soup, shampoo, and toothbrushes. For questions, donations, or suggestions, contact **Chelsea Pike, Kramer Social Worker** at **513-273-3511** or **pikec@talawanda.org**."
-  },
-  {
     "title": "PTG Reading Program and Kroger Rewards",
     "block_id": "b5m8132v16-bbdo6xjjfw-bwn2tac2g8-b4qrzpzg5c-bwulg9ornb-bncw8zzi9l",
     "content": "",
@@ -397,6 +397,45 @@
         "start": "2026-01-19T00:00:00",
         "end": "2026-01-19T23:59:00",
         "description": "Welcome back from winter break! School will be **closed on Monday, January 19th** for the Martin Luther King Jr. holiday. Have a great weekend!",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Preschool Lottery Application Now Open",
+    "block_id": "bayga1u9d3-btymu217ez",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/au75m",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-01-06T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PRESCHOOL \n\nLOTTERY \n\nAPPLICATION\n\nPRESCHOOL LOTTERY APPLICATION",
+        "id": "bayga1u9d3"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Talawanda Preschool Application 2026/2027In order to fill the limited spaces in our preschool classrooms, typically developing children will enter the program through a lottery. Please use the following link to apply for the Talawanda Preschool lottery for the 2026/2027 school year. Applications must be completed by January 31, 2026. The lottery will take place on February 13, 2026. Families will be notified of their placement on the roster or on the waitlist after February 13, 2026.Please send any questions to the Preschool Coordinator, Beth Fuechsl, at fuechsle@talawanda.org.Preschool Application",
+        "id": "btymu217ez"
+      }
+    ],
+    "hash": "bayga1u9d3-btymu217ez",
+    "summary": "The **Talawanda Preschool lottery application** for the 2026/2027 school year is now open for typically developing children. Applications must be completed by **January 31, 2026**, and the lottery will take place on **February 13, 2026**. Families will be notified of their placement or waitlist status after February 13. Questions can be sent to Preschool Coordinator Beth Fuechsl at fuechsle@talawanda.org.",
+    "event_info": [
+      {
+        "title": "Preschool Lottery Application Deadline",
+        "start": "2026-01-31T23:59:00",
+        "end": "2026-01-31T23:59:00",
+        "description": "The **Talawanda Preschool lottery application** for the 2026/2027 school year is now open for typically developing children. Applications must be completed by **January 31, 2026**, and the lottery wil",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Preschool Lottery Drawing",
+        "start": "2026-02-13T00:00:00",
+        "end": "2026-02-13T23:59:00",
+        "description": "The **Talawanda Preschool lottery application** for the 2026/2027 school year is now open for typically developing children. Applications must be completed by **January 31, 2026**, and the lottery wil",
         "location": "Talawanda High School"
       }
     ]
@@ -580,45 +619,6 @@
         "start": "2026-03-18T00:00:00",
         "end": "2026-03-18T01:00:00",
         "description": "**Talawanda Baseball Winter Clinic** on January 18-19, 9:00AM-11:00AM at THS Gymnasium for grades K-8. Registration deadline: January 5th for free t-shirt. Cost: $30 one day/$50 two days. Register at ",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Preschool Lottery Application Now Open",
-    "block_id": "bayga1u9d3-btymu217ez",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/au75m",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-01-06T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PRESCHOOL \n\nLOTTERY \n\nAPPLICATION\n\nPRESCHOOL LOTTERY APPLICATION",
-        "id": "bayga1u9d3"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Talawanda Preschool Application 2026/2027In order to fill the limited spaces in our preschool classrooms, typically developing children will enter the program through a lottery. Please use the following link to apply for the Talawanda Preschool lottery for the 2026/2027 school year. Applications must be completed by January 31, 2026. The lottery will take place on February 13, 2026. Families will be notified of their placement on the roster or on the waitlist after February 13, 2026.Please send any questions to the Preschool Coordinator, Beth Fuechsl, at fuechsle@talawanda.org.Preschool Application",
-        "id": "btymu217ez"
-      }
-    ],
-    "hash": "bayga1u9d3-btymu217ez",
-    "summary": "The **Talawanda Preschool lottery application** for the 2026/2027 school year is now open for typically developing children. Applications must be completed by **January 31, 2026**, and the lottery will take place on **February 13, 2026**. Families will be notified of their placement or waitlist status after February 13. Questions can be sent to Preschool Coordinator Beth Fuechsl at fuechsle@talawanda.org.",
-    "event_info": [
-      {
-        "title": "Preschool Lottery Application Deadline",
-        "start": "2026-01-31T23:59:00",
-        "end": "2026-01-31T23:59:00",
-        "description": "The **Talawanda Preschool lottery application** for the 2026/2027 school year is now open for typically developing children. Applications must be completed by **January 31, 2026**, and the lottery wil",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Preschool Lottery Drawing",
-        "start": "2026-02-13T00:00:00",
-        "end": "2026-02-13T23:59:00",
-        "description": "The **Talawanda Preschool lottery application** for the 2026/2027 school year is now open for typically developing children. Applications must be completed by **January 31, 2026**, and the lottery wil",
         "location": "Talawanda High School"
       }
     ]
