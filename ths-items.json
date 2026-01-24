@@ -330,45 +330,6 @@
     ]
   },
   {
-    "title": "Costa Rica Trip Information Meeting",
-    "block_id": "beg2fgtv9b-bhi4om00j0-bzyj2ppusq",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/7dd7/f16e395d013d2abb91041de8eb4899ab.png"
-    ],
-    "source_url": "https://app.smore.com/n/62kp3",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-01-09T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "FCCLA\n\nFCCLA",
-        "id": "beg2fgtv9b"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/7dd7/f16e395d013d2abb91041de8eb4899ab.png",
-        "id": "bhi4om00j0"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Is your student interested in adventure, wildlife, ziplining, volcanoes, and exploring another culture? Mrs. Croucher is hosting a trip to Costa Rica in June 2027 with EF Tours!Come to a parent informational meeting on Wednesday, January 21st @6:30 in Room 611. If you can't make it, RSVP to get updates and information.If Costa Rica is on your bucket list, don’t miss it!https://rsvp.eftours.com/5cjgbka",
-        "id": "bzyj2ppusq"
-      }
-    ],
-    "hash": "beg2fgtv9b-bhi4om00j0-bzyj2ppusq",
-    "summary": "**FCCLA is organizing a trip to Costa Rica in June 2027** with EF Tours, featuring adventure activities, wildlife viewing, ziplining, volcanoes, and cultural exploration. An informational meeting for parents and students will be held **Wednesday, January 21st at 6:30 PM in Room 611**. If you cannot attend, you can [RSVP online](https://rsvp.eftours.com/5cjgbka) to receive updates and information.",
-    "event_info": [
-      {
-        "title": "Costa Rica Trip Information Meeting",
-        "start": "2026-01-21T18:30:00",
-        "end": "2026-01-21T19:30:00",
-        "description": "**FCCLA is organizing a trip to Costa Rica in June 2027** with EF Tours, featuring adventure activities, wildlife viewing, ziplining, volcanoes, and cultural exploration. An informational meeting for ",
-        "location": "Room 611"
-      }
-    ]
-  },
-  {
     "title": "Health Reminder for Flu Season",
     "block_id": "bk8gizguu7-bj1d5phbur",
     "content": "",
@@ -477,6 +438,45 @@
     ],
     "hash": "bc39ui2yc2",
     "summary": "Community flyers are now available for viewing. **[Click here to access the community flyers](https://www.talawanda.org/o/ths/page/community-flyers)** for information about local programs, activities, and resources."
+  },
+  {
+    "title": "Costa Rica Trip Information Meeting",
+    "block_id": "beg2fgtv9b-bhi4om00j0-bzyj2ppusq",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/7dd7/f16e395d013d2abb91041de8eb4899ab.png"
+    ],
+    "source_url": "https://app.smore.com/n/62kp3",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-01-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "FCCLA\n\nFCCLA",
+        "id": "beg2fgtv9b"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/7dd7/f16e395d013d2abb91041de8eb4899ab.png",
+        "id": "bhi4om00j0"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Is your student interested in adventure, wildlife, ziplining, volcanoes, and exploring another culture? Mrs. Croucher is hosting a trip to Costa Rica in June 2027 with EF Tours!Come to a parent informational meeting on Wednesday, January 21st @6:30 in Room 611. If you can't make it, RSVP to get updates and information.If Costa Rica is on your bucket list, don’t miss it!https://rsvp.eftours.com/5cjgbka",
+        "id": "bzyj2ppusq"
+      }
+    ],
+    "hash": "beg2fgtv9b-bhi4om00j0-bzyj2ppusq",
+    "summary": "**FCCLA is organizing a trip to Costa Rica in June 2027** with EF Tours, featuring adventure activities, wildlife viewing, ziplining, volcanoes, and cultural exploration. An informational meeting for parents and students will be held **Wednesday, January 21st at 6:30 PM in Room 611**. If you cannot attend, you can [RSVP online](https://rsvp.eftours.com/5cjgbka) to receive updates and information.",
+    "event_info": [
+      {
+        "title": "Costa Rica Trip Information Meeting",
+        "start": "2026-01-21T18:30:00",
+        "end": "2026-01-21T19:30:00",
+        "description": "**FCCLA is organizing a trip to Costa Rica in June 2027** with EF Tours, featuring adventure activities, wildlife viewing, ziplining, volcanoes, and cultural exploration. An informational meeting for ",
+        "location": "Room 611"
+      }
+    ]
   },
   {
     "title": "Weekly Club Meeting Schedule and Events",

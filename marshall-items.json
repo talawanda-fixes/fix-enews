@@ -316,31 +316,6 @@
     ]
   },
   {
-    "title": "Health Reminder: Flu and Seasonal Illness Protocol",
-    "block_id": "bobv91nep5-bk9dm1ntkb",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/33ae/4713a3a7574761378d963703444c1c01.png"
-    ],
-    "source_url": "https://app.smore.com/n/qspr4",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-01-09T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "NURSE'S \n\nCORNER\n\nNURSE'S CORNER",
-        "id": "bobv91nep5"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/33ae/4713a3a7574761378d963703444c1c01.png",
-        "id": "bk9dm1ntkb"
-      }
-    ],
-    "hash": "bobv91nep5-bk9dm1ntkb",
-    "summary": "The school is experiencing an increase in flu and seasonal illnesses. **Keep your child home if they have:** fever (100°F or higher), vomiting or diarrhea, significant cough, sore throat with fever, body aches, extreme fatigue, or flu-like symptoms. Students must be **fever-free for 24 hours without medication** and **symptom-free for 24 hours after vomiting or diarrhea** before returning to school."
-  },
-  {
     "title": "Preschool Lottery Application for 2026/2027",
     "block_id": "b5ugkbvpwi-b4jra7b9io",
     "content": "",
@@ -380,40 +355,6 @@
     ]
   },
   {
-    "title": "TMS Parent-Teacher Group Meeting Invitation",
-    "block_id": "bn8d14d2xs-bahzoo9kru",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/f158/12daa5ae4ba70f0d5a35727a8bc99697.png"
-    ],
-    "source_url": "https://app.smore.com/n/qspr4",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-01-09T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "ATTENTION \n\n5TH \n\nGRADE \n\nPARENTS\n\nATTENTION 5TH GRADE PARENTS",
-        "id": "bn8d14d2xs"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/f158/12daa5ae4ba70f0d5a35727a8bc99697.png",
-        "id": "bahzoo9kru"
-      }
-    ],
-    "hash": "bn8d14d2xs-bahzoo9kru",
-    "summary": "The Talawanda Middle School Parent-Teacher Group needs officers and participants for the 2026-2027 school year. Open positions include President, Vice President, Secretary, and Treasurer. A PTG meeting is scheduled for **February 3rd at 6:30 PM** at the Oxford Lane Library (Havighurst Meeting Room). If interested in an officer role or want to be included in communications but can't attend, email **tmsptgbrave@gmail.com**.",
-    "event_info": [
-      {
-        "title": "TMS PTG Meeting",
-        "start": "2026-02-03T18:30:00",
-        "end": "2026-02-03T19:30:00",
-        "description": "The Talawanda Middle School Parent-Teacher Group needs officers and participants for the 2026-2027 school year. Open positions include President, Vice President, Secretary, and Treasurer. A PTG meetin",
-        "location": "Oxford Lane Library, Havighurst Meeting Room"
-      }
-    ]
-  },
-  {
     "title": "January 2026 Breakfast and Lunch Menus",
     "block_id": "bhzdnlnw9b-bchchtsa93-bnmbq6ritu-bvwjr7l97t",
     "content": "",
@@ -448,6 +389,65 @@
     ],
     "hash": "bhzdnlnw9b-bchchtsa93-bnmbq6ritu-bvwjr7l97t",
     "summary": "Marshall Elementary's January 2026 meal menus are now available. **100% fruit juice, apples, oranges or other fresh fruit selection and milk included with every breakfast.** Choice of milk is included with every lunch. School is closed January 1-2 (New Year's), January 5-6, and January 19-20 (Martin Luther King Jr. Day). Menu items include breakfast options like pancake on a stick, breakfast pizza, cinnamon buns, and mini donuts, plus lunch options like chicken tenders, corn dogs, popcorn chicken, and various sandwiches. Menus are subject to change based on product availability."
+  },
+  {
+    "title": "Health Reminder: Flu and Seasonal Illness Protocol",
+    "block_id": "bobv91nep5-bk9dm1ntkb",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/33ae/4713a3a7574761378d963703444c1c01.png"
+    ],
+    "source_url": "https://app.smore.com/n/qspr4",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-01-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "NURSE'S \n\nCORNER\n\nNURSE'S CORNER",
+        "id": "bobv91nep5"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/33ae/4713a3a7574761378d963703444c1c01.png",
+        "id": "bk9dm1ntkb"
+      }
+    ],
+    "hash": "bobv91nep5-bk9dm1ntkb",
+    "summary": "The school is experiencing an increase in flu and seasonal illnesses. **Keep your child home if they have:** fever (100°F or higher), vomiting or diarrhea, significant cough, sore throat with fever, body aches, extreme fatigue, or flu-like symptoms. Students must be **fever-free for 24 hours without medication** and **symptom-free for 24 hours after vomiting or diarrhea** before returning to school."
+  },
+  {
+    "title": "TMS Parent-Teacher Group Meeting Invitation",
+    "block_id": "bn8d14d2xs-bahzoo9kru",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/f158/12daa5ae4ba70f0d5a35727a8bc99697.png"
+    ],
+    "source_url": "https://app.smore.com/n/qspr4",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-01-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "ATTENTION \n\n5TH \n\nGRADE \n\nPARENTS\n\nATTENTION 5TH GRADE PARENTS",
+        "id": "bn8d14d2xs"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/f158/12daa5ae4ba70f0d5a35727a8bc99697.png",
+        "id": "bahzoo9kru"
+      }
+    ],
+    "hash": "bn8d14d2xs-bahzoo9kru",
+    "summary": "The Talawanda Middle School Parent-Teacher Group needs officers and participants for the 2026-2027 school year. Open positions include President, Vice President, Secretary, and Treasurer. A PTG meeting is scheduled for **February 3rd at 6:30 PM** at the Oxford Lane Library (Havighurst Meeting Room). If interested in an officer role or want to be included in communications but can't attend, email **tmsptgbrave@gmail.com**.",
+    "event_info": [
+      {
+        "title": "TMS PTG Meeting",
+        "start": "2026-02-03T18:30:00",
+        "end": "2026-02-03T19:30:00",
+        "description": "The Talawanda Middle School Parent-Teacher Group needs officers and participants for the 2026-2027 school year. Open positions include President, Vice President, Secretary, and Treasurer. A PTG meetin",
+        "location": "Oxford Lane Library, Havighurst Meeting Room"
+      }
+    ]
   },
   {
     "title": "Talawanda Baseball Winter Clinic Registration",
