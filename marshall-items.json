@@ -82,45 +82,6 @@
     ]
   },
   {
-    "title": "Cold Weather Preparations and Warming Centers",
-    "block_id": "b1oohprvfy-bjpt0bmqce-bfss8o77d4",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/f5ed/8409fdc2041e3c446048694120244415.png"
-    ],
-    "source_url": "https://app.smore.com/n/e14tj",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-01-23T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "NEWS \n\n& \n\nINFORMATION \n\nNEWS & INFORMATION",
-        "id": "b1oohprvfy"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "As we wrap up another great week of learning, we are keeping a close eye on the upcoming cold weather. Please be sure your child comes to school dressed warmly each day, including coats, hats, and gloves. With the possibility of weather-related delays or closures, it is extremely important that your phone numbers and email addresses are up to date in our system so we can reach you quickly with important information.  If your family is in need of a warm place during extreme temperatures, local warming centers are available throughout the community, please see below for that information. Thank you for partnering with us to keep our students safe, warm, and supported—your continued communication and support make a big difference!Sincerely,Mrs. Jones, Principal",
-        "id": "bjpt0bmqce"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/f5ed/8409fdc2041e3c446048694120244415.png",
-        "id": "bfss8o77d4"
-      }
-    ],
-    "hash": "b1oohprvfy-bjpt0bmqce-bfss8o77d4",
-    "summary": "Students should dress warmly with coats, hats, and gloves for the upcoming cold weather. Families must ensure their contact information is current in the school system to receive timely notifications about possible weather delays or closures. **Local warming centers** are available throughout the community during extreme temperatures January 23-27, 2026, including multiple library locations and the City of Monroe Police Department (open 24 hours). For more information on warming center hours and locations, visit https://www.bcohio.gov or https://www.midpointelibrary.org/.",
-    "event_info": [
-      {
-        "title": "Extreme Cold Weather - Warming Centers Available",
-        "start": "2026-01-23T00:00:00",
-        "end": "2026-01-27T23:59:00",
-        "description": "Students should dress warmly with coats, hats, and gloves for the upcoming cold weather. Families must ensure their contact information is current in the school system to receive timely notifications ",
-        "location": "Various locations throughout Butler County (see https://www.bcohio.gov for details)"
-      }
-    ]
-  },
-  {
     "title": "Kindergarten Registration at Marshall Elementary",
     "block_id": "bp2sx96rmz-bg002ilmih",
     "content": "",
@@ -158,45 +119,6 @@
         "end": "2026-04-20T23:59:00",
         "description": "**Kindergarten Registration** for Marshall Elementary will take place on **Monday, April 20th**. Parents should call the Marshall office starting **Monday, February 2nd** to schedule an appointment. C",
         "location": "Marshall Elementary"
-      }
-    ]
-  },
-  {
-    "title": "PTG Fundraiser Registration Challenge",
-    "block_id": "bhatmtq6ud-bihz5b0lri-bysojuycfk",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/1a33/54382feaf2ba55075925e49b1bea5bc7.png"
-    ],
-    "source_url": "https://app.smore.com/n/e14tj",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-01-23T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PTG \n\nCORNER\n\nPTG CORNER",
-        "id": "bhatmtq6ud"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/1a33/54382feaf2ba55075925e49b1bea5bc7.png",
-        "id": "bihz5b0lri"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Our biggest fundraiser of the year kicks off on Monday, January 26! Go to mybooster.com today to register your child! All funds raised go directly back to supporting our students and staff!",
-        "id": "bysojuycfk"
-      }
-    ],
-    "hash": "bhatmtq6ud-bihz5b0lri-bysojuycfk",
-    "summary": "The PTG's biggest fundraiser of the year begins **Monday, January 26**. Register your child at **mybooster.com** today. The school currently has **18% registered** and needs to reach **30% by January 26** to earn a popcorn party. All funds raised support students and staff directly.",
-    "event_info": [
-      {
-        "title": "PTG Fundraiser Registration Deadline (30% Goal for Popcorn Party)",
-        "start": "2026-01-26T00:00:00",
-        "end": "2026-01-26T23:59:00",
-        "description": "The PTG's biggest fundraiser of the year begins **Monday, January 26**. Register your child at **mybooster.com** today. The school currently has **18% registered** and needs to reach **30% by January ",
-        "location": "Talawanda High School"
       }
     ]
   },
@@ -292,6 +214,84 @@
     ],
     "hash": "b4w6vps7hi-bwisw9ob89",
     "summary": "Access the **Community Events & Flyers Page** for information about community activities and announcements. Contact information provided for Marshall Elementary in Oxford, Ohio, available at **www.talawanda.org** and on Twitter **@TSDMarshall**."
+  },
+  {
+    "title": "Cold Weather Preparations and Warming Centers",
+    "block_id": "b1oohprvfy-bjpt0bmqce-bfss8o77d4",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/f5ed/8409fdc2041e3c446048694120244415.png"
+    ],
+    "source_url": "https://app.smore.com/n/e14tj",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-01-23T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "NEWS \n\n& \n\nINFORMATION \n\nNEWS & INFORMATION",
+        "id": "b1oohprvfy"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "As we wrap up another great week of learning, we are keeping a close eye on the upcoming cold weather. Please be sure your child comes to school dressed warmly each day, including coats, hats, and gloves. With the possibility of weather-related delays or closures, it is extremely important that your phone numbers and email addresses are up to date in our system so we can reach you quickly with important information.  If your family is in need of a warm place during extreme temperatures, local warming centers are available throughout the community, please see below for that information. Thank you for partnering with us to keep our students safe, warm, and supported—your continued communication and support make a big difference!Sincerely,Mrs. Jones, Principal",
+        "id": "bjpt0bmqce"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/f5ed/8409fdc2041e3c446048694120244415.png",
+        "id": "bfss8o77d4"
+      }
+    ],
+    "hash": "b1oohprvfy-bjpt0bmqce-bfss8o77d4",
+    "summary": "Students should dress warmly with coats, hats, and gloves for the upcoming cold weather. Families must ensure their contact information is current in the school system to receive timely notifications about possible weather delays or closures. **Local warming centers** are available throughout the community during extreme temperatures January 23-27, 2026, including multiple library locations and the City of Monroe Police Department (open 24 hours). For more information on warming center hours and locations, visit https://www.bcohio.gov or https://www.midpointelibrary.org/.",
+    "event_info": [
+      {
+        "title": "Extreme Cold Weather - Warming Centers Available",
+        "start": "2026-01-23T00:00:00",
+        "end": "2026-01-27T23:59:00",
+        "description": "Students should dress warmly with coats, hats, and gloves for the upcoming cold weather. Families must ensure their contact information is current in the school system to receive timely notifications ",
+        "location": "Various locations throughout Butler County (see https://www.bcohio.gov for details)"
+      }
+    ]
+  },
+  {
+    "title": "PTG Fundraiser Registration Challenge",
+    "block_id": "bhatmtq6ud-bihz5b0lri-bysojuycfk",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/1a33/54382feaf2ba55075925e49b1bea5bc7.png"
+    ],
+    "source_url": "https://app.smore.com/n/e14tj",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-01-23T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PTG \n\nCORNER\n\nPTG CORNER",
+        "id": "bhatmtq6ud"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/1a33/54382feaf2ba55075925e49b1bea5bc7.png",
+        "id": "bihz5b0lri"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Our biggest fundraiser of the year kicks off on Monday, January 26! Go to mybooster.com today to register your child! All funds raised go directly back to supporting our students and staff!",
+        "id": "bysojuycfk"
+      }
+    ],
+    "hash": "bhatmtq6ud-bihz5b0lri-bysojuycfk",
+    "summary": "The PTG's biggest fundraiser of the year begins **Monday, January 26**. Register your child at **mybooster.com** today. The school currently has **18% registered** and needs to reach **30% by January 26** to earn a popcorn party. All funds raised support students and staff directly.",
+    "event_info": [
+      {
+        "title": "PTG Fundraiser Registration Deadline (30% Goal for Popcorn Party)",
+        "start": "2026-01-26T00:00:00",
+        "end": "2026-01-26T23:59:00",
+        "description": "The PTG's biggest fundraiser of the year begins **Monday, January 26**. Register your child at **mybooster.com** today. The school currently has **18% registered** and needs to reach **30% by January ",
+        "location": "Talawanda High School"
+      }
+    ]
   },
   {
     "title": "Reading Corner January Newsletter on Fluency",

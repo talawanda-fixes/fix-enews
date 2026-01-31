@@ -166,6 +166,34 @@
     ]
   },
   {
+    "title": "Community Page - Home Repair Grants Available",
+    "block_id": "bz46wtbjri-b4h0989yht-boer6vpg4l-bq1bxnionj",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/dx0j7",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-01-23T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "COMMUNITY \n\nPAGE\n\nCOMMUNITY PAGE",
+        "id": "bz46wtbjri"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "CLINK THE LINK BELOW TO SEE MORE COMMUNITY EVENTS ON THE TALAWANDA COMMUNITY PAGE! 🔽",
+        "id": "b4h0989yht"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "zoom_out_map\n            \nPEOPLE UNITED FOR SELF HELP\nPUSH provides grants to low-income homeowners in the Talawanda School District for critical and emergency home repairs. Call Jeanne or Sabrina at 513-523-8100 for more information. Application is attached. Http://www.push-oxford.org/",
+        "id": "bq1bxnionj"
+      }
+    ],
+    "hash": "bz46wtbjri-b4h0989yht-boer6vpg4l-bq1bxnionj",
+    "summary": "**People United for Self Help (PUSH)** provides grants to low-income homeowners in the Talawanda School District for critical and emergency home repairs. Contact Jeanne or Sabrina at **513-523-8100** for more information. More community events available at the [Talawanda Community Page](http://www.push-oxford.org/)."
+  },
+  {
     "title": "Kramer PTG Programs and Fundraisers",
     "block_id": "b5m8132v16-bbdo6xjjfw-bwn2tac2g8-bmudrwiscw-bq41qx6dq1-bp64rnfphc-b4qrzpzg5c-bwulg9ornb-bncw8zzi9l",
     "content": "",
@@ -253,34 +281,6 @@
         "location": "Kramer Art Room"
       }
     ]
-  },
-  {
-    "title": "Community Page - Home Repair Grants Available",
-    "block_id": "bz46wtbjri-b4h0989yht-boer6vpg4l-bq1bxnionj",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/dx0j7",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-01-23T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "COMMUNITY \n\nPAGE\n\nCOMMUNITY PAGE",
-        "id": "bz46wtbjri"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "CLINK THE LINK BELOW TO SEE MORE COMMUNITY EVENTS ON THE TALAWANDA COMMUNITY PAGE! 🔽",
-        "id": "b4h0989yht"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "zoom_out_map\n            \nPEOPLE UNITED FOR SELF HELP\nPUSH provides grants to low-income homeowners in the Talawanda School District for critical and emergency home repairs. Call Jeanne or Sabrina at 513-523-8100 for more information. Application is attached. Http://www.push-oxford.org/",
-        "id": "bq1bxnionj"
-      }
-    ],
-    "hash": "bz46wtbjri-b4h0989yht-boer6vpg4l-bq1bxnionj",
-    "summary": "**People United for Self Help (PUSH)** provides grants to low-income homeowners in the Talawanda School District for critical and emergency home repairs. Contact Jeanne or Sabrina at **513-523-8100** for more information. More community events available at the [Talawanda Community Page](http://www.push-oxford.org/)."
   },
   {
     "title": "Lost and Found Items Available for Pickup",

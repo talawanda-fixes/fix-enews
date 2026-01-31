@@ -1,5 +1,108 @@
 [
   {
+    "title": "February Cafeteria Menus and Lunch Accounts",
+    "block_id": "b0srpil80f-b570fb3xuh-bfr77vevhd-bi2mln55ks",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/d3c5/27207de26c9b82da12d00b466e5f9200.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/udj0s7-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-01-30T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Cafeteria\n\nCafeteria",
+        "id": "b0srpil80f"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Lunch Accounts\nAs a reminder, you are able to add funds to your student's lunch account through the PaySchool Central. If your student's account reaches -$50 it will be rolled into your school fees. Please be mindful and keep your student's account current.",
+        "id": "b570fb3xuh"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "February Menus\nHere are the breakfast and lunch menus for February!",
+        "id": "bfr77vevhd"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/d3c5/27207de26c9b82da12d00b466e5f9200.jpeg",
+        "id": "bi2mln55ks"
+      }
+    ],
+    "hash": "b0srpil80f-b570fb3xuh-bfr77vevhd-bi2mln55ks",
+    "summary": "**Lunch Account Reminders:** Add funds to student lunch accounts through **PaySchool Central**. Accounts that reach -$50 will be rolled into school fees, so please keep accounts current.\n\n**February Menus Available:** Breakfast and lunch menus for February 2026 are now posted. Breakfast items include options like Apple Frudel, Breakfast Pizza Bagel, Stuffed Hash Brown, Mini Powdered Donuts, Biscuits & Sausage Gravy, Cinnamon Bun, Glazed Donuts, and Sausage & Cheese Biscuit Sandwich. 100% fruit juice, apples, oranges or other fresh fruit selection and milk are included with every breakfast."
+  },
+  {
+    "title": "Bogan Elementary Fundraiser at Texas Roadhouse",
+    "block_id": "bpx42aowpj-bdcznd5ptx",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/f40d/a8d81f85d9e7196bb0a4f443b7dfe800.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/udj0s7-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-01-30T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PTG \n\nCorner\n\nPTG Corner",
+        "id": "bpx42aowpj"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/f40d/a8d81f85d9e7196bb0a4f443b7dfe800.jpeg",
+        "id": "bdcznd5ptx"
+      }
+    ],
+    "hash": "bpx42aowpj-bdcznd5ptx",
+    "summary": "**Texas Roadhouse fundraiser supporting Bogan Elementary** on Thursday, February 12th from 3pm-10pm. Dine-in or carry-out available at the Hamilton location (1558 Main St, Hamilton, OH - 513-894-7427). Present the flyer and **10% of your food purchase will be donated** to Bogan Elementary.",
+    "event_info": [
+      {
+        "title": "Bogan Elementary Fundraiser at Texas Roadhouse",
+        "start": "2026-02-12T15:00:00",
+        "end": "2026-02-12T22:00:00",
+        "description": "**Texas Roadhouse fundraiser supporting Bogan Elementary** on Thursday, February 12th from 3pm-10pm. Dine-in or carry-out available at the Hamilton location (1558 Main St, Hamilton, OH - 513-894-7427)",
+        "location": "Texas Roadhouse, 1558 Main St, Hamilton, OH"
+      }
+    ]
+  },
+  {
+    "title": "Butler County Cold Weather Warming Centers",
+    "block_id": "bwk8x8y5ub-bccy5ywh6f",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/0c31/34a2d7aa7a568333edcfa02dbc2d92e1.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/udj0s7-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-01-30T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Around \n\nTalawanda\n\nAround Talawanda",
+        "id": "bwk8x8y5ub"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/0c31/34a2d7aa7a568333edcfa02dbc2d92e1.jpeg",
+        "id": "bccy5ywh6f"
+      }
+    ],
+    "hash": "bwk8x8y5ub-bccy5ywh6f",
+    "summary": "Due to extreme cold temperatures from January 27th – February 3rd, 2026, several locations in Butler County are serving as **Warming Centers**. Check https://www.lanelpl.org/ and https://www.midpointelibrary.org/ for library operating times. **City of Monroe Police Department** at 601 South Main Street is **open 24 hours**. All warming center locations include multiple libraries and community centers with varying hours throughout the week.",
+    "event_info": [
+      {
+        "title": "Butler County Warming Centers Open",
+        "start": "2026-01-27T00:00:00",
+        "end": "2026-02-03T23:59:00",
+        "description": "Due to extreme cold temperatures from January 27th – February 3rd, 2026, several locations in Butler County are serving as **Warming Centers**. Check https://www.lanelpl.org/ and https://www.midpointe",
+        "location": "Multiple locations across Butler County, OH"
+      }
+    ]
+  },
+  {
     "title": "LIFES Mentorship Program Information",
     "block_id": "bjqvo7kz71-byyvvzusfu",
     "content": "",
@@ -662,87 +765,5 @@
         "location": "Redlife Coffee, 22 N College Ave, Oxford, OH"
       }
     ]
-  },
-  {
-    "title": "Camp Invention Summer Program at Marshall Elementary",
-    "block_id": "bwk8x8y5ub-b7d4ejj1aa",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/9879/3b793090d2bb70b1eb292df181bb0061.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/nq1yb-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2025-11-21T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Around \n\nTalawanda\n\nAround Talawanda",
-        "id": "bwk8x8y5ub"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/9879/3b793090d2bb70b1eb292df181bb0061.jpeg",
-        "id": "b7d4ejj1aa"
-      }
-    ],
-    "hash": "bwk8x8y5ub-b7d4ejj1aa",
-    "summary": "**Camp Invention** summer program is coming to Marshall Elementary School (3260 Oxford Millville Road, Oxford, OH) for students entering grades K-6th. The program runs **June 8-12, 2026** from **9:00 AM to 3:30 PM** daily. Cost is **$285** (before discounts), with various promo codes available (save $20-$40 with codes FUN20, FUN25, or TRILESSON). Payment plans available through 4/9/2026. Register at **invent.org/claxxv** or call **800-968-4332**. Sibling discounts are also available at INVENT.ORG/SIBLING.",
-    "event_info": [
-      {
-        "title": "Camp Invention Summer Program",
-        "start": "2026-06-08T09:00:00",
-        "end": "2026-06-12T15:30:00",
-        "description": "**Camp Invention** summer program is coming to Marshall Elementary School (3260 Oxford Millville Road, Oxford, OH) for students entering grades K-6th. The program runs **June 8-12, 2026** from **9:00 ",
-        "location": "Marshall Elementary School, 3260 Oxford Millville Road, Oxford, OH 45056"
-      }
-    ]
-  },
-  {
-    "title": "RAH Cart Volunteers Needed by PTG",
-    "block_id": "bpx42aowpj-b9moiccbh8",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/e144/723b24904c6c1efdc6a7fe9365b9be48.png"
-    ],
-    "source_url": "https://app.smore.com/n/gvx2zu-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2025-11-14T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PTG \n\nCorner\n\nPTG Corner",
-        "id": "bpx42aowpj"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/e144/723b24904c6c1efdc6a7fe9365b9be48.png",
-        "id": "b9moiccbh8"
-      }
-    ],
-    "hash": "bpx42aowpj-b9moiccbh8",
-    "summary": "The PTG is seeking **RAH Cart volunteers** to help distribute prizes once a month on Friday mornings. Interested volunteers should email **BoganPTG@gmail.com** to participate in this monthly recognition program."
-  },
-  {
-    "title": "Lost and Found Reminder",
-    "block_id": "bjqvo7kz71-b7suj6dsz8",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/59vme-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2025-11-07T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Around \n\nBogan\n\nAround Bogan",
-        "id": "bjqvo7kz71"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "zoom_out_map\n            \nLost and Found\nOur lost and found is filling up! Please encourage your student to visit the lost and found if they have misplaced a lunchbox or article of clothing. Any items not claimed by winter break will be donated.Also, please make sure your child's name is written on the tag so that we can ensure lost items get back to students. Thank you!",
-        "id": "b7suj6dsz8"
-      }
-    ],
-    "hash": "bjqvo7kz71-b7suj6dsz8",
-    "summary": "The **lost and found is filling up** with lunchboxes and clothing. Students should check for their missing items, and **any unclaimed items will be donated after winter break**. Parents are asked to **label their child's belongings with their name** to help return lost items."
   }
 ]

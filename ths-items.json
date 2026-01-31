@@ -661,45 +661,6 @@
     "summary": "Talawanda High School has announced its **Second Quarter Honor Roll** for students who achieved a **GPA of 3.5 or higher**. The honor roll includes hundreds of students across all grade levels. Additionally, **21 students** were named to the **Butler Tech Honor Roll** for the second quarter, also achieving a 3.5 GPA or higher in their technical programs."
   },
   {
-    "title": "Senior Cap and Gown Orders Now Available",
-    "block_id": "byprck4e3v-bb2jg9348k-bahpip8prm",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/4e2f/a3183352bc2fb265d031e522c7170507.png"
-    ],
-    "source_url": "https://app.smore.com/n/62kp3",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-01-09T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "SENIORS\n\nSENIORS",
-        "id": "byprck4e3v"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/4e2f/a3183352bc2fb265d031e522c7170507.png",
-        "id": "bb2jg9348k"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "To order click here",
-        "id": "bahpip8prm"
-      }
-    ],
-    "hash": "byprck4e3v-bb2jg9348k-bahpip8prm",
-    "summary": "**Jostens cap and gown orders** are now open for the Class of 2026. Order online at [jostens.com](https://www.jostens.com) or during in-school ordering at lunch (dates TBD). **Deadline to order is December 6, 2025** to receive items within 10 business days. The \"Mascot Package\" includes cap, rental gown, tassel, and stole for **$54.95** (or $66.69 after 12/6/25). Gowns are rentals and must be returned after graduation. Contact tannerj@jostens.com or call (513) 561-3225 with questions. **Custom class rings also available.**",
-    "event_info": [
-      {
-        "title": "Senior Cap and Gown Order Deadline",
-        "start": "2025-12-06T00:00:00",
-        "end": "2025-12-06T23:59:00",
-        "description": "**Jostens cap and gown orders** are now open for the Class of 2026. Order online at [jostens.com](https://www.jostens.com) or during in-school ordering at lunch (dates TBD). **Deadline to order is Dec",
-        "location": "Online at jostens.com or Talawanda High School"
-      }
-    ]
-  },
-  {
     "title": "Health Reminder for Flu Season",
     "block_id": "bk8gizguu7-bj1d5phbur",
     "content": "",
@@ -808,6 +769,45 @@
     ],
     "hash": "bc39ui2yc2",
     "summary": "Community flyers are now available for viewing. **[Click here to access the community flyers](https://www.talawanda.org/o/ths/page/community-flyers)** for information about local programs, activities, and resources."
+  },
+  {
+    "title": "Senior Cap and Gown Orders Now Available",
+    "block_id": "byprck4e3v-bb2jg9348k-bahpip8prm",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/4e2f/a3183352bc2fb265d031e522c7170507.png"
+    ],
+    "source_url": "https://app.smore.com/n/62kp3",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-01-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "SENIORS\n\nSENIORS",
+        "id": "byprck4e3v"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/4e2f/a3183352bc2fb265d031e522c7170507.png",
+        "id": "bb2jg9348k"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "To order click here",
+        "id": "bahpip8prm"
+      }
+    ],
+    "hash": "byprck4e3v-bb2jg9348k-bahpip8prm",
+    "summary": "**Jostens cap and gown orders** are now open for the Class of 2026. Order online at [jostens.com](https://www.jostens.com) or during in-school ordering at lunch (dates TBD). **Deadline to order is December 6, 2025** to receive items within 10 business days. The \"Mascot Package\" includes cap, rental gown, tassel, and stole for **$54.95** (or $66.69 after 12/6/25). Gowns are rentals and must be returned after graduation. Contact tannerj@jostens.com or call (513) 561-3225 with questions. **Custom class rings also available.**",
+    "event_info": [
+      {
+        "title": "Senior Cap and Gown Order Deadline",
+        "start": "2025-12-06T00:00:00",
+        "end": "2025-12-06T23:59:00",
+        "description": "**Jostens cap and gown orders** are now open for the Class of 2026. Order online at [jostens.com](https://www.jostens.com) or during in-school ordering at lunch (dates TBD). **Deadline to order is Dec",
+        "location": "Online at jostens.com or Talawanda High School"
+      }
+    ]
   },
   {
     "title": "Costa Rica Trip Information Meeting",
