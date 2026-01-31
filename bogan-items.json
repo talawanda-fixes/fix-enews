@@ -221,40 +221,6 @@
     "summary": "Due to uncertainty around SNAP benefits in November, Talawanda is sharing food resource options:\n\n- **Little Free Pantry**: Located outside main entrance at Bogan, restocked daily\n- **Backpack Program**: Small bag of food sent home with students every Thursday\n- **Family Food Boxes**: Can be picked up or delivered to your home within 24 hours\n- **Community Pantries**: Additional resources linked in original post\n\nFor help accessing these resources, contact Emily, Bogan Social Worker at **513-273-3403** or **whitee@talawanda.org**"
   },
   {
-    "title": "Butler County Warming Centers Open",
-    "block_id": "bwk8x8y5ub-b0263bv24x",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/e135/bfaf67de8dfe6ff1c66f8659b12fdb12.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/8hc52-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-01-16T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Around \n\nTalawanda\n\nAround Talawanda",
-        "id": "bwk8x8y5ub"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/e135/bfaf67de8dfe6ff1c66f8659b12fdb12.jpeg",
-        "id": "b0263bv24x"
-      }
-    ],
-    "hash": "bwk8x8y5ub-b0263bv24x",
-    "summary": "**Butler County Emergency Management Agency** has designated warming centers across the county for extreme cold temperatures from **January 17-21, 2026**. Multiple MidPointe Library locations and the City of Monroe Police Department will be open with varying hours. Most library locations are closed on January 19th. The **City of Monroe Police Department** at 601 South Main Street, Monroe, OH 45050 is **open 24 hours**. For more information, visit ema.bcohio.gov.",
-    "event_info": [
-      {
-        "title": "Butler County Warming Centers Open",
-        "start": "2026-01-17T00:00:00",
-        "end": "2026-01-21T23:59:00",
-        "description": "**Butler County Emergency Management Agency** has designated warming centers across the county for extreme cold temperatures from **January 17-21, 2026**. Multiple MidPointe Library locations and the ",
-        "location": "Multiple locations across Butler County, Ohio"
-      }
-    ]
-  },
-  {
     "title": "Talawanda Preschool Application Lottery 2026-2027",
     "block_id": "bdxzx86ijl",
     "content": "",
@@ -325,6 +291,40 @@
         "end": "2026-01-31T20:00:00",
         "description": "The **Mother/Son Luau** is on **Saturday, January 31, 2026, from 6-8 PM** at Kramer Elementary School Gym. Tickets are **$10 per person** and can be purchased online via Venmo at https://forms.gle/F6L",
         "location": "Kramer Elementary School Gym"
+      }
+    ]
+  },
+  {
+    "title": "Butler County Warming Centers Open",
+    "block_id": "bwk8x8y5ub-b0263bv24x",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/e135/bfaf67de8dfe6ff1c66f8659b12fdb12.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/8hc52-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-01-16T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Around \n\nTalawanda\n\nAround Talawanda",
+        "id": "bwk8x8y5ub"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/e135/bfaf67de8dfe6ff1c66f8659b12fdb12.jpeg",
+        "id": "b0263bv24x"
+      }
+    ],
+    "hash": "bwk8x8y5ub-b0263bv24x",
+    "summary": "**Butler County Emergency Management Agency** has designated warming centers across the county for extreme cold temperatures from **January 17-21, 2026**. Multiple MidPointe Library locations and the City of Monroe Police Department will be open with varying hours. Most library locations are closed on January 19th. The **City of Monroe Police Department** at 601 South Main Street, Monroe, OH 45050 is **open 24 hours**. For more information, visit ema.bcohio.gov.",
+    "event_info": [
+      {
+        "title": "Butler County Warming Centers Open",
+        "start": "2026-01-17T00:00:00",
+        "end": "2026-01-21T23:59:00",
+        "description": "**Butler County Emergency Management Agency** has designated warming centers across the county for extreme cold temperatures from **January 17-21, 2026**. Multiple MidPointe Library locations and the ",
+        "location": "Multiple locations across Butler County, Ohio"
       }
     ]
   },
