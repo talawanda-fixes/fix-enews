@@ -1,5 +1,206 @@
 [
   {
+    "title": "Club Meetings and Valentine's Fundraiser Week",
+    "block_id": "b16db8wtno-bhmk3vsme3-bjmlsokh5r",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/defkn",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-02-06T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "CLUB \n\nMEETINGS\n\nCLUB MEETINGS",
+        "id": "b16db8wtno"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Monday, February 9thDiversity Club 2:30 - 3:15 PM, room 400Setting Stone 2:30 - 3:30 PM, room 320Tribune 2:30 - 3:30 PM, room 315Tuesday, February 10thArt Club 2:30 - 3:30 PM, room 603Diversity Club 2:30 - 3:15 PM, room 400Mock Trial 5:00 - 7:00 PM, room 315Wednesday, February 11th Robotics Club 2:30 - 3:30 PM, room 412 - Working on robots and discussing the STEM projectsThursday, February 12thChess Club/Game Club 2:30 - 3:30 PM, room 603 - includes board games & card games! Join us!Mock Trial 5:00 - 7:00 PM, room 315Project Green 2:30 - 3:30 PM, room 224 All are welcome!Friday, February 13thDrama 2:30 - 5:30 PM, PACDON'T FORGET!!Diversity Club will be selling Valentine's during lunch on February 10th - 12th. The cost is $2 and they will be delivered on Feb 13th during Tutorial. All proceeds will benefit our local food pantry TOPPs.LOOKING AHEADFriday, February 27th - 7:30 - 9:30 PM - Setting Stone Coffee House, THS Cafeteria",
+        "id": "bhmk3vsme3"
+      },
+      {
+        "type": "items",
+        "content": "zoom_out_map",
+        "id": "bjmlsokh5r"
+      }
+    ],
+    "hash": "b16db8wtno-bhmk3vsme3-bjmlsokh5r",
+    "summary": "**Club meetings** are scheduled throughout the week of February 9-13, including Diversity Club, Setting Stone, Tribune, Art Club, Mock Trial, Robotics Club, Chess/Game Club, Project Green, and Drama. **Diversity Club is selling Valentine's for $2** during lunch February 10-12, with delivery on February 13 during Tutorial (proceeds benefit TOPPs food pantry). **Setting Stone Coffee House** event coming February 27, 7:30-9:30 PM in the THS Cafeteria.",
+    "event_info": [
+      {
+        "title": "Diversity Club Meeting",
+        "start": "2026-02-09T14:30:00",
+        "end": "2026-02-09T15:15:00",
+        "description": "**Club meetings** are scheduled throughout the week of February 9-13, including Diversity Club, Setting Stone, Tribune, Art Club, Mock Trial, Robotics Club, Chess/Game Club, Project Green, and Drama. ",
+        "location": "Room 400"
+      },
+      {
+        "title": "Setting Stone Meeting",
+        "start": "2026-02-09T14:30:00",
+        "end": "2026-02-09T15:30:00",
+        "description": "**Club meetings** are scheduled throughout the week of February 9-13, including Diversity Club, Setting Stone, Tribune, Art Club, Mock Trial, Robotics Club, Chess/Game Club, Project Green, and Drama. ",
+        "location": "Room 320"
+      },
+      {
+        "title": "Tribune Meeting",
+        "start": "2026-02-09T14:30:00",
+        "end": "2026-02-09T15:30:00",
+        "description": "**Club meetings** are scheduled throughout the week of February 9-13, including Diversity Club, Setting Stone, Tribune, Art Club, Mock Trial, Robotics Club, Chess/Game Club, Project Green, and Drama. ",
+        "location": "Room 315"
+      },
+      {
+        "title": "Art Club Meeting",
+        "start": "2026-02-10T14:30:00",
+        "end": "2026-02-10T15:30:00",
+        "description": "**Club meetings** are scheduled throughout the week of February 9-13, including Diversity Club, Setting Stone, Tribune, Art Club, Mock Trial, Robotics Club, Chess/Game Club, Project Green, and Drama. ",
+        "location": "Room 603"
+      },
+      {
+        "title": "Diversity Club Meeting",
+        "start": "2026-02-10T14:30:00",
+        "end": "2026-02-10T15:15:00",
+        "description": "**Club meetings** are scheduled throughout the week of February 9-13, including Diversity Club, Setting Stone, Tribune, Art Club, Mock Trial, Robotics Club, Chess/Game Club, Project Green, and Drama. ",
+        "location": "Room 400"
+      },
+      {
+        "title": "Mock Trial",
+        "start": "2026-02-10T17:00:00",
+        "end": "2026-02-10T19:00:00",
+        "description": "**Club meetings** are scheduled throughout the week of February 9-13, including Diversity Club, Setting Stone, Tribune, Art Club, Mock Trial, Robotics Club, Chess/Game Club, Project Green, and Drama. ",
+        "location": "Room 315"
+      },
+      {
+        "title": "Diversity Club Valentine's Sale",
+        "start": "2026-02-10T00:00:00",
+        "end": "2026-02-10T23:59:00",
+        "description": "**Club meetings** are scheduled throughout the week of February 9-13, including Diversity Club, Setting Stone, Tribune, Art Club, Mock Trial, Robotics Club, Chess/Game Club, Project Green, and Drama. ",
+        "location": "Talawanda High School (during lunch)"
+      },
+      {
+        "title": "Robotics Club Meeting",
+        "start": "2026-02-11T14:30:00",
+        "end": "2026-02-11T15:30:00",
+        "description": "**Club meetings** are scheduled throughout the week of February 9-13, including Diversity Club, Setting Stone, Tribune, Art Club, Mock Trial, Robotics Club, Chess/Game Club, Project Green, and Drama. ",
+        "location": "Room 412"
+      },
+      {
+        "title": "Diversity Club Valentine's Sale",
+        "start": "2026-02-11T00:00:00",
+        "end": "2026-02-11T23:59:00",
+        "description": "**Club meetings** are scheduled throughout the week of February 9-13, including Diversity Club, Setting Stone, Tribune, Art Club, Mock Trial, Robotics Club, Chess/Game Club, Project Green, and Drama. ",
+        "location": "Talawanda High School (during lunch)"
+      },
+      {
+        "title": "Chess Club/Game Club Meeting",
+        "start": "2026-02-12T14:30:00",
+        "end": "2026-02-12T15:30:00",
+        "description": "**Club meetings** are scheduled throughout the week of February 9-13, including Diversity Club, Setting Stone, Tribune, Art Club, Mock Trial, Robotics Club, Chess/Game Club, Project Green, and Drama. ",
+        "location": "Room 603"
+      },
+      {
+        "title": "Mock Trial",
+        "start": "2026-02-12T17:00:00",
+        "end": "2026-02-12T19:00:00",
+        "description": "**Club meetings** are scheduled throughout the week of February 9-13, including Diversity Club, Setting Stone, Tribune, Art Club, Mock Trial, Robotics Club, Chess/Game Club, Project Green, and Drama. ",
+        "location": "Room 315"
+      },
+      {
+        "title": "Project Green Meeting",
+        "start": "2026-02-12T14:30:00",
+        "end": "2026-02-12T15:30:00",
+        "description": "**Club meetings** are scheduled throughout the week of February 9-13, including Diversity Club, Setting Stone, Tribune, Art Club, Mock Trial, Robotics Club, Chess/Game Club, Project Green, and Drama. ",
+        "location": "Room 224"
+      },
+      {
+        "title": "Diversity Club Valentine's Sale",
+        "start": "2026-02-12T00:00:00",
+        "end": "2026-02-12T23:59:00",
+        "description": "**Club meetings** are scheduled throughout the week of February 9-13, including Diversity Club, Setting Stone, Tribune, Art Club, Mock Trial, Robotics Club, Chess/Game Club, Project Green, and Drama. ",
+        "location": "Talawanda High School (during lunch)"
+      },
+      {
+        "title": "Drama Meeting",
+        "start": "2026-02-13T14:30:00",
+        "end": "2026-02-13T17:30:00",
+        "description": "**Club meetings** are scheduled throughout the week of February 9-13, including Diversity Club, Setting Stone, Tribune, Art Club, Mock Trial, Robotics Club, Chess/Game Club, Project Green, and Drama. ",
+        "location": "PAC"
+      },
+      {
+        "title": "Valentine's Delivery",
+        "start": "2026-02-13T00:00:00",
+        "end": "2026-02-13T23:59:00",
+        "description": "**Club meetings** are scheduled throughout the week of February 9-13, including Diversity Club, Setting Stone, Tribune, Art Club, Mock Trial, Robotics Club, Chess/Game Club, Project Green, and Drama. ",
+        "location": "Talawanda High School (during Tutorial)"
+      },
+      {
+        "title": "Setting Stone Coffee House",
+        "start": "2026-02-27T19:30:00",
+        "end": "2026-02-27T21:30:00",
+        "description": "**Club meetings** are scheduled throughout the week of February 9-13, including Diversity Club, Setting Stone, Tribune, Art Club, Mock Trial, Robotics Club, Chess/Game Club, Project Green, and Drama. ",
+        "location": "THS Cafeteria"
+      },
+      {
+        "title": "Diversity Club Valentine's Sale Fundraiser",
+        "start": "2026-02-10T00:00:00",
+        "end": "2026-02-12T23:59:00",
+        "description": "**Club meetings** are scheduled throughout the week of February 9-13, including Diversity Club, Setting Stone, Tribune, Art Club, Mock Trial, Robotics Club, Chess/Game Club, Project Green, and Drama. ",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Kiwanis Chili Supper Fundraiser at THS",
+    "block_id": "bk8gizguu7-b5iwmy87at",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/bc8c/6e36de41727b39dc30fe51e2e331628d.png"
+    ],
+    "source_url": "https://app.smore.com/n/defkn",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-02-06T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "COMMUNITY \n\nINFORMATION\n\nCOMMUNITY INFORMATION",
+        "id": "bk8gizguu7"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/bc8c/6e36de41727b39dc30fe51e2e331628d.png",
+        "id": "b5iwmy87at"
+      }
+    ],
+    "hash": "bk8gizguu7-b5iwmy87at",
+    "summary": "The Kiwanis Club of Oxford is hosting an **all-you-can-eat Chili Supper** on **Thursday, February 26, 2026** from **5:00-7:00 PM** at the **Talawanda High School Cafeteria**. The meal includes a variety of chili soups with crackers and cheese, cornbread, coleslaw, dessert, and drinks. Attendees can vote for their favorite chili. **Suggested donations**: Adults $10, Children (6-11) $7, 5-and-under free. Tickets are available from Kiwanis members or at the door. Proceeds support children in the Oxford community.",
+    "event_info": [
+      {
+        "title": "Kiwanis Chili Supper Fundraiser",
+        "start": "2026-02-26T17:00:00",
+        "end": "2026-02-26T19:00:00",
+        "description": "The Kiwanis Club of Oxford is hosting an **all-you-can-eat Chili Supper** on **Thursday, February 26, 2026** from **5:00-7:00 PM** at the **Talawanda High School Cafeteria**. The meal includes a varie",
+        "location": "Talawanda High School Cafeteria"
+      }
+    ]
+  },
+  {
+    "title": "Flu and Seasonal Illness Health Reminder",
+    "block_id": "bj1d5phbur",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/defkn",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-02-06T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "HEALTH AND WELLNESS\nHealth Reminder: Flu and Seasonal IllnessWe are seeing an increase in flu and seasonal illnesses at school. To help prevent the spread ofillness, please keep your child home if they have a fever (100°F or higher), vomiting or diarrhea,significant cough, sore throat with fever, body aches, extreme fatigue, or flu-like symptoms.Students should be fever-free for 24 hours without medication and symptom-free for 24 hoursafter vomiting or diarrhea before returning to school. Thank you for helping keep our schoolcommunity healthy.",
+        "id": "bj1d5phbur"
+      }
+    ],
+    "hash": "bj1d5phbur",
+    "summary": "The school is experiencing an increase in flu and seasonal illnesses. **Keep your child home** if they have: fever (100°F or higher), vomiting or diarrhea, significant cough, sore throat with fever, body aches, extreme fatigue, or flu-like symptoms. Students must be **fever-free for 24 hours without medication** and **symptom-free for 24 hours** after vomiting or diarrhea before returning to school."
+  },
+  {
     "title": "Quarter 3 Parent-Teacher Conferences",
     "block_id": "bl58yqcjv2-b4pdrzlo39",
     "content": "",
@@ -806,223 +1007,6 @@
         "end": "2025-12-06T23:59:00",
         "description": "**Jostens cap and gown orders** are now open for the Class of 2026. Order online at [jostens.com](https://www.jostens.com) or during in-school ordering at lunch (dates TBD). **Deadline to order is Dec",
         "location": "Online at jostens.com or Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Costa Rica Trip Information Meeting",
-    "block_id": "beg2fgtv9b-bhi4om00j0-bzyj2ppusq",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/7dd7/f16e395d013d2abb91041de8eb4899ab.png"
-    ],
-    "source_url": "https://app.smore.com/n/62kp3",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-01-09T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "FCCLA\n\nFCCLA",
-        "id": "beg2fgtv9b"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/7dd7/f16e395d013d2abb91041de8eb4899ab.png",
-        "id": "bhi4om00j0"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Is your student interested in adventure, wildlife, ziplining, volcanoes, and exploring another culture? Mrs. Croucher is hosting a trip to Costa Rica in June 2027 with EF Tours!Come to a parent informational meeting on Wednesday, January 21st @6:30 in Room 611. If you can't make it, RSVP to get updates and information.If Costa Rica is on your bucket list, don’t miss it!https://rsvp.eftours.com/5cjgbka",
-        "id": "bzyj2ppusq"
-      }
-    ],
-    "hash": "beg2fgtv9b-bhi4om00j0-bzyj2ppusq",
-    "summary": "**FCCLA is organizing a trip to Costa Rica in June 2027** with EF Tours, featuring adventure activities, wildlife viewing, ziplining, volcanoes, and cultural exploration. An informational meeting for parents and students will be held **Wednesday, January 21st at 6:30 PM in Room 611**. If you cannot attend, you can [RSVP online](https://rsvp.eftours.com/5cjgbka) to receive updates and information.",
-    "event_info": [
-      {
-        "title": "Costa Rica Trip Information Meeting",
-        "start": "2026-01-21T18:30:00",
-        "end": "2026-01-21T19:30:00",
-        "description": "**FCCLA is organizing a trip to Costa Rica in June 2027** with EF Tours, featuring adventure activities, wildlife viewing, ziplining, volcanoes, and cultural exploration. An informational meeting for ",
-        "location": "Room 611"
-      }
-    ]
-  },
-  {
-    "title": "Weekly Club Meeting Schedule and Events",
-    "block_id": "b16db8wtno-bhmk3vsme3",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/62kp3",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-01-09T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "CLUB \n\nMEETINGS\n\nCLUB MEETINGS",
-        "id": "b16db8wtno"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Sunday, January 11thMock Trial at UCMonday, January 12thDiversity Club 2:30 - 3:30 PM, room 400Robotics 2:30 - 3:30 PM, room 412Setting Stone 2:30 - 3:30 PM, room 320Tribune 2:30 - 3:30 PM, room 315Tuesday, January 13thArt Club 2:30 - 3:30 PM, room 603Diversity Club 2:30 - 3:30 PM, room 400Mock Trial 5:00 - 7:00 PM, room 315Robotics 2:30 - 3:30 PM, room 412Wednesday, January 14thRobotics 2:30 - 3:30 PM, room 412Thursday, January 15thChess Club 2:30 - 3:30 PM, room 603Mock Trial 5:00 - 7:00 PM, room 315Project Green 2:30 - 3:30 PM, room 224 All are welcome!Friday, January 16thDrama 2:30 - 5:30 PM, PACSaturday, January 17thRobotics Competition in Lebanon - all members should register on the first website. See Ms. Schran with any questions.ON THE HORIZONTuesday, January 27th - Diversity Club will meet at Kofenya after schoolFriday, February 27th - 7:30 - 9:30 PM - Setting Stone Coffee House, THS Cafeteria",
-        "id": "bhmk3vsme3"
-      }
-    ],
-    "hash": "b16db8wtno-bhmk3vsme3",
-    "summary": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 PM, room 315). **Robotics** has a competition in Lebanon on Saturday (registration required). Upcoming events include **Diversity Club at Kofenya** on January 27th and **Setting Stone Coffee House** on February 27th (7:30-9:30 PM, THS Cafeteria).",
-    "event_info": [
-      {
-        "title": "Mock Trial at UC",
-        "start": "2026-01-11T00:00:00",
-        "end": "2026-01-11T01:00:00",
-        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
-        "location": "UC"
-      },
-      {
-        "title": "Diversity Club Meeting",
-        "start": "2026-01-12T14:30:00",
-        "end": "2026-01-12T15:30:00",
-        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
-        "location": "Room 400, Talawanda High School"
-      },
-      {
-        "title": "Robotics Meeting",
-        "start": "2026-01-12T14:30:00",
-        "end": "2026-01-12T15:30:00",
-        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
-        "location": "Room 412, Talawanda High School"
-      },
-      {
-        "title": "Setting Stone Meeting",
-        "start": "2026-01-12T14:30:00",
-        "end": "2026-01-12T15:30:00",
-        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
-        "location": "Room 320, Talawanda High School"
-      },
-      {
-        "title": "Tribune Meeting",
-        "start": "2026-01-12T14:30:00",
-        "end": "2026-01-12T15:30:00",
-        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
-        "location": "Room 315, Talawanda High School"
-      },
-      {
-        "title": "Art Club Meeting",
-        "start": "2026-01-13T14:30:00",
-        "end": "2026-01-13T15:30:00",
-        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
-        "location": "Room 603, Talawanda High School"
-      },
-      {
-        "title": "Diversity Club Meeting",
-        "start": "2026-01-13T14:30:00",
-        "end": "2026-01-13T15:30:00",
-        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
-        "location": "Room 400, Talawanda High School"
-      },
-      {
-        "title": "Mock Trial Meeting",
-        "start": "2026-01-13T17:00:00",
-        "end": "2026-01-13T19:00:00",
-        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
-        "location": "Room 315, Talawanda High School"
-      },
-      {
-        "title": "Robotics Meeting",
-        "start": "2026-01-13T14:30:00",
-        "end": "2026-01-13T15:30:00",
-        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
-        "location": "Room 412, Talawanda High School"
-      },
-      {
-        "title": "Robotics Meeting",
-        "start": "2026-01-14T14:30:00",
-        "end": "2026-01-14T15:30:00",
-        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
-        "location": "Room 412, Talawanda High School"
-      },
-      {
-        "title": "Chess Club Meeting",
-        "start": "2026-01-15T14:30:00",
-        "end": "2026-01-15T15:30:00",
-        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
-        "location": "Room 603, Talawanda High School"
-      },
-      {
-        "title": "Mock Trial Meeting",
-        "start": "2026-01-15T17:00:00",
-        "end": "2026-01-15T19:00:00",
-        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
-        "location": "Room 315, Talawanda High School"
-      },
-      {
-        "title": "Project Green Meeting",
-        "start": "2026-01-15T14:30:00",
-        "end": "2026-01-15T15:30:00",
-        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
-        "location": "Room 224, Talawanda High School"
-      },
-      {
-        "title": "Drama Meeting",
-        "start": "2026-01-16T14:30:00",
-        "end": "2026-01-16T17:30:00",
-        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
-        "location": "PAC, Talawanda High School"
-      },
-      {
-        "title": "Robotics Competition in Lebanon",
-        "start": "2026-01-17T00:00:00",
-        "end": "2026-01-17T23:59:00",
-        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
-        "location": "Lebanon"
-      },
-      {
-        "title": "Diversity Club at Kofenya",
-        "start": "2026-01-27T14:30:00",
-        "end": "2026-01-27T15:30:00",
-        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
-        "location": "Kofenya"
-      },
-      {
-        "title": "Setting Stone Coffee House",
-        "start": "2026-02-27T00:00:00",
-        "end": "2026-02-27T01:00:00",
-        "description": "Multiple clubs are meeting the week of January 11-17, with most sessions running **2:30-3:30 PM** in various rooms. **Mock Trial** meets at UC on Sunday, plus Tuesday and Thursday evenings (5:00-7:00 ",
-        "location": ""
-      }
-    ]
-  },
-  {
-    "title": "Senior Scholarship Booklets Available - Due 12/19",
-    "block_id": "bgdjvjhtzu-bzlacz5fg1",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/3ba5/eb5a2b7835c2c43cd3600fdd32c710a4.png"
-    ],
-    "source_url": "https://app.smore.com/n/28u76",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2025-12-05T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "SCHOOL \n\nCOUNSELING\n\nSCHOOL COUNSELING",
-        "id": "bgdjvjhtzu"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/3ba5/eb5a2b7835c2c43cd3600fdd32c710a4.png",
-        "id": "bzlacz5fg1"
-      }
-    ],
-    "hash": "bgdjvjhtzu-bzlacz5fg1",
-    "summary": "**Seniors:** Scholarship booklets for Talawanda High School Local Scholarships and The Oxford Community Foundation scholarships are now available. **Completed packets are due Thursday, December 19th by 3:00 PM.** Drop off all completed materials to Mrs. Sens in the Counseling Office.",
-    "event_info": [
-      {
-        "title": "Scholarship Booklets Due to Mrs. Sens",
-        "start": "2025-12-19T15:00:00",
-        "end": "2025-12-19T15:00:00",
-        "description": "**Seniors:** Scholarship booklets for Talawanda High School Local Scholarships and The Oxford Community Foundation scholarships are now available. **Completed packets are due Thursday, December 19th b",
-        "location": "Counseling Office - Mrs. Sens, Talawanda High School"
       }
     ]
   }

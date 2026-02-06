@@ -1,5 +1,102 @@
 [
   {
+    "title": "FCCLA Meeting - New Club Starting",
+    "block_id": "bzkmgcsk36-byvdgcg45a",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/c082/6e5cba40c10c108c2369ea2ea3f030b6.png"
+    ],
+    "source_url": "https://app.smore.com/n/8b4p5-kindness-counts?ref=email",
+    "source_title": "Kindness Counts! | Smore Newsletters for Education",
+    "date": "2026-02-06T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "New \n\nClub \n\nStarting!\n\nNew Club Starting!",
+        "id": "bzkmgcsk36"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/c082/6e5cba40c10c108c2369ea2ea3f030b6.png",
+        "id": "byvdgcg45a"
+      }
+    ],
+    "hash": "bzkmgcsk36-byvdgcg45a",
+    "summary": "The FCCLA (Family, Career and Community Leaders of America) club meets on the **2nd Wednesday of each month from 2:15pm-3:15pm in Ms. Thomaswick's Room**. The club is sponsored by Talawanda/BT FCCLA and has been **TSD approved for distribution**. \n\nUpcoming meeting dates:\n- February 11\n- March 11\n- April 8\n- May 13",
+    "event_info": [
+      {
+        "title": "FCCLA Meeting",
+        "start": "2026-02-11T14:15:00",
+        "end": "2026-02-11T15:15:00",
+        "description": "The FCCLA (Family, Career and Community Leaders of America) club meets on the **2nd Wednesday of each month from 2:15pm-3:15pm in Ms. Thomaswick's Room**. The club is sponsored by Talawanda/BT FCCLA a",
+        "location": "Ms. Thomaswick's Room"
+      },
+      {
+        "title": "FCCLA Meeting",
+        "start": "2026-03-11T14:15:00",
+        "end": "2026-03-11T15:15:00",
+        "description": "The FCCLA (Family, Career and Community Leaders of America) club meets on the **2nd Wednesday of each month from 2:15pm-3:15pm in Ms. Thomaswick's Room**. The club is sponsored by Talawanda/BT FCCLA a",
+        "location": "Ms. Thomaswick's Room"
+      },
+      {
+        "title": "FCCLA Meeting",
+        "start": "2026-04-08T14:15:00",
+        "end": "2026-04-08T15:15:00",
+        "description": "The FCCLA (Family, Career and Community Leaders of America) club meets on the **2nd Wednesday of each month from 2:15pm-3:15pm in Ms. Thomaswick's Room**. The club is sponsored by Talawanda/BT FCCLA a",
+        "location": "Ms. Thomaswick's Room"
+      },
+      {
+        "title": "FCCLA Meeting",
+        "start": "2026-05-13T14:15:00",
+        "end": "2026-05-13T15:15:00",
+        "description": "The FCCLA (Family, Career and Community Leaders of America) club meets on the **2nd Wednesday of each month from 2:15pm-3:15pm in Ms. Thomaswick's Room**. The club is sponsored by Talawanda/BT FCCLA a",
+        "location": "Ms. Thomaswick's Room"
+      }
+    ]
+  },
+  {
+    "title": "Cookie Dough Fundraiser Sale",
+    "block_id": "bhr8j92nq7-bmwr897kvo-b5wbf0c2p8-bxnfkacbb2",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/8b4p5-kindness-counts?ref=email",
+    "source_title": "Kindness Counts! | Smore Newsletters for Education",
+    "date": "2026-02-06T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Cookie \n\nDough \n\nSale!!!\n\nCookie Dough Sale!!!",
+        "id": "bhr8j92nq7"
+      },
+      {
+        "type": "text.title",
+        "content": "February \n\n6th \n\n- \n\n26th\n\nFebruary 6th - 26th",
+        "id": "bmwr897kvo"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Use this LINK for the information!",
+        "id": "b5wbf0c2p8"
+      },
+      {
+        "type": "text.title",
+        "content": "Use \n\nthis \n\nLINK \n\nfor \n\nthe \n\nSale \n\nBrochure!\n\nUse this LINK for the Sale Brochure!",
+        "id": "bxnfkacbb2"
+      }
+    ],
+    "hash": "bhr8j92nq7-bmwr897kvo-b5wbf0c2p8-bxnfkacbb2",
+    "summary": "Cookie dough fundraiser sale running **February 6th through 26th**. Information and sale brochure available through provided links. Support the school by purchasing cookie dough during this three-week sale period.",
+    "event_info": [
+      {
+        "title": "Cookie Dough Sale",
+        "start": "2026-02-06T00:00:00",
+        "end": "2026-02-26T23:59:00",
+        "description": "Cookie dough fundraiser sale running **February 6th through 26th**. Information and sale brochure available through provided links. Support the school by purchasing cookie dough during this three-week",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
     "title": "Spirit Wear Sale - Save Up to 25%",
     "block_id": "bhf5xe6l1c-b6booo9jcr",
     "content": "",
@@ -810,66 +907,6 @@
         "end": "2025-11-22T23:59:00",
         "description": "**20% off sitewide** on Talawanda spirit wear for holiday gift shopping. Special promotion: **All Under Armour items 30% off until midnight Saturday** (November 22nd) featuring Talawanda Middle School",
         "location": "Online at 1stplace.sale/71854"
-      }
-    ]
-  },
-  {
-    "title": "Office Procedures for Absences and Medical Forms",
-    "block_id": "bnc1gtpj1c-b9o9nyf6yg",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/tz2a5-crisp-air-good-news?ref=email",
-    "source_title": "Crisp Air & Good News | Smore Newsletters for Education",
-    "date": "2025-11-14T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "NOTES \n\nFROM \n\nTHE \n\nOFFICE\n\nNOTES FROM THE OFFICE",
-        "id": "bnc1gtpj1c"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "If your student will be out of school for multiple days; sickness, vacation, injury, etc. and would like to get work for your student. Please let the office or teacher know about your request a few days in advance. Calling the day prior to your departure is not enough time to obtain all of the work that will be missed.When your student has medical forms that need to be completed by a teacher (Vanderbilt Forms) please do not hand them directly to the teachers. Please give them to the guidance counselors to distribute. This will make the process much more efficient. The counselors will collect them and send them directly to the doctor's office for you prior to your students appointment.Thank you so much for your help in these matters.",
-        "id": "b9o9nyf6yg"
-      }
-    ],
-    "hash": "bnc1gtpj1c-b9o9nyf6yg",
-    "summary": "**Two important office procedures for families:**\n- **Homework requests for absences**: If your student will miss multiple days of school (illness, vacation, injury), request work from the office or teachers **several days in advance**—calling the day before is not sufficient time.\n- **Medical forms (Vanderbilt Forms)**: Submit medical forms that need teacher completion to the **guidance counselors**, not directly to teachers. Counselors will distribute them to teachers and send completed forms directly to the doctor's office before appointments."
-  },
-  {
-    "title": "Butter Braid and Pie Pick Up Correction",
-    "block_id": "bpdqshm9h6-b8j0hdckhe-br9lzkx3y0",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/tz2a5-crisp-air-good-news?ref=email",
-    "source_title": "Crisp Air & Good News | Smore Newsletters for Education",
-    "date": "2025-11-14T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "ATTENTION!    \n\nATTENTION!\n\nATTENTION!    ATTENTION!",
-        "id": "bpdqshm9h6"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "ON THE BUTTER BRAID AND PIE PICK UP FORM THE INCORRECT PICK UP DATE WAS PUBLISHED!THE CORRECT PICK UP DATE IS",
-        "id": "b8j0hdckhe"
-      },
-      {
-        "type": "text.title",
-        "content": "TUESDAY, \n\nNOVEMBER \n\n18TH  \n\n2:30 \n\n- \n\n6:30PM\n\nTUESDAY, NOVEMBER 18TH  2:30 - 6:30PM",
-        "id": "br9lzkx3y0"
-      }
-    ],
-    "hash": "bpdqshm9h6-b8j0hdckhe-br9lzkx3y0",
-    "summary": "**Important correction:** The Butter Braid and Pie pick up date was incorrectly published. The **correct pick up date is Tuesday, November 18th from 2:30-6:30 PM**. Please note this corrected date and time for picking up your orders.",
-    "event_info": [
-      {
-        "title": "Butter Braid and Pie Pick Up",
-        "start": "2025-11-18T14:30:00",
-        "end": "2025-11-18T18:30:00",
-        "description": "**Important correction:** The Butter Braid and Pie pick up date was incorrectly published. The **correct pick up date is Tuesday, November 18th from 2:30-6:30 PM**. Please note this corrected date and",
-        "location": "Talawanda High School"
       }
     ]
   }
