@@ -357,51 +357,6 @@
     ]
   },
   {
-    "title": "Mother Son Dance at Kramer Elementary",
-    "block_id": "bisgsi05ub-bo5h5uq1m4-bg8khv5fp9-bchiugrwan",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/61c0/1a4f60e7043c72494e5961f2b833b1e1.png",
-      "https://cdn.smore.com/u/0309/fbf816e605feee0018681f2e989a493a.png"
-    ],
-    "source_url": "https://app.smore.com/n/e14tj",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-01-23T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "AROUND \n\nTHE \n\nCOMMUNITY \n\nAROUND THE COMMUNITY",
-        "id": "bisgsi05ub"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/61c0/1a4f60e7043c72494e5961f2b833b1e1.png",
-        "id": "bo5h5uq1m4"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/0309/fbf816e605feee0018681f2e989a493a.png",
-        "id": "bg8khv5fp9"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Join us for the Mother Son Dance at Kramer on January 31. You can now purchase your tickets online via Venmo or at the door! https://forms.gle/F6LjTsLgHj2WWnMk6.",
-        "id": "bchiugrwan"
-      }
-    ],
-    "hash": "bisgsi05ub-bo5h5uq1m4-bg8khv5fp9-bchiugrwan",
-    "summary": "**Kramer Elementary is hosting a Mother Son Dance (luau theme) on Saturday, January 31, 2026, from 6-8 PM.** Tickets are $10 per person and can be purchased online via Venmo (https://forms.gle/F6LjTsLgHj2WWnMk6) or at the door. The event is open to all elementary-aged students in the Talawanda school district with a parent/guardian. Features include snacks, a photo booth, balloons, and dance competitions (flossing, freeze dance, break dance, limbo, mother son dance) starting at approximately 6:30 PM. This is a fundraiser by the Kramer PTG.",
-    "event_info": [
-      {
-        "title": "Mother Son Dance at Kramer Elementary",
-        "start": "2026-01-31T18:00:00",
-        "end": "2026-01-31T20:00:00",
-        "description": "**Kramer Elementary is hosting a Mother Son Dance (luau theme) on Saturday, January 31, 2026, from 6-8 PM.** Tickets are $10 per person and can be purchased online via Venmo (https://forms.gle/F6LjTsL",
-        "location": "Kramer Elementary School Gym"
-      }
-    ]
-  },
-  {
     "title": "Bus Drivers Needed for Talawanda Schools",
     "block_id": "bengnv62ui-b01f2tmehl",
     "content": "",
@@ -448,6 +403,51 @@
     ],
     "hash": "b4w6vps7hi-bwisw9ob89",
     "summary": "Access the **Community Events & Flyers Page** for information about community activities and announcements. Contact information provided for Marshall Elementary in Oxford, Ohio, available at **www.talawanda.org** and on Twitter **@TSDMarshall**."
+  },
+  {
+    "title": "Mother Son Dance at Kramer Elementary",
+    "block_id": "bisgsi05ub-bo5h5uq1m4-bg8khv5fp9-bchiugrwan",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/61c0/1a4f60e7043c72494e5961f2b833b1e1.png",
+      "https://cdn.smore.com/u/0309/fbf816e605feee0018681f2e989a493a.png"
+    ],
+    "source_url": "https://app.smore.com/n/e14tj",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-01-23T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "AROUND \n\nTHE \n\nCOMMUNITY \n\nAROUND THE COMMUNITY",
+        "id": "bisgsi05ub"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/61c0/1a4f60e7043c72494e5961f2b833b1e1.png",
+        "id": "bo5h5uq1m4"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/0309/fbf816e605feee0018681f2e989a493a.png",
+        "id": "bg8khv5fp9"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Join us for the Mother Son Dance at Kramer on January 31. You can now purchase your tickets online via Venmo or at the door! https://forms.gle/F6LjTsLgHj2WWnMk6.",
+        "id": "bchiugrwan"
+      }
+    ],
+    "hash": "bisgsi05ub-bo5h5uq1m4-bg8khv5fp9-bchiugrwan",
+    "summary": "**Kramer Elementary is hosting a Mother Son Dance (luau theme) on Saturday, January 31, 2026, from 6-8 PM.** Tickets are $10 per person and can be purchased online via Venmo (https://forms.gle/F6LjTsLgHj2WWnMk6) or at the door. The event is open to all elementary-aged students in the Talawanda school district with a parent/guardian. Features include snacks, a photo booth, balloons, and dance competitions (flossing, freeze dance, break dance, limbo, mother son dance) starting at approximately 6:30 PM. This is a fundraiser by the Kramer PTG.",
+    "event_info": [
+      {
+        "title": "Mother Son Dance at Kramer Elementary",
+        "start": "2026-01-31T18:00:00",
+        "end": "2026-01-31T20:00:00",
+        "description": "**Kramer Elementary is hosting a Mother Son Dance (luau theme) on Saturday, January 31, 2026, from 6-8 PM.** Tickets are $10 per person and can be purchased online via Venmo (https://forms.gle/F6LjTsL",
+        "location": "Kramer Elementary School Gym"
+      }
+    ]
   },
   {
     "title": "Cold Weather Preparations and Warming Centers",

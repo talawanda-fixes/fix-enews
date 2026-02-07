@@ -235,49 +235,6 @@
     ]
   },
   {
-    "title": "Class of 2026 Honors Recognition",
-    "block_id": "b4wngp2w7w-bo9mg17e9b-bb0vrcbgno-bqzk724coo-bccylshxgt",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/2215/75cbb9d16dbb72898cfed1f16629e9e4.png",
-      "https://cdn.smore.com/u/ae99/e37a57665692230f51e2e0487eee87e3.png",
-      "https://cdn.smore.com/u/c97b/4e0ffc68eacfde0feaca6dde69f5cb3f.png",
-      "https://cdn.smore.com/u/b665/e831b2ea504fbd889911e5634017acbc.png"
-    ],
-    "source_url": "https://app.smore.com/n/j67px",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-01-30T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "CLASS OF 2026\nMake sure you check out the Honors Diploma and Latin Honors lists below. If you think you have met the requirements and do not see your name, see your school counselor ASAP!",
-        "id": "b4wngp2w7w"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/2215/75cbb9d16dbb72898cfed1f16629e9e4.png",
-        "id": "bo9mg17e9b"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/ae99/e37a57665692230f51e2e0487eee87e3.png",
-        "id": "bb0vrcbgno"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/c97b/4e0ffc68eacfde0feaca6dde69f5cb3f.png",
-        "id": "bqzk724coo"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/b665/e831b2ea504fbd889911e5634017acbc.png",
-        "id": "bccylshxgt"
-      }
-    ],
-    "hash": "b4wngp2w7w-bo9mg17e9b-bb0vrcbgno-bqzk724coo-bccylshxgt",
-    "summary": "**Class of 2026** students should review the Honors Diploma and Latin Honors lists. The lists include:\n- **Summa Cum Laude** recipients (4.2 GPA or higher): 37 students including Sadie Abbitt, John Larson, Katelyn Bulanda, and others\n- **Magna Cum Laude** recipients (4.0-4.199 GPA): 27 students including Jake Barkhuizen, Mila Misco, and others\n- **Cum Laude** recipients (3.8-3.99 GPA): 22 students including Channing Adkins, Chase Anderson, and others\n- **Ohio Honors Diploma** recipients: 35 students led by Halle Sutter\n\nIf you believe you met the requirements but don't see your name, contact your school counselor immediately."
-  },
-  {
     "title": "Senior Cap and Gown Orders",
     "block_id": "byprck4e3v-bw6yzupmn3",
     "content": "",
@@ -340,6 +297,81 @@
         "location": "Talawanda High School"
       }
     ]
+  },
+  {
+    "title": "10th Grade Scheduling Event",
+    "block_id": "bwl8bjnvcf-b4lrd61xty",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/j67px",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-01-30T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Calendar\n\nCalendar",
+        "id": "bwl8bjnvcf"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Friday, February 6th - 10th grade scheduling",
+        "id": "b4lrd61xty"
+      }
+    ],
+    "hash": "bwl8bjnvcf-b4lrd61xty",
+    "summary": "**10th grade scheduling** will take place on **Friday, February 6th**. Students in 10th grade should be prepared to complete their scheduling for the upcoming academic year on this date.",
+    "event_info": [
+      {
+        "title": "10th Grade Scheduling",
+        "start": "2026-02-06T00:00:00",
+        "end": "2026-02-06T23:59:00",
+        "description": "**10th grade scheduling** will take place on **Friday, February 6th**. Students in 10th grade should be prepared to complete their scheduling for the upcoming academic year on this date.",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Class of 2026 Honors Recognition",
+    "block_id": "b4wngp2w7w-bo9mg17e9b-bb0vrcbgno-bqzk724coo-bccylshxgt",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/2215/75cbb9d16dbb72898cfed1f16629e9e4.png",
+      "https://cdn.smore.com/u/ae99/e37a57665692230f51e2e0487eee87e3.png",
+      "https://cdn.smore.com/u/c97b/4e0ffc68eacfde0feaca6dde69f5cb3f.png",
+      "https://cdn.smore.com/u/b665/e831b2ea504fbd889911e5634017acbc.png"
+    ],
+    "source_url": "https://app.smore.com/n/j67px",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-01-30T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "CLASS OF 2026\nMake sure you check out the Honors Diploma and Latin Honors lists below. If you think you have met the requirements and do not see your name, see your school counselor ASAP!",
+        "id": "b4wngp2w7w"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/2215/75cbb9d16dbb72898cfed1f16629e9e4.png",
+        "id": "bo9mg17e9b"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/ae99/e37a57665692230f51e2e0487eee87e3.png",
+        "id": "bb0vrcbgno"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/c97b/4e0ffc68eacfde0feaca6dde69f5cb3f.png",
+        "id": "bqzk724coo"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/b665/e831b2ea504fbd889911e5634017acbc.png",
+        "id": "bccylshxgt"
+      }
+    ],
+    "hash": "b4wngp2w7w-bo9mg17e9b-bb0vrcbgno-bqzk724coo-bccylshxgt",
+    "summary": "**Class of 2026** students should review the Honors Diploma and Latin Honors lists. The lists include:\n- **Summa Cum Laude** recipients (4.2 GPA or higher): 37 students including Sadie Abbitt, John Larson, Katelyn Bulanda, and others\n- **Magna Cum Laude** recipients (4.0-4.199 GPA): 27 students including Jake Barkhuizen, Mila Misco, and others\n- **Cum Laude** recipients (3.8-3.99 GPA): 22 students including Channing Adkins, Chase Anderson, and others\n- **Ohio Honors Diploma** recipients: 35 students led by Halle Sutter\n\nIf you believe you met the requirements but don't see your name, contact your school counselor immediately."
   },
   {
     "title": "Weekly Club Meetings and Upcoming Events",
@@ -535,38 +567,6 @@
         "end": "2026-01-31T00:59:00",
         "description": "**Enrollment is now open for FCCLA's Costa Rica trip in Summer 2027.** The trip includes exploring rainforests and spotting wildlife. Secure your spot with just $95 down, and **enroll by January 30 at",
         "location": "Online at www.eftours.com/3008612UY"
-      }
-    ]
-  },
-  {
-    "title": "10th Grade Scheduling Event",
-    "block_id": "bwl8bjnvcf-b4lrd61xty",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/j67px",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-01-30T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Calendar\n\nCalendar",
-        "id": "bwl8bjnvcf"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Friday, February 6th - 10th grade scheduling",
-        "id": "b4lrd61xty"
-      }
-    ],
-    "hash": "bwl8bjnvcf-b4lrd61xty",
-    "summary": "**10th grade scheduling** will take place on **Friday, February 6th**. Students in 10th grade should be prepared to complete their scheduling for the upcoming academic year on this date.",
-    "event_info": [
-      {
-        "title": "10th Grade Scheduling",
-        "start": "2026-02-06T00:00:00",
-        "end": "2026-02-06T23:59:00",
-        "description": "**10th grade scheduling** will take place on **Friday, February 6th**. Students in 10th grade should be prepared to complete their scheduling for the upcoming academic year on this date.",
-        "location": "Talawanda High School"
       }
     ]
   },
@@ -862,29 +862,6 @@
     "summary": "Talawanda High School has announced its **Second Quarter Honor Roll** for students who achieved a **GPA of 3.5 or higher**. The honor roll includes hundreds of students across all grade levels. Additionally, **21 students** were named to the **Butler Tech Honor Roll** for the second quarter, also achieving a 3.5 GPA or higher in their technical programs."
   },
   {
-    "title": "Health Reminder for Flu Season",
-    "block_id": "bk8gizguu7-bj1d5phbur",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/62kp3",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-01-09T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "COMMUNITY \n\nINFORMATION\n\nCOMMUNITY INFORMATION",
-        "id": "bk8gizguu7"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "HEALTH AND WELLNESS\nHealth Reminder: Flu and Seasonal IllnessWe are seeing an increase in flu and seasonal illnesses at school. To help prevent the spread ofillness, please keep your child home if they have a fever (100°F or higher), vomiting or diarrhea,significant cough, sore throat with fever, body aches, extreme fatigue, or flu-like symptoms.Students should be fever-free for 24 hours without medication and symptom-free for 24 hoursafter vomiting or diarrhea before returning to school. Thank you for helping keep our schoolcommunity healthy.",
-        "id": "bj1d5phbur"
-      }
-    ],
-    "hash": "bk8gizguu7-bj1d5phbur",
-    "summary": "**Flu and seasonal illnesses are increasing at school.** Please keep students home if they have a fever (100°F or higher), vomiting, diarrhea, significant cough, sore throat with fever, body aches, extreme fatigue, or flu-like symptoms. Students must be **fever-free for 24 hours without medication** and **symptom-free for 24 hours** after vomiting or diarrhea before returning to school."
-  },
-  {
     "title": "Food Resources Available for Families",
     "block_id": "bq8y3z8u66-bp4rqisieb-bun4gk72ra-blswo3w3vo",
     "content": "",
@@ -920,6 +897,47 @@
     "summary": "The Talawanda School District provides multiple food resources for families in need:\n- **Little Free Pantries** are available 24/7 outside every TSD building, restocked weekly\n- **Backpack Program** provides weekly food bags on Thursdays/Fridays at elementary buildings (contact building Social Worker)\n- **Emergency Food boxes** available for pick-up or delivery within 24 hours\n- Resources include a [calendar of community meals and TOPPS schedule](link), [list of all Butler County food pantries](link), and [SNAP information](link)"
   },
   {
+    "title": "Community Flyers Available Online",
+    "block_id": "bc39ui2yc2",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/62kp3",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-01-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "Please click here for Community Flyers",
+        "id": "bc39ui2yc2"
+      }
+    ],
+    "hash": "bc39ui2yc2",
+    "summary": "Community flyers are now available for viewing. **[Click here to access the community flyers](https://www.talawanda.org/o/ths/page/community-flyers)** for information about local programs, activities, and resources."
+  },
+  {
+    "title": "Health Reminder for Flu Season",
+    "block_id": "bk8gizguu7-bj1d5phbur",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/62kp3",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-01-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "COMMUNITY \n\nINFORMATION\n\nCOMMUNITY INFORMATION",
+        "id": "bk8gizguu7"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "HEALTH AND WELLNESS\nHealth Reminder: Flu and Seasonal IllnessWe are seeing an increase in flu and seasonal illnesses at school. To help prevent the spread ofillness, please keep your child home if they have a fever (100°F or higher), vomiting or diarrhea,significant cough, sore throat with fever, body aches, extreme fatigue, or flu-like symptoms.Students should be fever-free for 24 hours without medication and symptom-free for 24 hoursafter vomiting or diarrhea before returning to school. Thank you for helping keep our schoolcommunity healthy.",
+        "id": "bj1d5phbur"
+      }
+    ],
+    "hash": "bk8gizguu7-bj1d5phbur",
+    "summary": "**Flu and seasonal illnesses are increasing at school.** Please keep students home if they have a fever (100°F or higher), vomiting, diarrhea, significant cough, sore throat with fever, body aches, extreme fatigue, or flu-like symptoms. Students must be **fever-free for 24 hours without medication** and **symptom-free for 24 hours** after vomiting or diarrhea before returning to school."
+  },
+  {
     "title": "Preschool Application Lottery Opens for 2026/27",
     "block_id": "biuuv0myyv",
     "content": "",
@@ -952,24 +970,6 @@
         "location": "Talawanda Preschool"
       }
     ]
-  },
-  {
-    "title": "Community Flyers Available Online",
-    "block_id": "bc39ui2yc2",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/62kp3",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-01-09T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "Please click here for Community Flyers",
-        "id": "bc39ui2yc2"
-      }
-    ],
-    "hash": "bc39ui2yc2",
-    "summary": "Community flyers are now available for viewing. **[Click here to access the community flyers](https://www.talawanda.org/o/ths/page/community-flyers)** for information about local programs, activities, and resources."
   },
   {
     "title": "Senior Cap and Gown Orders Now Available",

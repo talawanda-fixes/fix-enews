@@ -97,31 +97,6 @@
     ]
   },
   {
-    "title": "Spirit Wear Sale - Save Up to 25%",
-    "block_id": "bhf5xe6l1c-b6booo9jcr",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/f5c0/626c2686ce947deef16ea46b098e6f7c.png"
-    ],
-    "source_url": "https://app.smore.com/n/967v0-february-already?ref=email",
-    "source_title": "February Already? | Smore Newsletters for Education",
-    "date": "2026-01-30T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/f5c0/626c2686ce947deef16ea46b098e6f7c.png",
-        "id": "bhf5xe6l1c"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Stock up on Talawanda Middle School spirit wear! The more you buy, the bigger your savings-up to 25% off! Save 15% when you buy 2 items. Save 20% when you buy 3 items. SAVE 25% OFF when you buy 4 items! Use code SPIRIT766 at checkout to apply your discount. Plus, receive FREE shipping on orders of $75 or more. Shop now during the perfect opportunity to stock up on Talawanda Middle School tees, hoodies, hats, accessories and more for the entire family. https://1stplace.sale/71854",
-        "id": "b6booo9jcr"
-      }
-    ],
-    "hash": "bhf5xe6l1c-b6booo9jcr",
-    "summary": "**Stock up on Talawanda Middle School spirit wear and save up to 25%!** Tiered discounts: 15% off 2 items, 20% off 3 items, and 25% off 4+ items. Use code **SPIRIT766** at checkout and get **free shipping on orders over $85**. Shop hoodies, tees, hats, and accessories at https://1stplace.sale/71854"
-  },
-  {
     "title": "Costa Rica 2027 Trip Enrollment Open",
     "block_id": "bdojxup4j5-bv5lcygbty",
     "content": "",
@@ -251,6 +226,31 @@
         "location": "Ross Middle School, 3425 Hamilton-Cleves Rd., Hamilton, OH 45013"
       }
     ]
+  },
+  {
+    "title": "Spirit Wear Sale - Save Up to 25%",
+    "block_id": "bhf5xe6l1c-b6booo9jcr",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/f5c0/626c2686ce947deef16ea46b098e6f7c.png"
+    ],
+    "source_url": "https://app.smore.com/n/967v0-february-already?ref=email",
+    "source_title": "February Already? | Smore Newsletters for Education",
+    "date": "2026-01-30T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/f5c0/626c2686ce947deef16ea46b098e6f7c.png",
+        "id": "bhf5xe6l1c"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Stock up on Talawanda Middle School spirit wear! The more you buy, the bigger your savings-up to 25% off! Save 15% when you buy 2 items. Save 20% when you buy 3 items. SAVE 25% OFF when you buy 4 items! Use code SPIRIT766 at checkout to apply your discount. Plus, receive FREE shipping on orders of $75 or more. Shop now during the perfect opportunity to stock up on Talawanda Middle School tees, hoodies, hats, accessories and more for the entire family. https://1stplace.sale/71854",
+        "id": "b6booo9jcr"
+      }
+    ],
+    "hash": "bhf5xe6l1c-b6booo9jcr",
+    "summary": "**Stock up on Talawanda Middle School spirit wear and save up to 25%!** Tiered discounts: 15% off 2 items, 20% off 3 items, and 25% off 4+ items. Use code **SPIRIT766** at checkout and get **free shipping on orders over $85**. Shop hoodies, tees, hats, and accessories at https://1stplace.sale/71854"
   },
   {
     "title": "Engineering/Coding Club Meeting Schedule",
