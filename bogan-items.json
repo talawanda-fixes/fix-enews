@@ -490,6 +490,36 @@
     ]
   },
   {
+    "title": "Food Resources Available for Students",
+    "block_id": "bh1mh3rers-b1dqxl9g73-brgbbrg4g9",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/91c4/7f211951aafdbe26e44049e2e6ce6543.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/js7y0-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-01-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Social \n\nWork \n\nSpotlight\n\nSocial Work Spotlight",
+        "id": "bh1mh3rers"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/91c4/7f211951aafdbe26e44049e2e6ce6543.jpeg",
+        "id": "b1dqxl9g73"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Please click the photo above for more Talawanda resources.",
+        "id": "brgbbrg4g9"
+      }
+    ],
+    "hash": "bh1mh3rers-b1dqxl9g73-brgbbrg4g9",
+    "summary": "Due to uncertainty with SNAP benefits in November, multiple food resources are available to students and families:\n- **Little Free Pantry**: Located outside main entrance at Bogan, restocked daily\n- **Backpack Program**: Small bag of food for students every Thursday\n- **Family Food Boxes**: Can be picked up or delivered within 24 hours\n- **Community Pantries**: Available via linked resources\n\nFor help accessing these options, contact Emily, Bogan Social Worker at 513-273-3403 or whitee@talawanda.org."
+  },
+  {
     "title": "Head Lice Prevention and Treatment Reminder",
     "block_id": "bfk3x3z2v4-bcrt7yqe5l",
     "content": "",
@@ -550,36 +580,6 @@
         "location": "Talawanda High School"
       }
     ]
-  },
-  {
-    "title": "Food Resources Available for Students",
-    "block_id": "bh1mh3rers-b1dqxl9g73-brgbbrg4g9",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/91c4/7f211951aafdbe26e44049e2e6ce6543.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/js7y0-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-01-09T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Social \n\nWork \n\nSpotlight\n\nSocial Work Spotlight",
-        "id": "bh1mh3rers"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/91c4/7f211951aafdbe26e44049e2e6ce6543.jpeg",
-        "id": "b1dqxl9g73"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Please click the photo above for more Talawanda resources.",
-        "id": "brgbbrg4g9"
-      }
-    ],
-    "hash": "bh1mh3rers-b1dqxl9g73-brgbbrg4g9",
-    "summary": "Due to uncertainty with SNAP benefits in November, multiple food resources are available to students and families:\n- **Little Free Pantry**: Located outside main entrance at Bogan, restocked daily\n- **Backpack Program**: Small bag of food for students every Thursday\n- **Family Food Boxes**: Can be picked up or delivered within 24 hours\n- **Community Pantries**: Available via linked resources\n\nFor help accessing these options, contact Emily, Bogan Social Worker at 513-273-3403 or whitee@talawanda.org."
   },
   {
     "title": "Talawanda Preschool Application Lottery 2026-2027",
