@@ -1,5 +1,192 @@
 [
   {
+    "title": "K-Mart Store Open Every Monday and Friday",
+    "block_id": "b6jxf1vp8d-bgfxt1k9q6",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/2934/842e4981997b8a9a8c69b9a394f236a5.png"
+    ],
+    "source_url": "https://app.smore.com/n/e0yz7",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-02-13T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "3rd \n\n- \n\n5th \n\nGrade \n\nEvent\n\n3rd - 5th Grade Event",
+        "id": "b6jxf1vp8d"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/2934/842e4981997b8a9a8c69b9a394f236a5.png",
+        "id": "bgfxt1k9q6"
+      }
+    ],
+    "hash": "b6jxf1vp8d-bgfxt1k9q6",
+    "summary": "The **K-Mart** student store is open **every Monday and Friday** from when you walk in until the bell rings. It is located on the balcony between 4th and 5th grade classrooms at **Kramer Elementary**. The store sells fidgets, snacks, and toys with all items priced at **one dollar**. The next opening is **February 9th** for 3rd-5th grade students.",
+    "event_info": [
+      {
+        "title": "K-Mart Store Opens (3rd-5th Grade)",
+        "start": "2026-02-09T00:00:00",
+        "end": "2026-02-09T01:00:00",
+        "description": "The **K-Mart** student store is open **every Monday and Friday** from when you walk in until the bell rings. It is located on the balcony between 4th and 5th grade classrooms at **Kramer Elementary**.",
+        "location": "Kramer Elementary, balcony between 4th and 5th grade"
+      }
+    ]
+  },
+  {
+    "title": "Girls on the Run Program",
+    "block_id": "bysm3lxyoy-bmk9uiptll",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/e0yz7",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-02-13T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Girls \n\non \n\nthe \n\nRun\n\nGirls on the Run",
+        "id": "bysm3lxyoy"
+      },
+      {
+        "type": "items",
+        "content": "zoom_out_map\n                \n\n\n\n\n\n\n\n\nzoom_out_map",
+        "id": "bmk9uiptll"
+      }
+    ],
+    "hash": "bysm3lxyoy-bmk9uiptll",
+    "summary": "**Girls on the Run** program is featured. No additional details, dates, times, or locations are provided in the newsletter item."
+  },
+  {
+    "title": "Reading Corner Newsletter on Decoding Skills",
+    "block_id": "ber66w8386-bn2pap4gkq",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/e0yz7",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-02-13T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Title \n\nTalk \n\nTitle Talk",
+        "id": "ber66w8386"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Title Talk Reading Corner February NewsletterWhat does decoding mean? A simple definition for decoding is recognizing letter sounds or patterns and blending them together to translate a written word into speech. Decoding is a foundational reading skill (phonics) that must be developed to begin successful reading with fluency. This process begins with students recognizing their letters and sounds then blending the sounds to speak the word, i.e., /c/ - /a/ - /t/ becomes cat.Here is an example of what happens when a student decodes a word:Recognizing letters and letter patterns (like b, sh, igh)Knowing the sounds they makeBlending those sounds together to read a wordActivities: Reading Rockets is a reputable research-based website for all things reading; and below are age-specific resources for decoding activities.Kindergarten: https://www.readingrockets.org/literacy-home/reading-101Kindergartener phonics and decoding activitiesFirst Grade:https://www.readingrockets.org/literacy-home/reading-101-guide-parents/your-first-grader/phonics-and-decoding-activitiesSecond Grade:https://www.readingrockets.org/literacy-home/reading-101-guide-parents/your-second-grader/phonics-and-decoding-activitiesThird Grade:Here is a video showing how a 3rd grade student uses syllables to decode longer words more easily.Questions or need help? Please reach out to your child's Reading Corner instructor; Mrs. Geshan, geshanc@talawanda.org, Mrs. Kobermann, kobermanc@talawanda.org, or Mrs. Walters, waltersh@talawanda.org.",
+        "id": "bn2pap4gkq"
+      }
+    ],
+    "hash": "ber66w8386-bn2pap4gkq",
+    "summary": "The February **Reading Corner Newsletter** explains decoding—the foundational reading skill of recognizing letter sounds and blending them to read words. The newsletter provides **grade-specific decoding activities** for Kindergarten through 3rd grade via Reading Rockets website links, including a video showing how 3rd graders use syllables to decode longer words. Parents can contact Mrs. Geshan (geshanc@talawanda.org), Mrs. Kobermann (kobermanc@talawanda.org), or Mrs. Walters (waltersh@talawanda.org) with questions."
+  },
+  {
+    "title": "Kramer Free Pantry Available to Students",
+    "block_id": "blqwkxb9tq-brwujkaymx-bx576e3ldv",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/e43f/73359dc655ec2964428fe8056ebd689e.png"
+    ],
+    "source_url": "https://app.smore.com/n/e0yz7",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-02-13T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "TALAWANDA \n\nFOOD \n\nRESOURCES\n\nTALAWANDA FOOD RESOURCES",
+        "id": "blqwkxb9tq"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/e43f/73359dc655ec2964428fe8056ebd689e.png",
+        "id": "brwujkaymx"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "OTHER TALAWANDA FREE RESOURCES\nSEE IMAGES BELOW FOR MORE INFORMATION",
+        "id": "bx576e3ldv"
+      }
+    ],
+    "hash": "blqwkxb9tq-brwujkaymx-bx576e3ldv",
+    "summary": "The **Kramer Free Pantry** is located at the entrance of Kramer and provides free food and hygiene items to all students. Available items include cereal, fruit, vegetables, peanut butter, spaghetti, mac and cheese, soup, shampoo, and toothbrushes. For questions, donations, or suggestions, contact **Chelsea Pike, Kramer Social Worker** at **513-273-3511** or **pikec@talawanda.org**."
+  },
+  {
+    "title": "Kramer PTG Events - Skate and Meeting",
+    "block_id": "b5m8132v16-bq41qx6dq1-bmudrwiscw",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/b047/63163abc157933baa8ef49902e778483.jpeg",
+      "https://cdn.smore.com/u/d342/83f115cde27a701c06ec2cfe787b1cfe.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/e0yz7",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-02-13T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PTG\n\nPTG",
+        "id": "b5m8132v16"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/b047/63163abc157933baa8ef49902e778483.jpeg",
+        "id": "bq41qx6dq1"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/d342/83f115cde27a701c06ec2cfe787b1cfe.jpeg",
+        "id": "bmudrwiscw"
+      }
+    ],
+    "hash": "b5m8132v16-bq41qx6dq1-bmudrwiscw",
+    "summary": "**Kramer Skate 2026** - Free ice skating event for Kramer students and families on **Saturday, February 28, 2026 from 1-3 PM** at Goggin Ice Center, B Pad. Ice skate rentals available for purchase. Sponsored by Brian Revalee, RE/MAX Alpha Real Estate.\n\n**Kramer PTG Meeting** on **Tuesday, March 3, 2026 at 7 PM** in the Kramer Art Room (in-person). Parents and teachers are encouraged to attend.",
+    "event_info": [
+      {
+        "title": "Kramer Skate 2026",
+        "start": "2026-02-28T13:00:00",
+        "end": "2026-02-28T15:00:00",
+        "description": "**Kramer Skate 2026** - Free ice skating event for Kramer students and families on **Saturday, February 28, 2026 from 1-3 PM** at Goggin Ice Center, B Pad. Ice skate rentals available for purchase. Sp",
+        "location": "Goggin Ice Center, B Pad"
+      },
+      {
+        "title": "Kramer PTG Meeting",
+        "start": "2026-03-03T19:00:00",
+        "end": "2026-03-03T20:00:00",
+        "description": "**Kramer Skate 2026** - Free ice skating event for Kramer students and families on **Saturday, February 28, 2026 from 1-3 PM** at Goggin Ice Center, B Pad. Ice skate rentals available for purchase. Sp",
+        "location": "Kramer Art Room"
+      }
+    ]
+  },
+  {
+    "title": "Read At Home Program and Kroger Rewards",
+    "block_id": "b4qrzpzg5c-bwulg9ornb-bncw8zzi9l",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/5d55/a63f84b2e902666f1b14cc2bc29060e8.png"
+    ],
+    "source_url": "https://app.smore.com/n/e0yz7",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-02-13T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "zoom_out_map\n            \nRead At Home\nKramer RAH (Reading At Home) is a voluntary program from K-2nd graders that builds a home-school connection by rewarding students for reading at home. Each week students record the books they've read and turn-in record sheets for rewards. Rewards alternate between a student selected book and a small prize.",
+        "id": "b4qrzpzg5c"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/5d55/a63f84b2e902666f1b14cc2bc29060e8.png",
+        "id": "bwulg9ornb"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "zoom_out_map\n            \nHave you connected your Kroger Rewards card to the Kramer PTG yet? Each account can be connected to ONE nonprofit. When you use this feature, Kroger donates a percentage of your expenses to our PTG. You just have to sign up once! https://www.kroger.com/i/community/community-rewards",
+        "id": "bncw8zzi9l"
+      }
+    ],
+    "hash": "b4qrzpzg5c-bwulg9ornb-bncw8zzi9l",
+    "summary": "**Read At Home (RAH)** is a voluntary program for K-2nd grade students at Kramer Elementary that encourages reading at home. Students record books they've read each week on a record sheet and turn it in for rewards, which alternate between a student-selected book and a small prize.\n\n**Kroger Community Rewards:** Connect your Kroger Rewards card to Kramer PTG (one nonprofit per account) and Kroger will donate a percentage of your purchases to the PTG. Sign up once at https://www.kroger.com/i/community/community-rewards"
+  },
+  {
     "title": "Principal's Weekly Update from Marshall",
     "block_id": "b1oohprvfy-bjpt0bmqce",
     "content": "",
@@ -588,311 +775,5 @@
     ],
     "hash": "b4w6vps7hi-bwisw9ob89",
     "summary": "Access the **Community Events & Flyers Page** by clicking the provided link to view community events and information. This page is maintained by **Marshall Elementary** in Oxford, Ohio, part of the Talawanda School District. Follow updates on Twitter **@TSDMarshall** or visit **www.talawanda.org**."
-  },
-  {
-    "title": "Understanding Decoding in Reading Development",
-    "block_id": "ber66w8386-bom0aaqo8c",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/c2df/0d03dac23609f5aba069e6657cd7952c.png"
-    ],
-    "source_url": "https://app.smore.com/n/h8u4e",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-01-30T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Title \n\nTalk \n\nTitle Talk",
-        "id": "ber66w8386"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/c2df/0d03dac23609f5aba069e6657cd7952c.png",
-        "id": "bom0aaqo8c"
-      }
-    ],
-    "hash": "ber66w8386-bom0aaqo8c",
-    "summary": "**Decoding** is a foundational reading skill where students recognize letter sounds and blend them together to translate written words into speech. The process involves recognizing letters and patterns (like *b*, *sh*, *igh*), knowing their sounds, and blending them to read words (e.g., /c/ - /a/ - /t/ becomes \"cat\"). \n\n**Reading Rockets** offers research-based decoding activities organized by grade level:\n- **Kindergarten**: [Phonics and decoding activities](https://www.readingrockets.org/literacy-home/reading-101Kindergartener phonics and decoding activities)\n- **First Grade**: [Phonics and decoding activities](https://www.readingrockets.org/literacy-home/reading-101-guide-parents/your-first-grader/phonics-and-decoding-activities)\n- **Second Grade**: [Phonics and decoding activities](https://www.readingrockets.org/literacy-home/reading-101-guide-parents/your-second-grader/phonics-and-decoding-activities)\n- **Third Grade**: A [video demonstration](https://www.readingrockets.org/literacy-home/reading-101-guide-parents/your-second-grader/phonics-and-decoding-activities) showing how 3rd graders use syllables to decode longer words"
-  },
-  {
-    "title": "PTG Events and Programs Update",
-    "block_id": "b5m8132v16-btylws4f7y-ben2cqkieg-benwybvosu-bp64rnfphc-bq41qx6dq1-bmudrwiscw-b4qrzpzg5c-bwulg9ornb-bncw8zzi9l",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/b2e4/f7e32ba38eab3499721764d88d02cdea.png",
-      "https://cdn.smore.com/u/f75c/6e2f48c85dfbdeb96f3a0a2f784f3913.png",
-      "https://cdn.smore.com/u/da79/59500fd71b21006d94cb412326d180e9.jpeg",
-      "https://cdn.smore.com/u/b047/63163abc157933baa8ef49902e778483.jpeg",
-      "https://cdn.smore.com/u/d342/83f115cde27a701c06ec2cfe787b1cfe.jpeg",
-      "https://cdn.smore.com/u/5d55/a63f84b2e902666f1b14cc2bc29060e8.png"
-    ],
-    "source_url": "https://app.smore.com/n/h8u4e",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-01-30T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PTG\n\nPTG",
-        "id": "b5m8132v16"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Dance Update:\nIt looks like we are going to have a great turnout at the Mother Son Dance on Saturday night at 6 pm. If you bought advanced sale tickets via Venmo and filled out the online form, then look for your electronic Mother Son Dance tickets in your email. If you haven't already bought a ticket, but still want to join us, you can pay at the door via cash, check or Venmo. It’s $10 per person.Note, if you paid by Venmo but can’t find the electronic ticket, then you can check in with the volunteers at the ticket booth. We'll have a list of all the tickets purchased in advance.",
-        "id": "btylws4f7y"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/b2e4/f7e32ba38eab3499721764d88d02cdea.png",
-        "id": "ben2cqkieg"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/f75c/6e2f48c85dfbdeb96f3a0a2f784f3913.png",
-        "id": "benwybvosu"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/da79/59500fd71b21006d94cb412326d180e9.jpeg",
-        "id": "bp64rnfphc"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/b047/63163abc157933baa8ef49902e778483.jpeg",
-        "id": "bq41qx6dq1"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/d342/83f115cde27a701c06ec2cfe787b1cfe.jpeg",
-        "id": "bmudrwiscw"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "zoom_out_map\n            \nRead At Home\nKramer RAH (Reading At Home) is a voluntary program from K-2nd graders that builds a home-school connection by rewarding students for reading at home. Each week students record the books they've read and turn-in record sheets for rewards. Rewards alternate between a student selected book and a small prize.",
-        "id": "b4qrzpzg5c"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/5d55/a63f84b2e902666f1b14cc2bc29060e8.png",
-        "id": "bwulg9ornb"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "zoom_out_map\n            \nHave you connected your Kroger Rewards card to the Kramer PTG yet? Each account can be connected to ONE nonprofit. When you use this feature, Kroger donates a percentage of your expenses to our PTG. You just have to sign up once! https://www.kroger.com/i/community/community-rewards",
-        "id": "bncw8zzi9l"
-      }
-    ],
-    "hash": "b5m8132v16-btylws4f7y-ben2cqkieg-benwybvosu-bp64rnfphc-bq41qx6dq1-bmudrwiscw-b4qrzpzg5c-bwulg9ornb-bncw8zzi9l",
-    "summary": "**Mother Son Luau Dance** is Saturday, January 31, 6-8 PM at Kramer Elementary School Gym ($10/person). Electronic tickets were emailed to advance purchasers; door payments accepted via cash, check, or Venmo. **Reading At Home (RAH)** program for K-2nd graders rewards students for reading at home with alternating prizes of books and small rewards. **Popcorn Fundraiser** runs February 4-8 via Double Good app (event code: ALNGTK). **Kramer Skate 2026** is February 28, 1-3 PM at Goggin Ice Center (free for Kramer families, skate rentals available). **PTG Meeting** is March 3, 7 PM in Kramer Art Room. Connect your **Kroger Rewards card** to Kramer PTG at https://www.kroger.com/i/community/community-rewards to donate a percentage of purchases.",
-    "event_info": [
-      {
-        "title": "Mother Son Luau Dance",
-        "start": "2026-01-31T18:00:00",
-        "end": "2026-01-31T20:00:00",
-        "description": "**Mother Son Luau Dance** is Saturday, January 31, 6-8 PM at Kramer Elementary School Gym ($10/person). Electronic tickets were emailed to advance purchasers; door payments accepted via cash, check, o",
-        "location": "Kramer Elementary School Gym"
-      },
-      {
-        "title": "Popcorn Fundraiser Sale Begins",
-        "start": "2026-02-04T17:00:00",
-        "end": "2026-02-04T18:00:00",
-        "description": "**Mother Son Luau Dance** is Saturday, January 31, 6-8 PM at Kramer Elementary School Gym ($10/person). Electronic tickets were emailed to advance purchasers; door payments accepted via cash, check, o",
-        "location": "Online via Double Good App"
-      },
-      {
-        "title": "Popcorn Fundraiser Sale Ends",
-        "start": "2026-02-08T17:00:00",
-        "end": "2026-02-08T18:00:00",
-        "description": "**Mother Son Luau Dance** is Saturday, January 31, 6-8 PM at Kramer Elementary School Gym ($10/person). Electronic tickets were emailed to advance purchasers; door payments accepted via cash, check, o",
-        "location": "Online via Double Good App"
-      },
-      {
-        "title": "Kramer Skate 2026",
-        "start": "2026-02-28T13:00:00",
-        "end": "2026-02-28T15:00:00",
-        "description": "**Mother Son Luau Dance** is Saturday, January 31, 6-8 PM at Kramer Elementary School Gym ($10/person). Electronic tickets were emailed to advance purchasers; door payments accepted via cash, check, o",
-        "location": "Goggin Ice Center, B Pad"
-      },
-      {
-        "title": "Kramer PTG Meeting",
-        "start": "2026-03-03T19:00:00",
-        "end": "2026-03-03T20:00:00",
-        "description": "**Mother Son Luau Dance** is Saturday, January 31, 6-8 PM at Kramer Elementary School Gym ($10/person). Electronic tickets were emailed to advance purchasers; door payments accepted via cash, check, o",
-        "location": "Kramer Art Room"
-      }
-    ]
-  },
-  {
-    "title": "Kindergarten Registration for Kramer Elementary",
-    "block_id": "b0irlb5ac3-bltsgwqfoj",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/0148/2270c35c048285fc9a9a58372daee555.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/dx0j7",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-01-23T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "KINDERGARTEN \n\nREGISTRATION \n\nKINDERGARTEN REGISTRATION",
-        "id": "b0irlb5ac3"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/0148/2270c35c048285fc9a9a58372daee555.jpeg",
-        "id": "bltsgwqfoj"
-      }
-    ],
-    "hash": "b0irlb5ac3-bltsgwqfoj",
-    "summary": "**Kramer Elementary** is holding kindergarten registration on **Friday, April 10, 2026**. Students must turn 5 years old by **August 19th** to be eligible. Parents should call the Kramer office starting **Monday, February 2nd** to set up an appointment at **513-273-3500**.",
-    "event_info": [
-      {
-        "title": "Kindergarten Registration at Kramer Elementary",
-        "start": "2026-04-10T00:00:00",
-        "end": "2026-04-10T23:59:00",
-        "description": "**Kramer Elementary** is holding kindergarten registration on **Friday, April 10, 2026**. Students must turn 5 years old by **August 19th** to be eligible. Parents should call the Kramer office starti",
-        "location": "Kramer Elementary"
-      }
-    ]
-  },
-  {
-    "title": "Community Page - Home Repair Grants Available",
-    "block_id": "bz46wtbjri-b4h0989yht-boer6vpg4l-bq1bxnionj",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/dx0j7",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-01-23T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "COMMUNITY \n\nPAGE\n\nCOMMUNITY PAGE",
-        "id": "bz46wtbjri"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "CLINK THE LINK BELOW TO SEE MORE COMMUNITY EVENTS ON THE TALAWANDA COMMUNITY PAGE! 🔽",
-        "id": "b4h0989yht"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "zoom_out_map\n            \nPEOPLE UNITED FOR SELF HELP\nPUSH provides grants to low-income homeowners in the Talawanda School District for critical and emergency home repairs. Call Jeanne or Sabrina at 513-523-8100 for more information. Application is attached. Http://www.push-oxford.org/",
-        "id": "bq1bxnionj"
-      }
-    ],
-    "hash": "bz46wtbjri-b4h0989yht-boer6vpg4l-bq1bxnionj",
-    "summary": "**People United for Self Help (PUSH)** provides grants to low-income homeowners in the Talawanda School District for critical and emergency home repairs. Contact Jeanne or Sabrina at **513-523-8100** for more information. More community events available at the [Talawanda Community Page](http://www.push-oxford.org/)."
-  },
-  {
-    "title": "Kramer PTG Programs and Fundraisers",
-    "block_id": "b5m8132v16-bbdo6xjjfw-bwn2tac2g8-bmudrwiscw-bq41qx6dq1-bp64rnfphc-b4qrzpzg5c-bwulg9ornb-bncw8zzi9l",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/40d6/3b1d072d5da687e545f4dc84f9869115.png",
-      "https://cdn.smore.com/u/d342/83f115cde27a701c06ec2cfe787b1cfe.jpeg",
-      "https://cdn.smore.com/u/b047/63163abc157933baa8ef49902e778483.jpeg",
-      "https://cdn.smore.com/u/da79/59500fd71b21006d94cb412326d180e9.jpeg",
-      "https://cdn.smore.com/u/5d55/a63f84b2e902666f1b14cc2bc29060e8.png"
-    ],
-    "source_url": "https://app.smore.com/n/dx0j7",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-01-23T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PTG\n\nPTG",
-        "id": "b5m8132v16"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/40d6/3b1d072d5da687e545f4dc84f9869115.png",
-        "id": "bbdo6xjjfw"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/d342/83f115cde27a701c06ec2cfe787b1cfe.jpeg",
-        "id": "bmudrwiscw"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/b047/63163abc157933baa8ef49902e778483.jpeg",
-        "id": "bq41qx6dq1"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/da79/59500fd71b21006d94cb412326d180e9.jpeg",
-        "id": "bp64rnfphc"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "zoom_out_map\n            \nRead At Home\nKramer RAH (Reading At Home) is a voluntary program from K-2nd graders that builds a home-school connection by rewarding students for reading at home. Each week students record the books they've read and turn-in record sheets for rewards. Rewards alternate between a student selected book and a small prize.",
-        "id": "b4qrzpzg5c"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/5d55/a63f84b2e902666f1b14cc2bc29060e8.png",
-        "id": "bwulg9ornb"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "zoom_out_map\n            \nHave you connected your Kroger Rewards card to the Kramer PTG yet? Each account can be connected to ONE nonprofit. When you use this feature, Kroger donates a percentage of your expenses to our PTG. You just have to sign up once! https://www.kroger.com/i/community/community-rewards",
-        "id": "bncw8zzi9l"
-      }
-    ],
-    "hash": "b5m8132v16-bbdo6xjjfw-bwn2tac2g8-bmudrwiscw-bq41qx6dq1-bp64rnfphc-b4qrzpzg5c-bwulg9ornb-bncw8zzi9l",
-    "summary": "**Reading At Home (RAH)** is a voluntary program for K-2nd graders that rewards students for reading at home. Students record books weekly and turn in record sheets for rewards (alternating between a student-selected book and small prizes).\n\n**Kroger Community Rewards**: Link your Kroger Rewards card to Kramer PTG at https://www.kroger.com/i/community/community-rewards and Kroger will donate a percentage of your purchases to the PTG. Sign up once per account.\n\n**Upcoming Events:**\n- **Mother-Son Dance**: January 31, 2026, 6-8 PM at Kramer Elementary (luau theme, $10/person, includes snacks, photo booth, balloons, dance competition)\n- **Popcorn Fundraiser**: February 4-8, 2026 via Double Good app (event code: ALNGTK)\n- **Kramer Skate**: February 28, 2026, 1-3 PM at Goggin Ice Center B Pad (free for Kramer families, sponsored by Brian Revalee, RE/MAX Alpha Real Estate)\n- **PTG Meeting**: March 3, 2026, 7 PM in Kramer Art Room",
-    "event_info": [
-      {
-        "title": "Mother-Son Dance (Luau Theme)",
-        "start": "2026-01-31T18:00:00",
-        "end": "2026-01-31T20:00:00",
-        "description": "**Reading At Home (RAH)** is a voluntary program for K-2nd graders that rewards students for reading at home. Students record books weekly and turn in record sheets for rewards (alternating between a ",
-        "location": "Kramer Elementary"
-      },
-      {
-        "title": "Kramer PTG Popcorn Fundraiser (4-Day Sale)",
-        "start": "2026-02-04T17:00:00",
-        "end": "2026-02-08T17:00:00",
-        "description": "**Reading At Home (RAH)** is a voluntary program for K-2nd graders that rewards students for reading at home. Students record books weekly and turn in record sheets for rewards (alternating between a ",
-        "location": "Online (Double Good App)"
-      },
-      {
-        "title": "Kramer Skate Event",
-        "start": "2026-02-28T13:00:00",
-        "end": "2026-02-28T15:00:00",
-        "description": "**Reading At Home (RAH)** is a voluntary program for K-2nd graders that rewards students for reading at home. Students record books weekly and turn in record sheets for rewards (alternating between a ",
-        "location": "Goggin Ice Center - B Pad"
-      },
-      {
-        "title": "Kramer PTG Meeting",
-        "start": "2026-03-03T19:00:00",
-        "end": "2026-03-03T20:00:00",
-        "description": "**Reading At Home (RAH)** is a voluntary program for K-2nd graders that rewards students for reading at home. Students record books weekly and turn in record sheets for rewards (alternating between a ",
-        "location": "Kramer Art Room"
-      }
-    ]
-  },
-  {
-    "title": "Lost and Found Items Available for Pickup",
-    "block_id": "ban7wu1q79-bb7q5bdg34-b9rttv7qvy-b3ezgmpwsd",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/hcskyd",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-01-16T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "LOST \n\nAND \n\nFOUND\n\nLOST AND FOUND",
-        "id": "ban7wu1q79"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Student government has done a fantastic job organizing and numbering our lost and found! See the PDF below and if you see something that belongs to your student, fill out the Google form and we can get the item to you!",
-        "id": "bb7q5bdg34"
-      }
-    ],
-    "hash": "ban7wu1q79-bb7q5bdg34-b9rttv7qvy-b3ezgmpwsd",
-    "summary": "Student government has organized and numbered all **lost and found items**. Parents can view a PDF catalog of items and fill out a **Google form** to request their student's belongings for pickup. Each item has been assigned a number for easy identification."
   }
 ]
