@@ -547,38 +547,6 @@
     ]
   },
   {
-    "title": "ACT Test Day for Juniors Only",
-    "block_id": "b69w622pha-bvf7lelz7n",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/j67px",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-01-30T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "ACT \n\nDAY\n\nACT DAY",
-        "id": "b69w622pha"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "ACT TEST-JUNIORS ONLY\nJust a reminder for THS families that on Wednesday, February 25th, 11th-grade students will be taking the ACT Test at the high school. On this day, ONLY 11th-grade students will report to school on the testing day. All other students (9th, 10th, and 12th grade) will not be reporting to school on this day. 11th graders will report by 7:50am to find their testing location. Most students will finish testing between 11:30am - 12:00pm and will need to be picked up at that time. Some students may take a little bit longer to finish. Please mark this down on your calendar.",
-        "id": "bvf7lelz7n"
-      }
-    ],
-    "hash": "b69w622pha-bvf7lelz7n",
-    "summary": "**Wednesday, February 25th** is ACT Test Day for 11th-grade students only at Talawanda High School. **Only juniors** should report to school that day; 9th, 10th, and 12th graders will not attend. Juniors must arrive by **7:50am** to find their testing location and will finish between **11:30am-12:00pm** (some may take longer) and need to be picked up at that time.",
-    "event_info": [
-      {
-        "title": "ACT Test Day - Juniors Only",
-        "start": "2026-02-25T07:50:00",
-        "end": "2026-02-25T12:00:00",
-        "description": "**Wednesday, February 25th** is ACT Test Day for 11th-grade students only at Talawanda High School. **Only juniors** should report to school that day; 9th, 10th, and 12th graders will not attend. Juni",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
     "title": "10th Grade Scheduling Event",
     "block_id": "bwl8bjnvcf-b4lrd61xty",
     "content": "",
@@ -606,6 +574,38 @@
         "start": "2026-02-06T00:00:00",
         "end": "2026-02-06T23:59:00",
         "description": "**10th grade scheduling** will take place on **Friday, February 6th**. Students in 10th grade should be prepared to complete their scheduling for the upcoming academic year on this date.",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "ACT Test Day for Juniors Only",
+    "block_id": "b69w622pha-bvf7lelz7n",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/j67px",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-01-30T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "ACT \n\nDAY\n\nACT DAY",
+        "id": "b69w622pha"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "ACT TEST-JUNIORS ONLY\nJust a reminder for THS families that on Wednesday, February 25th, 11th-grade students will be taking the ACT Test at the high school. On this day, ONLY 11th-grade students will report to school on the testing day. All other students (9th, 10th, and 12th grade) will not be reporting to school on this day. 11th graders will report by 7:50am to find their testing location. Most students will finish testing between 11:30am - 12:00pm and will need to be picked up at that time. Some students may take a little bit longer to finish. Please mark this down on your calendar.",
+        "id": "bvf7lelz7n"
+      }
+    ],
+    "hash": "b69w622pha-bvf7lelz7n",
+    "summary": "**Wednesday, February 25th** is ACT Test Day for 11th-grade students only at Talawanda High School. **Only juniors** should report to school that day; 9th, 10th, and 12th graders will not attend. Juniors must arrive by **7:50am** to find their testing location and will finish between **11:30am-12:00pm** (some may take longer) and need to be picked up at that time.",
+    "event_info": [
+      {
+        "title": "ACT Test Day - Juniors Only",
+        "start": "2026-02-25T07:50:00",
+        "end": "2026-02-25T12:00:00",
+        "description": "**Wednesday, February 25th** is ACT Test Day for 11th-grade students only at Talawanda High School. **Only juniors** should report to school that day; 9th, 10th, and 12th graders will not attend. Juni",
         "location": "Talawanda High School"
       }
     ]
