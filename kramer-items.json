@@ -1,5 +1,87 @@
 [
   {
+    "title": "Volunteer for Kramer Conference Meals",
+    "block_id": "b810s40lgy-bhhc0mlk22",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/c81d/777a66942b74b812799718ff4dfdb11c.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/ya6kr",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-03-06T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "We \n\nNeed \n\nYour \n\nHelp!\n\nWe Need Your Help!",
+        "id": "b810s40lgy"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/c81d/777a66942b74b812799718ff4dfdb11c.jpeg",
+        "id": "bhhc0mlk22"
+      }
+    ],
+    "hash": "b810s40lgy-bhhc0mlk22",
+    "summary": "Volunteers are needed to provide meals for teachers and staff during the **Spring 2026 Kramer Conference** on **Thursday, March 12 and Tuesday, March 17**. Sign up using the QR code provided in the flyer. Contact **Tomoko Brown** at Tomoko1Brown@gmail.com or 513-461-3802 (text) with questions.",
+    "event_info": [
+      {
+        "title": "Kramer Conference - Day 1",
+        "start": "2026-03-12T00:00:00",
+        "end": "2026-03-12T23:59:00",
+        "description": "Volunteers are needed to provide meals for teachers and staff during the **Spring 2026 Kramer Conference** on **Thursday, March 12 and Tuesday, March 17**. Sign up using the QR code provided in the fl",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Kramer Conference - Day 2",
+        "start": "2026-03-17T00:00:00",
+        "end": "2026-03-17T23:59:00",
+        "description": "Volunteers are needed to provide meals for teachers and staff during the **Spring 2026 Kramer Conference** on **Thursday, March 12 and Tuesday, March 17**. Sign up using the QR code provided in the fl",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Kramer PTG Cake Roll Fundraiser",
+    "block_id": "b5m8132v16-bjva70dcqe",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/fa2b/4f5bd11028fbe2f2bd59cc993eff2bff.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/ya6kr",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-03-06T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PTG\n\nPTG",
+        "id": "b5m8132v16"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/fa2b/4f5bd11028fbe2f2bd59cc993eff2bff.jpeg",
+        "id": "bjva70dcqe"
+      }
+    ],
+    "hash": "b5m8132v16-bjva70dcqe",
+    "summary": "The **Kramer PTG Cake Roll Fundraiser** runs from **March 2-18**. Orders include cake rolls, pretzels, coffee, and pet treats. **Pickup is Thursday, March 26, 4-6 PM at Kramer Cafeteria**. All proceeds support Kramer fieldtrips and classroom needs. For more information, contact Brooke Cropenbaker at spanglbr@miamioh.edu.",
+    "event_info": [
+      {
+        "title": "Kramer PTG Cake Roll Fundraiser Order Period",
+        "start": "2026-03-02T00:00:00",
+        "end": "2026-03-18T23:59:00",
+        "description": "The **Kramer PTG Cake Roll Fundraiser** runs from **March 2-18**. Orders include cake rolls, pretzels, coffee, and pet treats. **Pickup is Thursday, March 26, 4-6 PM at Kramer Cafeteria**. All proceed",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Kramer PTG Fundraiser Pickup",
+        "start": "2026-03-26T16:00:00",
+        "end": "2026-03-26T18:00:00",
+        "description": "The **Kramer PTG Cake Roll Fundraiser** runs from **March 2-18**. Orders include cake rolls, pretzels, coffee, and pet treats. **Pickup is Thursday, March 26, 4-6 PM at Kramer Cafeteria**. All proceed",
+        "location": "Kramer Cafeteria"
+      }
+    ]
+  },
+  {
     "title": "Vehicle Line Gates Open at 3:40 PM",
     "block_id": "bf2gr3k7s7-b9kaf6o2mz-botge4f0v3",
     "content": "",
@@ -633,119 +715,6 @@
         "end": "2026-02-12T01:00:00",
         "description": "The **BoosterThon fundraiser** launched February 2nd and will culminate with a **Glow Dance Party on Thursday, February 12th**. The campaign has reached **57% student sign-up** and **31% students with",
         "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Marshall Free Pantry Available to Students",
-    "block_id": "bomk6tbtpd-bkg7roe7vq-brctp5h1ph",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/5667/6ee9d8db107525b81d941dec2d425cf9.png"
-    ],
-    "source_url": "https://app.smore.com/n/0cwe9",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-02-06T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "NOTES \n\nFROM \n\nOUR \n\nSOCIAL \n\nWORKER\n\nNOTES FROM OUR SOCIAL WORKER",
-        "id": "bomk6tbtpd"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/5667/6ee9d8db107525b81d941dec2d425cf9.png",
-        "id": "bkg7roe7vq"
-      },
-      {
-        "type": "items",
-        "content": "zoom_out_map\n                \n\n\n\n\n\n\n\n\nzoom_out_map",
-        "id": "brctp5h1ph"
-      }
-    ],
-    "hash": "bomk6tbtpd-bkg7roe7vq-brctp5h1ph",
-    "summary": "The **Marshall Free Pantry** is located at the front left side of the school near the gym doors and is open to all students. The pantry offers **free food, hygiene products, and school supplies** including veggies, fruit, pasta, soup, applesauce, snacks, school supplies, body wash, shampoo, and toothpaste. For questions, donations, or suggestions, contact **Chrissy, Marshall Social Worker** at 513-273-3611 or rolfesc@talawanda.org."
-  },
-  {
-    "title": "Good News Club at Marshall Elementary",
-    "block_id": "bisgsi05ub-bblyazq7cm",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/0ff5/0bb712d1e45958ba9a389e126f62990b.png"
-    ],
-    "source_url": "https://app.smore.com/n/0cwe9",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-02-06T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "AROUND \n\nTHE \n\nCOMMUNITY \n\nAROUND THE COMMUNITY",
-        "id": "bisgsi05ub"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/0ff5/0bb712d1e45958ba9a389e126f62990b.png",
-        "id": "bblyazq7cm"
-      }
-    ],
-    "hash": "bisgsi05ub-bblyazq7cm",
-    "summary": "**Good News Club** meets Mondays after school from 5:30pm at **Marshall Elementary** (children meet in cafeteria), February 2nd through March 23rd, 2026. This free program for students ages 5-12 includes games, snacks, Bible story, and songs. Hosted by Kerusso Baptist Church in partnership with Child Evangelism Fellowship of Cincinnati. Register at **cefcincy.org/marshall** or contact Rosie Frisch at 513-907-9496.",
-    "event_info": [
-      {
-        "title": "Good News Club - Week 1",
-        "start": "2026-02-02T17:30:00",
-        "end": "2026-02-02T18:30:00",
-        "description": "**Good News Club** meets Mondays after school from 5:30pm at **Marshall Elementary** (children meet in cafeteria), February 2nd through March 23rd, 2026. This free program for students ages 5-12 inclu",
-        "location": "Marshall Elementary (cafeteria)"
-      },
-      {
-        "title": "Good News Club - Week 2",
-        "start": "2026-02-09T17:30:00",
-        "end": "2026-02-09T18:30:00",
-        "description": "**Good News Club** meets Mondays after school from 5:30pm at **Marshall Elementary** (children meet in cafeteria), February 2nd through March 23rd, 2026. This free program for students ages 5-12 inclu",
-        "location": "Marshall Elementary (cafeteria)"
-      },
-      {
-        "title": "Good News Club - Week 3",
-        "start": "2026-02-16T17:30:00",
-        "end": "2026-02-16T18:30:00",
-        "description": "**Good News Club** meets Mondays after school from 5:30pm at **Marshall Elementary** (children meet in cafeteria), February 2nd through March 23rd, 2026. This free program for students ages 5-12 inclu",
-        "location": "Marshall Elementary (cafeteria)"
-      },
-      {
-        "title": "Good News Club - Week 4",
-        "start": "2026-02-23T17:30:00",
-        "end": "2026-02-23T18:30:00",
-        "description": "**Good News Club** meets Mondays after school from 5:30pm at **Marshall Elementary** (children meet in cafeteria), February 2nd through March 23rd, 2026. This free program for students ages 5-12 inclu",
-        "location": "Marshall Elementary (cafeteria)"
-      },
-      {
-        "title": "Good News Club - Week 5",
-        "start": "2026-03-02T17:30:00",
-        "end": "2026-03-02T18:30:00",
-        "description": "**Good News Club** meets Mondays after school from 5:30pm at **Marshall Elementary** (children meet in cafeteria), February 2nd through March 23rd, 2026. This free program for students ages 5-12 inclu",
-        "location": "Marshall Elementary (cafeteria)"
-      },
-      {
-        "title": "Good News Club - Week 6",
-        "start": "2026-03-09T17:30:00",
-        "end": "2026-03-09T18:30:00",
-        "description": "**Good News Club** meets Mondays after school from 5:30pm at **Marshall Elementary** (children meet in cafeteria), February 2nd through March 23rd, 2026. This free program for students ages 5-12 inclu",
-        "location": "Marshall Elementary (cafeteria)"
-      },
-      {
-        "title": "Good News Club - Week 7",
-        "start": "2026-03-16T17:30:00",
-        "end": "2026-03-16T18:30:00",
-        "description": "**Good News Club** meets Mondays after school from 5:30pm at **Marshall Elementary** (children meet in cafeteria), February 2nd through March 23rd, 2026. This free program for students ages 5-12 inclu",
-        "location": "Marshall Elementary (cafeteria)"
-      },
-      {
-        "title": "Good News Club - Week 8",
-        "start": "2026-03-23T17:30:00",
-        "end": "2026-03-23T18:30:00",
-        "description": "**Good News Club** meets Mondays after school from 5:30pm at **Marshall Elementary** (children meet in cafeteria), February 2nd through March 23rd, 2026. This free program for students ages 5-12 inclu",
-        "location": "Marshall Elementary (cafeteria)"
       }
     ]
   }

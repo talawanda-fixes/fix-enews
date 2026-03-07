@@ -1,5 +1,107 @@
 [
   {
+    "title": "Free Food Box Drive-Thru Distribution Event",
+    "block_id": "bh1mh3rers-bzhxig4es1",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/18b0/c296a202825ce917ab42bc2d1df07128.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/ne1z36-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-03-06T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Social \n\nWork \n\nSpotlight\n\nSocial Work Spotlight",
+        "id": "bh1mh3rers"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/18b0/c296a202825ce917ab42bc2d1df07128.jpeg",
+        "id": "bzhxig4es1"
+      }
+    ],
+    "hash": "bh1mh3rers-bzhxig4es1",
+    "summary": "A **free food box drive-thru distribution** will be held on **March 24 from 3:30-5:30 PM** at Talawanda High School. Registration is highly encouraged due to limited quantity. Register at **https://forms.gle/66coSfzmRpqaYqdQ7** or scan the QR code on the flyer.",
+    "event_info": [
+      {
+        "title": "Free Food Box Drive-Thru Distribution",
+        "start": "2026-03-24T15:30:00",
+        "end": "2026-03-24T17:30:00",
+        "description": "A **free food box drive-thru distribution** will be held on **March 24 from 3:30-5:30 PM** at Talawanda High School. Registration is highly encouraged due to limited quantity. Register at **https://fo",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Bogan Elementary Coin Wars Fundraiser",
+    "block_id": "bpx42aowpj-b03xav5dk0",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/fbac/1472eb182d24134a1fe8c95f918655df.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/ne1z36-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-03-06T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PTG \n\nCorner\n\nPTG Corner",
+        "id": "bpx42aowpj"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/fbac/1472eb182d24134a1fe8c95f918655df.jpeg",
+        "id": "b03xav5dk0"
+      }
+    ],
+    "hash": "bpx42aowpj-b03xav5dk0",
+    "summary": "**Bogan Elementary is hosting Coin Wars from March 9-13.** Students can add points to their grade's jar with pennies (+1), $1 bills (+100), $5 bills (+500), $10 bills (+1000), and $20 bills (+5000), or lower other grades' points with nickels (-5), dimes (-10), quarters (-25), half dollars (-50), and dollar coins (-100). The winning grade receives a Mario Movie Party, and school-wide milestones unlock rewards: $500 = Pajama Day, $1,000 = Cookie Party, $2,500 = Principal sleeps on roof. Proceeds benefit Field Day shirts for all students.",
+    "event_info": [
+      {
+        "title": "Bogan Elementary Coin Wars",
+        "start": "2026-03-09T00:00:00",
+        "end": "2026-03-13T23:59:00",
+        "description": "**Bogan Elementary is hosting Coin Wars from March 9-13.** Students can add points to their grade's jar with pennies (+1), $1 bills (+100), $5 bills (+500), $10 bills (+1000), and $20 bills (+5000), o",
+        "location": "Bogan Elementary"
+      }
+    ]
+  },
+  {
+    "title": "NHS Kid's Night Out Fundraiser Event",
+    "block_id": "bwk8x8y5ub-bam3tx5h3b",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/cf6a/b551fcb826e64c43d2a4fd3e0c5f8d69.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/ne1z36-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-03-06T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Around \n\nTalawanda\n\nAround Talawanda",
+        "id": "bwk8x8y5ub"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/cf6a/b551fcb826e64c43d2a4fd3e0c5f8d69.jpeg",
+        "id": "bam3tx5h3b"
+      }
+    ],
+    "hash": "bwk8x8y5ub-bam3tx5h3b",
+    "summary": "The **Talawanda High School National Honors Society** is hosting a **Kid's Night Out on Friday, March 20th**. Activities include crafts, games, movies, snacks, face painting, and bracelet making. **Drop-off is 5:45-6:00 PM** and **pick-up is 8:00-8:15 PM** at the THS cafeteria and gym. Registration is required via QR code. The NHS will be collecting **canned foods and non-perishable items** to donate to TOPPS.",
+    "event_info": [
+      {
+        "title": "NHS Kid's Night Out",
+        "start": "2026-03-20T17:45:00",
+        "end": "2026-03-20T20:15:00",
+        "description": "The **Talawanda High School National Honors Society** is hosting a **Kid's Night Out on Friday, March 20th**. Activities include crafts, games, movies, snacks, face painting, and bracelet making. **Dr",
+        "location": "Talawanda High School Cafeteria and Gym"
+      }
+    ]
+  },
+  {
     "title": "PAX Good Behavior Game Program",
     "block_id": "berhllupn2-bbyw57cizv-b8avw52huj",
     "content": "",
@@ -623,113 +725,5 @@
     ],
     "hash": "b1dqxl9g73-brgbbrg4g9",
     "summary": "Due to uncertainty around SNAP benefits in November, Talawanda is sharing food resource options:\n\n- **Little Free Pantry**: Located outside main entrance at Bogan, restocked daily\n- **Backpack Program**: Small bag of food sent home with students every Thursday\n- **Family Food Boxes**: Can be picked up or delivered to your home within 24 hours\n- **Community Pantries**: Additional resources linked in original post\n\nFor help accessing these resources, contact Emily, Bogan Social Worker at **513-273-3403** or **whitee@talawanda.org**"
-  },
-  {
-    "title": "Talawanda Preschool Application Lottery 2026-2027",
-    "block_id": "bdxzx86ijl",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/8hc52-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-01-16T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "Talawanda Preschool Application 2026-2027\nIn order to fill the limited spaces in our preschool classrooms, typically developing children will enter the program through a lottery. Please use the following link to apply for the Talawanda Preschool lottery for the 2026/2027 school year. Applications must be completed by January 31, 2026. The lottery will take place on February 13, 2026. Families will be notified of their placement on the roster or on the waitlist after February 13, 2026.Please send any questions to the Preschool Coordinator, Beth Fuechsl, at fuechsle@talawanda.org.Preschool Application",
-        "id": "bdxzx86ijl"
-      }
-    ],
-    "hash": "bdxzx86ijl",
-    "summary": "Applications are now open for the **Talawanda Preschool lottery for the 2026-2027 school year**. Typically developing children will be admitted through a lottery to fill limited spaces. **Applications must be completed by January 31, 2026**, and the lottery will take place on **February 13, 2026**. Families will be notified of their placement or waitlist status after February 13. Contact Preschool Coordinator Beth Fuechsl at fuechsle@talawanda.org with questions.",
-    "event_info": [
-      {
-        "title": "Preschool Application Deadline",
-        "start": "2026-01-31T23:59:00",
-        "end": "2026-01-31T23:59:00",
-        "description": "Applications are now open for the **Talawanda Preschool lottery for the 2026-2027 school year**. Typically developing children will be admitted through a lottery to fill limited spaces. **Applications",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Preschool Lottery",
-        "start": "2026-02-13T00:00:00",
-        "end": "2026-02-13T23:59:00",
-        "description": "Applications are now open for the **Talawanda Preschool lottery for the 2026-2027 school year**. Typically developing children will be admitted through a lottery to fill limited spaces. **Applications",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Mother Son Dance at Kramer Elementary",
-    "block_id": "bq4elmowan-buyo9h6iiv-b9o9av0kfa",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/755d/318e1c97be23437d07f1c582253f4761.jpeg",
-      "https://cdn.smore.com/u/3452/24f52751ab36d3c4b1a96924e951303d.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/8hc52-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-01-16T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "Join us for the Mother Son Dance at Kramer on January 31. You can now purchase your tickets online via Venmo or at the door! -- https://forms.gle/F6LjTsLgHj2WWnMk6.",
-        "id": "bq4elmowan"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/755d/318e1c97be23437d07f1c582253f4761.jpeg",
-        "id": "buyo9h6iiv"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/3452/24f52751ab36d3c4b1a96924e951303d.jpeg",
-        "id": "b9o9av0kfa"
-      }
-    ],
-    "hash": "bq4elmowan-buyo9h6iiv-b9o9av0kfa",
-    "summary": "The **Mother/Son Luau** is on **Saturday, January 31, 2026, from 6-8 PM** at Kramer Elementary School Gym. Tickets are **$10 per person** and can be purchased online via Venmo at https://forms.gle/F6LjTsLgHj2WWnMk6 or at the door (cash, check, or Venmo accepted). The event includes snacks, a photo booth, balloons, and dance activities including flossing, freeze dance, break dance, limbo, and a mother-son dance competition starting at 6:30 PM. All Talawanda elementary students can attend with a parent, guardian, or caregiver. Dress code is tropical/luau themed. Advance tickets via Venmo are due by Tuesday, January 27; electronic tickets will be emailed by Thursday, January 29.",
-    "event_info": [
-      {
-        "title": "Mother/Son Luau Dance",
-        "start": "2026-01-31T18:00:00",
-        "end": "2026-01-31T20:00:00",
-        "description": "The **Mother/Son Luau** is on **Saturday, January 31, 2026, from 6-8 PM** at Kramer Elementary School Gym. Tickets are **$10 per person** and can be purchased online via Venmo at https://forms.gle/F6L",
-        "location": "Kramer Elementary School Gym"
-      }
-    ]
-  },
-  {
-    "title": "Butler County Warming Centers Open",
-    "block_id": "bwk8x8y5ub-b0263bv24x",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/e135/bfaf67de8dfe6ff1c66f8659b12fdb12.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/8hc52-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-01-16T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Around \n\nTalawanda\n\nAround Talawanda",
-        "id": "bwk8x8y5ub"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/e135/bfaf67de8dfe6ff1c66f8659b12fdb12.jpeg",
-        "id": "b0263bv24x"
-      }
-    ],
-    "hash": "bwk8x8y5ub-b0263bv24x",
-    "summary": "**Butler County Emergency Management Agency** has designated warming centers across the county for extreme cold temperatures from **January 17-21, 2026**. Multiple MidPointe Library locations and the City of Monroe Police Department will be open with varying hours. Most library locations are closed on January 19th. The **City of Monroe Police Department** at 601 South Main Street, Monroe, OH 45050 is **open 24 hours**. For more information, visit ema.bcohio.gov.",
-    "event_info": [
-      {
-        "title": "Butler County Warming Centers Open",
-        "start": "2026-01-17T00:00:00",
-        "end": "2026-01-21T23:59:00",
-        "description": "**Butler County Emergency Management Agency** has designated warming centers across the county for extreme cold temperatures from **January 17-21, 2026**. Multiple MidPointe Library locations and the ",
-        "location": "Multiple locations across Butler County, Ohio"
-      }
-    ]
   }
 ]
