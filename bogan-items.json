@@ -668,6 +668,31 @@
     ]
   },
   {
+    "title": "Food Resources Available for Families",
+    "block_id": "b1dqxl9g73-brgbbrg4g9",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/91c4/7f211951aafdbe26e44049e2e6ce6543.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/8hc52-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-01-16T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/91c4/7f211951aafdbe26e44049e2e6ce6543.jpeg",
+        "id": "b1dqxl9g73"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Please click the photo above for more Talawanda resources.",
+        "id": "brgbbrg4g9"
+      }
+    ],
+    "hash": "b1dqxl9g73-brgbbrg4g9",
+    "summary": "Due to uncertainty around SNAP benefits in November, Talawanda is sharing food resource options:\n\n- **Little Free Pantry**: Located outside main entrance at Bogan, restocked daily\n- **Backpack Program**: Small bag of food sent home with students every Thursday\n- **Family Food Boxes**: Can be picked up or delivered to your home within 24 hours\n- **Community Pantries**: Additional resources linked in original post\n\nFor help accessing these resources, contact Emily, Bogan Social Worker at **513-273-3403** or **whitee@talawanda.org**"
+  },
+  {
     "title": "Primary Health Dental Van at Bogan",
     "block_id": "bh1mh3rers-bqf0rozz8x",
     "content": "",
@@ -700,30 +725,5 @@
         "location": "Bogan"
       }
     ]
-  },
-  {
-    "title": "Food Resources Available for Families",
-    "block_id": "b1dqxl9g73-brgbbrg4g9",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/91c4/7f211951aafdbe26e44049e2e6ce6543.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/8hc52-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-01-16T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/91c4/7f211951aafdbe26e44049e2e6ce6543.jpeg",
-        "id": "b1dqxl9g73"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Please click the photo above for more Talawanda resources.",
-        "id": "brgbbrg4g9"
-      }
-    ],
-    "hash": "b1dqxl9g73-brgbbrg4g9",
-    "summary": "Due to uncertainty around SNAP benefits in November, Talawanda is sharing food resource options:\n\n- **Little Free Pantry**: Located outside main entrance at Bogan, restocked daily\n- **Backpack Program**: Small bag of food sent home with students every Thursday\n- **Family Food Boxes**: Can be picked up or delivered to your home within 24 hours\n- **Community Pantries**: Additional resources linked in original post\n\nFor help accessing these resources, contact Emily, Bogan Social Worker at **513-273-3403** or **whitee@talawanda.org**"
   }
 ]

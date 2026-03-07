@@ -249,6 +249,40 @@
     ]
   },
   {
+    "title": "K-Mart Store Open Every Monday and Friday",
+    "block_id": "b6jxf1vp8d-bgfxt1k9q6",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/2934/842e4981997b8a9a8c69b9a394f236a5.png"
+    ],
+    "source_url": "https://app.smore.com/n/e0yz7",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-02-13T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "3rd \n\n- \n\n5th \n\nGrade \n\nEvent\n\n3rd - 5th Grade Event",
+        "id": "b6jxf1vp8d"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/2934/842e4981997b8a9a8c69b9a394f236a5.png",
+        "id": "bgfxt1k9q6"
+      }
+    ],
+    "hash": "b6jxf1vp8d-bgfxt1k9q6",
+    "summary": "The **K-Mart** student store is open **every Monday and Friday** from when you walk in until the bell rings. It is located on the balcony between 4th and 5th grade classrooms at **Kramer Elementary**. The store sells fidgets, snacks, and toys with all items priced at **one dollar**. The next opening is **February 9th** for 3rd-5th grade students.",
+    "event_info": [
+      {
+        "title": "K-Mart Store Opens (3rd-5th Grade)",
+        "start": "2026-02-09T00:00:00",
+        "end": "2026-02-09T01:00:00",
+        "description": "The **K-Mart** student store is open **every Monday and Friday** from when you walk in until the bell rings. It is located on the balcony between 4th and 5th grade classrooms at **Kramer Elementary**.",
+        "location": "Kramer Elementary, balcony between 4th and 5th grade"
+      }
+    ]
+  },
+  {
     "title": "Reading Corner Newsletter on Decoding Skills",
     "block_id": "ber66w8386-bn2pap4gkq",
     "content": "",
@@ -302,6 +336,36 @@
     "summary": "The **Kramer Free Pantry** is located at the entrance of Kramer and provides free food and hygiene items to all students. Available items include cereal, fruit, vegetables, peanut butter, spaghetti, mac and cheese, soup, shampoo, and toothbrushes. For questions, donations, or suggestions, contact **Chelsea Pike, Kramer Social Worker** at **513-273-3511** or **pikec@talawanda.org**."
   },
   {
+    "title": "Read At Home Program and Kroger Rewards",
+    "block_id": "b4qrzpzg5c-bwulg9ornb-bncw8zzi9l",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/5d55/a63f84b2e902666f1b14cc2bc29060e8.png"
+    ],
+    "source_url": "https://app.smore.com/n/e0yz7",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-02-13T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "zoom_out_map\n            \nRead At Home\nKramer RAH (Reading At Home) is a voluntary program from K-2nd graders that builds a home-school connection by rewarding students for reading at home. Each week students record the books they've read and turn-in record sheets for rewards. Rewards alternate between a student selected book and a small prize.",
+        "id": "b4qrzpzg5c"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/5d55/a63f84b2e902666f1b14cc2bc29060e8.png",
+        "id": "bwulg9ornb"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "zoom_out_map\n            \nHave you connected your Kroger Rewards card to the Kramer PTG yet? Each account can be connected to ONE nonprofit. When you use this feature, Kroger donates a percentage of your expenses to our PTG. You just have to sign up once! https://www.kroger.com/i/community/community-rewards",
+        "id": "bncw8zzi9l"
+      }
+    ],
+    "hash": "b4qrzpzg5c-bwulg9ornb-bncw8zzi9l",
+    "summary": "**Read At Home (RAH)** is a voluntary program for K-2nd grade students at Kramer Elementary that encourages reading at home. Students record books they've read each week on a record sheet and turn it in for rewards, which alternate between a student-selected book and a small prize.\n\n**Kroger Community Rewards:** Connect your Kroger Rewards card to Kramer PTG (one nonprofit per account) and Kroger will donate a percentage of your purchases to the PTG. Sign up once at https://www.kroger.com/i/community/community-rewards"
+  },
+  {
     "title": "Kramer PTG Events - Skate and Meeting",
     "block_id": "b5m8132v16-bq41qx6dq1-bmudrwiscw",
     "content": "",
@@ -345,70 +409,6 @@
         "end": "2026-03-03T20:00:00",
         "description": "**Kramer Skate 2026** - Free ice skating event for Kramer students and families on **Saturday, February 28, 2026 from 1-3 PM** at Goggin Ice Center, B Pad. Ice skate rentals available for purchase. Sp",
         "location": "Kramer Art Room"
-      }
-    ]
-  },
-  {
-    "title": "Read At Home Program and Kroger Rewards",
-    "block_id": "b4qrzpzg5c-bwulg9ornb-bncw8zzi9l",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/5d55/a63f84b2e902666f1b14cc2bc29060e8.png"
-    ],
-    "source_url": "https://app.smore.com/n/e0yz7",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-02-13T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "zoom_out_map\n            \nRead At Home\nKramer RAH (Reading At Home) is a voluntary program from K-2nd graders that builds a home-school connection by rewarding students for reading at home. Each week students record the books they've read and turn-in record sheets for rewards. Rewards alternate between a student selected book and a small prize.",
-        "id": "b4qrzpzg5c"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/5d55/a63f84b2e902666f1b14cc2bc29060e8.png",
-        "id": "bwulg9ornb"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "zoom_out_map\n            \nHave you connected your Kroger Rewards card to the Kramer PTG yet? Each account can be connected to ONE nonprofit. When you use this feature, Kroger donates a percentage of your expenses to our PTG. You just have to sign up once! https://www.kroger.com/i/community/community-rewards",
-        "id": "bncw8zzi9l"
-      }
-    ],
-    "hash": "b4qrzpzg5c-bwulg9ornb-bncw8zzi9l",
-    "summary": "**Read At Home (RAH)** is a voluntary program for K-2nd grade students at Kramer Elementary that encourages reading at home. Students record books they've read each week on a record sheet and turn it in for rewards, which alternate between a student-selected book and a small prize.\n\n**Kroger Community Rewards:** Connect your Kroger Rewards card to Kramer PTG (one nonprofit per account) and Kroger will donate a percentage of your purchases to the PTG. Sign up once at https://www.kroger.com/i/community/community-rewards"
-  },
-  {
-    "title": "K-Mart Store Open Every Monday and Friday",
-    "block_id": "b6jxf1vp8d-bgfxt1k9q6",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/2934/842e4981997b8a9a8c69b9a394f236a5.png"
-    ],
-    "source_url": "https://app.smore.com/n/e0yz7",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-02-13T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "3rd \n\n- \n\n5th \n\nGrade \n\nEvent\n\n3rd - 5th Grade Event",
-        "id": "b6jxf1vp8d"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/2934/842e4981997b8a9a8c69b9a394f236a5.png",
-        "id": "bgfxt1k9q6"
-      }
-    ],
-    "hash": "b6jxf1vp8d-bgfxt1k9q6",
-    "summary": "The **K-Mart** student store is open **every Monday and Friday** from when you walk in until the bell rings. It is located on the balcony between 4th and 5th grade classrooms at **Kramer Elementary**. The store sells fidgets, snacks, and toys with all items priced at **one dollar**. The next opening is **February 9th** for 3rd-5th grade students.",
-    "event_info": [
-      {
-        "title": "K-Mart Store Opens (3rd-5th Grade)",
-        "start": "2026-02-09T00:00:00",
-        "end": "2026-02-09T01:00:00",
-        "description": "The **K-Mart** student store is open **every Monday and Friday** from when you walk in until the bell rings. It is located on the balcony between 4th and 5th grade classrooms at **Kramer Elementary**.",
-        "location": "Kramer Elementary, balcony between 4th and 5th grade"
       }
     ]
   },
