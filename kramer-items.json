@@ -1,46 +1,5 @@
 [
   {
-    "title": "Volunteer for Kramer Conference Meals",
-    "block_id": "b810s40lgy-bhhc0mlk22",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/c81d/777a66942b74b812799718ff4dfdb11c.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/ya6kr",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-03-06T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "We \n\nNeed \n\nYour \n\nHelp!\n\nWe Need Your Help!",
-        "id": "b810s40lgy"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/c81d/777a66942b74b812799718ff4dfdb11c.jpeg",
-        "id": "bhhc0mlk22"
-      }
-    ],
-    "hash": "b810s40lgy-bhhc0mlk22",
-    "summary": "Volunteers are needed to provide meals for teachers and staff during the **Spring 2026 Kramer Conference** on **Thursday, March 12 and Tuesday, March 17**. Sign up using the QR code provided in the flyer. Contact **Tomoko Brown** at Tomoko1Brown@gmail.com or 513-461-3802 (text) with questions.",
-    "event_info": [
-      {
-        "title": "Kramer Conference - Day 1",
-        "start": "2026-03-12T00:00:00",
-        "end": "2026-03-12T23:59:00",
-        "description": "Volunteers are needed to provide meals for teachers and staff during the **Spring 2026 Kramer Conference** on **Thursday, March 12 and Tuesday, March 17**. Sign up using the QR code provided in the fl",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Kramer Conference - Day 2",
-        "start": "2026-03-17T00:00:00",
-        "end": "2026-03-17T23:59:00",
-        "description": "Volunteers are needed to provide meals for teachers and staff during the **Spring 2026 Kramer Conference** on **Thursday, March 12 and Tuesday, March 17**. Sign up using the QR code provided in the fl",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
     "title": "Kramer PTG Cake Roll Fundraiser",
     "block_id": "b5m8132v16-bjva70dcqe",
     "content": "",
@@ -78,6 +37,47 @@
         "end": "2026-03-26T18:00:00",
         "description": "The **Kramer PTG Cake Roll Fundraiser** runs from **March 2-18**. Orders include cake rolls, pretzels, coffee, and pet treats. **Pickup is Thursday, March 26, 4-6 PM at Kramer Cafeteria**. All proceed",
         "location": "Kramer Cafeteria"
+      }
+    ]
+  },
+  {
+    "title": "Volunteer for Kramer Conference Meals",
+    "block_id": "b810s40lgy-bhhc0mlk22",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/c81d/777a66942b74b812799718ff4dfdb11c.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/ya6kr",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-03-06T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "We \n\nNeed \n\nYour \n\nHelp!\n\nWe Need Your Help!",
+        "id": "b810s40lgy"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/c81d/777a66942b74b812799718ff4dfdb11c.jpeg",
+        "id": "bhhc0mlk22"
+      }
+    ],
+    "hash": "b810s40lgy-bhhc0mlk22",
+    "summary": "Volunteers are needed to provide meals for teachers and staff during the **Spring 2026 Kramer Conference** on **Thursday, March 12 and Tuesday, March 17**. Sign up using the QR code provided in the flyer. Contact **Tomoko Brown** at Tomoko1Brown@gmail.com or 513-461-3802 (text) with questions.",
+    "event_info": [
+      {
+        "title": "Kramer Conference - Day 1",
+        "start": "2026-03-12T00:00:00",
+        "end": "2026-03-12T23:59:00",
+        "description": "Volunteers are needed to provide meals for teachers and staff during the **Spring 2026 Kramer Conference** on **Thursday, March 12 and Tuesday, March 17**. Sign up using the QR code provided in the fl",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Kramer Conference - Day 2",
+        "start": "2026-03-17T00:00:00",
+        "end": "2026-03-17T23:59:00",
+        "description": "Volunteers are needed to provide meals for teachers and staff during the **Spring 2026 Kramer Conference** on **Thursday, March 12 and Tuesday, March 17**. Sign up using the QR code provided in the fl",
+        "location": "Talawanda High School"
       }
     ]
   },
