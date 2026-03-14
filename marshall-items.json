@@ -1,45 +1,67 @@
 [
   {
-    "title": "Right to Read Week VIP Invitation",
-    "block_id": "bezclasc0f-bcwglzjamm-b5i1w9fkca-bki8v9hidd",
+    "title": "Right to Read Week Pirate-Themed Celebration",
+    "block_id": "bezclasc0f-bcwglzjamm",
     "content": "",
-    "images": [
-      "https://cdn.smore.com/u/4ace/3ed086ca4e38255439cd0a0157e02f66.png"
-    ],
-    "source_url": "https://app.smore.com/n/zkac8w",
+    "images": [],
+    "source_url": "https://app.smore.com/n/zpru6",
     "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-03-06T00:00:00+00:00",
+    "date": "2026-03-13T00:00:00+00:00",
     "blocks": [
       {
         "type": "text.title",
-        "content": "AHOY  \n\nMARSHALL  \n\nFAMILIES \n\n⚓📚\n\nAHOY  MARSHALL  FAMILIES ⚓📚",
+        "content": "AHOY \n\nMARSHALL \n\nFAMILIES \n\n⚓📚\n\nAHOY MARSHALL FAMILIES ⚓📚",
         "id": "bezclasc0f"
       },
       {
         "type": "text.paragraph",
-        "content": "March 23–27, 2026 we will be celebrating Right to Read Week with a fun, pirate-themed adventure: BOOKaneers - Finding Treasure in Books! \nRight to Read Week is a special time when we celebrate the joy and importance of reading in our school community. We are so excited for a fun week filled with books, creativity, and activities that help our students grow as readers! To help families plan ahead, we wanted to share the details early. Below you will find our dress-up schedule for the week, along with some simple activities you can do at home to celebrate reading with your child. We have also included a special RAH sheet for students to complete. All of these items are coming home with your child today as well. As part of our celebration, students will have the opportunity to invite a VIP (Very Important Pirate) to join them during their scheduled library time. VIPs may be parents, grandparents, special family members, or other important adults in your child’s life.During this special visit, VIPs and students will:Read together (bring a favorite book from home or choose one from our library collection)Complete a fun directed drawing activityPlay a gameWe kindly ask all VIPs to sign up using this link so we can plan accordingly. (If you have more than one student, please fill one out for each student.) Additionally, any grown-up who would like to attend must have a completed volunteer application on file prior to coming in. The form can be emailed directly to Mrs. Jones or returned to your child’s teacher. If you have already completed a volunteer application and have one on file with the school, you are all set—no need to complete another one.On the day of your visit, please arrive 5–10 minutes before your child’s scheduled library time. VIP’s will need to bring an ID and sign in at the office. A staff member will greet VIPs and walk the group up to the library when it is time for the class to begin.Thank you for partnering with us and helping make Right to Read Week a memorable and meaningful experience for our students!",
+        "content": "March 23–27, 2026 we will be celebrating Right to Read Week with a fun, pirate-themed adventure: BOOKaneers - Finding Treasure in Books! \nRight to Read Week is a special time when we celebrate the joy and importance of reading in our school community. We are so excited for a fun week filled with books, creativity, and activities that help our students grow as readers! To help families plan ahead, we wanted to share the details early. Below you will find our dress-up schedule for the week, along with some simple activities you can do at home to celebrate reading with your child. We have also included a special RAH sheet for students to complete. All of these items are coming home with your child today as well.Thank you for partnering with us and helping make Right to Read Week a memorable and meaningful experience for our students!Stephanie JonesPrincipal",
         "id": "bcwglzjamm"
+      }
+    ],
+    "hash": "bezclasc0f-bcwglzjamm",
+    "summary": "**Marshall Elementary** will celebrate **Right to Read Week: BOOKaneers - Finding Treasure in Books** from **March 23–27, 2026** with a pirate-themed adventure. The week will include dress-up days, reading activities, and a special RAH sheet for students to complete. Details about the dress-up schedule and at-home reading activities are being sent home with students today.",
+    "event_info": [
+      {
+        "title": "Right to Read Week: BOOKaneers - Finding Treasure in Books",
+        "start": "2026-03-23T00:00:00",
+        "end": "2026-03-27T23:59:00",
+        "description": "**Marshall Elementary** will celebrate **Right to Read Week: BOOKaneers - Finding Treasure in Books** from **March 23–27, 2026** with a pirate-themed adventure. The week will include dress-up days, re",
+        "location": "Marshall Elementary School"
+      }
+    ]
+  },
+  {
+    "title": "TMS PTG Meeting and Board Introduction",
+    "block_id": "bo7b6gbsyd-bvwdeqxvdq",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/bdc7/fda58339f03384c5d13cfd2e8ce086a1.png"
+    ],
+    "source_url": "https://app.smore.com/n/zpru6",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-03-13T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "ATTENTION \n\n5TH \n\nGRADE \n\nPARENTS\n\nATTENTION 5TH GRADE PARENTS",
+        "id": "bo7b6gbsyd"
       },
       {
         "type": "image.single",
-        "url": "https://cdn.smore.com/u/4ace/3ed086ca4e38255439cd0a0157e02f66.png",
-        "id": "b5i1w9fkca"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "We look forward to welcoming our VIPs aboard for this exciting week of literacy fun!If you have any questions, please feel free to contact Mrs. Jones @ joness@talawanda.org or 513-273-3600.Stephanie JonesPrincipal",
-        "id": "bki8v9hidd"
+        "url": "https://cdn.smore.com/u/bdc7/fda58339f03384c5d13cfd2e8ce086a1.png",
+        "id": "bvwdeqxvdq"
       }
     ],
-    "hash": "bezclasc0f-bcwglzjamm-b5i1w9fkca-bki8v9hidd",
-    "summary": "**Right to Read Week** runs **March 23-27, 2026** with a pirate theme: \"BOOKaneers - Finding Treasure in Books!\" Students can invite a **VIP (Very Important Pirate)** to join them during their scheduled library time to read together, complete a directed drawing activity, and play a game. VIPs must [sign up using this link](https://talawanda.org) and have a completed volunteer application on file with Mrs. Jones. Library times are: **Monday** (10:25-11:10 GRONAS), **Tuesday** (9:30-10:15 ZIEGLER, 10:25-11:10 BEATON, 11:20-12:05 LYKINS, 1:50-2:35 SCHAEFER, 2:45-3:30 SMITH), **Wednesday** (9:30-10:15 PALUCH, 11:20-12:05 TOERNER, 12:55-1:40 SLATTERY, 1:50-2:35 MOHLER, 2:45-3:30 CHASTEEN), **Thursday** (9:30-10:15 KRAUSHAR, 10:25-11:10 BIRKEMEIER, 1:50-2:35 WHITAKER, 2:45-3:30 SPARKS). VIPs should arrive 5-10 minutes early and sign in at the office with ID.",
+    "hash": "bo7b6gbsyd-bvwdeqxvdq",
+    "summary": "The Talawanda Middle School PTG is holding a meeting on **March 23rd at 2:30 PM in the TMS Media Center** to plan goals and vision for the 2026-2027 school year. The 2026-2027 PTG board includes Sarah Meaney (President), Stephene Seals-Spahn (Vice President), Jenna Fillmore (Treasurer), and an open Secretary position. Parents, students, teachers, and staff are invited to help brainstorm new ways to support students and TMS staff. Those interested in the Secretary position should email **tmsptgbrave@gmail.com**.",
     "event_info": [
       {
-        "title": "Right to Read Week - BOOKaneers VIP Visits",
-        "start": "2026-03-23T00:00:00",
-        "end": "2026-03-27T23:59:00",
-        "description": "**Right to Read Week** runs **March 23-27, 2026** with a pirate theme: \"BOOKaneers - Finding Treasure in Books!\" Students can invite a **VIP (Very Important Pirate)** to join them during their schedul",
-        "location": "Marshall Elementary Library"
+        "title": "TMS PTG Meeting - Planning for 2026-2027 School Year",
+        "start": "2026-03-23T14:30:00",
+        "end": "2026-03-23T15:30:00",
+        "description": "The Talawanda Middle School PTG is holding a meeting on **March 23rd at 2:30 PM in the TMS Media Center** to plan goals and vision for the 2026-2027 school year. The 2026-2027 PTG board includes Sarah",
+        "location": "TMS Media Center"
       }
     ]
   },
@@ -114,38 +136,6 @@
         "end": "2026-03-27T23:59:00",
         "description": "**Right to Read Week** features \"Choose Your Own (Pirate) Adventure\" BOOKaneers Dress-Up Days, **March 23-27**. Students earn 10 doubloons per day for their grade-level team by choosing one of two dai",
         "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Last Weekend to Order Yearbooks",
-    "block_id": "bp40gi3co2-bw7v4co45q",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/zkac8w",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-03-06T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "📣 \n\nIf \n\ninterested \n\nin \n\na \n\nYearbook, \n\nthis \n\nis \n\nyour \n\nlast \n\nweekend \n\nto \n\norder. \n\n📣 If interested in a Yearbook, this is your last weekend to order.",
-        "id": "bp40gi3co2"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "We will have no extras to sell!\nORDERLINK:https://ybpay.lifetouch.com/Order/SelectJob?utm_source=Flyer&utm_medium=Print&utm_campaign=YB25_5003877YEARBOOK ID CODE: 7397826",
-        "id": "bw7v4co45q"
-      }
-    ],
-    "hash": "bp40gi3co2-bw7v4co45q",
-    "summary": "**Final weekend to order yearbooks** – no extras will be available for purchase after this deadline. Order online using **Yearbook ID Code: 7397826** at [ybpay.lifetouch.com](https://ybpay.lifetouch.com/Order/SelectJob?utm_source=Flyer&utm_medium=Print&utm_campaign=YB25_5003877).",
-    "event_info": [
-      {
-        "title": "Yearbook Order Deadline",
-        "start": "2026-03-09T23:59:00",
-        "end": "2026-03-09T23:59:00",
-        "description": "**Final weekend to order yearbooks** – no extras will be available for purchase after this deadline. Order online using **Yearbook ID Code: 7397826** at [ybpay.lifetouch.com](https://ybpay.lifetouch.c",
-        "location": "Online"
       }
     ]
   },
@@ -271,36 +261,78 @@
     "summary": "Miami University Psychology Clinic is offering a **Caregiver Group focused on Understanding and Managing ADHD in 6-12 year olds**. The group meets **Wednesdays 5:30-7:00pm in-person starting in March**. To participate, caregivers must: have a child aged 6-12 diagnosed with ADHD, complete a 1-hour pre-group intake session, and commit to 8 weeks of attendance. **Contact: 513-529-2423 or psychologyclinic@miamioh.edu**"
   },
   {
-    "title": "Book Fair Volunteer Requirements",
-    "block_id": "bh6usehxic-bydcw9t5c2",
+    "title": "Right to Read Week VIP Invitation",
+    "block_id": "bezclasc0f-bcwglzjamm-b5i1w9fkca-bki8v9hidd",
     "content": "",
     "images": [
-      "https://cdn.smore.com/u/6408/d9e4c76da6bfbaf2e37050348aaeedee.png"
+      "https://cdn.smore.com/u/4ace/3ed086ca4e38255439cd0a0157e02f66.png"
     ],
-    "source_url": "https://app.smore.com/n/et20k",
+    "source_url": "https://app.smore.com/n/zkac8w",
     "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-02-27T00:00:00+00:00",
+    "date": "2026-03-06T00:00:00+00:00",
     "blocks": [
       {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/6408/d9e4c76da6bfbaf2e37050348aaeedee.png",
-        "id": "bh6usehxic"
+        "type": "text.title",
+        "content": "AHOY  \n\nMARSHALL  \n\nFAMILIES \n\n⚓📚\n\nAHOY  MARSHALL  FAMILIES ⚓📚",
+        "id": "bezclasc0f"
       },
       {
         "type": "text.paragraph",
-        "content": "Any volunteer who would like to volunteer for the book fair must have a completed volunteer application on file prior to coming in. The form can be emailed directly to Mrs. Jones or returned to your child’s teacher. If you have already completed a volunteer application and have one on file with the school, you are all set—no need to complete another one. On the day of your visit, please arrive 5–10 minutes before your child’s scheduled library time.",
-        "id": "bydcw9t5c2"
+        "content": "March 23–27, 2026 we will be celebrating Right to Read Week with a fun, pirate-themed adventure: BOOKaneers - Finding Treasure in Books! \nRight to Read Week is a special time when we celebrate the joy and importance of reading in our school community. We are so excited for a fun week filled with books, creativity, and activities that help our students grow as readers! To help families plan ahead, we wanted to share the details early. Below you will find our dress-up schedule for the week, along with some simple activities you can do at home to celebrate reading with your child. We have also included a special RAH sheet for students to complete. All of these items are coming home with your child today as well. As part of our celebration, students will have the opportunity to invite a VIP (Very Important Pirate) to join them during their scheduled library time. VIPs may be parents, grandparents, special family members, or other important adults in your child’s life.During this special visit, VIPs and students will:Read together (bring a favorite book from home or choose one from our library collection)Complete a fun directed drawing activityPlay a gameWe kindly ask all VIPs to sign up using this link so we can plan accordingly. (If you have more than one student, please fill one out for each student.) Additionally, any grown-up who would like to attend must have a completed volunteer application on file prior to coming in. The form can be emailed directly to Mrs. Jones or returned to your child’s teacher. If you have already completed a volunteer application and have one on file with the school, you are all set—no need to complete another one.On the day of your visit, please arrive 5–10 minutes before your child’s scheduled library time. VIP’s will need to bring an ID and sign in at the office. A staff member will greet VIPs and walk the group up to the library when it is time for the class to begin.Thank you for partnering with us and helping make Right to Read Week a memorable and meaningful experience for our students!",
+        "id": "bcwglzjamm"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/4ace/3ed086ca4e38255439cd0a0157e02f66.png",
+        "id": "b5i1w9fkca"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "We look forward to welcoming our VIPs aboard for this exciting week of literacy fun!If you have any questions, please feel free to contact Mrs. Jones @ joness@talawanda.org or 513-273-3600.Stephanie JonesPrincipal",
+        "id": "bki8v9hidd"
       }
     ],
-    "hash": "bh6usehxic-bydcw9t5c2",
-    "summary": "**Marshall Elementary** is hosting a **Scholastic Book Fair March 9th-12th**. Volunteers must have a completed volunteer application on file before helping. Applications can be emailed to Mrs. Jones or returned to your child's teacher. If you already have an application on file, no new form is needed. Volunteers should arrive 5–10 minutes before their child's scheduled library time. For questions or to volunteer during library time or other classes, contact **burchs@talawanda.org**.",
+    "hash": "bezclasc0f-bcwglzjamm-b5i1w9fkca-bki8v9hidd",
+    "summary": "**Right to Read Week** runs **March 23-27, 2026** with a pirate theme: \"BOOKaneers - Finding Treasure in Books!\" Students can invite a **VIP (Very Important Pirate)** to join them during their scheduled library time to read together, complete a directed drawing activity, and play a game. VIPs must [sign up using this link](https://talawanda.org) and have a completed volunteer application on file with Mrs. Jones. Library times are: **Monday** (10:25-11:10 GRONAS), **Tuesday** (9:30-10:15 ZIEGLER, 10:25-11:10 BEATON, 11:20-12:05 LYKINS, 1:50-2:35 SCHAEFER, 2:45-3:30 SMITH), **Wednesday** (9:30-10:15 PALUCH, 11:20-12:05 TOERNER, 12:55-1:40 SLATTERY, 1:50-2:35 MOHLER, 2:45-3:30 CHASTEEN), **Thursday** (9:30-10:15 KRAUSHAR, 10:25-11:10 BIRKEMEIER, 1:50-2:35 WHITAKER, 2:45-3:30 SPARKS). VIPs should arrive 5-10 minutes early and sign in at the office with ID.",
     "event_info": [
       {
-        "title": "Marshall Elementary Scholastic Book Fair",
-        "start": "2026-03-09T00:00:00",
-        "end": "2026-03-12T23:59:00",
-        "description": "**Marshall Elementary** is hosting a **Scholastic Book Fair March 9th-12th**. Volunteers must have a completed volunteer application on file before helping. Applications can be emailed to Mrs. Jones o",
-        "location": "Marshall Elementary"
+        "title": "Right to Read Week - BOOKaneers VIP Visits",
+        "start": "2026-03-23T00:00:00",
+        "end": "2026-03-27T23:59:00",
+        "description": "**Right to Read Week** runs **March 23-27, 2026** with a pirate theme: \"BOOKaneers - Finding Treasure in Books!\" Students can invite a **VIP (Very Important Pirate)** to join them during their schedul",
+        "location": "Marshall Elementary Library"
+      }
+    ]
+  },
+  {
+    "title": "Last Weekend to Order Yearbooks",
+    "block_id": "bp40gi3co2-bw7v4co45q",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/zkac8w",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-03-06T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "📣 \n\nIf \n\ninterested \n\nin \n\na \n\nYearbook, \n\nthis \n\nis \n\nyour \n\nlast \n\nweekend \n\nto \n\norder. \n\n📣 If interested in a Yearbook, this is your last weekend to order.",
+        "id": "bp40gi3co2"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "We will have no extras to sell!\nORDERLINK:https://ybpay.lifetouch.com/Order/SelectJob?utm_source=Flyer&utm_medium=Print&utm_campaign=YB25_5003877YEARBOOK ID CODE: 7397826",
+        "id": "bw7v4co45q"
+      }
+    ],
+    "hash": "bp40gi3co2-bw7v4co45q",
+    "summary": "**Final weekend to order yearbooks** – no extras will be available for purchase after this deadline. Order online using **Yearbook ID Code: 7397826** at [ybpay.lifetouch.com](https://ybpay.lifetouch.com/Order/SelectJob?utm_source=Flyer&utm_medium=Print&utm_campaign=YB25_5003877).",
+    "event_info": [
+      {
+        "title": "Yearbook Order Deadline",
+        "start": "2026-03-09T23:59:00",
+        "end": "2026-03-09T23:59:00",
+        "description": "**Final weekend to order yearbooks** – no extras will be available for purchase after this deadline. Order online using **Yearbook ID Code: 7397826** at [ybpay.lifetouch.com](https://ybpay.lifetouch.c",
+        "location": "Online"
       }
     ]
   },
@@ -341,36 +373,6 @@
     "summary": "Marshall Elementary has released its **breakfast and lunch menus for March 2026**. \n\n**Breakfast highlights** include chocolate donuts, breakfast pizza, egg & cheese sandwiches, mini pancakes, glazed donuts, biscuits & gravy, French toast varieties, and themed items for St. Patrick's Day and spring. All breakfasts include 100% fruit juice, apples, oranges or other fresh fruit, and choice of milk.\n\n**Lunch highlights** feature cheeseburgers, walking tacos, BBQ chicken, pizza options, chicken nuggets, spaghetti, hot dogs, chicken patties, mozzarella sticks, and special St. Patrick's Day and spring-themed meals. Choice of milk is included with every lunch.\n\nSpring break begins March 30-31, 2026."
   },
   {
-    "title": "Check Lost & Found for Missing Items",
-    "block_id": "b66dbfdm63-b6u2arshdd-bthve5a0og",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/3492/db7837cb20a2efa2a4e724ec3fd4a76d.png"
-    ],
-    "source_url": "https://app.smore.com/n/et20k",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-02-27T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "LOST \n\n& \n\nFOUND\n\nLOST & FOUND",
-        "id": "b66dbfdm63"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/3492/db7837cb20a2efa2a4e724ec3fd4a76d.png",
-        "id": "b6u2arshdd"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Our lost and found is quickly filling up! If your child is missing a lunchbox, jacket, water bottle, or other item, please encourage them to check the lost and found.A quick reminder to label your child’s belongings — it makes returning lost items so much easier. Thank you for your support!",
-        "id": "bthve5a0og"
-      }
-    ],
-    "hash": "b66dbfdm63-b6u2arshdd-bthve5a0og",
-    "summary": "The **lost and found is filling up quickly** with items like lunchboxes, jackets, water bottles, and other belongings. Students who are missing items should check the lost and found. Parents are reminded to **label their child's belongings** to make returning lost items easier."
-  },
-  {
     "title": "Spring Break Reading Activities for Families",
     "block_id": "b8hc5vobc2-belzvpxavw-bln3ergs2d",
     "content": "",
@@ -399,6 +401,70 @@
     ],
     "hash": "b8hc5vobc2-belzvpxavw-bln3ergs2d",
     "summary": "Reading activities during Spring Break help maintain student literacy skills while making reading feel like play, not schoolwork. Suggested activities include: reading a book then watching its movie adaptation (like Charlotte's Web or Curious George), reading about places visited during travel (zoos, museums, natural areas), and doing family read-alouds where everyone takes turns reading and discussing the book over meals or campfires. Contact your student's Reading Corner teacher with questions."
+  },
+  {
+    "title": "Book Fair Volunteer Requirements",
+    "block_id": "bh6usehxic-bydcw9t5c2",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/6408/d9e4c76da6bfbaf2e37050348aaeedee.png"
+    ],
+    "source_url": "https://app.smore.com/n/et20k",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-02-27T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/6408/d9e4c76da6bfbaf2e37050348aaeedee.png",
+        "id": "bh6usehxic"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Any volunteer who would like to volunteer for the book fair must have a completed volunteer application on file prior to coming in. The form can be emailed directly to Mrs. Jones or returned to your child’s teacher. If you have already completed a volunteer application and have one on file with the school, you are all set—no need to complete another one. On the day of your visit, please arrive 5–10 minutes before your child’s scheduled library time.",
+        "id": "bydcw9t5c2"
+      }
+    ],
+    "hash": "bh6usehxic-bydcw9t5c2",
+    "summary": "**Marshall Elementary** is hosting a **Scholastic Book Fair March 9th-12th**. Volunteers must have a completed volunteer application on file before helping. Applications can be emailed to Mrs. Jones or returned to your child's teacher. If you already have an application on file, no new form is needed. Volunteers should arrive 5–10 minutes before their child's scheduled library time. For questions or to volunteer during library time or other classes, contact **burchs@talawanda.org**.",
+    "event_info": [
+      {
+        "title": "Marshall Elementary Scholastic Book Fair",
+        "start": "2026-03-09T00:00:00",
+        "end": "2026-03-12T23:59:00",
+        "description": "**Marshall Elementary** is hosting a **Scholastic Book Fair March 9th-12th**. Volunteers must have a completed volunteer application on file before helping. Applications can be emailed to Mrs. Jones o",
+        "location": "Marshall Elementary"
+      }
+    ]
+  },
+  {
+    "title": "Check Lost & Found for Missing Items",
+    "block_id": "b66dbfdm63-b6u2arshdd-bthve5a0og",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/3492/db7837cb20a2efa2a4e724ec3fd4a76d.png"
+    ],
+    "source_url": "https://app.smore.com/n/et20k",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-02-27T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "LOST \n\n& \n\nFOUND\n\nLOST & FOUND",
+        "id": "b66dbfdm63"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/3492/db7837cb20a2efa2a4e724ec3fd4a76d.png",
+        "id": "b6u2arshdd"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Our lost and found is quickly filling up! If your child is missing a lunchbox, jacket, water bottle, or other item, please encourage them to check the lost and found.A quick reminder to label your child’s belongings — it makes returning lost items so much easier. Thank you for your support!",
+        "id": "bthve5a0og"
+      }
+    ],
+    "hash": "b66dbfdm63-b6u2arshdd-bthve5a0og",
+    "summary": "The **lost and found is filling up quickly** with items like lunchboxes, jackets, water bottles, and other belongings. Students who are missing items should check the lost and found. Parents are reminded to **label their child's belongings** to make returning lost items easier."
   },
   {
     "title": "Right to Read Week Activities Upcoming",
@@ -656,77 +722,5 @@
         "location": "Talawanda High School"
       }
     ]
-  },
-  {
-    "title": "2025-2026 Yearbook Order Form Available",
-    "block_id": "bjwitrfox8-b57lelbeex-b8f5zhnf8b-bpxwz7ueev-buz987d585",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/9080/47ba64c343afa0eadd3de3740f7ae43d.png"
-    ],
-    "source_url": "https://app.smore.com/n/0cwe9",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-02-06T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "2025-2026 \n\nYEARBOOK \n\nORDER \n\nFORM\n\n2025-2026 YEARBOOK ORDER FORM",
-        "id": "bjwitrfox8"
-      },
-      {
-        "type": "text.title",
-        "content": "📣  \n\nIf \n\ninterested \n\nin \n\na \n\nYearbook, \n\nplease \n\norder \n\nas \n\nwe \n\nwill \n\nhave \n\nno \n\nextras \n\nto \n\nsell!\n\n📣  If interested in a Yearbook, please order as we will have no extras to sell!",
-        "id": "b57lelbeex"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/9080/47ba64c343afa0eadd3de3740f7ae43d.png",
-        "id": "b8f5zhnf8b"
-      },
-      {
-        "type": "text.title",
-        "content": "ORDER \n\nLINK:\n\nORDER LINK:",
-        "id": "bpxwz7ueev"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "https://ybpay.lifetouch.com/Order/SelectJob?utm_source=Flyer&utm_medium=Print&utm_campaign=YB25_5003877YEARBOOK ID CODE: 7397826",
-        "id": "buz987d585"
-      }
-    ],
-    "hash": "bjwitrfox8-b57lelbeex-b8f5zhnf8b-bpxwz7ueev-buz987d585",
-    "summary": "**Order your 2025-2026 yearbook now** - no extras will be available for sale later! Yearbooks cost **$17.50** and include a sturdy softcover with protective coating, all-color pages, and durable stitching. **Order deadline: March 1, 2026.** Order online at **https://ybpay.lifetouch.com** using Yearbook ID Code **7397826**.",
-    "event_info": [
-      {
-        "title": "Yearbook Order Deadline",
-        "start": "2026-03-01T00:00:00",
-        "end": "2026-03-01T23:59:00",
-        "description": "**Order your 2025-2026 yearbook now** - no extras will be available for sale later! Yearbooks cost **$17.50** and include a sturdy softcover with protective coating, all-color pages, and durable stitc",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "February Reading Corner: Understanding Decoding Skills",
-    "block_id": "b8hc5vobc2-bsmd4nwafm",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/0cwe9",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-02-06T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "TITLE \n\nTALK \n\nREADING \n\nCORNER\n\nTITLE TALK READING CORNER",
-        "id": "b8hc5vobc2"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "February Newsletter\nWhat does decoding mean?A simple definition for decoding is recognizing letter sounds or patterns and blending them together to translate a written word into speech. Decoding is a foundational reading skill (phonics) that must be developed to begin successful reading with fluency. This process begins with students recognizing their letters and sounds then blending the sounds to speak the word, i.e., /c/ - /a/ - /t/ becomes cat.Here is an example of what happens when a student decodes a word:Recognizing letters and letter patterns (like b, sh, igh)Knowing the sounds they makeBlending those sounds together to read a wordActivities: Reading Rockets is a reputable research-based website for all things reading; and below are age-specific resources for decoding activities.Kindergarten:https://www.readingrockets.org/literacy-home/reading-101Kindergartener phonics and decoding activitiesFirst Grade:https://www.readingrockets.org/literacy-home/reading-101-guide-parents/your-first-grader/phonics-and-decoding-activitiesSecond Grade:https://www.readingrockets.org/literacy-home/reading-101-guide-parents/your-second-grader/phonics-and-decoding-activitiesThird Grade:Here is a video showing how a 3rd grade student uses syllables to decode longer words more easily.",
-        "id": "bsmd4nwafm"
-      }
-    ],
-    "hash": "b8hc5vobc2-bsmd4nwafm",
-    "summary": "**Decoding** is the foundational reading skill of recognizing letter sounds and patterns and blending them together to read words aloud. The process involves recognizing letters and letter patterns (like b, sh, igh), knowing their sounds, and blending those sounds to read words (e.g., /c/ - /a/ - /t/ becomes \"cat\"). Grade-specific decoding activities and resources are available from Reading Rockets for [Kindergarten](https://www.readingrockets.org/literacy-home/reading-101), [First Grade](https://www.readingrockets.org/literacy-home/reading-101-guide-parents/your-first-grader/phonics-and-decoding-activities), [Second Grade](https://www.readingrockets.org/literacy-home/reading-101-guide-parents/your-second-grader/phonics-and-decoding-activities), and Third Grade (video showing syllable strategies for longer words)."
   }
 ]
