@@ -1,5 +1,56 @@
 [
   {
+    "title": "Right to Read Week BOOKaneer Activities",
+    "block_id": "bezclasc0f-bcwglzjamm-bdq7h1vupo-b3kltp7qb0-bhdcg04s82",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/8ebb/344d394acbc05da2d36d2fc11afbfe2e.png",
+      "https://cdn.smore.com/u/458d/564fa119ad9a4ea61daff252a52d1cb6.png",
+      "https://cdn.smore.com/u/5248/1512e24e7306cdfb193d401ec02f9dc9.png"
+    ],
+    "source_url": "https://app.smore.com/n/4vf86",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-03-20T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "AHOY \n\nMARSHALL \n\nFAMILIES \n\n⚓📚\n\nAHOY MARSHALL FAMILIES ⚓📚",
+        "id": "bezclasc0f"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "March 23–27, 2026 we will be celebrating Right to Read Week with a fun, pirate-themed adventure: BOOKaneers - Finding Treasure in Books! \nRight to Read Week is a special time when we celebrate the joy and importance of reading in our school community. We are so excited for a fun week filled with books, creativity, and activities that help our students grow as readers! To help families plan ahead, we wanted to share the details early. Below you will find our dress-up schedule for the week, along with some simple activities you can do at home to celebrate reading with your child. We have also included a special RAH sheet for students to complete. All of these items are coming home with your child today as well.Thank you for partnering with us and helping make Right to Read Week a memorable and meaningful experience for our students!Stephanie JonesPrincipal",
+        "id": "bcwglzjamm"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/8ebb/344d394acbc05da2d36d2fc11afbfe2e.png",
+        "id": "bdq7h1vupo"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/458d/564fa119ad9a4ea61daff252a52d1cb6.png",
+        "id": "b3kltp7qb0"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/5248/1512e24e7306cdfb193d401ec02f9dc9.png",
+        "id": "bhdcg04s82"
+      }
+    ],
+    "hash": "bezclasc0f-bcwglzjamm-bdq7h1vupo-b3kltp7qb0-bhdcg04s82",
+    "summary": "**Right to Read Week** will be celebrated March 23-27, 2026 with a pirate-themed \"BOOKaneers - Finding Treasure in Books\" adventure. Each day features optional dress-up themes (students choose one of two options per day) worth 10 doubloons each: **Monday** - shirts with words OR red/black/white colors; **Tuesday** - fun hats OR sparkly hair accessories; **Wednesday** - bright bold colors OR wacky mismatched clothes; **Thursday** - Peter Pan characters OR Captain Hook/pirates; **Friday** - gold/silver/shiny colors OR jewel-tone colors. Students can also complete \"Reading Isles\" activities (Mermaid Lagoon, Shipwreck Island, Plankwalk Bay, Skull Island, and Treasure Island) earning 10 doubloons each. Materials are being sent home today.",
+    "event_info": [
+      {
+        "title": "Right to Read Week - BOOKaneers",
+        "start": "2026-03-23T00:00:00",
+        "end": "2026-03-27T23:59:00",
+        "description": "**Right to Read Week** will be celebrated March 23-27, 2026 with a pirate-themed \"BOOKaneers - Finding Treasure in Books\" adventure. Each day features optional dress-up themes (students choose one of ",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
     "title": "Right to Read Week Pirate-Themed Celebration",
     "block_id": "bezclasc0f-bcwglzjamm",
     "content": "",
@@ -688,39 +739,5 @@
     ],
     "hash": "bhatmtq6ud-bjf5yrg6jr-b2cfkyuhix",
     "summary": "Marshall PTG successfully reached their goal of raising **$15,000** to support Marshall students and staff. The **Glow Party fundraiser** was a huge success. As a reward, **Mrs. Jones will be slimed next week**. The organization thanks everyone for their hard work, support, and generosity."
-  },
-  {
-    "title": "Spring Picture Day Order - March 9th",
-    "block_id": "b2tly42a6l-b21wl0onxc",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/54e5/cb8ac19949c1368b5d7a64ada935bc64.png"
-    ],
-    "source_url": "https://app.smore.com/n/0cwe9",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-02-06T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/54e5/cb8ac19949c1368b5d7a64ada935bc64.png",
-        "id": "b2tly42a6l"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Order now for early Picture Day pricing!\nCreate an account or login with your Picture Day ID: EVT9ZR8GNhttps://my.lifetouch.com/mylifetouch/#/",
-        "id": "b21wl0onxc"
-      }
-    ],
-    "hash": "b2tly42a6l-b21wl0onxc",
-    "summary": "**Spring Picture Day is Monday, March 9th.** Order now for early pricing by creating an account or logging in at [my.lifetouch.com](https://my.lifetouch.com/mylifetouch/#/) using Picture Day ID: **EVT9ZR8GNh**. Early orders receive discounted pricing.",
-    "event_info": [
-      {
-        "title": "Spring Picture Day",
-        "start": "2026-03-09T00:00:00",
-        "end": "2026-03-09T23:59:00",
-        "description": "**Spring Picture Day is Monday, March 9th.** Order now for early pricing by creating an account or logging in at [my.lifetouch.com](https://my.lifetouch.com/mylifetouch/#/) using Picture Day ID: **EVT",
-        "location": "Talawanda High School"
-      }
-    ]
   }
 ]

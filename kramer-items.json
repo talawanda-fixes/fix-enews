@@ -1,5 +1,59 @@
 [
   {
+    "title": "Parent Drop-Off and Pick-Up Parking Rules",
+    "block_id": "bf2gr3k7s7-b72jt3qx5p-bqgrdul4qd-botge4f0v3",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/530a/8d2625e7c4982b2b77e7a3b0498052a5.png",
+      "https://cdn.smore.com/u/a669/6e992ed3c3a1b1dea75a7394c5864ded.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/d1sg3",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-03-20T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PARKING \n\nREMINDER\n\nPARKING REMINDER",
+        "id": "bf2gr3k7s7"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/530a/8d2625e7c4982b2b77e7a3b0498052a5.png",
+        "id": "b72jt3qx5p"
+      },
+      {
+        "type": "items",
+        "content": "zoom_out_map\n                \n\n\n\n\n\n\n\n\nzoom_out_map\n                \n\n\n\n\n\n\n\n\nzoom_out_map",
+        "id": "bqgrdul4qd"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/a669/6e992ed3c3a1b1dea75a7394c5864ded.jpeg",
+        "id": "botge4f0v3"
+      }
+    ],
+    "hash": "bf2gr3k7s7-b72jt3qx5p-bqgrdul4qd-botge4f0v3",
+    "summary": "Kramer students and parents must follow safety rules at all times during drop-off and pick-up. The vehicle line gates open at **3:40 PM**. A red-marked sidewalk path indicates where students should walk for safe pick-up. Parents should use the designated vehicle line for student safety."
+  },
+  {
+    "title": "PTG Meeting or Information",
+    "block_id": "b5m8132v16",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/d1sg3",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-03-20T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PTG\n\nPTG",
+        "id": "b5m8132v16"
+      }
+    ],
+    "hash": "b5m8132v16",
+    "summary": "**PTG** (Parent Teacher Group) announcement. No additional details, dates, times, or locations are provided in this item."
+  },
+  {
     "title": "Kramer PTG Cake Roll Fundraiser",
     "block_id": "b5m8132v16-bjva70dcqe",
     "content": "",
@@ -649,73 +703,5 @@
     ],
     "hash": "bhzdnlnw9b-bb3m0ukqvk-bnmbq6ritu-b01ihwcz84",
     "summary": "Marshall Elementary's **February 2026 breakfast and lunch menus** are now available. \n\n**Breakfast highlights** include breakfast burritos, biscuits & sausage gravy, French toast bites, breakfast pizza, pancakes on a stick, donuts, and chicken biscuit sandwiches. **100% fruit juice, apples, oranges or other fresh fruit selection and milk included with every breakfast.**\n\n**Lunch highlights** include nachos with taco meat, rotini & Italian meat sauce, popcorn chicken dinner roll, various pizzas, mac & cheese, chicken tenders, hot dogs, quesadillas, corn dogs, grilled cheese, and salisbury steak. **Choice of milk included with every lunch.**\n\nBoth menus note that items are **subject to change based on product availability**. No school on **February 16 (Presidents Day)**."
-  },
-  {
-    "title": "February Reading Corner: Understanding Decoding Skills",
-    "block_id": "b8hc5vobc2-bsmd4nwafm",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/0cwe9",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-02-06T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "TITLE \n\nTALK \n\nREADING \n\nCORNER\n\nTITLE TALK READING CORNER",
-        "id": "b8hc5vobc2"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "February Newsletter\nWhat does decoding mean?A simple definition for decoding is recognizing letter sounds or patterns and blending them together to translate a written word into speech. Decoding is a foundational reading skill (phonics) that must be developed to begin successful reading with fluency. This process begins with students recognizing their letters and sounds then blending the sounds to speak the word, i.e., /c/ - /a/ - /t/ becomes cat.Here is an example of what happens when a student decodes a word:Recognizing letters and letter patterns (like b, sh, igh)Knowing the sounds they makeBlending those sounds together to read a wordActivities: Reading Rockets is a reputable research-based website for all things reading; and below are age-specific resources for decoding activities.Kindergarten:https://www.readingrockets.org/literacy-home/reading-101Kindergartener phonics and decoding activitiesFirst Grade:https://www.readingrockets.org/literacy-home/reading-101-guide-parents/your-first-grader/phonics-and-decoding-activitiesSecond Grade:https://www.readingrockets.org/literacy-home/reading-101-guide-parents/your-second-grader/phonics-and-decoding-activitiesThird Grade:Here is a video showing how a 3rd grade student uses syllables to decode longer words more easily.",
-        "id": "bsmd4nwafm"
-      }
-    ],
-    "hash": "b8hc5vobc2-bsmd4nwafm",
-    "summary": "The February newsletter explains **decoding** - the foundational reading skill of recognizing letter sounds and blending them to read words (like /c/ - /a/ - /t/ becomes \"cat\"). **Reading Rockets** provides age-specific decoding activities for students:\n- **[Kindergarten activities](https://www.readingrockets.org/literacy-home/reading-101)**\n- **[First Grade activities](https://www.readingrockets.org/literacy-home/reading-101-guide-parents/your-first-grader/phonics-and-decoding-activities)**\n- **[Second Grade activities](https://www.readingrockets.org/literacy-home/reading-101-guide-parents/your-second-grader/phonics-and-decoding-activities)**\n- **Third Grade**: A video demonstrates how students use syllables to decode longer words more easily."
-  },
-  {
-    "title": "BoosterThon Glow Party Fundraiser Progress",
-    "block_id": "bhatmtq6ud-b2cfkyuhix-bppt2gqnzb-b3oed311vq",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/d3e7/90cff3c962ae9bf41aa69916226977a2.png",
-      "https://cdn.smore.com/u/250d/c491f1afe7c5b293cdcb67015215682b.png"
-    ],
-    "source_url": "https://app.smore.com/n/0cwe9",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-02-06T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PTG \n\nCORNER\n\nPTG CORNER",
-        "id": "bhatmtq6ud"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Our BoosterThon fundraiser kicked off on Monday, February 2nd, and will celebrate with the Glow Dance Party on Thursday, February 12th! Go to mybooster.com today to register your child! All funds raised go directly back to supporting our students and staff!",
-        "id": "b2cfkyuhix"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/d3e7/90cff3c962ae9bf41aa69916226977a2.png",
-        "id": "bppt2gqnzb"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/250d/c491f1afe7c5b293cdcb67015215682b.png",
-        "id": "b3oed311vq"
-      }
-    ],
-    "hash": "bhatmtq6ud-b2cfkyuhix-bppt2gqnzb-b3oed311vq",
-    "summary": "The **BoosterThon fundraiser** launched February 2nd and will culminate with a **Glow Dance Party on Thursday, February 12th**. The campaign has reached **57% student sign-up** and **31% students with donations**, raising funds toward a **$15,000 goal** to support students and staff. Participants from **10 states and 2 countries** are involved, with top classes being Paluch (1st), Lykins (4th), and Slattery (5th). A **weekend challenge** offers a bonus keychain for earning $60 in donations. Register at **mybooster.com**.",
-    "event_info": [
-      {
-        "title": "Marshall Glow Party - BoosterThon Celebration",
-        "start": "2026-02-12T00:00:00",
-        "end": "2026-02-12T01:00:00",
-        "description": "The **BoosterThon fundraiser** launched February 2nd and will culminate with a **Glow Dance Party on Thursday, February 12th**. The campaign has reached **57% student sign-up** and **31% students with",
-        "location": "Talawanda High School"
-      }
-    ]
   }
 ]

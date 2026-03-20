@@ -1,5 +1,99 @@
 [
   {
+    "title": "Spring Break Spirit Week March 23-27",
+    "block_id": "bqm327xlfi-b9guhad5fr",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/d7d4/0441b5438a8d1094b2438c9e976658a5.png"
+    ],
+    "source_url": "https://app.smore.com/n/dhkqz-welcome-spring?ref=email",
+    "source_title": "WELCOME SPRING! | Smore Newsletters for Education",
+    "date": "2026-03-20T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "SPIRIT \n\nWEEK!!\n\nSPIRIT WEEK!!",
+        "id": "bqm327xlfi"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/d7d4/0441b5438a8d1094b2438c9e976658a5.png",
+        "id": "b9guhad5fr"
+      }
+    ],
+    "hash": "bqm327xlfi-b9guhad5fr",
+    "summary": "Talawanda Middle School is hosting **Spring Break Spirit Week** during the week of March 23rd with daily themed dress-up days:\n- **Monday (March 23)**: Pajama Day - PJs must be school appropriate\n- **Tuesday (March 24)**: Staycation - Dress in comfy clothes\n- **Wednesday (March 25)**: NCAA Basketball Day - Support your favorite college basketball team\n- **Thursday (March 26)**: Opening Day - Wear Cincinnati Reds gear (red & white)\n- **Friday (March 27)**: Beach Day - Dress ready for the beach with Hawaiian shirts, shorts, and sunglasses",
+    "event_info": [
+      {
+        "title": "Pajama Day (Spring Break Spirit Week)",
+        "start": "2026-03-23T00:00:00",
+        "end": "2026-03-23T23:59:00",
+        "description": "Talawanda Middle School is hosting **Spring Break Spirit Week** during the week of March 23rd with daily themed dress-up days:\n- **Monday (March 23)**: Pajama Day - PJs must be school appropriate\n- **",
+        "location": "Talawanda Middle School"
+      },
+      {
+        "title": "Staycation Day (Spring Break Spirit Week)",
+        "start": "2026-03-24T00:00:00",
+        "end": "2026-03-24T23:59:00",
+        "description": "Talawanda Middle School is hosting **Spring Break Spirit Week** during the week of March 23rd with daily themed dress-up days:\n- **Monday (March 23)**: Pajama Day - PJs must be school appropriate\n- **",
+        "location": "Talawanda Middle School"
+      },
+      {
+        "title": "NCAA Basketball Day (Spring Break Spirit Week)",
+        "start": "2026-03-25T00:00:00",
+        "end": "2026-03-25T23:59:00",
+        "description": "Talawanda Middle School is hosting **Spring Break Spirit Week** during the week of March 23rd with daily themed dress-up days:\n- **Monday (March 23)**: Pajama Day - PJs must be school appropriate\n- **",
+        "location": "Talawanda Middle School"
+      },
+      {
+        "title": "Opening Day - Reds Gear (Spring Break Spirit Week)",
+        "start": "2026-03-26T00:00:00",
+        "end": "2026-03-26T23:59:00",
+        "description": "Talawanda Middle School is hosting **Spring Break Spirit Week** during the week of March 23rd with daily themed dress-up days:\n- **Monday (March 23)**: Pajama Day - PJs must be school appropriate\n- **",
+        "location": "Talawanda Middle School"
+      },
+      {
+        "title": "Beach Day (Spring Break Spirit Week)",
+        "start": "2026-03-27T00:00:00",
+        "end": "2026-03-27T23:59:00",
+        "description": "Talawanda Middle School is hosting **Spring Break Spirit Week** during the week of March 23rd with daily themed dress-up days:\n- **Monday (March 23)**: Pajama Day - PJs must be school appropriate\n- **",
+        "location": "Talawanda Middle School"
+      }
+    ]
+  },
+  {
+    "title": "Cookie Dough Fundraiser Pick-Up Event",
+    "block_id": "brcxccby91-b0teht5b05",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/dhkqz-welcome-spring?ref=email",
+    "source_title": "WELCOME SPRING! | Smore Newsletters for Education",
+    "date": "2026-03-20T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "COOKIE \n\nDOUGH \n\nPICK-UP!\n\nCOOKIE DOUGH PICK-UP!",
+        "id": "brcxccby91"
+      },
+      {
+        "type": "text.title",
+        "content": "March \n\n25th, \n\n2:30 \n\n- \n\n6:30pm\n\nMarch 25th, 2:30 - 6:30pm",
+        "id": "b0teht5b05"
+      }
+    ],
+    "hash": "brcxccby91-b0teht5b05",
+    "summary": "**Cookie dough pick-up** is scheduled for **March 25th from 2:30-6:30 PM**. Please plan to collect your cookie dough orders during this time window.",
+    "event_info": [
+      {
+        "title": "Cookie Dough Pick-Up",
+        "start": "2026-03-25T14:30:00",
+        "end": "2026-03-25T18:30:00",
+        "description": "**Cookie dough pick-up** is scheduled for **March 25th from 2:30-6:30 PM**. Please plan to collect your cookie dough orders during this time window.",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
     "title": "Join the PTG - Meeting March 23rd",
     "block_id": "b89rv5y4sb-bxf7wjq0jf-by4knug9k4",
     "content": "",
@@ -865,68 +959,6 @@
         "end": "2026-01-19T11:00:00",
         "description": "The **Talawanda Baseball Winter Clinic** is a two-day clinic for boys and girls in grades K-8, held **January 18-19, 9:00 AM-11:00 AM** at **THS Gymnasium**. Varsity and junior-varsity staff will teac",
         "location": "THS Gymnasium"
-      }
-    ]
-  },
-  {
-    "title": "Flu and Seasonal Illness Health Reminder",
-    "block_id": "bxpf65p4r6-bcrzxk9zuh",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/m9kun-happy-new-year?ref=email",
-    "source_title": "Happy New Year! | Smore Newsletters for Education",
-    "date": "2026-01-09T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Health \n\nReminder: \n\nFlu \n\nand \n\nSeasonal \n\nIllness\n\nHealth Reminder: Flu and Seasonal Illness",
-        "id": "bxpf65p4r6"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "zoom_out_map\n            \nWe are seeing an increase in flu and seasonal illnesses at school. To help prevent the spread of illness, please keep your child home if they have a fever (100°F or higher), vomiting or diarrhea, significant cough, sore throat with fever, body aches, extreme fatigue, or flu-like symptoms. Students should be fever-free for 24 hours without medication and symptom-free for 24 hours after vomiting or diarrhea before returning to school. Thank you for helping keep our school community healthy.",
-        "id": "bcrzxk9zuh"
-      }
-    ],
-    "hash": "bxpf65p4r6-bcrzxk9zuh",
-    "summary": "The school is experiencing an increase in flu and seasonal illnesses. **Keep your child home if they have:** a fever (100°F or higher), vomiting/diarrhea, significant cough, sore throat with fever, body aches, extreme fatigue, or flu-like symptoms. **Return to school only after:** fever-free for 24 hours without medication AND symptom-free for 24 hours after vomiting or diarrhea."
-  },
-  {
-    "title": "Talawanda Preschool Application Lottery 2026/2027",
-    "block_id": "b3046wv2u6-b9v8v1pamm",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/m9kun-happy-new-year?ref=email",
-    "source_title": "Happy New Year! | Smore Newsletters for Education",
-    "date": "2026-01-09T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Talawanda \n\nPreschool \n\nApplication \n\n2026/2027\n\nTalawanda Preschool Application 2026/2027",
-        "id": "b3046wv2u6"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "In order to fill the limited spaces in our preschool classrooms, typically developing children will enter the program through a lottery. Please use the following LINK to apply for the Talawanda Preschool lottery for the 2026/2027 school year. Applications must be completed by January 31, 2026. The lottery will take place on February 13, 2026. Families will be notified of their placement on the roster or on the waitlist after February 13, 2026.Please send any questions to the Preschool Coordinator, Beth Fuechsl, at fuechsle@talawanda.org.",
-        "id": "b9v8v1pamm"
-      }
-    ],
-    "hash": "b3046wv2u6-b9v8v1pamm",
-    "summary": "Applications are now open for the **Talawanda Preschool lottery for the 2026/2027 school year**. Typically developing children will enter the program through a lottery to fill limited spaces. **Applications must be completed by January 31, 2026**, and the lottery will be held on **February 13, 2026**. Families will be notified of their placement or waitlist status after the lottery date. Questions can be sent to Preschool Coordinator Beth Fuechsl at fuechsle@talawanda.org.",
-    "event_info": [
-      {
-        "title": "Talawanda Preschool Application Deadline",
-        "start": "2026-01-31T23:59:00",
-        "end": "2026-01-31T23:59:00",
-        "description": "Applications are now open for the **Talawanda Preschool lottery for the 2026/2027 school year**. Typically developing children will enter the program through a lottery to fill limited spaces. **Applic",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Talawanda Preschool Lottery",
-        "start": "2026-02-13T00:00:00",
-        "end": "2026-02-13T23:59:00",
-        "description": "Applications are now open for the **Talawanda Preschool lottery for the 2026/2027 school year**. Typically developing children will enter the program through a lottery to fill limited spaces. **Applic",
-        "location": "Talawanda High School"
       }
     ]
   }

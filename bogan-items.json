@@ -1,5 +1,131 @@
 [
   {
+    "title": "Bogan Students Earn Pajama Party Reward",
+    "block_id": "bjqvo7kz71-bumwox6uxo-bocf50ow5o",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/4804/63c1a7f2eaa7ef929687a38de563bd50.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/q1p5t-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-03-20T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Around \n\nBogan\n\nAround Bogan",
+        "id": "bjqvo7kz71"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Our students earned a pajama party for raising over $500 for Coin Wars!",
+        "id": "bumwox6uxo"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/4804/63c1a7f2eaa7ef929687a38de563bd50.jpeg",
+        "id": "bocf50ow5o"
+      }
+    ],
+    "hash": "bjqvo7kz71-bumwox6uxo-bocf50ow5o",
+    "summary": "Bogan students earned a **pajama party on March 27th** for raising over $500 during Coin Wars fundraising. Students are invited to wear pajamas to celebrate their fundraising success.",
+    "event_info": [
+      {
+        "title": "Pajama Party for Coin Wars Fundraising Success",
+        "start": "2026-03-27T00:00:00",
+        "end": "2026-03-27T23:59:00",
+        "description": "Bogan students earned a **pajama party on March 27th** for raising over $500 during Coin Wars fundraising. Students are invited to wear pajamas to celebrate their fundraising success.",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Spring State Testing Approaches for Grades 3-5",
+    "block_id": "bwu53kp6vk-bkrqsfsqgx",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/0340/0f0d8a45bf4f915c468f2217715318f2.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/q1p5t-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-03-20T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "Testing\nSpring Ohio State Testing for our 3rd-5th graders is quickly approaching! Your child's teacher will share the dates of testing with you. Please schedule any appointments or activities around testing so that we can make sure your student is tested. We will have a testing assembly soon to share tips and tricks and to encourage them to do their best on the tests. It would be helpful if you could reinforce this at home too.",
+        "id": "bwu53kp6vk"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/0340/0f0d8a45bf4f915c468f2217715318f2.jpeg",
+        "id": "bkrqsfsqgx"
+      }
+    ],
+    "hash": "bwu53kp6vk-bkrqsfsqgx",
+    "summary": "Ohio State Testing for 3rd-5th graders is coming soon. Teachers will share specific testing dates with families. **Please avoid scheduling appointments during testing times** to ensure students can participate. A testing assembly will be held to share tips and encourage students. Five tips for testing success include: get plenty of rest, be on time, eat a good breakfast, relax and take deep breaths, and follow your teacher's directions."
+  },
+  {
+    "title": "Allergies or Cold: Know the Difference",
+    "block_id": "bfk3x3z2v4-bouym8jd0z",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/ccaf/6163dd723cf20e660ed677e877316cdd.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/q1p5t-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-03-20T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Nurse's \n\nNotes\n\nNurse's Notes",
+        "id": "bfk3x3z2v4"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/ccaf/6163dd723cf20e660ed677e877316cdd.jpeg",
+        "id": "bouym8jd0z"
+      }
+    ],
+    "hash": "bfk3x3z2v4-bouym8jd0z",
+    "summary": "The school nurse provides a diagnostic flowchart to help distinguish between allergies and a cold. Key differentiators include:\n- **Mucus color**: Clear mucus suggests allergies; green or yellow suggests a cold\n- **Symptom duration**: Seasonal or extended symptoms indicate allergies; quick onset and resolution suggests a cold\n- **Itchiness**: Itchy eyes, nose, and throat are more common with allergies\n- **Fever**: Having a fever points toward a cold rather than allergies\n\n**Call your doctor if** symptoms last longer than two weeks, worsen, include sore throat/fever over 100°F for more than three days, or involve intense chest pain and shortness of breath."
+  },
+  {
+    "title": "Talawanda Multicultural Family Night Invitation",
+    "block_id": "bwk8x8y5ub-burumwc4r8-bta1cjkux1",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/q1p5t-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-03-20T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Around \n\nTalawanda\n\nAround Talawanda",
+        "id": "bwk8x8y5ub"
+      },
+      {
+        "type": "text.title",
+        "content": "Talawanda \n\nMulticultural \n\nFamily \n\nNight\n\nTalawanda Multicultural Family Night",
+        "id": "burumwc4r8"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "We are excited to invite your family to our Talawanda Multicultural Family Night on April 14 from 6:00–7:30 PM at Kramer Elementary School. This event is open to all Talawanda families (K–12).This will be a fun evening where families can come together to celebrate the many cultures that make our community special. There will be activities, games, food, and opportunities to learn about different countries and traditions.If your family would like to participate, you are welcome to:• Attend the event with your family• Host a small booth or activity that represents your culture or country• Bring a traditional dish from your culture to share• Help with a game or activityIf you are interested in attending or participating, please click on the link and fill out the short form below:Google Form LinkThis will help us plan for the event and know how families would like to participate.We would love to see you there and celebrate!If you have any questions, please feel free to reach out.Thank you,Katie Slager",
+        "id": "bta1cjkux1"
+      }
+    ],
+    "hash": "bwk8x8y5ub-burumwc4r8-bta1cjkux1",
+    "summary": "**Talawanda Multicultural Family Night** will be held on **April 14 from 6:00–7:30 PM at Kramer Elementary School**, open to all Talawanda families (K–12). Families can attend, host a cultural booth or activity, bring traditional dishes to share, or help with games and activities. Interested families should fill out the [Google Form](Google Form Link) to help with event planning. Contact Katie Slager with questions.",
+    "event_info": [
+      {
+        "title": "Talawanda Multicultural Family Night",
+        "start": "2026-04-14T18:00:00",
+        "end": "2026-04-14T19:30:00",
+        "description": "**Talawanda Multicultural Family Night** will be held on **April 14 from 6:00–7:30 PM at Kramer Elementary School**, open to all Talawanda families (K–12). Families can attend, host a cultural booth o",
+        "location": "Kramer Elementary School"
+      }
+    ]
+  },
+  {
     "title": "Spring State Testing for Grades 3-5",
     "block_id": "bjqvo7kz71-bwu53kp6vk-bkrqsfsqgx",
     "content": "",
@@ -666,132 +792,5 @@
     ],
     "hash": "b0srpil80f-b570fb3xuh-bfr77vevhd-bi2mln55ks",
     "summary": "**Lunch Account Reminders:** Add funds to student lunch accounts through **PaySchool Central**. Accounts that reach -$50 will be rolled into school fees, so please keep accounts current.\n\n**February Menus Available:** Breakfast and lunch menus for February 2026 are now posted. Breakfast items include options like Apple Frudel, Breakfast Pizza Bagel, Stuffed Hash Brown, Mini Powdered Donuts, Biscuits & Sausage Gravy, Cinnamon Bun, Glazed Donuts, and Sausage & Cheese Biscuit Sandwich. 100% fruit juice, apples, oranges or other fresh fruit selection and milk are included with every breakfast."
-  },
-  {
-    "title": "Bogan Elementary Fundraiser at Texas Roadhouse",
-    "block_id": "bpx42aowpj-bdcznd5ptx",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/f40d/a8d81f85d9e7196bb0a4f443b7dfe800.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/udj0s7-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-01-30T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PTG \n\nCorner\n\nPTG Corner",
-        "id": "bpx42aowpj"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/f40d/a8d81f85d9e7196bb0a4f443b7dfe800.jpeg",
-        "id": "bdcznd5ptx"
-      }
-    ],
-    "hash": "bpx42aowpj-bdcznd5ptx",
-    "summary": "**Texas Roadhouse fundraiser supporting Bogan Elementary** on Thursday, February 12th from 3pm-10pm. Dine-in or carry-out available at the Hamilton location (1558 Main St, Hamilton, OH - 513-894-7427). Present the flyer and **10% of your food purchase will be donated** to Bogan Elementary.",
-    "event_info": [
-      {
-        "title": "Bogan Elementary Fundraiser at Texas Roadhouse",
-        "start": "2026-02-12T15:00:00",
-        "end": "2026-02-12T22:00:00",
-        "description": "**Texas Roadhouse fundraiser supporting Bogan Elementary** on Thursday, February 12th from 3pm-10pm. Dine-in or carry-out available at the Hamilton location (1558 Main St, Hamilton, OH - 513-894-7427)",
-        "location": "Texas Roadhouse, 1558 Main St, Hamilton, OH"
-      }
-    ]
-  },
-  {
-    "title": "Butler County Cold Weather Warming Centers",
-    "block_id": "bwk8x8y5ub-bccy5ywh6f",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/0c31/34a2d7aa7a568333edcfa02dbc2d92e1.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/udj0s7-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-01-30T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Around \n\nTalawanda\n\nAround Talawanda",
-        "id": "bwk8x8y5ub"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/0c31/34a2d7aa7a568333edcfa02dbc2d92e1.jpeg",
-        "id": "bccy5ywh6f"
-      }
-    ],
-    "hash": "bwk8x8y5ub-bccy5ywh6f",
-    "summary": "Due to extreme cold temperatures from January 27th – February 3rd, 2026, several locations in Butler County are serving as **Warming Centers**. Check https://www.lanelpl.org/ and https://www.midpointelibrary.org/ for library operating times. **City of Monroe Police Department** at 601 South Main Street is **open 24 hours**. All warming center locations include multiple libraries and community centers with varying hours throughout the week.",
-    "event_info": [
-      {
-        "title": "Butler County Warming Centers Open",
-        "start": "2026-01-27T00:00:00",
-        "end": "2026-02-03T23:59:00",
-        "description": "Due to extreme cold temperatures from January 27th – February 3rd, 2026, several locations in Butler County are serving as **Warming Centers**. Check https://www.lanelpl.org/ and https://www.midpointe",
-        "location": "Multiple locations across Butler County, OH"
-      }
-    ]
-  },
-  {
-    "title": "LIFES Mentorship Program Information",
-    "block_id": "bjqvo7kz71-byyvvzusfu",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/8d2f/b8de5c74cf79ae4f9efdbca6d1c54da0.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/exj05k-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-01-23T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Around \n\nBogan\n\nAround Bogan",
-        "id": "bjqvo7kz71"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/8d2f/b8de5c74cf79ae4f9efdbca6d1c54da0.jpeg",
-        "id": "byyvvzusfu"
-      }
-    ],
-    "hash": "bjqvo7kz71-byyvvzusfu",
-    "summary": "The **LIFES Mentorship Program** pairs 1-2 Miami University students with 3-6 elementary students (grades 3-5) in a family-style mentorship format. The program meets weekly during lunch/recess for activities, games, team-building, and conversations to build meaningful relationships and support academic and leadership development. Benefits include trusted mentorship, positive role models, confidence in communication, exciting activities, strong peer friendships, and enhanced academic and life skills. The program aims to empower young students to lead with **confidence, purpose, and excitement**."
-  },
-  {
-    "title": "Oxford Doughnut Shoppe Fundraiser for Bogan Elementary",
-    "block_id": "bpx42aowpj-bfrdp14pt9",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/ef1c/368b6ee1e878cd750d30436d0a5139f2.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/exj05k-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-01-23T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PTG \n\nCorner\n\nPTG Corner",
-        "id": "bpx42aowpj"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/ef1c/368b6ee1e878cd750d30436d0a5139f2.jpeg",
-        "id": "bfrdp14pt9"
-      }
-    ],
-    "hash": "bpx42aowpj-bfrdp14pt9",
-    "summary": "**Oxford Doughnut Shoppe Dine to Donate Fundraiser** benefiting Bogan Elementary PTG on **Saturday, January 24th from 5:30 AM to Noon** at 120 South Locust St., Oxford, Ohio. Pre-orders are highly recommended by calling 513-523-9911. A portion of sales will be donated to Bogan Elementary PTG, and once they sell out, the fundraiser ends.",
-    "event_info": [
-      {
-        "title": "Oxford Doughnut Shoppe Fundraiser for Bogan Elementary PTG",
-        "start": "2026-01-24T05:30:00",
-        "end": "2026-01-24T12:00:00",
-        "description": "**Oxford Doughnut Shoppe Dine to Donate Fundraiser** benefiting Bogan Elementary PTG on **Saturday, January 24th from 5:30 AM to Noon** at 120 South Locust St., Oxford, Ohio. Pre-orders are highly rec",
-        "location": "Oxford Doughnut Shoppe, 120 South Locust St., Oxford, Ohio"
-      }
-    ]
   }
 ]
