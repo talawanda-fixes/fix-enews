@@ -117,80 +117,6 @@
     ]
   },
   {
-    "title": "Right to Read Week Pirate Adventure",
-    "block_id": "bhospb9kxc-bdq7h1vupo-b3kltp7qb0-bhdcg04s82",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/8ebb/344d394acbc05da2d36d2fc11afbfe2e.png",
-      "https://cdn.smore.com/u/458d/564fa119ad9a4ea61daff252a52d1cb6.png",
-      "https://cdn.smore.com/u/5248/1512e24e7306cdfb193d401ec02f9dc9.png"
-    ],
-    "source_url": "https://app.smore.com/n/zkac8w",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-03-06T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "📚🏴‍☠️ Right to Read Week – Choose Your Own (Pirate) Adventure! 🏴‍☠️📚\nWe are excited to celebrate Right to Read Week with our “Choose Your Own (Pirate) Adventure” BOOKaneers Dress-Up Days! This fun-filled week promotes a love of reading while building school spirit. Each day, students may choose one of two creative dress-up options to participate. Participation earns 10 doubloons per day for your grade-level team!",
-        "id": "bhospb9kxc"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/8ebb/344d394acbc05da2d36d2fc11afbfe2e.png",
-        "id": "bdq7h1vupo"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/458d/564fa119ad9a4ea61daff252a52d1cb6.png",
-        "id": "b3kltp7qb0"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/5248/1512e24e7306cdfb193d401ec02f9dc9.png",
-        "id": "bhdcg04s82"
-      }
-    ],
-    "hash": "bhospb9kxc-bdq7h1vupo-b3kltp7qb0-bhdcg04s82",
-    "summary": "**Right to Read Week** features \"Choose Your Own (Pirate) Adventure\" BOOKaneers Dress-Up Days, **March 23-27**. Students earn 10 doubloons per day for their grade-level team by choosing one of two daily dress-up options:\n- **Monday, March 23**: Wear a shirt with words OR BOOKaneer colors (red, black, white)\n- **Tuesday, March 24**: Wear a fun hat OR fun/sparkly hair accessories\n- **Wednesday, March 25**: Wear bright, bold colors OR wacky, mismatched clothes\n- **Thursday, March 26**: Dress as Peter Pan/friends OR Captain Hook/pirate crew\n- **Friday, March 27**: Wear gold/silver/shiny colors OR jewel-tone colors (ruby red, emerald green, sapphire blue, amethyst purple)\n\nStudents can also complete \"Reading Isles\" treasure map activities (10 doubloons each) including reading themed books, drawing, acting out scenes, and sharing stories at locations like Mermaid Lagoon, Shipwreck Island, Plankwalk Bay, Skull Island, and Treasure Island.",
-    "event_info": [
-      {
-        "title": "Anchors Aweigh! - BOOKaneers Dress-Up Day",
-        "start": "2026-03-23T00:00:00",
-        "end": "2026-03-23T23:59:00",
-        "description": "**Right to Read Week** features \"Choose Your Own (Pirate) Adventure\" BOOKaneers Dress-Up Days, **March 23-27**. Students earn 10 doubloons per day for their grade-level team by choosing one of two dai",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Shiver Me Timbers! - BOOKaneers Dress-Up Day",
-        "start": "2026-03-24T00:00:00",
-        "end": "2026-03-24T23:59:00",
-        "description": "**Right to Read Week** features \"Choose Your Own (Pirate) Adventure\" BOOKaneers Dress-Up Days, **March 23-27**. Students earn 10 doubloons per day for their grade-level team by choosing one of two dai",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Blimey! - BOOKaneers Dress-Up Day",
-        "start": "2026-03-25T00:00:00",
-        "end": "2026-03-25T23:59:00",
-        "description": "**Right to Read Week** features \"Choose Your Own (Pirate) Adventure\" BOOKaneers Dress-Up Days, **March 23-27**. Students earn 10 doubloons per day for their grade-level team by choosing one of two dai",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Peter Pan vs. Captain Hook - BOOKaneers Dress-Up Day",
-        "start": "2026-03-26T00:00:00",
-        "end": "2026-03-26T23:59:00",
-        "description": "**Right to Read Week** features \"Choose Your Own (Pirate) Adventure\" BOOKaneers Dress-Up Days, **March 23-27**. Students earn 10 doubloons per day for their grade-level team by choosing one of two dai",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Ahoy! Treasure! - BOOKaneers Dress-Up Day",
-        "start": "2026-03-27T00:00:00",
-        "end": "2026-03-27T23:59:00",
-        "description": "**Right to Read Week** features \"Choose Your Own (Pirate) Adventure\" BOOKaneers Dress-Up Days, **March 23-27**. Students earn 10 doubloons per day for their grade-level team by choosing one of two dai",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
     "title": "Marshall Elementary Spring Sale Registration Open",
     "block_id": "bhatmtq6ud-bzv7zsezjr-b7sjzgy8lz",
     "content": "",
@@ -310,6 +236,80 @@
     ],
     "hash": "bisgsi05ub-bsqx6fdnp2",
     "summary": "Miami University Psychology Clinic is offering a **Caregiver Group focused on Understanding and Managing ADHD in 6-12 year olds**. The group meets **Wednesdays 5:30-7:00pm in-person starting in March**. To participate, caregivers must: have a child aged 6-12 diagnosed with ADHD, complete a 1-hour pre-group intake session, and commit to 8 weeks of attendance. **Contact: 513-529-2423 or psychologyclinic@miamioh.edu**"
+  },
+  {
+    "title": "Right to Read Week Pirate Adventure",
+    "block_id": "bhospb9kxc-bdq7h1vupo-b3kltp7qb0-bhdcg04s82",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/8ebb/344d394acbc05da2d36d2fc11afbfe2e.png",
+      "https://cdn.smore.com/u/458d/564fa119ad9a4ea61daff252a52d1cb6.png",
+      "https://cdn.smore.com/u/5248/1512e24e7306cdfb193d401ec02f9dc9.png"
+    ],
+    "source_url": "https://app.smore.com/n/zkac8w",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-03-06T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "📚🏴‍☠️ Right to Read Week – Choose Your Own (Pirate) Adventure! 🏴‍☠️📚\nWe are excited to celebrate Right to Read Week with our “Choose Your Own (Pirate) Adventure” BOOKaneers Dress-Up Days! This fun-filled week promotes a love of reading while building school spirit. Each day, students may choose one of two creative dress-up options to participate. Participation earns 10 doubloons per day for your grade-level team!",
+        "id": "bhospb9kxc"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/8ebb/344d394acbc05da2d36d2fc11afbfe2e.png",
+        "id": "bdq7h1vupo"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/458d/564fa119ad9a4ea61daff252a52d1cb6.png",
+        "id": "b3kltp7qb0"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/5248/1512e24e7306cdfb193d401ec02f9dc9.png",
+        "id": "bhdcg04s82"
+      }
+    ],
+    "hash": "bhospb9kxc-bdq7h1vupo-b3kltp7qb0-bhdcg04s82",
+    "summary": "**Right to Read Week** features \"Choose Your Own (Pirate) Adventure\" BOOKaneers Dress-Up Days, **March 23-27**. Students earn 10 doubloons per day for their grade-level team by choosing one of two daily dress-up options:\n- **Monday, March 23**: Wear a shirt with words OR BOOKaneer colors (red, black, white)\n- **Tuesday, March 24**: Wear a fun hat OR fun/sparkly hair accessories\n- **Wednesday, March 25**: Wear bright, bold colors OR wacky, mismatched clothes\n- **Thursday, March 26**: Dress as Peter Pan/friends OR Captain Hook/pirate crew\n- **Friday, March 27**: Wear gold/silver/shiny colors OR jewel-tone colors (ruby red, emerald green, sapphire blue, amethyst purple)\n\nStudents can also complete \"Reading Isles\" treasure map activities (10 doubloons each) including reading themed books, drawing, acting out scenes, and sharing stories at locations like Mermaid Lagoon, Shipwreck Island, Plankwalk Bay, Skull Island, and Treasure Island.",
+    "event_info": [
+      {
+        "title": "Anchors Aweigh! - BOOKaneers Dress-Up Day",
+        "start": "2026-03-23T00:00:00",
+        "end": "2026-03-23T23:59:00",
+        "description": "**Right to Read Week** features \"Choose Your Own (Pirate) Adventure\" BOOKaneers Dress-Up Days, **March 23-27**. Students earn 10 doubloons per day for their grade-level team by choosing one of two dai",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Shiver Me Timbers! - BOOKaneers Dress-Up Day",
+        "start": "2026-03-24T00:00:00",
+        "end": "2026-03-24T23:59:00",
+        "description": "**Right to Read Week** features \"Choose Your Own (Pirate) Adventure\" BOOKaneers Dress-Up Days, **March 23-27**. Students earn 10 doubloons per day for their grade-level team by choosing one of two dai",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Blimey! - BOOKaneers Dress-Up Day",
+        "start": "2026-03-25T00:00:00",
+        "end": "2026-03-25T23:59:00",
+        "description": "**Right to Read Week** features \"Choose Your Own (Pirate) Adventure\" BOOKaneers Dress-Up Days, **March 23-27**. Students earn 10 doubloons per day for their grade-level team by choosing one of two dai",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Peter Pan vs. Captain Hook - BOOKaneers Dress-Up Day",
+        "start": "2026-03-26T00:00:00",
+        "end": "2026-03-26T23:59:00",
+        "description": "**Right to Read Week** features \"Choose Your Own (Pirate) Adventure\" BOOKaneers Dress-Up Days, **March 23-27**. Students earn 10 doubloons per day for their grade-level team by choosing one of two dai",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Ahoy! Treasure! - BOOKaneers Dress-Up Day",
+        "start": "2026-03-27T00:00:00",
+        "end": "2026-03-27T23:59:00",
+        "description": "**Right to Read Week** features \"Choose Your Own (Pirate) Adventure\" BOOKaneers Dress-Up Days, **March 23-27**. Students earn 10 doubloons per day for their grade-level team by choosing one of two dai",
+        "location": "Talawanda High School"
+      }
+    ]
   },
   {
     "title": "Right to Read Week VIP Invitation",
