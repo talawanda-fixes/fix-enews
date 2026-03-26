@@ -1,5 +1,115 @@
 [
   {
+    "title": "April 2026 Breakfast and Lunch Menus",
+    "block_id": "bnmbq6ritu-bauhm8hclf-boh3us1447-ba0s3frire",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/f2dd/d1e149d79668d11a868c793c436cd54a.png",
+      "https://cdn.smore.com/u/30c4/46f5f04b57dea211ba304c4c1d7ecaa3.png"
+    ],
+    "source_url": "https://app.smore.com/n/kyjrd",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-03-27T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "APRIL \n\n- \n\nBREAKFAST \n\nMENU\n\nAPRIL - BREAKFAST MENU",
+        "id": "bnmbq6ritu"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/f2dd/d1e149d79668d11a868c793c436cd54a.png",
+        "id": "bauhm8hclf"
+      },
+      {
+        "type": "text.title",
+        "content": "APRIL \n\n- \n\nLUNCH \n\nMENU\n\nAPRIL - LUNCH MENU",
+        "id": "boh3us1447"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/30c4/46f5f04b57dea211ba304c4c1d7ecaa3.png",
+        "id": "ba0s3frire"
+      }
+    ],
+    "hash": "bnmbq6ritu-bauhm8hclf-boh3us1447-ba0s3frire",
+    "summary": "Marshall Elementary's April 2026 breakfast and lunch menus are now available. **Breakfast items** include options like French Toast Bites (April 16), Mini Maple Pancakes (April 15), Biscuits & Sausage Gravy (April 17, 29), and various breakfast pizzas and donut holes throughout the month. **Lunch offerings** feature items such as Popcorn Chicken Dinner Roll (April 9, 30), BBQ Boneless Chicken Wings (April 15), Walking Taco with Doritos (April 14), and Mac & Cheese with Garlic Toast (April 23). All meals include 100% fruit juice, fresh fruit selections, and choice of milk. Note: No school on April 6."
+  },
+  {
+    "title": "Spring Flower Sale Extended Through Break",
+    "block_id": "bhatmtq6ud-ba71tdv7h5-bgezk622el-b8ymlwiuk3-bbq2tanpt9",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/77eb/5c012a66ca71694820d54d848e58d371.png"
+    ],
+    "source_url": "https://app.smore.com/n/kyjrd",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-03-27T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PTG \n\nCORNER\n\nPTG CORNER",
+        "id": "bhatmtq6ud"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/77eb/5c012a66ca71694820d54d848e58d371.png",
+        "id": "ba71tdv7h5"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "GREAT NEWS! Our Foertmeyer & Sons Spring Flower Sale has been extended! The online store will be open through Spring Break! Be sure to get your plants, hanging baskets, butterfly gardens, and more today!The top sellers in every grade level PLUS any student who sells 15 or more items will silly string our teachers and staff! Use this link to purchase some beautiful flowers: https://marshallelementary.sowzer.com/parent-signup?step=welcome Or click the QR code:",
+        "id": "bgezk622el"
+      },
+      {
+        "type": "items",
+        "content": "zoom_out_map",
+        "id": "b8ymlwiuk3"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Thank you for supporting Marshall PTG, students, and staff!",
+        "id": "bbq2tanpt9"
+      }
+    ],
+    "hash": "bhatmtq6ud-ba71tdv7h5-bgezk622el-b8ymlwiuk3-bbq2tanpt9",
+    "summary": "**Online store extended** - The Foertmeyer & Sons Spring Flower Sale has been extended through Spring Break! Purchase plants, hanging baskets, butterfly gardens, and more at https://marshallelementary.sowzer.com/parent-signup?step=welcome. **Incentive**: Top sellers in every grade level and any student who sells 15+ items will get to silly string teachers and staff. Proceeds support Marshall PTG, students, and staff."
+  },
+  {
+    "title": "Miami University Girl Scout Day Event",
+    "block_id": "bisgsi05ub-bc761a1129",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/2578/b19bc469847684495d48c23f7986698b.png"
+    ],
+    "source_url": "https://app.smore.com/n/kyjrd",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-03-27T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "AROUND \n\nTHE \n\nCOMMUNITY \n\nAROUND THE COMMUNITY",
+        "id": "bisgsi05ub"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/2578/b19bc469847684495d48c23f7986698b.png",
+        "id": "bc761a1129"
+      }
+    ],
+    "hash": "bisgsi05ub-bc761a1129",
+    "summary": "Miami University SWE (Society of Women Engineers) is hosting **Girl Scout Day** on **April 4th, 2026** from **9:00 AM - 1:00 PM** at the Miami University Engineering Buildings. The event is open to **any 3rd-8th grade students** and will explore various fields of engineering through activities like egg drops and paper lab tours. **Lunch will be provided**. Registration is available via QR code on the flyer.",
+    "event_info": [
+      {
+        "title": "Miami University Girl Scout Day",
+        "start": "2026-04-04T09:00:00",
+        "end": "2026-04-04T13:00:00",
+        "description": "Miami University SWE (Society of Women Engineers) is hosting **Girl Scout Day** on **April 4th, 2026** from **9:00 AM - 1:00 PM** at the Miami University Engineering Buildings. The event is open to **",
+        "location": "Miami University Engineering Buildings"
+      }
+    ]
+  },
+  {
     "title": "Right to Read Week BOOKaneer Activities",
     "block_id": "bezclasc0f-bcwglzjamm-bdq7h1vupo-b3kltp7qb0-bhdcg04s82",
     "content": "",
@@ -650,94 +760,5 @@
         "location": "Talawanda High School"
       }
     ]
-  },
-  {
-    "title": "PTG Corner",
-    "block_id": "bhatmtq6ud-b4lvcb1pn5",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/2ee8/484e517d90521a4be4c179fc229785a9.png"
-    ],
-    "source_url": "https://app.smore.com/n/et20k",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-02-27T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PTG \n\nCORNER\n\nPTG CORNER",
-        "id": "bhatmtq6ud"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/2ee8/484e517d90521a4be4c179fc229785a9.png",
-        "id": "b4lvcb1pn5"
-      }
-    ],
-    "hash": "bhatmtq6ud-b4lvcb1pn5",
-    "summary": "This appears to be a Parent-Teacher Group (PTG) section header without additional details or content provided in this newsletter item."
-  },
-  {
-    "title": "Elementary After School Foreign Language Program",
-    "block_id": "bisgsi05ub-b8wlyth6ft",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/210a/d3207726c78c0ec4c76e62297cdfa174.png"
-    ],
-    "source_url": "https://app.smore.com/n/et20k",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-02-27T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "AROUND \n\nTHE \n\nCOMMUNITY \n\nAROUND THE COMMUNITY",
-        "id": "bisgsi05ub"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/210a/d3207726c78c0ec4c76e62297cdfa174.png",
-        "id": "b8wlyth6ft"
-      }
-    ],
-    "hash": "bisgsi05ub-b8wlyth6ft",
-    "summary": "Elementary After School Foreign Language classes begin **February 3rd** and run from **3:55 PM to 4:55 PM**. This program offers foreign language instruction for elementary students in an after-school setting.",
-    "event_info": [
-      {
-        "title": "Elementary After School Foreign Language Program Begins",
-        "start": "2026-02-03T15:55:00",
-        "end": "2026-02-03T16:55:00",
-        "description": "Elementary After School Foreign Language classes begin **February 3rd** and run from **3:55 PM to 4:55 PM**. This program offers foreign language instruction for elementary students in an after-school",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "PTG Reaches $15,000 Fundraising Goal",
-    "block_id": "bhatmtq6ud-bjf5yrg6jr-b2cfkyuhix",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/9209/cd2f1156f0ce4d95b100d3a27dce153e.png"
-    ],
-    "source_url": "https://app.smore.com/n/afpsnx",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-02-13T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PTG \n\nCORNER\n\nPTG CORNER",
-        "id": "bhatmtq6ud"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/9209/cd2f1156f0ce4d95b100d3a27dce153e.png",
-        "id": "bjf5yrg6jr"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Marshall PTG thanks you for your hard work, support, and generosity in reaching our goal of raising $15,000 to support Marshall students and staff!! The Glow Party was a huge success and so much fun! We will SLIME Mrs Jones next week!",
-        "id": "b2cfkyuhix"
-      }
-    ],
-    "hash": "bhatmtq6ud-bjf5yrg6jr-b2cfkyuhix",
-    "summary": "Marshall PTG successfully reached their goal of raising **$15,000** to support Marshall students and staff. The **Glow Party fundraiser** was a huge success. As a reward, **Mrs. Jones will be slimed next week**. The organization thanks everyone for their hard work, support, and generosity."
   }
 ]
