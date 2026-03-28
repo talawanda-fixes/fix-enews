@@ -1,46 +1,5 @@
 [
   {
-    "title": "End-of-Year Vaccine Clinic for Students",
-    "block_id": "bk8gizguu7-bfebwpkxbk",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/e6a9/9f6cb9c684c36310459656b4616c26ab.png"
-    ],
-    "source_url": "https://app.smore.com/n/cjw3n",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-03-27T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "COMMUNITY \n\nINFORMATION\n\nCOMMUNITY INFORMATION",
-        "id": "bk8gizguu7"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/e6a9/9f6cb9c684c36310459656b4616c26ab.png",
-        "id": "bfebwpkxbk"
-      }
-    ],
-    "hash": "bk8gizguu7-bfebwpkxbk",
-    "summary": "**Free vaccine clinic for all school-aged children on April 3, 2026** at Butler County Educational Service Center (400 N Erie Blvd, Hamilton, OH 45011). Two time slots available: **9am-11am and 1pm-3pm**. All required school vaccines provided by Butler County General Health District and Kroger Pharmacy. \n\n**If you have Medicaid or government insurance:** Call 513-887-5253 or text 513-857-2115 to schedule.\n\n**If you have private insurance:** Use QR code or benefit code **BCGHVAC26** to register through Kroger Health. Select vaccines needed and pick April 3rd for available time slots.\n\nWalk-ins accepted but limited. Self-pay option available (cash only, small administration fee).",
-    "event_info": [
-      {
-        "title": "End-of-Year Vaccine Clinic (Morning Session)",
-        "start": "2026-04-03T09:00:00",
-        "end": "2026-04-03T11:00:00",
-        "description": "**Free vaccine clinic for all school-aged children on April 3, 2026** at Butler County Educational Service Center (400 N Erie Blvd, Hamilton, OH 45011). Two time slots available: **9am-11am and 1pm-3p",
-        "location": "Butler County Educational Service Center, 400 N Erie Blvd, Hamilton, OH 45011"
-      },
-      {
-        "title": "End-of-Year Vaccine Clinic (Afternoon Session)",
-        "start": "2026-04-03T13:00:00",
-        "end": "2026-04-03T15:00:00",
-        "description": "**Free vaccine clinic for all school-aged children on April 3, 2026** at Butler County Educational Service Center (400 N Erie Blvd, Hamilton, OH 45011). Two time slots available: **9am-11am and 1pm-3p",
-        "location": "Butler County Educational Service Center, 400 N Erie Blvd, Hamilton, OH 45011"
-      }
-    ]
-  },
-  {
     "title": "Senior Fee Payment Deadline May 1st",
     "block_id": "bu12v8ajnx-b6szt9mglt",
     "content": "",
@@ -106,6 +65,72 @@
     ],
     "hash": "b64o7n0d0d-bwx70vdin9-bo7q8dudxv-bafpawuvlg",
     "summary": "**EF Educational Tours** is offering Talawanda students an educational trip to **Costa Rica in 2027**, led by Kari Croucher. Activities include ziplining through rainforests, exploring active volcanoes, swimming in natural thermal hot springs, and snorkeling alongside sea turtles and manta rays. Students can enroll at **www.eftours.com/3008612UY** — spots are limited."
+  },
+  {
+    "title": "End-of-Year Vaccine Clinic for Students",
+    "block_id": "bk8gizguu7-bfebwpkxbk",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/e6a9/9f6cb9c684c36310459656b4616c26ab.png"
+    ],
+    "source_url": "https://app.smore.com/n/cjw3n",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-03-27T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "COMMUNITY \n\nINFORMATION\n\nCOMMUNITY INFORMATION",
+        "id": "bk8gizguu7"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/e6a9/9f6cb9c684c36310459656b4616c26ab.png",
+        "id": "bfebwpkxbk"
+      }
+    ],
+    "hash": "bk8gizguu7-bfebwpkxbk",
+    "summary": "**Free vaccine clinic for all school-aged children on April 3, 2026** at Butler County Educational Service Center (400 N Erie Blvd, Hamilton, OH 45011). Two time slots available: **9am-11am and 1pm-3pm**. All required school vaccines provided by Butler County General Health District and Kroger Pharmacy. \n\n**If you have Medicaid or government insurance:** Call 513-887-5253 or text 513-857-2115 to schedule.\n\n**If you have private insurance:** Use QR code or benefit code **BCGHVAC26** to register through Kroger Health. Select vaccines needed and pick April 3rd for available time slots.\n\nWalk-ins accepted but limited. Self-pay option available (cash only, small administration fee).",
+    "event_info": [
+      {
+        "title": "End-of-Year Vaccine Clinic (Morning Session)",
+        "start": "2026-04-03T09:00:00",
+        "end": "2026-04-03T11:00:00",
+        "description": "**Free vaccine clinic for all school-aged children on April 3, 2026** at Butler County Educational Service Center (400 N Erie Blvd, Hamilton, OH 45011). Two time slots available: **9am-11am and 1pm-3p",
+        "location": "Butler County Educational Service Center, 400 N Erie Blvd, Hamilton, OH 45011"
+      },
+      {
+        "title": "End-of-Year Vaccine Clinic (Afternoon Session)",
+        "start": "2026-04-03T13:00:00",
+        "end": "2026-04-03T15:00:00",
+        "description": "**Free vaccine clinic for all school-aged children on April 3, 2026** at Butler County Educational Service Center (400 N Erie Blvd, Hamilton, OH 45011). Two time slots available: **9am-11am and 1pm-3p",
+        "location": "Butler County Educational Service Center, 400 N Erie Blvd, Hamilton, OH 45011"
+      }
+    ]
+  },
+  {
+    "title": "Teen Mental Health Research Study Opportunity",
+    "block_id": "bkxkl2lnx2-bvs4e9cltk",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/d8de/8b832cfb330cfd9d8dd969fe7d99cd9b.png"
+    ],
+    "source_url": "https://app.smore.com/n/n75eg",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-03-20T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/d8de/8b832cfb330cfd9d8dd969fe7d99cd9b.png",
+        "id": "bkxkl2lnx2"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Register here",
+        "id": "bvs4e9cltk"
+      }
+    ],
+    "hash": "bkxkl2lnx2-bvs4e9cltk",
+    "summary": "Miami University is conducting a **Teenager Emotion Disclosure Study** for students in grades 9-12. The study examines how teens talk to caregivers about mental health through a **confidential 1-hour online survey**. Participants receive **$15** for their time. Parent/guardian consent is required. To register or ask questions, contact lead researcher Noelle Marousis at **framlab@miamioh.edu**. Study approved by Miami University's IRB (#02456r)."
   },
   {
     "title": "Prom and Graduation Information for Juniors and Seniors",
@@ -211,31 +236,6 @@
         "location": "Online enrollment at www.eftours.com/3008612UY"
       }
     ]
-  },
-  {
-    "title": "Teen Mental Health Research Study Opportunity",
-    "block_id": "bkxkl2lnx2-bvs4e9cltk",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/d8de/8b832cfb330cfd9d8dd969fe7d99cd9b.png"
-    ],
-    "source_url": "https://app.smore.com/n/n75eg",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-03-20T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/d8de/8b832cfb330cfd9d8dd969fe7d99cd9b.png",
-        "id": "bkxkl2lnx2"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Register here",
-        "id": "bvs4e9cltk"
-      }
-    ],
-    "hash": "bkxkl2lnx2-bvs4e9cltk",
-    "summary": "Miami University is conducting a **Teenager Emotion Disclosure Study** for students in grades 9-12. The study examines how teens talk to caregivers about mental health through a **confidential 1-hour online survey**. Participants receive **$15** for their time. Parent/guardian consent is required. To register or ask questions, contact lead researcher Noelle Marousis at **framlab@miamioh.edu**. Study approved by Miami University's IRB (#02456r)."
   },
   {
     "title": "Senior Timeline - Graduation Events 2026",
@@ -369,33 +369,6 @@
     ]
   },
   {
-    "title": "Senior Yearbook Portrait Submission Deadline",
-    "block_id": "bwi2oj6cf3",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/shpy5",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-03-13T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "SENIOR YEARBOOK PORTRAITS\nDeadline for SENIOR PORTRAITS is MARCH 27TH!Submit them to yearbook@talawanda.org or GO TO THIS LINK and use the code talawanda2026 to submit yours today!Remember - all pictures must be portrait orientation, greater than 1MB, and follow the student code of conduct!",
-        "id": "bwi2oj6cf3"
-      }
-    ],
-    "hash": "bwi2oj6cf3",
-    "summary": "**Senior portrait deadline is March 27th.** Submit photos to yearbook@talawanda.org or use the online link with code **talawanda2026**. All pictures must be portrait orientation, greater than 1MB, and follow student code of conduct.",
-    "event_info": [
-      {
-        "title": "Senior Yearbook Portrait Submission Deadline",
-        "start": "2026-03-27T23:59:00",
-        "end": "2026-03-27T23:59:00",
-        "description": "**Senior portrait deadline is March 27th.** Submit photos to yearbook@talawanda.org or use the online link with code **talawanda2026**. All pictures must be portrait orientation, greater than 1MB, and",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
     "title": "Talawanda High School Prom 2026",
     "block_id": "b6ywg1mxxw-b1s14bvdm6",
     "content": "",
@@ -457,6 +430,33 @@
         "start": "2026-04-01T00:00:00",
         "end": "2026-04-01T23:59:00",
         "description": "**Students interested in taking College Credit Plus (CCP) classes at THS next year must complete their application, intent form, and acknowledgment form by April 1st.** Completing these steps on time ",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Senior Yearbook Portrait Submission Deadline",
+    "block_id": "bwi2oj6cf3",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/shpy5",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-03-13T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "SENIOR YEARBOOK PORTRAITS\nDeadline for SENIOR PORTRAITS is MARCH 27TH!Submit them to yearbook@talawanda.org or GO TO THIS LINK and use the code talawanda2026 to submit yours today!Remember - all pictures must be portrait orientation, greater than 1MB, and follow the student code of conduct!",
+        "id": "bwi2oj6cf3"
+      }
+    ],
+    "hash": "bwi2oj6cf3",
+    "summary": "**Senior portrait deadline is March 27th.** Submit photos to yearbook@talawanda.org or use the online link with code **talawanda2026**. All pictures must be portrait orientation, greater than 1MB, and follow student code of conduct.",
+    "event_info": [
+      {
+        "title": "Senior Yearbook Portrait Submission Deadline",
+        "start": "2026-03-27T23:59:00",
+        "end": "2026-03-27T23:59:00",
+        "description": "**Senior portrait deadline is March 27th.** Submit photos to yearbook@talawanda.org or use the online link with code **talawanda2026**. All pictures must be portrait orientation, greater than 1MB, and",
         "location": "Talawanda High School"
       }
     ]
