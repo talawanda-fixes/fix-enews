@@ -1,5 +1,95 @@
 [
   {
+    "title": "Allergies or Cold Decision Guide",
+    "block_id": "bfk3x3z2v4-b4idszpgfc",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/15d4/92fb14026065df1c47fd1bbfaceec2c6.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/5ewbs-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-03-27T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Nurse's \n\nNotes\n\nNurse's Notes",
+        "id": "bfk3x3z2v4"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/15d4/92fb14026065df1c47fd1bbfaceec2c6.jpeg",
+        "id": "b4idszpgfc"
+      }
+    ],
+    "hash": "bfk3x3z2v4-b4idszpgfc",
+    "summary": "The school nurse provides a visual flowchart to help determine whether symptoms indicate allergies or a cold. Key differences: **allergies** typically cause itchy eyes/nose/throat, clear mucus, and symptoms that occur seasonally or persist for extended periods; **colds** typically cause green/yellow mucus, body discomfort, fever, and symptoms that come on fast and taper off quickly. **Call your doctor if** symptoms last longer than two weeks, worsen or new symptoms develop, you have a sore throat or fever higher than 100 degrees for longer than three days, or you experience intense chest pain and shortness of breath."
+  },
+  {
+    "title": "PAX Good Behavior Game Program",
+    "block_id": "berhllupn2-bbyw57cizv-bjl0h9pcd1",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/a7cf/b130351af064389bd3813d13ba18103d.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/5ewbs-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-03-27T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PAX\n\nPAX",
+        "id": "berhllupn2"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "The PAX Good Behavior Game is a research-based classroom strategy that helps children make positive choices, and collaborate with others. It supports a calmer, more focused learning environment by promoting kindness, teamwork, and respectful behavior.",
+        "id": "bbyw57cizv"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/a7cf/b130351af064389bd3813d13ba18103d.jpeg",
+        "id": "bjl0h9pcd1"
+      }
+    ],
+    "hash": "berhllupn2-bbyw57cizv-bjl0h9pcd1",
+    "summary": "The **PAX Good Behavior Game** is a research-based classroom strategy that helps students make positive choices and collaborate with others. It promotes a calmer, more focused learning environment through kindness, teamwork, and respectful behavior.\n\nThe April 2026 Student Calendar includes daily activities such as celebrating National Walking Day (April 3), World Health Day (April 6), Earth Day (April 22), and National Superhero Day (April 28), along with prompts for students to practice leadership skills and positive behaviors throughout the month."
+  },
+  {
+    "title": "April Cafeteria Menus and Lunch Accounts",
+    "block_id": "b0srpil80f-b570fb3xuh-bfr77vevhd-bnhz5qbj8v",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/eefd/4901b7a2b7d3216be7413274379d1a7f.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/5ewbs-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-03-27T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Cafeteria\n\nCafeteria",
+        "id": "b0srpil80f"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Lunch Accounts\nAs a reminder, you are able to add funds to your student's lunch account through the PaySchool Central. Please be mindful and keep your student's account current. If you need assistance with lunch debt, please reach out to Mrs. White.",
+        "id": "b570fb3xuh"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "April Menus\nHere are the breakfast and lunch menus for April!",
+        "id": "bfr77vevhd"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/eefd/4901b7a2b7d3216be7413274379d1a7f.jpeg",
+        "id": "bnhz5qbj8v"
+      }
+    ],
+    "hash": "b0srpil80f-b570fb3xuh-bfr77vevhd-bnhz5qbj8v",
+    "summary": "**Lunch accounts** can be funded through PaySchool Central. Parents should keep accounts current and contact Mrs. White if they need assistance with lunch debt.\n\n**April 2026 breakfast menu** includes items like Breakfast Pizza, Egg & Cheese Biscuit, Glazed Donut, Sausage & Cheese Biscuit Sandwich, Pancake on a Stick, Fresh Baked Cinnamon Roll, Apple Frudel, Stuffed Hash Brown, and Biscuits & Sausage Gravy. All meals include 100% fruit juice, fresh fruit, and choice of milk."
+  },
+  {
     "title": "Bogan Students Earn Pajama Party Reward",
     "block_id": "bjqvo7kz71-bumwox6uxo-bocf50ow5o",
     "content": "",
@@ -693,104 +783,5 @@
     ],
     "hash": "bwk8x8y5ub-bucn5w9qcr",
     "summary": "**Butler County 4-H** offers hands-on learning activities for youth ages 5-18 under adult mentorship. Project members (ages 8+ in 3rd grade) complete at least one project from 200+ options including food and nutrition, sewing, leadership, STEM, woodworking, health, natural resources, and livestock. Learn more at **go.osu.edu/bc4h** or contact Erin at simpson-sloan.1@osu.edu. *Note: TSD approved for information, not affiliated with TSD.*"
-  },
-  {
-    "title": "LIFES Mentorship Program at Bogan Elementary",
-    "block_id": "bjqvo7kz71-byyvvzusfu-bdt1133fp1",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/8d2f/b8de5c74cf79ae4f9efdbca6d1c54da0.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/djcgx-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-02-06T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Around \n\nBogan\n\nAround Bogan",
-        "id": "bjqvo7kz71"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/8d2f/b8de5c74cf79ae4f9efdbca6d1c54da0.jpeg",
-        "id": "byyvvzusfu"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "If you have questions about the program, please reach out to Mrs. Crowder for more information.",
-        "id": "bdt1133fp1"
-      }
-    ],
-    "hash": "bjqvo7kz71-byyvvzusfu-bdt1133fp1",
-    "summary": "The **LIFES Mentorship Program** pairs 1-2 Miami University students with 3-6 elementary students (grades 3rd-5th) for weekly enrichment activities during lunch/recess. The program focuses on building meaningful relationships, fostering personal growth, and supporting academic and leadership development through activities, games, team-building, and conversations. Benefits include trusted mentorship, positive role models, confidence in communication, strong peer friendships, and enhanced academic and life skills. **Contact Mrs. Crowder for more information.**"
-  },
-  {
-    "title": "Kiwanis Chili Supper Fundraiser Event",
-    "block_id": "bwk8x8y5ub-beumwn916d",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/b483/9cae11fadcf169a5034ee6c9ba962d8d.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/djcgx-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-02-06T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Around \n\nTalawanda\n\nAround Talawanda",
-        "id": "bwk8x8y5ub"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/b483/9cae11fadcf169a5034ee6c9ba962d8d.jpeg",
-        "id": "beumwn916d"
-      }
-    ],
-    "hash": "bwk8x8y5ub-beumwn916d",
-    "summary": "The Kiwanis Club of Oxford is hosting an **all-you-can-eat Chili Supper** on **Thursday, February 26, 2026** from **5:00-7:00 PM** at the **Talawanda High School Cafeteria**. The event features a variety of chili soup (with crackers and cheese), cornbread, coleslaw, dessert, and drinks. Suggested donations are **$10.00 for adults**, **$7.00 for children (6-11)**, and **free for children 5 and under**. Tickets are available from Kiwanis members or at the door, and proceeds support children of the Oxford community.",
-    "event_info": [
-      {
-        "title": "Kiwanis Chili Supper Fundraiser",
-        "start": "2026-02-26T17:00:00",
-        "end": "2026-02-26T19:00:00",
-        "description": "The Kiwanis Club of Oxford is hosting an **all-you-can-eat Chili Supper** on **Thursday, February 26, 2026** from **5:00-7:00 PM** at the **Talawanda High School Cafeteria**. The event features a vari",
-        "location": "Talawanda High School Cafeteria"
-      }
-    ]
-  },
-  {
-    "title": "February Cafeteria Menus and Lunch Accounts",
-    "block_id": "b0srpil80f-b570fb3xuh-bfr77vevhd-bi2mln55ks",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/d3c5/27207de26c9b82da12d00b466e5f9200.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/udj0s7-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-01-30T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Cafeteria\n\nCafeteria",
-        "id": "b0srpil80f"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Lunch Accounts\nAs a reminder, you are able to add funds to your student's lunch account through the PaySchool Central. If your student's account reaches -$50 it will be rolled into your school fees. Please be mindful and keep your student's account current.",
-        "id": "b570fb3xuh"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "February Menus\nHere are the breakfast and lunch menus for February!",
-        "id": "bfr77vevhd"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/d3c5/27207de26c9b82da12d00b466e5f9200.jpeg",
-        "id": "bi2mln55ks"
-      }
-    ],
-    "hash": "b0srpil80f-b570fb3xuh-bfr77vevhd-bi2mln55ks",
-    "summary": "**Lunch Account Reminders:** Add funds to student lunch accounts through **PaySchool Central**. Accounts that reach -$50 will be rolled into school fees, so please keep accounts current.\n\n**February Menus Available:** Breakfast and lunch menus for February 2026 are now posted. Breakfast items include options like Apple Frudel, Breakfast Pizza Bagel, Stuffed Hash Brown, Mini Powdered Donuts, Biscuits & Sausage Gravy, Cinnamon Bun, Glazed Donuts, and Sausage & Cheese Biscuit Sandwich. 100% fruit juice, apples, oranges or other fresh fruit selection and milk are included with every breakfast."
   }
 ]

@@ -1,5 +1,46 @@
 [
   {
+    "title": "Spring Conference Meals Thank You",
+    "block_id": "b5m8132v16-bql8mh6qsw",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/0891/d919c9b9011b001e61bf4cbd30520ed9.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/xcvuq",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-03-27T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PTG\n\nPTG",
+        "id": "b5m8132v16"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/0891/d919c9b9011b001e61bf4cbd30520ed9.jpeg",
+        "id": "bql8mh6qsw"
+      }
+    ],
+    "hash": "b5m8132v16-bql8mh6qsw",
+    "summary": "The **Spring 2026 Conference Meals** on **March 12 & 17** successfully provided food for teachers during extra-long workdays at Kramer. Thanks to helpers and donors, there was plenty of food, smooth setup/cleanup, and even leftovers. Teachers posted sweet thank-you notes on refrigerators expressing gratitude. Special thanks to Kramer PTG and numerous volunteers including Andrea Bennett-Kenne, Jessica Brechin, Tomoko Brown, Jennifer Bulanda, and many others. Coordinators: **Lois Meade & Tomoko Brown**.",
+    "event_info": [
+      {
+        "title": "Spring 2026 Conference Meals - Day 1",
+        "start": "2026-03-12T00:00:00",
+        "end": "2026-03-12T23:59:00",
+        "description": "The **Spring 2026 Conference Meals** on **March 12 & 17** successfully provided food for teachers during extra-long workdays at Kramer. Thanks to helpers and donors, there was plenty of food, smooth s",
+        "location": "Kramer"
+      },
+      {
+        "title": "Spring 2026 Conference Meals - Day 2",
+        "start": "2026-03-17T00:00:00",
+        "end": "2026-03-17T23:59:00",
+        "description": "The **Spring 2026 Conference Meals** on **March 12 & 17** successfully provided food for teachers during extra-long workdays at Kramer. Thanks to helpers and donors, there was plenty of food, smooth s",
+        "location": "Kramer"
+      }
+    ]
+  },
+  {
     "title": "Parent Drop-Off and Pick-Up Parking Rules",
     "block_id": "bf2gr3k7s7-b72jt3qx5p-bqgrdul4qd-botge4f0v3",
     "content": "",
@@ -667,41 +708,5 @@
         "location": "Talawanda High School"
       }
     ]
-  },
-  {
-    "title": "February 2026 Breakfast and Lunch Menus",
-    "block_id": "bhzdnlnw9b-bb3m0ukqvk-bnmbq6ritu-b01ihwcz84",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/0d28/2c263fd8a89a917f6561563ed9e36355.png",
-      "https://cdn.smore.com/u/aaf4/1082dbd0f13ab4f5198f2137a87184ea.png"
-    ],
-    "source_url": "https://app.smore.com/n/0cwe9",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-02-06T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "FEBRUARY \n\n- \n\nBREAKFAST \n\nMENU\n\nFEBRUARY - BREAKFAST MENU",
-        "id": "bhzdnlnw9b"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/0d28/2c263fd8a89a917f6561563ed9e36355.png",
-        "id": "bb3m0ukqvk"
-      },
-      {
-        "type": "text.title",
-        "content": "FEBRUARY \n\n- \n\nLUNCH \n\nMENU\n\nFEBRUARY - LUNCH MENU",
-        "id": "bnmbq6ritu"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/aaf4/1082dbd0f13ab4f5198f2137a87184ea.png",
-        "id": "b01ihwcz84"
-      }
-    ],
-    "hash": "bhzdnlnw9b-bb3m0ukqvk-bnmbq6ritu-b01ihwcz84",
-    "summary": "Marshall Elementary's **February 2026 breakfast and lunch menus** are now available. \n\n**Breakfast highlights** include breakfast burritos, biscuits & sausage gravy, French toast bites, breakfast pizza, pancakes on a stick, donuts, and chicken biscuit sandwiches. **100% fruit juice, apples, oranges or other fresh fruit selection and milk included with every breakfast.**\n\n**Lunch highlights** include nachos with taco meat, rotini & Italian meat sauce, popcorn chicken dinner roll, various pizzas, mac & cheese, chicken tenders, hot dogs, quesadillas, corn dogs, grilled cheese, and salisbury steak. **Choice of milk included with every lunch.**\n\nBoth menus note that items are **subject to change based on product availability**. No school on **February 16 (Presidents Day)**."
   }
 ]

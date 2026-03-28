@@ -1,5 +1,112 @@
 [
   {
+    "title": "Early Release Days - May 19, 20, 21",
+    "block_id": "b89rv5y4sb-bfc1k9gqyy",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/43ce/02905b0d14523d095437130897001691.png"
+    ],
+    "source_url": "https://app.smore.com/n/9bdzne-spring-break?ref=email",
+    "source_title": "SPRING BREAK! | Smore Newsletters for Education",
+    "date": "2026-03-27T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "START \n\nPLANNING \n\nAHEAD!\n\nSTART PLANNING AHEAD!",
+        "id": "b89rv5y4sb"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/43ce/02905b0d14523d095437130897001691.png",
+        "id": "bfc1k9gqyy"
+      }
+    ],
+    "hash": "b89rv5y4sb-bfc1k9gqyy",
+    "summary": "The last three days of school (**May 19, 20, and 21**) will be **early release days** with the following dismissal times:\n\n- **TMS (Talawanda Middle School):** 11:20 AM\n- **THS (Talawanda High School):** 11:40 AM  \n- **Elementary:** 1:00 PM for car riders (buses depart at 1:10 PM)",
+    "event_info": [
+      {
+        "title": "TMS Early Release",
+        "start": "2026-05-19T11:20:00",
+        "end": "2026-05-21T11:20:00",
+        "description": "The last three days of school (**May 19, 20, and 21**) will be **early release days** with the following dismissal times:\n\n- **TMS (Talawanda Middle School):** 11:20 AM\n- **THS (Talawanda High School)",
+        "location": "Talawanda Middle School"
+      },
+      {
+        "title": "THS Early Release",
+        "start": "2026-05-19T11:40:00",
+        "end": "2026-05-21T11:40:00",
+        "description": "The last three days of school (**May 19, 20, and 21**) will be **early release days** with the following dismissal times:\n\n- **TMS (Talawanda Middle School):** 11:20 AM\n- **THS (Talawanda High School)",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Elementary Early Release (Buses Depart 1:10 PM)",
+        "start": "2026-05-19T13:00:00",
+        "end": "2026-05-21T13:00:00",
+        "description": "The last three days of school (**May 19, 20, and 21**) will be **early release days** with the following dismissal times:\n\n- **TMS (Talawanda Middle School):** 11:20 AM\n- **THS (Talawanda High School)",
+        "location": "Talawanda School District"
+      }
+    ]
+  },
+  {
+    "title": "Camp TMS Returning to The Glen",
+    "block_id": "b1evuihvr1-bkiwx0nizn",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/60e9/86fb5408fa6882d5bdb7b2fe8188e671.png"
+    ],
+    "source_url": "https://app.smore.com/n/9bdzne-spring-break?ref=email",
+    "source_title": "SPRING BREAK! | Smore Newsletters for Education",
+    "date": "2026-03-27T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/60e9/86fb5408fa6882d5bdb7b2fe8188e671.png",
+        "id": "b1evuihvr1"
+      },
+      {
+        "type": "text.title",
+        "content": "CHECK \n\nOUT \n\nMORE \n\nINFO \n\nHERE!\n\nCHECK OUT MORE INFO HERE!",
+        "id": "bkiwx0nizn"
+      }
+    ],
+    "hash": "b1evuihvr1-bkiwx0nizn",
+    "summary": "**Camp TMS is going back to The Glen!** More information is available through a link in the newsletter. This announcement appears to be about a camp program for middle school students."
+  },
+  {
+    "title": "Respect for Law Camp Registration Open",
+    "block_id": "bmf3mhxj3n-b9js1pgj9i",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/ed7c/e00cee1d4dacf716697d508f561d30b4.png"
+    ],
+    "source_url": "https://app.smore.com/n/9bdzne-spring-break?ref=email",
+    "source_title": "SPRING BREAK! | Smore Newsletters for Education",
+    "date": "2026-03-27T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "COMMUNITY \n\nINFORMATION\n\nCOMMUNITY INFORMATION",
+        "id": "bmf3mhxj3n"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/ed7c/e00cee1d4dacf716697d508f561d30b4.png",
+        "id": "b9js1pgj9i"
+      }
+    ],
+    "hash": "bmf3mhxj3n-b9js1pgj9i",
+    "summary": "**Respect for Law Camp** is a 3-day program for kids ages 11-14, taking place **June 19-21, 2026** at Miami University Oxford. The action-packed weekend includes hands-on law enforcement activities like rappelling from a fire tower, SWAT and building search exercises, FBI Pellet Gun Course, mock felony car crash, motorcycle/bicycle/aviation demonstrations, Firearms Training Simulator (FATS), high and low ropes courses, and bomb squad and K-9 demonstrations. Register by scanning the QR code or visiting **respectforlawcamp.org**.",
+    "event_info": [
+      {
+        "title": "Respect for Law Camp",
+        "start": "2026-06-19T00:00:00",
+        "end": "2026-06-21T23:59:00",
+        "description": "**Respect for Law Camp** is a 3-day program for kids ages 11-14, taking place **June 19-21, 2026** at Miami University Oxford. The action-packed weekend includes hands-on law enforcement activities li",
+        "location": "Miami University Oxford"
+      }
+    ]
+  },
+  {
     "title": "Spring Break Spirit Week March 23-27",
     "block_id": "bqm327xlfi-b9guhad5fr",
     "content": "",
@@ -788,177 +895,6 @@
         "end": "2026-01-30T23:59:00",
         "description": "**Enrollment is now open** for current 8th graders for a summer 2027 trip to Costa Rica to explore rainforests and wildlife. Secure your spot with just **$95 down**, and **enroll by January 30th for $",
         "location": "Online"
-      }
-    ]
-  },
-  {
-    "title": "Spirit Wear Sale - Save Up to 25%",
-    "block_id": "bhf5xe6l1c-b6booo9jcr",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/f5c0/626c2686ce947deef16ea46b098e6f7c.png"
-    ],
-    "source_url": "https://app.smore.com/n/967v0-february-already?ref=email",
-    "source_title": "February Already? | Smore Newsletters for Education",
-    "date": "2026-01-30T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/f5c0/626c2686ce947deef16ea46b098e6f7c.png",
-        "id": "bhf5xe6l1c"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Stock up on Talawanda Middle School spirit wear! The more you buy, the bigger your savings-up to 25% off! Save 15% when you buy 2 items. Save 20% when you buy 3 items. SAVE 25% OFF when you buy 4 items! Use code SPIRIT766 at checkout to apply your discount. Plus, receive FREE shipping on orders of $75 or more. Shop now during the perfect opportunity to stock up on Talawanda Middle School tees, hoodies, hats, accessories and more for the entire family. https://1stplace.sale/71854",
-        "id": "b6booo9jcr"
-      }
-    ],
-    "hash": "bhf5xe6l1c-b6booo9jcr",
-    "summary": "**Stock up on Talawanda Middle School spirit wear and save up to 25%!** Tiered discounts: 15% off 2 items, 20% off 3 items, and 25% off 4+ items. Use code **SPIRIT766** at checkout and get **free shipping on orders over $85**. Shop hoodies, tees, hats, and accessories at https://1stplace.sale/71854"
-  },
-  {
-    "title": "Engineering/Coding Club Meeting Schedule",
-    "block_id": "bu9clj5qys-b552ojrcmr-bxr0faaow6",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/6wc9bv-what-s-new?ref=email",
-    "source_title": "What's New? | Smore Newsletters for Education",
-    "date": "2026-01-16T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Engineering/Coding \n\nClub\n\nEngineering/Coding Club",
-        "id": "bu9clj5qys"
-      },
-      {
-        "type": "text.title",
-        "content": "Upcoming \n\nDates!\n\nUpcoming Dates!",
-        "id": "b552ojrcmr"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Feb. 5 SWENextFeb. 12 Kode2LearnFeb. 19 SWENextFeb. 26 Kode2LearnMarch 5 SWENextMarch 12 Kode2LearnMarch 19 SWENextApril 9 Kode2LearnApril 16 SWENextApril 23 Kode2LearnApril 30 Celebration with both",
-        "id": "bxr0faaow6"
-      }
-    ],
-    "hash": "bu9clj5qys-b552ojrcmr-bxr0faaow6",
-    "summary": "The Engineering/Coding Club has announced its spring meeting schedule, alternating between two programs: **SWENext** and **Kode2Learn**. Meetings will be held on the following dates throughout February, March, and April, concluding with a **celebration on April 30** featuring both programs.",
-    "event_info": [
-      {
-        "title": "Engineering/Coding Club - SWENext",
-        "start": "2026-02-05T00:00:00",
-        "end": "2026-02-05T01:00:00",
-        "description": "The Engineering/Coding Club has announced its spring meeting schedule, alternating between two programs: **SWENext** and **Kode2Learn**. Meetings will be held on the following dates throughout Februar",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Engineering/Coding Club - Kode2Learn",
-        "start": "2026-02-12T00:00:00",
-        "end": "2026-02-12T01:00:00",
-        "description": "The Engineering/Coding Club has announced its spring meeting schedule, alternating between two programs: **SWENext** and **Kode2Learn**. Meetings will be held on the following dates throughout Februar",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Engineering/Coding Club - SWENext",
-        "start": "2026-02-19T00:00:00",
-        "end": "2026-02-19T01:00:00",
-        "description": "The Engineering/Coding Club has announced its spring meeting schedule, alternating between two programs: **SWENext** and **Kode2Learn**. Meetings will be held on the following dates throughout Februar",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Engineering/Coding Club - Kode2Learn",
-        "start": "2026-02-26T00:00:00",
-        "end": "2026-02-26T01:00:00",
-        "description": "The Engineering/Coding Club has announced its spring meeting schedule, alternating between two programs: **SWENext** and **Kode2Learn**. Meetings will be held on the following dates throughout Februar",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Engineering/Coding Club - SWENext",
-        "start": "2026-03-05T00:00:00",
-        "end": "2026-03-05T01:00:00",
-        "description": "The Engineering/Coding Club has announced its spring meeting schedule, alternating between two programs: **SWENext** and **Kode2Learn**. Meetings will be held on the following dates throughout Februar",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Engineering/Coding Club - Kode2Learn",
-        "start": "2026-03-12T00:00:00",
-        "end": "2026-03-12T01:00:00",
-        "description": "The Engineering/Coding Club has announced its spring meeting schedule, alternating between two programs: **SWENext** and **Kode2Learn**. Meetings will be held on the following dates throughout Februar",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Engineering/Coding Club - SWENext",
-        "start": "2026-03-19T00:00:00",
-        "end": "2026-03-19T01:00:00",
-        "description": "The Engineering/Coding Club has announced its spring meeting schedule, alternating between two programs: **SWENext** and **Kode2Learn**. Meetings will be held on the following dates throughout Februar",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Engineering/Coding Club - Kode2Learn",
-        "start": "2026-04-09T00:00:00",
-        "end": "2026-04-09T01:00:00",
-        "description": "The Engineering/Coding Club has announced its spring meeting schedule, alternating between two programs: **SWENext** and **Kode2Learn**. Meetings will be held on the following dates throughout Februar",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Engineering/Coding Club - SWENext",
-        "start": "2026-04-16T00:00:00",
-        "end": "2026-04-16T01:00:00",
-        "description": "The Engineering/Coding Club has announced its spring meeting schedule, alternating between two programs: **SWENext** and **Kode2Learn**. Meetings will be held on the following dates throughout Februar",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Engineering/Coding Club - Kode2Learn",
-        "start": "2026-04-23T00:00:00",
-        "end": "2026-04-23T01:00:00",
-        "description": "The Engineering/Coding Club has announced its spring meeting schedule, alternating between two programs: **SWENext** and **Kode2Learn**. Meetings will be held on the following dates throughout Februar",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Talawanda Baseball Winter Clinic for Grades K-8",
-    "block_id": "bmf3mhxj3n-bfxrj9bbz0-bhofakokqv",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/6ecd/cf64734eaecf52e371d0efcd71101ed6.png"
-    ],
-    "source_url": "https://app.smore.com/n/6wc9bv-what-s-new?ref=email",
-    "source_title": "What's New? | Smore Newsletters for Education",
-    "date": "2026-01-16T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "COMMUNITY \n\nINFORMATION\n\nCOMMUNITY INFORMATION",
-        "id": "bmf3mhxj3n"
-      },
-      {
-        "type": "text.title",
-        "content": "Winter \n\nBaseball \n\nClinic!\n\nWinter Baseball Clinic!",
-        "id": "bfxrj9bbz0"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/6ecd/cf64734eaecf52e371d0efcd71101ed6.png",
-        "id": "bhofakokqv"
-      }
-    ],
-    "hash": "bmf3mhxj3n-bfxrj9bbz0-bhofakokqv",
-    "summary": "The **Talawanda Baseball Winter Clinic** is a two-day clinic for boys and girls in grades K-8, held **January 18-19, 9:00 AM-11:00 AM** at **THS Gymnasium**. Varsity and junior-varsity staff will teach hitting, fielding, throwing, and pitching/catching. Bring a baseball glove, water bottle, bat, and helmet. **Cost:** $30 for one day or $50 for two days (take $10 off for each additional family member). Register by **January 5th** to receive a clinic T-shirt. Sign up at https://forms.gle/cgfxGjopmEKmrXpD8 or check in on January 19th. Contact: lykinsm@talawanda.org",
-    "event_info": [
-      {
-        "title": "Talawanda Baseball Winter Clinic - Day 1",
-        "start": "2026-01-18T09:00:00",
-        "end": "2026-01-18T11:00:00",
-        "description": "The **Talawanda Baseball Winter Clinic** is a two-day clinic for boys and girls in grades K-8, held **January 18-19, 9:00 AM-11:00 AM** at **THS Gymnasium**. Varsity and junior-varsity staff will teac",
-        "location": "THS Gymnasium"
-      },
-      {
-        "title": "Talawanda Baseball Winter Clinic - Day 2",
-        "start": "2026-01-19T09:00:00",
-        "end": "2026-01-19T11:00:00",
-        "description": "The **Talawanda Baseball Winter Clinic** is a two-day clinic for boys and girls in grades K-8, held **January 18-19, 9:00 AM-11:00 AM** at **THS Gymnasium**. Varsity and junior-varsity staff will teac",
-        "location": "THS Gymnasium"
       }
     ]
   }
