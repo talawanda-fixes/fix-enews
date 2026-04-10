@@ -1,5 +1,23 @@
 [
   {
+    "title": "Mountain Bike Club Meets Thursdays",
+    "block_id": "bd5gbn5z6j",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/xbsqk-the-count-down-is-on?ref=email",
+    "source_title": "THE COUNT DOWN IS ON! | Smore Newsletters for Education",
+    "date": "2026-04-10T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "zoom_out_map\n            \nMountain Bike Club is on Thursdays after school from 2:10-3:30. We are still accepting new members. Permission slips to ride are located in the office.",
+        "id": "bd5gbn5z6j"
+      }
+    ],
+    "hash": "bd5gbn5z6j",
+    "summary": "**Mountain Bike Club** meets every Thursday after school from **2:10-3:30 PM**. New members are still welcome to join. Permission slips required for riding are available in the office."
+  },
+  {
     "title": "Early Release Days - May 19, 20, 21",
     "block_id": "b89rv5y4sb-bfc1k9gqyy",
     "content": "",
@@ -861,40 +879,6 @@
         "end": "2026-04-27T18:30:00",
         "description": "**Girls Who Code 10-week program** in partnership with Miami University for 6th-9th grade girls. The program runs on Mondays from 5:15-6:30 PM (check-in at 5:00) at Ross Middle School, 3425 Hamilton-C",
         "location": "Ross Middle School, 3425 Hamilton-Cleves Rd., Hamilton, OH 45013"
-      }
-    ]
-  },
-  {
-    "title": "Costa Rica 2027 Trip Enrollment Open",
-    "block_id": "bdojxup4j5-bv5lcygbty",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/c7ad/244445ff663b7a2d5a65d4338b29490e.png"
-    ],
-    "source_url": "https://app.smore.com/n/967v0-february-already?ref=email",
-    "source_title": "February Already? | Smore Newsletters for Education",
-    "date": "2026-01-30T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/c7ad/244445ff663b7a2d5a65d4338b29490e.png",
-        "id": "bdojxup4j5"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Attention parents of 8th graders(soon to be 9th graders)!Exciting news for CURRENT 8th Graders! – enrollment for our upcoming adventure to Costa Rica in Summer 2027 is officially OPEN! Ready to explore rainforests, spot wildlife, and create unforgettable memories? You can secure your spot with just $95 down! But here's the exciting part – enroll by January 23 at 11:59 PM and you'll save a whopping $300!  That's extra money for souvenirs, snacks, or maybe a sloth plushie! And don't worry – EF offers risk-free enrollment, so you have 7 days to cancel for a full refund if plans change. No stress! Enroll now and explore the trip details here: www.eftours.com/3008612UYE-mail croucherk@talawanda.org with any questions!https://rsvp.eftours.com/5cjgbka",
-        "id": "bv5lcygbty"
-      }
-    ],
-    "hash": "bdojxup4j5-bv5lcygbty",
-    "summary": "**Enrollment is now open** for current 8th graders for a summer 2027 trip to Costa Rica to explore rainforests and wildlife. Secure your spot with just **$95 down**, and **enroll by January 30th for $200 off** (original deadline mentioned January 23rd at 11:59 PM for $300 off may have passed). EF Tours offers risk-free enrollment with 7 days to cancel for a full refund. [Enroll and view trip details](https://www.eftours.com/3008612UY) or email croucherk@talawanda.org with questions.",
-    "event_info": [
-      {
-        "title": "Costa Rica 2027 Enrollment Deadline for $200 Discount",
-        "start": "2026-01-30T23:59:00",
-        "end": "2026-01-30T23:59:00",
-        "description": "**Enrollment is now open** for current 8th graders for a summer 2027 trip to Costa Rica to explore rainforests and wildlife. Secure your spot with just **$95 down**, and **enroll by January 30th for $",
-        "location": "Online"
       }
     ]
   }
