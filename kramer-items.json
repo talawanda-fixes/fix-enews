@@ -431,40 +431,6 @@
     ]
   },
   {
-    "title": "K-Mart Store Open Every Monday and Friday",
-    "block_id": "b6jxf1vp8d-bgfxt1k9q6",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/2934/842e4981997b8a9a8c69b9a394f236a5.png"
-    ],
-    "source_url": "https://app.smore.com/n/e0yz7",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-02-13T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "3rd \n\n- \n\n5th \n\nGrade \n\nEvent\n\n3rd - 5th Grade Event",
-        "id": "b6jxf1vp8d"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/2934/842e4981997b8a9a8c69b9a394f236a5.png",
-        "id": "bgfxt1k9q6"
-      }
-    ],
-    "hash": "b6jxf1vp8d-bgfxt1k9q6",
-    "summary": "The **K-Mart** student store is open **every Monday and Friday** from when you walk in until the bell rings. It is located on the balcony between 4th and 5th grade classrooms at **Kramer Elementary**. The store sells fidgets, snacks, and toys with all items priced at **one dollar**. The next opening is **February 9th** for 3rd-5th grade students.",
-    "event_info": [
-      {
-        "title": "K-Mart Store Opens (3rd-5th Grade)",
-        "start": "2026-02-09T00:00:00",
-        "end": "2026-02-09T01:00:00",
-        "description": "The **K-Mart** student store is open **every Monday and Friday** from when you walk in until the bell rings. It is located on the balcony between 4th and 5th grade classrooms at **Kramer Elementary**.",
-        "location": "Kramer Elementary, balcony between 4th and 5th grade"
-      }
-    ]
-  },
-  {
     "title": "Reading Corner Newsletter on Decoding Skills",
     "block_id": "ber66w8386-bn2pap4gkq",
     "content": "",
@@ -546,6 +512,40 @@
     ],
     "hash": "b4qrzpzg5c-bwulg9ornb-bncw8zzi9l",
     "summary": "**Read At Home (RAH)** is a voluntary program for K-2nd grade students at Kramer Elementary that encourages reading at home. Students record books they've read each week on a record sheet and turn it in for rewards, which alternate between a student-selected book and a small prize.\n\n**Kroger Community Rewards:** Connect your Kroger Rewards card to Kramer PTG (one nonprofit per account) and Kroger will donate a percentage of your purchases to the PTG. Sign up once at https://www.kroger.com/i/community/community-rewards"
+  },
+  {
+    "title": "K-Mart Store Open Every Monday and Friday",
+    "block_id": "b6jxf1vp8d-bgfxt1k9q6",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/2934/842e4981997b8a9a8c69b9a394f236a5.png"
+    ],
+    "source_url": "https://app.smore.com/n/e0yz7",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-02-13T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "3rd \n\n- \n\n5th \n\nGrade \n\nEvent\n\n3rd - 5th Grade Event",
+        "id": "b6jxf1vp8d"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/2934/842e4981997b8a9a8c69b9a394f236a5.png",
+        "id": "bgfxt1k9q6"
+      }
+    ],
+    "hash": "b6jxf1vp8d-bgfxt1k9q6",
+    "summary": "The **K-Mart** student store is open **every Monday and Friday** from when you walk in until the bell rings. It is located on the balcony between 4th and 5th grade classrooms at **Kramer Elementary**. The store sells fidgets, snacks, and toys with all items priced at **one dollar**. The next opening is **February 9th** for 3rd-5th grade students.",
+    "event_info": [
+      {
+        "title": "K-Mart Store Opens (3rd-5th Grade)",
+        "start": "2026-02-09T00:00:00",
+        "end": "2026-02-09T01:00:00",
+        "description": "The **K-Mart** student store is open **every Monday and Friday** from when you walk in until the bell rings. It is located on the balcony between 4th and 5th grade classrooms at **Kramer Elementary**.",
+        "location": "Kramer Elementary, balcony between 4th and 5th grade"
+      }
+    ]
   },
   {
     "title": "Kramer PTG Events - Skate and Meeting",
