@@ -193,65 +193,6 @@
     ]
   },
   {
-    "title": "Senior Scholarship Form and Graduation Information",
-    "block_id": "b5rmu4e1rd-bnbr6xkrns-bpk97utnir-b6yuzlri08",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/9e45/314a1c82c34d1b4fa87e50f37f8b5cce.png",
-      "https://cdn.smore.com/u/14c5/e24617b476e6957df111124aa8444095.png"
-    ],
-    "source_url": "https://app.smore.com/n/3aqzw",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-04-10T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "COUNSELING \n\nOFFICE\n\nCOUNSELING OFFICE",
-        "id": "b5rmu4e1rd"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/9e45/314a1c82c34d1b4fa87e50f37f8b5cce.png",
-        "id": "bnbr6xkrns"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Class of 2026 Scholarship Google Form. Please review: the THS Senior Newsletter: Graduation Edition (below) for important information in regards to graduation.",
-        "id": "bpk97utnir"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/14c5/e24617b476e6957df111124aa8444095.png",
-        "id": "b6yuzlri08"
-      }
-    ],
-    "hash": "b5rmu4e1rd-bnbr6xkrns-bpk97utnir-b6yuzlri08",
-    "summary": "**Class of 2026 seniors must complete the Scholarship Post Secondary Google Form by April 21st.** The information collected will be used in the commencement program. Graduation is scheduled for **May 21st, 2026 at 6:30 PM** at Talawanda High School (5301 University Park Blvd, Oxford, OH 45056). Graduates must arrive by 5:30 PM. Graduation practice is **May 21st at 11:00 AM** in the THS Gym (arrive by 10:15 AM). Students need transportation to/from the May 21st rehearsal. **Cap and gowns are rentals from Jostens and must be returned immediately after the ceremony.** Photos will be available at [www.events.lifetouch.com](http://www.events.lifetouch.com). See the school counselor with any questions.",
-    "event_info": [
-      {
-        "title": "Scholarship Google Form Deadline",
-        "start": "2026-04-21T23:59:00",
-        "end": "2026-04-22T00:59:00",
-        "description": "**Class of 2026 seniors must complete the Scholarship Post Secondary Google Form by April 21st.** The information collected will be used in the commencement program. Graduation is scheduled for **May ",
-        "location": "Online Google Form"
-      },
-      {
-        "title": "Class of 2026 Graduation Practice",
-        "start": "2026-05-21T11:00:00",
-        "end": "2026-05-21T12:00:00",
-        "description": "**Class of 2026 seniors must complete the Scholarship Post Secondary Google Form by April 21st.** The information collected will be used in the commencement program. Graduation is scheduled for **May ",
-        "location": "Talawanda High School Gym"
-      },
-      {
-        "title": "Class of 2026 Graduation Ceremony",
-        "start": "2026-05-21T18:30:00",
-        "end": "2026-05-21T19:30:00",
-        "description": "**Class of 2026 seniors must complete the Scholarship Post Secondary Google Form by April 21st.** The information collected will be used in the commencement program. Graduation is scheduled for **May ",
-        "location": "Talawanda High School, 5301 University Park Blvd, Oxford, OH 45056"
-      }
-    ]
-  },
-  {
     "title": "Club Meetings Week of April 13th",
     "block_id": "b16db8wtno-bhfikqncz6-bkkosr3sln",
     "content": "",
@@ -460,6 +401,65 @@
         "end": "2026-05-21T13:10:00",
         "description": "The last three days of school (May 19, 20, 21) will be early release days with the following dismissal times:\n- **TMS (Talawanda Middle School)**: 11:20 am\n- **THS (Talawanda High School)**: 11:40 am\n",
         "location": "Talawanda Elementary School"
+      }
+    ]
+  },
+  {
+    "title": "Senior Scholarship Form and Graduation Information",
+    "block_id": "b5rmu4e1rd-bnbr6xkrns-bpk97utnir-b6yuzlri08",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/9e45/314a1c82c34d1b4fa87e50f37f8b5cce.png",
+      "https://cdn.smore.com/u/14c5/e24617b476e6957df111124aa8444095.png"
+    ],
+    "source_url": "https://app.smore.com/n/3aqzw",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-04-10T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "COUNSELING \n\nOFFICE\n\nCOUNSELING OFFICE",
+        "id": "b5rmu4e1rd"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/9e45/314a1c82c34d1b4fa87e50f37f8b5cce.png",
+        "id": "bnbr6xkrns"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Class of 2026 Scholarship Google Form. Please review: the THS Senior Newsletter: Graduation Edition (below) for important information in regards to graduation.",
+        "id": "bpk97utnir"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/14c5/e24617b476e6957df111124aa8444095.png",
+        "id": "b6yuzlri08"
+      }
+    ],
+    "hash": "b5rmu4e1rd-bnbr6xkrns-bpk97utnir-b6yuzlri08",
+    "summary": "**Class of 2026 seniors must complete the Scholarship Post Secondary Google Form by April 21st.** The information collected will be used in the commencement program. Graduation is scheduled for **May 21st, 2026 at 6:30 PM** at Talawanda High School (5301 University Park Blvd, Oxford, OH 45056). Graduates must arrive by 5:30 PM. Graduation practice is **May 21st at 11:00 AM** in the THS Gym (arrive by 10:15 AM). Students need transportation to/from the May 21st rehearsal. **Cap and gowns are rentals from Jostens and must be returned immediately after the ceremony.** Photos will be available at [www.events.lifetouch.com](http://www.events.lifetouch.com). See the school counselor with any questions.",
+    "event_info": [
+      {
+        "title": "Scholarship Google Form Deadline",
+        "start": "2026-04-21T23:59:00",
+        "end": "2026-04-22T00:59:00",
+        "description": "**Class of 2026 seniors must complete the Scholarship Post Secondary Google Form by April 21st.** The information collected will be used in the commencement program. Graduation is scheduled for **May ",
+        "location": "Online Google Form"
+      },
+      {
+        "title": "Class of 2026 Graduation Practice",
+        "start": "2026-05-21T11:00:00",
+        "end": "2026-05-21T12:00:00",
+        "description": "**Class of 2026 seniors must complete the Scholarship Post Secondary Google Form by April 21st.** The information collected will be used in the commencement program. Graduation is scheduled for **May ",
+        "location": "Talawanda High School Gym"
+      },
+      {
+        "title": "Class of 2026 Graduation Ceremony",
+        "start": "2026-05-21T18:30:00",
+        "end": "2026-05-21T19:30:00",
+        "description": "**Class of 2026 seniors must complete the Scholarship Post Secondary Google Form by April 21st.** The information collected will be used in the commencement program. Graduation is scheduled for **May ",
+        "location": "Talawanda High School, 5301 University Park Blvd, Oxford, OH 45056"
       }
     ]
   },

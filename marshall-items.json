@@ -222,79 +222,6 @@
     "summary": "Parents can help assess reading comprehension by asking questions about story elements like characters, setting, and plot. **Suggested activities**: have students retell the story or draw pictures about what they read. The Reading Corner program uses the **UFLI curriculum** and offers a [parent resource guide](Parent reading help K-3). Contact your student's Reading Corner teacher for additional support."
   },
   {
-    "title": "Spring Flower Sale Pickup Information",
-    "block_id": "bhatmtq6ud-bffaeuk6zk-bt54qoe1s5",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/3f07/a2bb496d326b29b2e7de3512be801e89.png"
-    ],
-    "source_url": "https://app.smore.com/n/sryg5",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-04-10T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PTG \n\nCORNER\n\nPTG CORNER",
-        "id": "bhatmtq6ud"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/3f07/a2bb496d326b29b2e7de3512be801e89.png",
-        "id": "bffaeuk6zk"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Thank you so much for supporting our spring Foertmeyer & Sons Spring Flower Sale!\nFlowers will be delivered on Saturday, April 18, 2026. Please arrange to pick up all flowers between 11:30-1:30pm. All items need to be picked up by 1:30pm.",
-        "id": "bt54qoe1s5"
-      }
-    ],
-    "hash": "bhatmtq6ud-bffaeuk6zk-bt54qoe1s5",
-    "summary": "The PTG spring flower sale (Foertmeyer & Sons) delivery day is almost here. **Flower pickup is Saturday, April 18, 2026, from 11:30 AM to 1:30 PM.** All items must be picked up by 1:30 PM.",
-    "event_info": [
-      {
-        "title": "Spring Flower Sale Pickup",
-        "start": "2026-04-18T11:30:00",
-        "end": "2026-04-18T13:30:00",
-        "description": "The PTG spring flower sale (Foertmeyer & Sons) delivery day is almost here. **Flower pickup is Saturday, April 18, 2026, from 11:30 AM to 1:30 PM.** All items must be picked up by 1:30 PM.",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Talawanda Multicultural Family Night at Kramer Elementary",
-    "block_id": "bisgsi05ub-boo7kmsvyj",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/5d4c/632eb5294c2d498c633f8e7aff4be53b.png"
-    ],
-    "source_url": "https://app.smore.com/n/sryg5",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-04-10T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "AROUND \n\nTHE \n\nCOMMUNITY \n\nAROUND THE COMMUNITY",
-        "id": "bisgsi05ub"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/5d4c/632eb5294c2d498c633f8e7aff4be53b.png",
-        "id": "boo7kmsvyj"
-      }
-    ],
-    "hash": "bisgsi05ub-boo7kmsvyj",
-    "summary": "**Talawanda Multicultural Family Night** will be held on **Tuesday, April 14** at **Kramer Elementary from 6:00-7:30 PM**. This event features food, fun, and games for all K-12 Talawanda students and families, celebrating the many cultures in the Talawanda community. RSVP by scanning the QR code on the flyer or visit the TSD approved for distribution link.",
-    "event_info": [
-      {
-        "title": "Talawanda Multicultural Family Night",
-        "start": "2026-04-14T18:00:00",
-        "end": "2026-04-14T19:30:00",
-        "description": "**Talawanda Multicultural Family Night** will be held on **Tuesday, April 14** at **Kramer Elementary from 6:00-7:30 PM**. This event features food, fun, and games for all K-12 Talawanda students and ",
-        "location": "Kramer Elementary"
-      }
-    ]
-  },
-  {
     "title": "Important Dates and Early Release Schedule",
     "block_id": "bxxze6r7so-bx30sup0r2-bxpadasriv",
     "content": "",
@@ -386,6 +313,79 @@
         "end": "2026-05-21T12:40:00",
         "description": "The last three days of school (**May 19, 20, 21**) will be **early release days** with the following dismissal times:\n- **TMS**: 11:20 AM\n- **THS**: 11:40 AM\n- **Elementary**: Car riders at 1:00 PM, b",
         "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Spring Flower Sale Pickup Information",
+    "block_id": "bhatmtq6ud-bffaeuk6zk-bt54qoe1s5",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/3f07/a2bb496d326b29b2e7de3512be801e89.png"
+    ],
+    "source_url": "https://app.smore.com/n/sryg5",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-04-10T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PTG \n\nCORNER\n\nPTG CORNER",
+        "id": "bhatmtq6ud"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/3f07/a2bb496d326b29b2e7de3512be801e89.png",
+        "id": "bffaeuk6zk"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Thank you so much for supporting our spring Foertmeyer & Sons Spring Flower Sale!\nFlowers will be delivered on Saturday, April 18, 2026. Please arrange to pick up all flowers between 11:30-1:30pm. All items need to be picked up by 1:30pm.",
+        "id": "bt54qoe1s5"
+      }
+    ],
+    "hash": "bhatmtq6ud-bffaeuk6zk-bt54qoe1s5",
+    "summary": "The PTG spring flower sale (Foertmeyer & Sons) delivery day is almost here. **Flower pickup is Saturday, April 18, 2026, from 11:30 AM to 1:30 PM.** All items must be picked up by 1:30 PM.",
+    "event_info": [
+      {
+        "title": "Spring Flower Sale Pickup",
+        "start": "2026-04-18T11:30:00",
+        "end": "2026-04-18T13:30:00",
+        "description": "The PTG spring flower sale (Foertmeyer & Sons) delivery day is almost here. **Flower pickup is Saturday, April 18, 2026, from 11:30 AM to 1:30 PM.** All items must be picked up by 1:30 PM.",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Talawanda Multicultural Family Night at Kramer Elementary",
+    "block_id": "bisgsi05ub-boo7kmsvyj",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/5d4c/632eb5294c2d498c633f8e7aff4be53b.png"
+    ],
+    "source_url": "https://app.smore.com/n/sryg5",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-04-10T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "AROUND \n\nTHE \n\nCOMMUNITY \n\nAROUND THE COMMUNITY",
+        "id": "bisgsi05ub"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/5d4c/632eb5294c2d498c633f8e7aff4be53b.png",
+        "id": "boo7kmsvyj"
+      }
+    ],
+    "hash": "bisgsi05ub-boo7kmsvyj",
+    "summary": "**Talawanda Multicultural Family Night** will be held on **Tuesday, April 14** at **Kramer Elementary from 6:00-7:30 PM**. This event features food, fun, and games for all K-12 Talawanda students and families, celebrating the many cultures in the Talawanda community. RSVP by scanning the QR code on the flyer or visit the TSD approved for distribution link.",
+    "event_info": [
+      {
+        "title": "Talawanda Multicultural Family Night",
+        "start": "2026-04-14T18:00:00",
+        "end": "2026-04-14T19:30:00",
+        "description": "**Talawanda Multicultural Family Night** will be held on **Tuesday, April 14** at **Kramer Elementary from 6:00-7:30 PM**. This event features food, fun, and games for all K-12 Talawanda students and ",
+        "location": "Kramer Elementary"
       }
     ]
   },

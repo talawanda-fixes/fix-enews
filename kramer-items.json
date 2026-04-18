@@ -1,28 +1,5 @@
 [
   {
-    "title": "Tat-A-Teacher Fundraiser Results",
-    "block_id": "bn5h408wfw-bvwmkpynrc",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/1ym6qj",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-04-10T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Tat-A-Teacher \n\nFundraiser \n\nResults\n\nTat-A-Teacher Fundraiser Results",
-        "id": "bn5h408wfw"
-      },
-      {
-        "type": "items",
-        "content": "zoom_out_map\n                \n\n\n\n\n\n\n\n\nzoom_out_map\n                \n\n\n\n\n\n\n\n\nzoom_out_map",
-        "id": "bvwmkpynrc"
-      }
-    ],
-    "hash": "bn5h408wfw-bvwmkpynrc",
-    "summary": "The Tat-A-Teacher fundraiser results have been announced. This appears to be a fundraising event where teachers participated, likely getting temporary tattoos as part of the fundraiser. Specific results and details would have been visible in the accompanying images."
-  },
-  {
     "title": "Parent Drop-Off and Pick-Up Rules",
     "block_id": "bf2gr3k7s7-b72jt3qx5p-bqgrdul4qd",
     "content": "",
@@ -85,6 +62,29 @@
         "location": "Kramer Art Room"
       }
     ]
+  },
+  {
+    "title": "Tat-A-Teacher Fundraiser Results",
+    "block_id": "bn5h408wfw-bvwmkpynrc",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/1ym6qj",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-04-10T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Tat-A-Teacher \n\nFundraiser \n\nResults\n\nTat-A-Teacher Fundraiser Results",
+        "id": "bn5h408wfw"
+      },
+      {
+        "type": "items",
+        "content": "zoom_out_map\n                \n\n\n\n\n\n\n\n\nzoom_out_map\n                \n\n\n\n\n\n\n\n\nzoom_out_map",
+        "id": "bvwmkpynrc"
+      }
+    ],
+    "hash": "bn5h408wfw-bvwmkpynrc",
+    "summary": "The Tat-A-Teacher fundraiser results have been announced. This appears to be a fundraising event where teachers participated, likely getting temporary tattoos as part of the fundraiser. Specific results and details would have been visible in the accompanying images."
   },
   {
     "title": "Spring Conference Meals Thank You",
