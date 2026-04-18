@@ -1,5 +1,181 @@
 [
   {
+    "title": "Marshall Mile & Family Picnic Event",
+    "block_id": "boeo8mwnxl-bxpxhiwfdp-b6n8luftjn",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/4f07/3887c352cc87db9f75cfb25c8a1db6b9.png",
+      "https://cdn.smore.com/u/243f/d14ba746fe289be2c821c1378ada6aa3.png"
+    ],
+    "source_url": "https://app.smore.com/n/phb8s",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-04-17T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/4f07/3887c352cc87db9f75cfb25c8a1db6b9.png",
+        "id": "boeo8mwnxl"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "We are excited to invite you to our Marshall Mile and Family Picnic on FRIDAY, May 8th! We look forward to seeing many of you there to help us celebrate a wonderful day of fitness, fun, and community.Important Details:No Backpacks: Please have your child come to school without a backpack on this day.Early Dismissal Procedures: If you plan to sign your child out after the event, please note that students will not return to their classrooms to retrieve any belongings.Marshall Mile:The event will take place in and around the parking lot.Spectators are welcome to watch from the grass areas or along the perimeter of the parking lot.After completing the mile, all students will return to the building with their teacher - Students will be able to be signed out from the picnic.Family Picnic:Families staying for the picnic should walk through the parking lot to the swing set side of the playground to meet their child.Students may purchase a picnic lunch in the cafeteria.Families are encouraged to bring a picnic lunch for themselves and/or their child.Seating will be limited — we recommend bringing a blanket or chairs.Student Sign-Out:Staff will be stationed by the door nearest the swing set to assist with signing students out.After signing your child out, you will receive a GREEN slip. This slip must be visible to staff and will indicate that your child has been properly signed out.Please do not go to the office to sign your child out.We are looking forward to a great day with our students and families! Thank you for your cooperation and support in helping the day run smoothly.Below are the times for the Run and Picnic.",
+        "id": "bxpxhiwfdp"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/243f/d14ba746fe289be2c821c1378ada6aa3.png",
+        "id": "b6n8luftjn"
+      }
+    ],
+    "hash": "boeo8mwnxl-bxpxhiwfdp-b6n8luftjn",
+    "summary": "The **Marshall Mile and Family Picnic** takes place **Friday, May 8th** with different times for each grade. Students should come **without backpacks**. The mile run will be in the parking lot, followed by a family picnic on the playground by the swing set. Families can bring picnic lunches or students can purchase lunch in the cafeteria. Sign-out will be at the door nearest the swing set with a green slip system. **Schedule:** Grades 1-2 run at 11:15-11:25 with picnic 11:45-12:35, Grades K-3 run at 12:10-12:20 with picnic 12:40-1:30, Grades 4-5 run at 1:05-1:20 with picnic 1:40-2:30.",
+    "event_info": [
+      {
+        "title": "Marshall Mile - Grade 1",
+        "start": "2026-05-08T11:15:00",
+        "end": "2026-05-08T11:15:00",
+        "description": "The **Marshall Mile and Family Picnic** takes place **Friday, May 8th** with different times for each grade. Students should come **without backpacks**. The mile run will be in the parking lot, follow",
+        "location": "Talawanda High School parking lot"
+      },
+      {
+        "title": "Marshall Mile - Grade 2",
+        "start": "2026-05-08T11:25:00",
+        "end": "2026-05-08T11:25:00",
+        "description": "The **Marshall Mile and Family Picnic** takes place **Friday, May 8th** with different times for each grade. Students should come **without backpacks**. The mile run will be in the parking lot, follow",
+        "location": "Talawanda High School parking lot"
+      },
+      {
+        "title": "Family Picnic - Grades 1-2",
+        "start": "2026-05-08T11:45:00",
+        "end": "2026-05-08T12:35:00",
+        "description": "The **Marshall Mile and Family Picnic** takes place **Friday, May 8th** with different times for each grade. Students should come **without backpacks**. The mile run will be in the parking lot, follow",
+        "location": "Talawanda High School playground by swing set"
+      },
+      {
+        "title": "Marshall Mile - Kindergarten",
+        "start": "2026-05-08T12:10:00",
+        "end": "2026-05-08T12:10:00",
+        "description": "The **Marshall Mile and Family Picnic** takes place **Friday, May 8th** with different times for each grade. Students should come **without backpacks**. The mile run will be in the parking lot, follow",
+        "location": "Talawanda High School parking lot"
+      },
+      {
+        "title": "Marshall Mile - Grade 3",
+        "start": "2026-05-08T12:20:00",
+        "end": "2026-05-08T12:20:00",
+        "description": "The **Marshall Mile and Family Picnic** takes place **Friday, May 8th** with different times for each grade. Students should come **without backpacks**. The mile run will be in the parking lot, follow",
+        "location": "Talawanda High School parking lot"
+      },
+      {
+        "title": "Family Picnic - Grades K-3",
+        "start": "2026-05-08T12:40:00",
+        "end": "2026-05-08T13:30:00",
+        "description": "The **Marshall Mile and Family Picnic** takes place **Friday, May 8th** with different times for each grade. Students should come **without backpacks**. The mile run will be in the parking lot, follow",
+        "location": "Talawanda High School playground by swing set"
+      },
+      {
+        "title": "Marshall Mile - Grade 4",
+        "start": "2026-05-08T13:05:00",
+        "end": "2026-05-08T13:05:00",
+        "description": "The **Marshall Mile and Family Picnic** takes place **Friday, May 8th** with different times for each grade. Students should come **without backpacks**. The mile run will be in the parking lot, follow",
+        "location": "Talawanda High School parking lot"
+      },
+      {
+        "title": "Marshall Mile - Grade 5",
+        "start": "2026-05-08T13:20:00",
+        "end": "2026-05-08T13:20:00",
+        "description": "The **Marshall Mile and Family Picnic** takes place **Friday, May 8th** with different times for each grade. Students should come **without backpacks**. The mile run will be in the parking lot, follow",
+        "location": "Talawanda High School parking lot"
+      },
+      {
+        "title": "Family Picnic - Grades 4-5",
+        "start": "2026-05-08T13:40:00",
+        "end": "2026-05-08T14:30:00",
+        "description": "The **Marshall Mile and Family Picnic** takes place **Friday, May 8th** with different times for each grade. Students should come **without backpacks**. The mile run will be in the parking lot, follow",
+        "location": "Talawanda High School playground by swing set"
+      }
+    ]
+  },
+  {
+    "title": "Flower Sale Pickup - Saturday April 18",
+    "block_id": "bhatmtq6ud-b84hmj4u3u-bt71vfrke0",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/f59b/e1fe3143edf2437c0a4224dda640b43d.png"
+    ],
+    "source_url": "https://app.smore.com/n/phb8s",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-04-17T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PTG \n\nCORNER\n\nPTG CORNER",
+        "id": "bhatmtq6ud"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/f59b/e1fe3143edf2437c0a4224dda640b43d.png",
+        "id": "b84hmj4u3u"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "PLEASE NOTE THE NEW PICK UP TIMES:\nFlowers will be delivered on Saturday, April 18, 2026.Please arrange to pick up all flowers between 1:30pm-3:00pm. All items need to be picked up by 3:00pm.",
+        "id": "bt71vfrke0"
+      }
+    ],
+    "hash": "bhatmtq6ud-b84hmj4u3u-bt71vfrke0",
+    "summary": "**Flower delivery day is almost here!** PTG flower sale orders will be delivered on **Saturday, April 18, 2026**. Pickup time is **1:30pm-3:00pm** - all items must be collected by 3:00pm.",
+    "event_info": [
+      {
+        "title": "PTG Flower Sale Pickup",
+        "start": "2026-04-18T13:30:00",
+        "end": "2026-04-18T15:00:00",
+        "description": "**Flower delivery day is almost here!** PTG flower sale orders will be delivered on **Saturday, April 18, 2026**. Pickup time is **1:30pm-3:00pm** - all items must be collected by 3:00pm.",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Oxford Swim and Dive Team Registration",
+    "block_id": "bisgsi05ub-b2hvf74jgi",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/2405/397a548f3439a71503211ab3bbc84a56.png"
+    ],
+    "source_url": "https://app.smore.com/n/phb8s",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-04-17T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "AROUND \n\nTHE \n\nCOMMUNITY \n\nAROUND THE COMMUNITY",
+        "id": "bisgsi05ub"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/2405/397a548f3439a71503211ab3bbc84a56.png",
+        "id": "b2hvf74jgi"
+      }
+    ],
+    "hash": "bisgsi05ub-b2hvf74jgi",
+    "summary": "The **Oxford Swim and Dive Team** is a community-oriented summer competitive team for ages 4-18 of all abilities. **Practices begin May 26, 2026** at the Oxford Aquatic Center. Costs are $150 (swim), $120 (dive), or $200 (both), with family discounts available. A **trial period** runs **May 26-29 for $30**, ending with a mock meet. Register at **swimosdt.com** or contact oxfordswimdive@gmail.com. Coach Steve also offers a **Makos Stroke Clinic** for ages 5-13 at Miami's Rec Center (**April 20 - May 22, 2026**, Mon/Wed/Fri 5:30-6:30 PM, $180).",
+    "event_info": [
+      {
+        "title": "Oxford Swim and Dive Team Trial Period",
+        "start": "2026-05-26T00:00:00",
+        "end": "2026-05-29T23:59:00",
+        "description": "The **Oxford Swim and Dive Team** is a community-oriented summer competitive team for ages 4-18 of all abilities. **Practices begin May 26, 2026** at the Oxford Aquatic Center. Costs are $150 (swim), ",
+        "location": "Oxford Aquatic Center"
+      },
+      {
+        "title": "Makos Stroke Clinic (Mon/Wed/Fri Sessions)",
+        "start": "2026-04-20T17:30:00",
+        "end": "2026-05-22T18:30:00",
+        "description": "The **Oxford Swim and Dive Team** is a community-oriented summer competitive team for ages 4-18 of all abilities. **Practices begin May 26, 2026** at the Oxford Aquatic Center. Costs are $150 (swim), ",
+        "location": "Miami's Rec Center"
+      }
+    ]
+  },
+  {
     "title": "Welcome Back and State Testing Underway",
     "block_id": "b1oohprvfy-bdc8a7t53e",
     "content": "",
@@ -678,103 +854,5 @@
         "location": "Marshall Elementary Library"
       }
     ]
-  },
-  {
-    "title": "Last Weekend to Order Yearbooks",
-    "block_id": "bp40gi3co2-bw7v4co45q",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/zkac8w",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-03-06T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "📣 \n\nIf \n\ninterested \n\nin \n\na \n\nYearbook, \n\nthis \n\nis \n\nyour \n\nlast \n\nweekend \n\nto \n\norder. \n\n📣 If interested in a Yearbook, this is your last weekend to order.",
-        "id": "bp40gi3co2"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "We will have no extras to sell!\nORDERLINK:https://ybpay.lifetouch.com/Order/SelectJob?utm_source=Flyer&utm_medium=Print&utm_campaign=YB25_5003877YEARBOOK ID CODE: 7397826",
-        "id": "bw7v4co45q"
-      }
-    ],
-    "hash": "bp40gi3co2-bw7v4co45q",
-    "summary": "**Final weekend to order yearbooks** – no extras will be available for purchase after this deadline. Order online using **Yearbook ID Code: 7397826** at [ybpay.lifetouch.com](https://ybpay.lifetouch.com/Order/SelectJob?utm_source=Flyer&utm_medium=Print&utm_campaign=YB25_5003877).",
-    "event_info": [
-      {
-        "title": "Yearbook Order Deadline",
-        "start": "2026-03-09T23:59:00",
-        "end": "2026-03-09T23:59:00",
-        "description": "**Final weekend to order yearbooks** – no extras will be available for purchase after this deadline. Order online using **Yearbook ID Code: 7397826** at [ybpay.lifetouch.com](https://ybpay.lifetouch.c",
-        "location": "Online"
-      }
-    ]
-  },
-  {
-    "title": "March 2026 Breakfast and Lunch Menus",
-    "block_id": "bhzdnlnw9b-bityvx750v-bnmbq6ritu-b9f38w2m26",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/76ea/e8e196de16fe2fb41dc74bacc1a3a571.png",
-      "https://cdn.smore.com/u/d853/56bed4d5e0e3c32c975df79a4ea68412.png"
-    ],
-    "source_url": "https://app.smore.com/n/et20k",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-02-27T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "MARCH \n\n- \n\nBREAKFAST \n\nMENU\n\nMARCH - BREAKFAST MENU",
-        "id": "bhzdnlnw9b"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/76ea/e8e196de16fe2fb41dc74bacc1a3a571.png",
-        "id": "bityvx750v"
-      },
-      {
-        "type": "text.title",
-        "content": "MARCH \n\n- \n\nLUNCH \n\nMENU\n\nMARCH - LUNCH MENU",
-        "id": "bnmbq6ritu"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/d853/56bed4d5e0e3c32c975df79a4ea68412.png",
-        "id": "b9f38w2m26"
-      }
-    ],
-    "hash": "bhzdnlnw9b-bityvx750v-bnmbq6ritu-b9f38w2m26",
-    "summary": "Marshall Elementary has released its **breakfast and lunch menus for March 2026**. \n\n**Breakfast highlights** include chocolate donuts, breakfast pizza, egg & cheese sandwiches, mini pancakes, glazed donuts, biscuits & gravy, French toast varieties, and themed items for St. Patrick's Day and spring. All breakfasts include 100% fruit juice, apples, oranges or other fresh fruit, and choice of milk.\n\n**Lunch highlights** feature cheeseburgers, walking tacos, BBQ chicken, pizza options, chicken nuggets, spaghetti, hot dogs, chicken patties, mozzarella sticks, and special St. Patrick's Day and spring-themed meals. Choice of milk is included with every lunch.\n\nSpring break begins March 30-31, 2026."
-  },
-  {
-    "title": "Spring Break Reading Activities for Families",
-    "block_id": "b8hc5vobc2-belzvpxavw-bln3ergs2d",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/1256/57289d57a7df1ab061307b840e1b4549.png"
-    ],
-    "source_url": "https://app.smore.com/n/et20k",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-02-27T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "TITLE \n\nTALK \n\n- \n\nREADING \n\nCORNER\n\nTITLE TALK - READING CORNER",
-        "id": "b8hc5vobc2"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/1256/57289d57a7df1ab061307b840e1b4549.png",
-        "id": "belzvpxavw"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Here is a post from Literacy Now with 10 ideas to do with your family while reading aloud to them. Please reach out to your student’s Reading Corner teacher with any questions.",
-        "id": "bln3ergs2d"
-      }
-    ],
-    "hash": "b8hc5vobc2-belzvpxavw-bln3ergs2d",
-    "summary": "Reading activities during Spring Break help maintain student literacy skills while making reading feel like play, not schoolwork. Suggested activities include: reading a book then watching its movie adaptation (like Charlotte's Web or Curious George), reading about places visited during travel (zoos, museums, natural areas), and doing family read-alouds where everyone takes turns reading and discussing the book over meals or campfires. Contact your student's Reading Corner teacher with questions."
   }
 ]

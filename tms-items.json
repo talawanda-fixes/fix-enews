@@ -1,5 +1,53 @@
 [
   {
+    "title": "Oxford Swim and Dive Team Registration",
+    "block_id": "bmf3mhxj3n-btmauvlyek",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/2a19/04b933d31c7b91416c6ccfce619b501b.png"
+    ],
+    "source_url": "https://app.smore.com/n/d8qnp-22-days-and-counting?ref=email",
+    "source_title": "22 Days and Counting! | Smore Newsletters for Education",
+    "date": "2026-04-17T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "COMMUNITY \n\nINFORMATION\n\nCOMMUNITY INFORMATION",
+        "id": "bmf3mhxj3n"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/2a19/04b933d31c7b91416c6ccfce619b501b.png",
+        "id": "btmauvlyek"
+      }
+    ],
+    "hash": "bmf3mhxj3n-btmauvlyek",
+    "summary": "The **Oxford Swim and Dive Team** is a community summer competitive program for ages 4-18 of all abilities. **Practices begin May 26, 2026** at the Oxford Aquatic Center with various schedules for different age groups. Registration costs: Swim Team $150, Dive $120, Swim & Dive $200 (discounts available for multiple children; pool membership required). A **trial period is available May 26-29 for $30**. Additionally, Coach Steve offers a **Makos Stroke Clinic at Miami's Rec Center for swimmers ages 5-13, April 20 - May 22, 2026**, and **Dive Well practice on Mondays, Wednesdays & Fridays 5:30-6:30 pm** (Spring Session $180). Register at **swimosdt.com** or contact oxfordswimdive@gmail.com.",
+    "event_info": [
+      {
+        "title": "Oxford Swim and Dive Team Practices Begin",
+        "start": "2026-05-26T08:00:00",
+        "end": "2026-05-26T21:00:00",
+        "description": "The **Oxford Swim and Dive Team** is a community summer competitive program for ages 4-18 of all abilities. **Practices begin May 26, 2026** at the Oxford Aquatic Center with various schedules for dif",
+        "location": "The Oxford Aquatic Center"
+      },
+      {
+        "title": "Makos Stroke Clinic at Miami's Rec Center",
+        "start": "2026-04-20T00:00:00",
+        "end": "2026-05-22T23:59:00",
+        "description": "The **Oxford Swim and Dive Team** is a community summer competitive program for ages 4-18 of all abilities. **Practices begin May 26, 2026** at the Oxford Aquatic Center with various schedules for dif",
+        "location": "Miami's Rec Center"
+      },
+      {
+        "title": "Oxford Swim and Dive Team Trial Period",
+        "start": "2026-05-26T08:00:00",
+        "end": "2026-05-29T10:45:00",
+        "description": "The **Oxford Swim and Dive Team** is a community summer competitive program for ages 4-18 of all abilities. **Practices begin May 26, 2026** at the Oxford Aquatic Center with various schedules for dif",
+        "location": "The Oxford Aquatic Center"
+      }
+    ]
+  },
+  {
     "title": "Mountain Bike Club Meets Thursdays",
     "block_id": "bd5gbn5z6j",
     "content": "",
@@ -782,103 +830,6 @@
         "end": "2026-02-26T23:59:00",
         "description": "Cookie dough fundraiser sale running **February 6th through 26th**. Information and sale brochure available through provided links. Support the school by purchasing cookie dough during this three-week",
         "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "iSPACE Girls in STEM Program",
-    "block_id": "bmf3mhxj3n-bqs00dtd9m",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/6da1/1155aecdca0ee7185143abab51dee872.png"
-    ],
-    "source_url": "https://app.smore.com/n/967v0-february-already?ref=email",
-    "source_title": "February Already? | Smore Newsletters for Education",
-    "date": "2026-01-30T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "COMMUNITY \n\nINFORMATION\n\nCOMMUNITY INFORMATION",
-        "id": "bmf3mhxj3n"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/6da1/1155aecdca0ee7185143abab51dee872.png",
-        "id": "bqs00dtd9m"
-      }
-    ],
-    "hash": "bmf3mhxj3n-bqs00dtd9m",
-    "summary": "**Girls Who Code 10-week program** in partnership with Miami University for 6th-9th grade girls. The program runs on Mondays from 5:15-6:30 PM (check-in at 5:00) at Ross Middle School, 3425 Hamilton-Cleves Rd., Hamilton, OH 45013. Sessions are scheduled for February 2, 9, 23; March 2, 9, 16; and April 6, 13, 20, 27. **FREE to attend.** [Click to Register](https://www.girlswhocode.com/)",
-    "event_info": [
-      {
-        "title": "Girls Who Code Session 1",
-        "start": "2026-02-02T17:15:00",
-        "end": "2026-02-02T18:30:00",
-        "description": "**Girls Who Code 10-week program** in partnership with Miami University for 6th-9th grade girls. The program runs on Mondays from 5:15-6:30 PM (check-in at 5:00) at Ross Middle School, 3425 Hamilton-C",
-        "location": "Ross Middle School, 3425 Hamilton-Cleves Rd., Hamilton, OH 45013"
-      },
-      {
-        "title": "Girls Who Code Session 2",
-        "start": "2026-02-09T17:15:00",
-        "end": "2026-02-09T18:30:00",
-        "description": "**Girls Who Code 10-week program** in partnership with Miami University for 6th-9th grade girls. The program runs on Mondays from 5:15-6:30 PM (check-in at 5:00) at Ross Middle School, 3425 Hamilton-C",
-        "location": "Ross Middle School, 3425 Hamilton-Cleves Rd., Hamilton, OH 45013"
-      },
-      {
-        "title": "Girls Who Code Session 3",
-        "start": "2026-02-23T17:15:00",
-        "end": "2026-02-23T18:30:00",
-        "description": "**Girls Who Code 10-week program** in partnership with Miami University for 6th-9th grade girls. The program runs on Mondays from 5:15-6:30 PM (check-in at 5:00) at Ross Middle School, 3425 Hamilton-C",
-        "location": "Ross Middle School, 3425 Hamilton-Cleves Rd., Hamilton, OH 45013"
-      },
-      {
-        "title": "Girls Who Code Session 4",
-        "start": "2026-03-02T17:15:00",
-        "end": "2026-03-02T18:30:00",
-        "description": "**Girls Who Code 10-week program** in partnership with Miami University for 6th-9th grade girls. The program runs on Mondays from 5:15-6:30 PM (check-in at 5:00) at Ross Middle School, 3425 Hamilton-C",
-        "location": "Ross Middle School, 3425 Hamilton-Cleves Rd., Hamilton, OH 45013"
-      },
-      {
-        "title": "Girls Who Code Session 5",
-        "start": "2026-03-09T17:15:00",
-        "end": "2026-03-09T18:30:00",
-        "description": "**Girls Who Code 10-week program** in partnership with Miami University for 6th-9th grade girls. The program runs on Mondays from 5:15-6:30 PM (check-in at 5:00) at Ross Middle School, 3425 Hamilton-C",
-        "location": "Ross Middle School, 3425 Hamilton-Cleves Rd., Hamilton, OH 45013"
-      },
-      {
-        "title": "Girls Who Code Session 6",
-        "start": "2026-03-16T17:15:00",
-        "end": "2026-03-16T18:30:00",
-        "description": "**Girls Who Code 10-week program** in partnership with Miami University for 6th-9th grade girls. The program runs on Mondays from 5:15-6:30 PM (check-in at 5:00) at Ross Middle School, 3425 Hamilton-C",
-        "location": "Ross Middle School, 3425 Hamilton-Cleves Rd., Hamilton, OH 45013"
-      },
-      {
-        "title": "Girls Who Code Session 7",
-        "start": "2026-04-06T17:15:00",
-        "end": "2026-04-06T18:30:00",
-        "description": "**Girls Who Code 10-week program** in partnership with Miami University for 6th-9th grade girls. The program runs on Mondays from 5:15-6:30 PM (check-in at 5:00) at Ross Middle School, 3425 Hamilton-C",
-        "location": "Ross Middle School, 3425 Hamilton-Cleves Rd., Hamilton, OH 45013"
-      },
-      {
-        "title": "Girls Who Code Session 8",
-        "start": "2026-04-13T17:15:00",
-        "end": "2026-04-13T18:30:00",
-        "description": "**Girls Who Code 10-week program** in partnership with Miami University for 6th-9th grade girls. The program runs on Mondays from 5:15-6:30 PM (check-in at 5:00) at Ross Middle School, 3425 Hamilton-C",
-        "location": "Ross Middle School, 3425 Hamilton-Cleves Rd., Hamilton, OH 45013"
-      },
-      {
-        "title": "Girls Who Code Session 9",
-        "start": "2026-04-20T17:15:00",
-        "end": "2026-04-20T18:30:00",
-        "description": "**Girls Who Code 10-week program** in partnership with Miami University for 6th-9th grade girls. The program runs on Mondays from 5:15-6:30 PM (check-in at 5:00) at Ross Middle School, 3425 Hamilton-C",
-        "location": "Ross Middle School, 3425 Hamilton-Cleves Rd., Hamilton, OH 45013"
-      },
-      {
-        "title": "Girls Who Code Session 10",
-        "start": "2026-04-27T17:15:00",
-        "end": "2026-04-27T18:30:00",
-        "description": "**Girls Who Code 10-week program** in partnership with Miami University for 6th-9th grade girls. The program runs on Mondays from 5:15-6:30 PM (check-in at 5:00) at Ross Middle School, 3425 Hamilton-C",
-        "location": "Ross Middle School, 3425 Hamilton-Cleves Rd., Hamilton, OH 45013"
       }
     ]
   }

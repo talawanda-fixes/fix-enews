@@ -1,5 +1,146 @@
 [
   {
+    "title": "Bogan Elementary Coin Wars Campout Event",
+    "block_id": "bjqvo7kz71-b5ovvdoriq",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/b0ab/47729d5d120c980c563dd1223c264f5f.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/cdzfn-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-04-17T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Around \n\nBogan\n\nAround Bogan",
+        "id": "bjqvo7kz71"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/b0ab/47729d5d120c980c563dd1223c264f5f.jpeg",
+        "id": "b5ovvdoriq"
+      }
+    ],
+    "hash": "bjqvo7kz71-b5ovvdoriq",
+    "summary": "**Coin Wars Campout at Bogan Elementary** on April 23, 2026. Dr. Cannon and friends will be sleeping on the roof as part of the event. Community members are invited to stop by throughout the evening to say hello.",
+    "event_info": [
+      {
+        "title": "Bogan Elementary Coin Wars Campout",
+        "start": "2026-04-23T00:00:00",
+        "end": "2026-04-23T01:00:00",
+        "description": "**Coin Wars Campout at Bogan Elementary** on April 23, 2026. Dr. Cannon and friends will be sleeping on the roof as part of the event. Community members are invited to stop by throughout the evening t",
+        "location": "Bogan Elementary School (roof)"
+      }
+    ]
+  },
+  {
+    "title": "PTG Corner Newsletter Section",
+    "block_id": "bpx42aowpj",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/cdzfn-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-04-17T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PTG \n\nCorner\n\nPTG Corner",
+        "id": "bpx42aowpj"
+      }
+    ],
+    "hash": "bpx42aowpj",
+    "summary": "This is a placeholder section for the **PTG (Parent-Teacher Group) Corner** in the newsletter. No specific information, announcements, or upcoming events are included in this item."
+  },
+  {
+    "title": "Every Kid Healthy Week Activities",
+    "block_id": "bwk8x8y5ub-bzky7g3k13",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/c1a0/160f48c56f3c6c42378ac837252637ef.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/cdzfn-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-04-17T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Around \n\nTalawanda\n\nAround Talawanda",
+        "id": "bwk8x8y5ub"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/c1a0/160f48c56f3c6c42378ac837252637ef.jpeg",
+        "id": "bzky7g3k13"
+      }
+    ],
+    "hash": "bwk8x8y5ub-bzky7g3k13",
+    "summary": "**Action for Healthy Kids** presents **Every Kid Healthy Week from April 20th-24th** with daily themed activities:\n- **Mindfulness Monday (April 20)**: Journaling, deep breathing, and sharing gratitude\n- **Tasty Tuesday (April 21)**: Try new foods, help prepare meals, have an indoor picnic\n- **Wellness Wednesday (April 22)**: Go for a walk, play outdoor games, have a dance party\n- **Tech-Free Thursday (April 23)**: Device-free meals, turn off electronics for 1 hour for reading/arts/games\n- **Family Friday (April 24)**: Pick a family activity and share appreciation for each family member\n\nFamilies are encouraged to take pictures participating in activities and post on social media with **#HealthyLikeRox**.",
+    "event_info": [
+      {
+        "title": "Mindfulness Monday - Every Kid Healthy Week",
+        "start": "2026-04-20T00:00:00",
+        "end": "2026-04-20T23:59:00",
+        "description": "**Action for Healthy Kids** presents **Every Kid Healthy Week from April 20th-24th** with daily themed activities:\n- **Mindfulness Monday (April 20)**: Journaling, deep breathing, and sharing gratitud",
+        "location": "Home/Community"
+      },
+      {
+        "title": "Tasty Tuesday - Every Kid Healthy Week",
+        "start": "2026-04-21T00:00:00",
+        "end": "2026-04-21T23:59:00",
+        "description": "**Action for Healthy Kids** presents **Every Kid Healthy Week from April 20th-24th** with daily themed activities:\n- **Mindfulness Monday (April 20)**: Journaling, deep breathing, and sharing gratitud",
+        "location": "Home/Community"
+      },
+      {
+        "title": "Wellness Wednesday - Every Kid Healthy Week",
+        "start": "2026-04-22T00:00:00",
+        "end": "2026-04-22T23:59:00",
+        "description": "**Action for Healthy Kids** presents **Every Kid Healthy Week from April 20th-24th** with daily themed activities:\n- **Mindfulness Monday (April 20)**: Journaling, deep breathing, and sharing gratitud",
+        "location": "Home/Community"
+      },
+      {
+        "title": "Tech-Free Thursday - Every Kid Healthy Week",
+        "start": "2026-04-23T00:00:00",
+        "end": "2026-04-23T23:59:00",
+        "description": "**Action for Healthy Kids** presents **Every Kid Healthy Week from April 20th-24th** with daily themed activities:\n- **Mindfulness Monday (April 20)**: Journaling, deep breathing, and sharing gratitud",
+        "location": "Home/Community"
+      },
+      {
+        "title": "Family Friday - Every Kid Healthy Week",
+        "start": "2026-04-24T00:00:00",
+        "end": "2026-04-24T23:59:00",
+        "description": "**Action for Healthy Kids** presents **Every Kid Healthy Week from April 20th-24th** with daily themed activities:\n- **Mindfulness Monday (April 20)**: Journaling, deep breathing, and sharing gratitud",
+        "location": "Home/Community"
+      }
+    ]
+  },
+  {
+    "title": "Lions Club Eyeglass Collection Drive",
+    "block_id": "b5sn2kzhx1",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/cdzfn-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-04-17T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "Lions Club Spring Eyeglass Collection\nThe Oxford Lions Club Sight Saving Committee is collecting used eyeglasses, sunglasses as well as cases! These glasses and cases are donated all over the world to children who are in need. The lenses and frames from the donated glasses are modified to meet individual children's eye needs. Every year, Oxford Lions Club collects and sends 900-plus pairs of glasses to children in need!Please send any glasses donations to Betsy Beaton (Marshall Elementary School) or Shaunna Tafelski (Board Office) by mid-May We are happy to swing by and pick up glasses donations or they can be dropped off at Marshall or the Board Office. Thank you for supporting the Oxford Lions Club! Thanks!",
+        "id": "b5sn2kzhx1"
+      }
+    ],
+    "hash": "b5sn2kzhx1",
+    "summary": "The **Oxford Lions Club** is collecting used eyeglasses, sunglasses, and cases to donate to children in need worldwide. Donated glasses are modified to meet individual children's vision needs—the club sends over **900 pairs annually**. **Donations due by mid-May** can be sent to Betsy Beaton (Marshall Elementary School) or Shaunna Tafelski (Board Office), with pickup available upon request.",
+    "event_info": [
+      {
+        "title": "Eyeglass Collection Deadline",
+        "start": "2026-05-15T00:00:00",
+        "end": "2026-05-15T23:59:00",
+        "description": "The **Oxford Lions Club** is collecting used eyeglasses, sunglasses, and cases to donate to children in need worldwide. Donated glasses are modified to meet individual children's vision needs—the club",
+        "location": "Marshall Elementary School or Board Office"
+      }
+    ]
+  },
+  {
     "title": "Family Unplug & Play Night at Bogan",
     "block_id": "bjqvo7kz71-b4tf4l2m9c",
     "content": "",
@@ -579,137 +720,5 @@
         "location": "via Zoom"
       }
     ]
-  },
-  {
-    "title": "Free Food Box Drive-Thru Distribution Event",
-    "block_id": "bh1mh3rers-bzhxig4es1",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/18b0/c296a202825ce917ab42bc2d1df07128.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/ne1z36-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-03-06T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Social \n\nWork \n\nSpotlight\n\nSocial Work Spotlight",
-        "id": "bh1mh3rers"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/18b0/c296a202825ce917ab42bc2d1df07128.jpeg",
-        "id": "bzhxig4es1"
-      }
-    ],
-    "hash": "bh1mh3rers-bzhxig4es1",
-    "summary": "A **free food box drive-thru distribution** will be held on **March 24 from 3:30-5:30 PM** at Talawanda High School. Registration is highly encouraged due to limited quantity. Register at **https://forms.gle/66coSfzmRpqaYqdQ7** or scan the QR code on the flyer.",
-    "event_info": [
-      {
-        "title": "Free Food Box Drive-Thru Distribution",
-        "start": "2026-03-24T15:30:00",
-        "end": "2026-03-24T17:30:00",
-        "description": "A **free food box drive-thru distribution** will be held on **March 24 from 3:30-5:30 PM** at Talawanda High School. Registration is highly encouraged due to limited quantity. Register at **https://fo",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Bogan Elementary Coin Wars Fundraiser",
-    "block_id": "bpx42aowpj-b03xav5dk0",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/fbac/1472eb182d24134a1fe8c95f918655df.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/ne1z36-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-03-06T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PTG \n\nCorner\n\nPTG Corner",
-        "id": "bpx42aowpj"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/fbac/1472eb182d24134a1fe8c95f918655df.jpeg",
-        "id": "b03xav5dk0"
-      }
-    ],
-    "hash": "bpx42aowpj-b03xav5dk0",
-    "summary": "**Bogan Elementary is hosting Coin Wars from March 9-13.** Students can add points to their grade's jar with pennies (+1), $1 bills (+100), $5 bills (+500), $10 bills (+1000), and $20 bills (+5000), or lower other grades' points with nickels (-5), dimes (-10), quarters (-25), half dollars (-50), and dollar coins (-100). The winning grade receives a Mario Movie Party, and school-wide milestones unlock rewards: $500 = Pajama Day, $1,000 = Cookie Party, $2,500 = Principal sleeps on roof. Proceeds benefit Field Day shirts for all students.",
-    "event_info": [
-      {
-        "title": "Bogan Elementary Coin Wars",
-        "start": "2026-03-09T00:00:00",
-        "end": "2026-03-13T23:59:00",
-        "description": "**Bogan Elementary is hosting Coin Wars from March 9-13.** Students can add points to their grade's jar with pennies (+1), $1 bills (+100), $5 bills (+500), $10 bills (+1000), and $20 bills (+5000), o",
-        "location": "Bogan Elementary"
-      }
-    ]
-  },
-  {
-    "title": "NHS Kid's Night Out Fundraiser Event",
-    "block_id": "bwk8x8y5ub-bam3tx5h3b",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/cf6a/b551fcb826e64c43d2a4fd3e0c5f8d69.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/ne1z36-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-03-06T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Around \n\nTalawanda\n\nAround Talawanda",
-        "id": "bwk8x8y5ub"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/cf6a/b551fcb826e64c43d2a4fd3e0c5f8d69.jpeg",
-        "id": "bam3tx5h3b"
-      }
-    ],
-    "hash": "bwk8x8y5ub-bam3tx5h3b",
-    "summary": "The **Talawanda High School National Honors Society** is hosting a **Kid's Night Out on Friday, March 20th**. Activities include crafts, games, movies, snacks, face painting, and bracelet making. **Drop-off is 5:45-6:00 PM** and **pick-up is 8:00-8:15 PM** at the THS cafeteria and gym. Registration is required via QR code. The NHS will be collecting **canned foods and non-perishable items** to donate to TOPPS.",
-    "event_info": [
-      {
-        "title": "NHS Kid's Night Out",
-        "start": "2026-03-20T17:45:00",
-        "end": "2026-03-20T20:15:00",
-        "description": "The **Talawanda High School National Honors Society** is hosting a **Kid's Night Out on Friday, March 20th**. Activities include crafts, games, movies, snacks, face painting, and bracelet making. **Dr",
-        "location": "Talawanda High School Cafeteria and Gym"
-      }
-    ]
-  },
-  {
-    "title": "PAX Good Behavior Game Program",
-    "block_id": "berhllupn2-bbyw57cizv-b8avw52huj",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/36df/8c600220c4c13a25dae227152cd8e403.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/2mktp-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-02-27T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PAX\n\nPAX",
-        "id": "berhllupn2"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "The PAX Good Behavior Game is a research-based classroom strategy that helps children make positive choices, and collaborate with others. It supports a calmer, more focused learning environment by promoting kindness, teamwork, and respectful behavior.",
-        "id": "bbyw57cizv"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/36df/8c600220c4c13a25dae227152cd8e403.jpeg",
-        "id": "b8avw52huj"
-      }
-    ],
-    "hash": "berhllupn2-bbyw57cizv-b8avw52huj",
-    "summary": "**PAX Good Behavior Game** is a research-based classroom strategy that helps students make positive choices and collaborate with others. It promotes a calmer, more focused learning environment through kindness, teamwork, and respectful behavior.\n\nThe **March 2026 Teacher Calendar** includes daily PAX activities such as: using the Beat the Timer tool, completing Tootle cards, doing PAX Leader activities on the word wall, celebrating St. Patrick's Day with a Jolly Weekly Prize, holding PAX Support Sessions, and accessing spring-themed Tootle notes on paxis.org."
   }
 ]
