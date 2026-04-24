@@ -1,5 +1,101 @@
 [
   {
+    "title": "Marshall Elementary Spring Fling Family Dance",
+    "block_id": "bhatmtq6ud-bk2euyiehj",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/413d/bab840059563b9103e780f943eda8d09.png"
+    ],
+    "source_url": "https://app.smore.com/n/b530h",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-04-24T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PTG \n\nCORNER\n\nPTG CORNER",
+        "id": "bhatmtq6ud"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/413d/bab840059563b9103e780f943eda8d09.png",
+        "id": "bk2euyiehj"
+      }
+    ],
+    "hash": "bhatmtq6ud-bk2euyiehj",
+    "summary": "Marshall Elementary is hosting a **Spring Fling Family Dance** on **Friday, April 24th from 6:30-8:30 PM**. Presale tickets (3/20/26-4/17/26) are $10.00 for adults/students and $15.00 for entire families. At-the-door pricing is $15.00 for adults/students and $20.00 for entire families. The event features DJ music, dancing, photo selfie station, family games, spring craft center, and snacks & drinks. Proceeds benefit Marshall Elementary School PTG. *TSD APPROVED for distribution by TSD (not affiliated with TSD)*.",
+    "event_info": [
+      {
+        "title": "Marshall Elementary Spring Fling Family Dance",
+        "start": "2026-04-24T18:30:00",
+        "end": "2026-04-24T20:30:00",
+        "description": "Marshall Elementary is hosting a **Spring Fling Family Dance** on **Friday, April 24th from 6:30-8:30 PM**. Presale tickets (3/20/26-4/17/26) are $10.00 for adults/students and $15.00 for entire famil",
+        "location": "Marshall Elementary School"
+      }
+    ]
+  },
+  {
+    "title": "Mayfest Silent Auction & Raffle Baskets",
+    "block_id": "bi501v5k89-bjg3336tr4-bcmqjbwd1a",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/b530h",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-04-24T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Mayfest \n\nSilent \n\nAuction \n\n& \n\nRaffle \n\nBaskets \n\nInformation!\n\nMayfest Silent Auction & Raffle Baskets Information!",
+        "id": "bi501v5k89"
+      },
+      {
+        "type": "items",
+        "content": "zoom_out_map\n                \n\n\n\n\n\n\n\n\nzoom_out_map\n                \n\n\n\n\n\n\n\n\nzoom_out_map",
+        "id": "bjg3336tr4"
+      },
+      {
+        "type": "items",
+        "content": "zoom_out_map\n                \n\n\n\n\n\n\n\n\nzoom_out_map\n                \n\n\n\n\n\n\n\n\nzoom_out_map",
+        "id": "bcmqjbwd1a"
+      }
+    ],
+    "hash": "bi501v5k89-bjg3336tr4-bcmqjbwd1a",
+    "summary": "Information about silent auction and raffle baskets for Mayfest. The newsletter item appears to contain images with details about the auction and raffle, but the specific information about dates, times, basket themes, or how to participate is not visible in the text content provided."
+  },
+  {
+    "title": "Oxford Lions Club Eyeglasses Donation Drive",
+    "block_id": "bisgsi05ub-b1d7pbtg1n",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/4f11/7590f0413eb3e48af2596c3cde27a634.png"
+    ],
+    "source_url": "https://app.smore.com/n/b530h",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-04-24T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "AROUND \n\nTHE \n\nCOMMUNITY \n\nAROUND THE COMMUNITY",
+        "id": "bisgsi05ub"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/4f11/7590f0413eb3e48af2596c3cde27a634.png",
+        "id": "b1d7pbtg1n"
+      }
+    ],
+    "hash": "bisgsi05ub-b1d7pbtg1n",
+    "summary": "The **Oxford Lions Club Sight Saving Committee** is collecting used eyeglasses, sunglasses, and cases to donate to children in need worldwide. The lenses and frames are modified to meet individual children's eye needs, with **900+ pairs sent annually**. \n\nDonations can be sent to **Betsy Beaton at Marshall Elementary School** or **Shaunna Tafelski at the Board Office by mid-May**. The committee can pick up donations or items can be dropped off at either location.",
+    "event_info": [
+      {
+        "title": "Oxford Lions Club Eyeglasses Donation Deadline",
+        "start": "2026-05-15T00:00:00",
+        "end": "2026-05-15T23:59:00",
+        "description": "The **Oxford Lions Club Sight Saving Committee** is collecting used eyeglasses, sunglasses, and cases to donate to children in need worldwide. The lenses and frames are modified to meet individual chi",
+        "location": "Marshall Elementary School or Board Office"
+      }
+    ]
+  },
+  {
     "title": "Marshall Mile & Family Picnic Event",
     "block_id": "boeo8mwnxl-bxpxhiwfdp-b6n8luftjn",
     "content": "",
@@ -711,148 +807,5 @@
     ],
     "hash": "bkg7roe7vq-brctp5h1ph",
     "summary": "The **Marshall Free Pantry** is located at the front left side of the school near the gym doors and is open to all students. Available items include **veggies, fruit, pasta, soup, apple sauce, snacks, school supplies, body wash, shampoo, and toothpaste**. For questions, donations, or suggestions, contact Chrissy, Marshall Social Worker at **513-273-3611** or **rolfesc@talawanda.org**."
-  },
-  {
-    "title": "Miami University Caregiver Group for ADHD",
-    "block_id": "bisgsi05ub-bsqx6fdnp2",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/5d73/54dae427097d51287cb001e4a7d9a356.png"
-    ],
-    "source_url": "https://app.smore.com/n/zkac8w",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-03-06T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "AROUND \n\nTHE \n\nCOMMUNITY \n\nAROUND THE COMMUNITY",
-        "id": "bisgsi05ub"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/5d73/54dae427097d51287cb001e4a7d9a356.png",
-        "id": "bsqx6fdnp2"
-      }
-    ],
-    "hash": "bisgsi05ub-bsqx6fdnp2",
-    "summary": "Miami University Psychology Clinic is offering a **Caregiver Group focused on Understanding and Managing ADHD in 6-12 year olds**. The group meets **Wednesdays 5:30-7:00pm in-person starting in March**. To participate, caregivers must: have a child aged 6-12 diagnosed with ADHD, complete a 1-hour pre-group intake session, and commit to 8 weeks of attendance. **Contact: 513-529-2423 or psychologyclinic@miamioh.edu**"
-  },
-  {
-    "title": "Right to Read Week Pirate Adventure",
-    "block_id": "bhospb9kxc-bdq7h1vupo-b3kltp7qb0-bhdcg04s82",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/8ebb/344d394acbc05da2d36d2fc11afbfe2e.png",
-      "https://cdn.smore.com/u/458d/564fa119ad9a4ea61daff252a52d1cb6.png",
-      "https://cdn.smore.com/u/5248/1512e24e7306cdfb193d401ec02f9dc9.png"
-    ],
-    "source_url": "https://app.smore.com/n/zkac8w",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-03-06T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "📚🏴‍☠️ Right to Read Week – Choose Your Own (Pirate) Adventure! 🏴‍☠️📚\nWe are excited to celebrate Right to Read Week with our “Choose Your Own (Pirate) Adventure” BOOKaneers Dress-Up Days! This fun-filled week promotes a love of reading while building school spirit. Each day, students may choose one of two creative dress-up options to participate. Participation earns 10 doubloons per day for your grade-level team!",
-        "id": "bhospb9kxc"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/8ebb/344d394acbc05da2d36d2fc11afbfe2e.png",
-        "id": "bdq7h1vupo"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/458d/564fa119ad9a4ea61daff252a52d1cb6.png",
-        "id": "b3kltp7qb0"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/5248/1512e24e7306cdfb193d401ec02f9dc9.png",
-        "id": "bhdcg04s82"
-      }
-    ],
-    "hash": "bhospb9kxc-bdq7h1vupo-b3kltp7qb0-bhdcg04s82",
-    "summary": "**Right to Read Week** features \"Choose Your Own (Pirate) Adventure\" BOOKaneers Dress-Up Days, **March 23-27**. Students earn 10 doubloons per day for their grade-level team by choosing one of two daily dress-up options:\n- **Monday, March 23**: Wear a shirt with words OR BOOKaneer colors (red, black, white)\n- **Tuesday, March 24**: Wear a fun hat OR fun/sparkly hair accessories\n- **Wednesday, March 25**: Wear bright, bold colors OR wacky, mismatched clothes\n- **Thursday, March 26**: Dress as Peter Pan/friends OR Captain Hook/pirate crew\n- **Friday, March 27**: Wear gold/silver/shiny colors OR jewel-tone colors (ruby red, emerald green, sapphire blue, amethyst purple)\n\nStudents can also complete \"Reading Isles\" treasure map activities (10 doubloons each) including reading themed books, drawing, acting out scenes, and sharing stories at locations like Mermaid Lagoon, Shipwreck Island, Plankwalk Bay, Skull Island, and Treasure Island.",
-    "event_info": [
-      {
-        "title": "Anchors Aweigh! - BOOKaneers Dress-Up Day",
-        "start": "2026-03-23T00:00:00",
-        "end": "2026-03-23T23:59:00",
-        "description": "**Right to Read Week** features \"Choose Your Own (Pirate) Adventure\" BOOKaneers Dress-Up Days, **March 23-27**. Students earn 10 doubloons per day for their grade-level team by choosing one of two dai",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Shiver Me Timbers! - BOOKaneers Dress-Up Day",
-        "start": "2026-03-24T00:00:00",
-        "end": "2026-03-24T23:59:00",
-        "description": "**Right to Read Week** features \"Choose Your Own (Pirate) Adventure\" BOOKaneers Dress-Up Days, **March 23-27**. Students earn 10 doubloons per day for their grade-level team by choosing one of two dai",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Blimey! - BOOKaneers Dress-Up Day",
-        "start": "2026-03-25T00:00:00",
-        "end": "2026-03-25T23:59:00",
-        "description": "**Right to Read Week** features \"Choose Your Own (Pirate) Adventure\" BOOKaneers Dress-Up Days, **March 23-27**. Students earn 10 doubloons per day for their grade-level team by choosing one of two dai",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Peter Pan vs. Captain Hook - BOOKaneers Dress-Up Day",
-        "start": "2026-03-26T00:00:00",
-        "end": "2026-03-26T23:59:00",
-        "description": "**Right to Read Week** features \"Choose Your Own (Pirate) Adventure\" BOOKaneers Dress-Up Days, **March 23-27**. Students earn 10 doubloons per day for their grade-level team by choosing one of two dai",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Ahoy! Treasure! - BOOKaneers Dress-Up Day",
-        "start": "2026-03-27T00:00:00",
-        "end": "2026-03-27T23:59:00",
-        "description": "**Right to Read Week** features \"Choose Your Own (Pirate) Adventure\" BOOKaneers Dress-Up Days, **March 23-27**. Students earn 10 doubloons per day for their grade-level team by choosing one of two dai",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Right to Read Week VIP Invitation",
-    "block_id": "bezclasc0f-bcwglzjamm-b5i1w9fkca-bki8v9hidd",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/4ace/3ed086ca4e38255439cd0a0157e02f66.png"
-    ],
-    "source_url": "https://app.smore.com/n/zkac8w",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-03-06T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "AHOY  \n\nMARSHALL  \n\nFAMILIES \n\n⚓📚\n\nAHOY  MARSHALL  FAMILIES ⚓📚",
-        "id": "bezclasc0f"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "March 23–27, 2026 we will be celebrating Right to Read Week with a fun, pirate-themed adventure: BOOKaneers - Finding Treasure in Books! \nRight to Read Week is a special time when we celebrate the joy and importance of reading in our school community. We are so excited for a fun week filled with books, creativity, and activities that help our students grow as readers! To help families plan ahead, we wanted to share the details early. Below you will find our dress-up schedule for the week, along with some simple activities you can do at home to celebrate reading with your child. We have also included a special RAH sheet for students to complete. All of these items are coming home with your child today as well. As part of our celebration, students will have the opportunity to invite a VIP (Very Important Pirate) to join them during their scheduled library time. VIPs may be parents, grandparents, special family members, or other important adults in your child’s life.During this special visit, VIPs and students will:Read together (bring a favorite book from home or choose one from our library collection)Complete a fun directed drawing activityPlay a gameWe kindly ask all VIPs to sign up using this link so we can plan accordingly. (If you have more than one student, please fill one out for each student.) Additionally, any grown-up who would like to attend must have a completed volunteer application on file prior to coming in. The form can be emailed directly to Mrs. Jones or returned to your child’s teacher. If you have already completed a volunteer application and have one on file with the school, you are all set—no need to complete another one.On the day of your visit, please arrive 5–10 minutes before your child’s scheduled library time. VIP’s will need to bring an ID and sign in at the office. A staff member will greet VIPs and walk the group up to the library when it is time for the class to begin.Thank you for partnering with us and helping make Right to Read Week a memorable and meaningful experience for our students!",
-        "id": "bcwglzjamm"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/4ace/3ed086ca4e38255439cd0a0157e02f66.png",
-        "id": "b5i1w9fkca"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "We look forward to welcoming our VIPs aboard for this exciting week of literacy fun!If you have any questions, please feel free to contact Mrs. Jones @ joness@talawanda.org or 513-273-3600.Stephanie JonesPrincipal",
-        "id": "bki8v9hidd"
-      }
-    ],
-    "hash": "bezclasc0f-bcwglzjamm-b5i1w9fkca-bki8v9hidd",
-    "summary": "**Right to Read Week** runs **March 23-27, 2026** with a pirate theme: \"BOOKaneers - Finding Treasure in Books!\" Students can invite a **VIP (Very Important Pirate)** to join them during their scheduled library time to read together, complete a directed drawing activity, and play a game. VIPs must [sign up using this link](https://talawanda.org) and have a completed volunteer application on file with Mrs. Jones. Library times are: **Monday** (10:25-11:10 GRONAS), **Tuesday** (9:30-10:15 ZIEGLER, 10:25-11:10 BEATON, 11:20-12:05 LYKINS, 1:50-2:35 SCHAEFER, 2:45-3:30 SMITH), **Wednesday** (9:30-10:15 PALUCH, 11:20-12:05 TOERNER, 12:55-1:40 SLATTERY, 1:50-2:35 MOHLER, 2:45-3:30 CHASTEEN), **Thursday** (9:30-10:15 KRAUSHAR, 10:25-11:10 BIRKEMEIER, 1:50-2:35 WHITAKER, 2:45-3:30 SPARKS). VIPs should arrive 5-10 minutes early and sign in at the office with ID.",
-    "event_info": [
-      {
-        "title": "Right to Read Week - BOOKaneers VIP Visits",
-        "start": "2026-03-23T00:00:00",
-        "end": "2026-03-27T23:59:00",
-        "description": "**Right to Read Week** runs **March 23-27, 2026** with a pirate theme: \"BOOKaneers - Finding Treasure in Books!\" Students can invite a **VIP (Very Important Pirate)** to join them during their schedul",
-        "location": "Marshall Elementary Library"
-      }
-    ]
   }
 ]
