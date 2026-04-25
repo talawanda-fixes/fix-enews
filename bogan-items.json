@@ -1,5 +1,151 @@
 [
   {
+    "title": "Weekly Update on Concerts and Testing",
+    "block_id": "b3f7nm375u",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/ehz04-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-04-24T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "A Message From Dr. Cannon\nHappy Friday!Our third graders had their concert on Wednesday evening and 4th graders attended Ag Day at the high school today to learn more about the agriculture program.3rd-5th grade students continue to work hard on their Ohio State Tests. Next week will be the last week of this state testing. 3rd and 4th graders will take their math test and 5th graders will take their science test. Kindergarten through third grades will take their spring MAP tests in the next few weeks as well.Have a great weekend!Sincerely,Dr. Kirsten Cannon, Principal",
+        "id": "b3f7nm375u"
+      }
+    ],
+    "hash": "b3f7nm375u",
+    "summary": "Third graders performed in a concert on **Wednesday evening**, and fourth graders attended **Ag Day at the high school** to learn about the agriculture program. Students in grades 3-5 continue working on **Ohio State Tests**, with the final week of state testing scheduled for next week (3rd and 4th graders taking math tests, 5th graders taking science tests). Kindergarten through 3rd grade students will take **spring MAP tests** in the coming weeks.",
+    "event_info": [
+      {
+        "title": "Third Grade Concert",
+        "start": "2026-04-22T00:00:00",
+        "end": "2026-04-22T23:59:00",
+        "description": "Third graders performed in a concert on **Wednesday evening**, and fourth graders attended **Ag Day at the high school** to learn about the agriculture program. Students in grades 3-5 continue working",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "4th Grade Ag Day at High School",
+        "start": "2026-04-24T00:00:00",
+        "end": "2026-04-24T23:59:00",
+        "description": "Third graders performed in a concert on **Wednesday evening**, and fourth graders attended **Ag Day at the high school** to learn about the agriculture program. Students in grades 3-5 continue working",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Final Week of Ohio State Testing (Math for 3rd/4th Grade, Science for 5th Grade)",
+        "start": "2026-04-27T00:00:00",
+        "end": "2026-05-01T23:59:00",
+        "description": "Third graders performed in a concert on **Wednesday evening**, and fourth graders attended **Ag Day at the high school** to learn about the agriculture program. Students in grades 3-5 continue working",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Coin Wars Campout on Roof",
+    "block_id": "bjqvo7kz71-b0u561n9sg-bvi96w9tcj",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/bf9e/c214a14ff8860ccd69b9e44337cbf07a.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/ehz04-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-04-24T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Around \n\nBogan\n\nAround Bogan",
+        "id": "bjqvo7kz71"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/bf9e/c214a14ff8860ccd69b9e44337cbf07a.jpeg",
+        "id": "b0u561n9sg"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Our Coin Wars Campout was last night! We had a BLAST sleeping on the roof and welcoming our students back to school this morning!THANK YOU to all of our families who visited us throughout the evening!",
+        "id": "bvi96w9tcj"
+      }
+    ],
+    "hash": "bjqvo7kz71-b0u561n9sg-bvi96w9tcj",
+    "summary": "Staff members completed an overnight **Coin Wars Campout on the roof** of the school building, sleeping outside and greeting students as they arrived the following morning. The event included family visits throughout the evening. Staff and students are pictured on the school roof waving to arriving students below.",
+    "event_info": [
+      {
+        "title": "Coin Wars Campout on Roof",
+        "start": "2026-04-23T00:00:00",
+        "end": "2026-04-24T23:59:00",
+        "description": "Staff members completed an overnight **Coin Wars Campout on the roof** of the school building, sleeping outside and greeting students as they arrived the following morning. The event included family v",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Spring Flower Sale Pickup at Bogan Elementary",
+    "block_id": "bpx42aowpj-b5fxcnug5a",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/bde1/2ffc6e4676d938fd6051bd69917498bc.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/ehz04-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-04-24T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PTG \n\nCorner\n\nPTG Corner",
+        "id": "bpx42aowpj"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/bde1/2ffc6e4676d938fd6051bd69917498bc.jpeg",
+        "id": "b5fxcnug5a"
+      }
+    ],
+    "hash": "bpx42aowpj-b5fxcnug5a",
+    "summary": "The **Spring Flower Sale** orders from Foertmeyer and Sons fundraiser can be picked up on **Saturday, April 25, 2026** from **12pm-2pm** at **Bogan Elementary (parking lot)**. Orders can only be picked up by the student/family who ordered them, and it is their responsibility to distribute individual orders. For questions, contact boganptg@gmail.com or 513-341-8117.",
+    "event_info": [
+      {
+        "title": "Spring Flower Sale Pickup",
+        "start": "2026-04-25T12:00:00",
+        "end": "2026-04-25T14:00:00",
+        "description": "The **Spring Flower Sale** orders from Foertmeyer and Sons fundraiser can be picked up on **Saturday, April 25, 2026** from **12pm-2pm** at **Bogan Elementary (parking lot)**. Orders can only be picke",
+        "location": "Bogan Elementary (parking lot)"
+      }
+    ]
+  },
+  {
+    "title": "Lions Club Spring Eyeglass Collection Drive",
+    "block_id": "bwk8x8y5ub-b5sn2kzhx1",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/ehz04-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-04-24T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Around \n\nTalawanda\n\nAround Talawanda",
+        "id": "bwk8x8y5ub"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Lions Club Spring Eyeglass Collection\nThe Oxford Lions Club Sight Saving Committee is collecting used eyeglasses, sunglasses as well as cases! These glasses and cases are donated all over the world to children who are in need. The lenses and frames from the donated glasses are modified to meet individual children's eye needs. Every year, Oxford Lions Club collects and sends 900-plus pairs of glasses to children in need!Please send any glasses donations to Betsy Beaton (Marshall Elementary School) or Shaunna Tafelski (Board Office) by mid-May We are happy to swing by and pick up glasses donations or they can be dropped off at Marshall or the Board Office. Thank you for supporting the Oxford Lions Club! Thanks!",
+        "id": "b5sn2kzhx1"
+      }
+    ],
+    "hash": "bwk8x8y5ub-b5sn2kzhx1",
+    "summary": "The **Oxford Lions Club** is collecting used eyeglasses, sunglasses, and cases to donate to children in need worldwide. The club modifies donated lenses and frames to meet individual children's eye needs and sends **900+ pairs annually**. **Donations are due by mid-May** and can be sent to Betsy Beaton at Marshall Elementary School or Shaunna Tafelski at the Board Office, with pickup available upon request.",
+    "event_info": [
+      {
+        "title": "Lions Club Eyeglass Collection Deadline",
+        "start": "2026-05-15T00:00:00",
+        "end": "2026-05-15T23:59:00",
+        "description": "The **Oxford Lions Club** is collecting used eyeglasses, sunglasses, and cases to donate to children in need worldwide. The club modifies donated lenses and frames to meet individual children's eye ne",
+        "location": "Marshall Elementary School or Board Office"
+      }
+    ]
+  },
+  {
     "title": "Bogan Elementary Coin Wars Campout Event",
     "block_id": "bjqvo7kz71-b5ovvdoriq",
     "content": "",
@@ -527,197 +673,6 @@
         "end": "2026-04-14T19:30:00",
         "description": "**Talawanda Multicultural Family Night** will be held on **April 14 from 6:00–7:30 PM at Kramer Elementary School**, open to all Talawanda families (K–12). Families can attend, host a cultural booth o",
         "location": "Kramer Elementary School"
-      }
-    ]
-  },
-  {
-    "title": "Bogan Students Earn Pajama Party Reward",
-    "block_id": "bjqvo7kz71-bumwox6uxo-bocf50ow5o",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/4804/63c1a7f2eaa7ef929687a38de563bd50.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/q1p5t-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-03-20T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Around \n\nBogan\n\nAround Bogan",
-        "id": "bjqvo7kz71"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Our students earned a pajama party for raising over $500 for Coin Wars!",
-        "id": "bumwox6uxo"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/4804/63c1a7f2eaa7ef929687a38de563bd50.jpeg",
-        "id": "bocf50ow5o"
-      }
-    ],
-    "hash": "bjqvo7kz71-bumwox6uxo-bocf50ow5o",
-    "summary": "Bogan students earned a **pajama party on March 27th** for raising over $500 during Coin Wars fundraising. Students are invited to wear pajamas to celebrate their fundraising success.",
-    "event_info": [
-      {
-        "title": "Pajama Party for Coin Wars Fundraising Success",
-        "start": "2026-03-27T00:00:00",
-        "end": "2026-03-27T23:59:00",
-        "description": "Bogan students earned a **pajama party on March 27th** for raising over $500 during Coin Wars fundraising. Students are invited to wear pajamas to celebrate their fundraising success.",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Allergies or Cold: Know the Difference",
-    "block_id": "bfk3x3z2v4-bouym8jd0z",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/ccaf/6163dd723cf20e660ed677e877316cdd.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/q1p5t-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-03-20T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Nurse's \n\nNotes\n\nNurse's Notes",
-        "id": "bfk3x3z2v4"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/ccaf/6163dd723cf20e660ed677e877316cdd.jpeg",
-        "id": "bouym8jd0z"
-      }
-    ],
-    "hash": "bfk3x3z2v4-bouym8jd0z",
-    "summary": "The school nurse provides a diagnostic flowchart to help distinguish between allergies and a cold. Key differentiators include:\n- **Mucus color**: Clear mucus suggests allergies; green or yellow suggests a cold\n- **Symptom duration**: Seasonal or extended symptoms indicate allergies; quick onset and resolution suggests a cold\n- **Itchiness**: Itchy eyes, nose, and throat are more common with allergies\n- **Fever**: Having a fever points toward a cold rather than allergies\n\n**Call your doctor if** symptoms last longer than two weeks, worsen, include sore throat/fever over 100°F for more than three days, or involve intense chest pain and shortness of breath."
-  },
-  {
-    "title": "Spring State Testing for Grades 3-5",
-    "block_id": "bjqvo7kz71-bwu53kp6vk-bkrqsfsqgx",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/0340/0f0d8a45bf4f915c468f2217715318f2.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/wg8qve-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-03-13T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Around \n\nBogan\n\nAround Bogan",
-        "id": "bjqvo7kz71"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Testing\nSpring Ohio State Testing for our 3rd-5th graders is quickly approaching! Your child's teacher will share the dates of testing with you. Please schedule any appointments or activities around testing so that we can make sure your student is tested. We will have a testing assembly soon to share tips and tricks and to encourage them to do their best on the tests. It would be helpful if you could reinforce this at home too.",
-        "id": "bwu53kp6vk"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/0340/0f0d8a45bf4f915c468f2217715318f2.jpeg",
-        "id": "bkrqsfsqgx"
-      }
-    ],
-    "hash": "bjqvo7kz71-bwu53kp6vk-bkrqsfsqgx",
-    "summary": "**Spring Ohio State Testing** for 3rd-5th graders is approaching. Teachers will share specific testing dates with families. Students should avoid scheduling appointments during testing days. A testing assembly will be held soon to share **5 tips for testing success**: get plenty of rest, be on time, eat a good breakfast, relax and take a deep breath, and follow your teacher's directions. Parents are encouraged to reinforce these tips at home."
-  },
-  {
-    "title": "The Parent Project Program for Parents and Teens",
-    "block_id": "bwk8x8y5ub-bp4ldr631a",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/2167/9ebbb16c1410ba56892485dca0956f68.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/wg8qve-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-03-13T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Around \n\nTalawanda\n\nAround Talawanda",
-        "id": "bwk8x8y5ub"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/2167/9ebbb16c1410ba56892485dca0956f68.jpeg",
-        "id": "bp4ldr631a"
-      }
-    ],
-    "hash": "bwk8x8y5ub-bp4ldr631a",
-    "summary": "**The Parent Project** is a free 10-week program for Butler County residents that empowers parents and transforms teens through the Why Try Program. The program runs **Tuesdays, April 14 - June 16, 6pm-8pm via Zoom** and helps parents learn to never argue with teens, prevent/intervene in alcohol or drug use, improve school attendance and performance, and explore solutions for media issues. The program uses visual metaphors to teach social, emotional, and leadership principles with a multisensory approach for every learning type. Contact Patsy Bolden at **pbolden@ccswoh.org / 513-867-7072** for more information. (Syllabus fee $10.61 for out-of-county residents)",
-    "event_info": [
-      {
-        "title": "The Parent Project - Week 1",
-        "start": "2026-04-14T18:00:00",
-        "end": "2026-04-14T20:00:00",
-        "description": "**The Parent Project** is a free 10-week program for Butler County residents that empowers parents and transforms teens through the Why Try Program. The program runs **Tuesdays, April 14 - June 16, 6p",
-        "location": "via Zoom"
-      },
-      {
-        "title": "The Parent Project - Week 2",
-        "start": "2026-04-21T18:00:00",
-        "end": "2026-04-21T20:00:00",
-        "description": "**The Parent Project** is a free 10-week program for Butler County residents that empowers parents and transforms teens through the Why Try Program. The program runs **Tuesdays, April 14 - June 16, 6p",
-        "location": "via Zoom"
-      },
-      {
-        "title": "The Parent Project - Week 3",
-        "start": "2026-04-28T18:00:00",
-        "end": "2026-04-28T20:00:00",
-        "description": "**The Parent Project** is a free 10-week program for Butler County residents that empowers parents and transforms teens through the Why Try Program. The program runs **Tuesdays, April 14 - June 16, 6p",
-        "location": "via Zoom"
-      },
-      {
-        "title": "The Parent Project - Week 4",
-        "start": "2026-05-05T18:00:00",
-        "end": "2026-05-05T20:00:00",
-        "description": "**The Parent Project** is a free 10-week program for Butler County residents that empowers parents and transforms teens through the Why Try Program. The program runs **Tuesdays, April 14 - June 16, 6p",
-        "location": "via Zoom"
-      },
-      {
-        "title": "The Parent Project - Week 5",
-        "start": "2026-05-12T18:00:00",
-        "end": "2026-05-12T20:00:00",
-        "description": "**The Parent Project** is a free 10-week program for Butler County residents that empowers parents and transforms teens through the Why Try Program. The program runs **Tuesdays, April 14 - June 16, 6p",
-        "location": "via Zoom"
-      },
-      {
-        "title": "The Parent Project - Week 6",
-        "start": "2026-05-19T18:00:00",
-        "end": "2026-05-19T20:00:00",
-        "description": "**The Parent Project** is a free 10-week program for Butler County residents that empowers parents and transforms teens through the Why Try Program. The program runs **Tuesdays, April 14 - June 16, 6p",
-        "location": "via Zoom"
-      },
-      {
-        "title": "The Parent Project - Week 7",
-        "start": "2026-05-26T18:00:00",
-        "end": "2026-05-26T20:00:00",
-        "description": "**The Parent Project** is a free 10-week program for Butler County residents that empowers parents and transforms teens through the Why Try Program. The program runs **Tuesdays, April 14 - June 16, 6p",
-        "location": "via Zoom"
-      },
-      {
-        "title": "The Parent Project - Week 8",
-        "start": "2026-06-02T18:00:00",
-        "end": "2026-06-02T20:00:00",
-        "description": "**The Parent Project** is a free 10-week program for Butler County residents that empowers parents and transforms teens through the Why Try Program. The program runs **Tuesdays, April 14 - June 16, 6p",
-        "location": "via Zoom"
-      },
-      {
-        "title": "The Parent Project - Week 9",
-        "start": "2026-06-09T18:00:00",
-        "end": "2026-06-09T20:00:00",
-        "description": "**The Parent Project** is a free 10-week program for Butler County residents that empowers parents and transforms teens through the Why Try Program. The program runs **Tuesdays, April 14 - June 16, 6p",
-        "location": "via Zoom"
-      },
-      {
-        "title": "The Parent Project - Week 10",
-        "start": "2026-06-16T18:00:00",
-        "end": "2026-06-16T20:00:00",
-        "description": "**The Parent Project** is a free 10-week program for Butler County residents that empowers parents and transforms teens through the Why Try Program. The program runs **Tuesdays, April 14 - June 16, 6p",
-        "location": "via Zoom"
       }
     ]
   }
