@@ -174,6 +174,31 @@
     "summary": "**Mountain Bike Club** meets every Thursday after school from **2:10-3:30 PM**. New members are still welcome to join. Permission slips required for riding are available in the office."
   },
   {
+    "title": "Camp TMS Returning to The Glen",
+    "block_id": "b1evuihvr1-bkiwx0nizn",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/60e9/86fb5408fa6882d5bdb7b2fe8188e671.png"
+    ],
+    "source_url": "https://app.smore.com/n/9bdzne-spring-break?ref=email",
+    "source_title": "SPRING BREAK! | Smore Newsletters for Education",
+    "date": "2026-03-27T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/60e9/86fb5408fa6882d5bdb7b2fe8188e671.png",
+        "id": "b1evuihvr1"
+      },
+      {
+        "type": "text.title",
+        "content": "CHECK \n\nOUT \n\nMORE \n\nINFO \n\nHERE!\n\nCHECK OUT MORE INFO HERE!",
+        "id": "bkiwx0nizn"
+      }
+    ],
+    "hash": "b1evuihvr1-bkiwx0nizn",
+    "summary": "**Camp TMS is going back to The Glen!** More information is available through a link in the newsletter. This announcement appears to be about a camp program for middle school students."
+  },
+  {
     "title": "Early Release Days - May 19, 20, 21",
     "block_id": "b89rv5y4sb-bfc1k9gqyy",
     "content": "",
@@ -220,31 +245,6 @@
         "location": "Talawanda School District"
       }
     ]
-  },
-  {
-    "title": "Camp TMS Returning to The Glen",
-    "block_id": "b1evuihvr1-bkiwx0nizn",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/60e9/86fb5408fa6882d5bdb7b2fe8188e671.png"
-    ],
-    "source_url": "https://app.smore.com/n/9bdzne-spring-break?ref=email",
-    "source_title": "SPRING BREAK! | Smore Newsletters for Education",
-    "date": "2026-03-27T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/60e9/86fb5408fa6882d5bdb7b2fe8188e671.png",
-        "id": "b1evuihvr1"
-      },
-      {
-        "type": "text.title",
-        "content": "CHECK \n\nOUT \n\nMORE \n\nINFO \n\nHERE!\n\nCHECK OUT MORE INFO HERE!",
-        "id": "bkiwx0nizn"
-      }
-    ],
-    "hash": "b1evuihvr1-bkiwx0nizn",
-    "summary": "**Camp TMS is going back to The Glen!** More information is available through a link in the newsletter. This announcement appears to be about a camp program for middle school students."
   },
   {
     "title": "Respect for Law Camp Registration Open",

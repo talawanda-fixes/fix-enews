@@ -128,6 +128,38 @@
     ]
   },
   {
+    "title": "Lions Club Spring Eyeglass Collection Drive",
+    "block_id": "bwk8x8y5ub-b5sn2kzhx1",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/ehz04-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-04-24T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Around \n\nTalawanda\n\nAround Talawanda",
+        "id": "bwk8x8y5ub"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Lions Club Spring Eyeglass Collection\nThe Oxford Lions Club Sight Saving Committee is collecting used eyeglasses, sunglasses as well as cases! These glasses and cases are donated all over the world to children who are in need. The lenses and frames from the donated glasses are modified to meet individual children's eye needs. Every year, Oxford Lions Club collects and sends 900-plus pairs of glasses to children in need!Please send any glasses donations to Betsy Beaton (Marshall Elementary School) or Shaunna Tafelski (Board Office) by mid-May We are happy to swing by and pick up glasses donations or they can be dropped off at Marshall or the Board Office. Thank you for supporting the Oxford Lions Club! Thanks!",
+        "id": "b5sn2kzhx1"
+      }
+    ],
+    "hash": "bwk8x8y5ub-b5sn2kzhx1",
+    "summary": "The **Oxford Lions Club** is collecting used eyeglasses, sunglasses, and cases to donate to children in need worldwide. The club modifies donated lenses and frames to meet individual children's eye needs and sends **900+ pairs annually**. **Donations are due by mid-May** and can be sent to Betsy Beaton at Marshall Elementary School or Shaunna Tafelski at the Board Office, with pickup available upon request.",
+    "event_info": [
+      {
+        "title": "Lions Club Eyeglass Collection Deadline",
+        "start": "2026-05-15T00:00:00",
+        "end": "2026-05-15T23:59:00",
+        "description": "The **Oxford Lions Club** is collecting used eyeglasses, sunglasses, and cases to donate to children in need worldwide. The club modifies donated lenses and frames to meet individual children's eye ne",
+        "location": "Marshall Elementary School or Board Office"
+      }
+    ]
+  },
+  {
     "title": "Coin Wars Campout on Roof",
     "block_id": "bjqvo7kz71-b0u561n9sg-bvi96w9tcj",
     "content": "",
@@ -197,38 +229,6 @@
         "end": "2026-04-25T14:00:00",
         "description": "The **Spring Flower Sale** orders from Foertmeyer and Sons fundraiser can be picked up on **Saturday, April 25, 2026** from **12pm-2pm** at **Bogan Elementary (parking lot)**. Orders can only be picke",
         "location": "Bogan Elementary (parking lot)"
-      }
-    ]
-  },
-  {
-    "title": "Lions Club Spring Eyeglass Collection Drive",
-    "block_id": "bwk8x8y5ub-b5sn2kzhx1",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/ehz04-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-04-24T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Around \n\nTalawanda\n\nAround Talawanda",
-        "id": "bwk8x8y5ub"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Lions Club Spring Eyeglass Collection\nThe Oxford Lions Club Sight Saving Committee is collecting used eyeglasses, sunglasses as well as cases! These glasses and cases are donated all over the world to children who are in need. The lenses and frames from the donated glasses are modified to meet individual children's eye needs. Every year, Oxford Lions Club collects and sends 900-plus pairs of glasses to children in need!Please send any glasses donations to Betsy Beaton (Marshall Elementary School) or Shaunna Tafelski (Board Office) by mid-May We are happy to swing by and pick up glasses donations or they can be dropped off at Marshall or the Board Office. Thank you for supporting the Oxford Lions Club! Thanks!",
-        "id": "b5sn2kzhx1"
-      }
-    ],
-    "hash": "bwk8x8y5ub-b5sn2kzhx1",
-    "summary": "The **Oxford Lions Club** is collecting used eyeglasses, sunglasses, and cases to donate to children in need worldwide. The club modifies donated lenses and frames to meet individual children's eye needs and sends **900+ pairs annually**. **Donations are due by mid-May** and can be sent to Betsy Beaton at Marshall Elementary School or Shaunna Tafelski at the Board Office, with pickup available upon request.",
-    "event_info": [
-      {
-        "title": "Lions Club Eyeglass Collection Deadline",
-        "start": "2026-05-15T00:00:00",
-        "end": "2026-05-15T23:59:00",
-        "description": "The **Oxford Lions Club** is collecting used eyeglasses, sunglasses, and cases to donate to children in need worldwide. The club modifies donated lenses and frames to meet individual children's eye ne",
-        "location": "Marshall Elementary School or Board Office"
       }
     ]
   },
@@ -374,6 +374,40 @@
     ]
   },
   {
+    "title": "Family Unplug & Play Night at Bogan",
+    "block_id": "bjqvo7kz71-b4tf4l2m9c",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/72a7/099924bf9740db3fd1ec38544bd9b5bf.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/wcbre-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-04-10T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Around \n\nBogan\n\nAround Bogan",
+        "id": "bjqvo7kz71"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/72a7/099924bf9740db3fd1ec38544bd9b5bf.jpeg",
+        "id": "b4tf4l2m9c"
+      }
+    ],
+    "hash": "bjqvo7kz71-b4tf4l2m9c",
+    "summary": "**Family Unplug & Play Night** is happening on the Bogan Playground on **Thursday, May 7 from 6-8 PM**. Families are invited to connect with others or enjoy the outdoors while children engage in creative, independent play. **Snacks will be provided** and attendees should **bring a lawn chair**. The whole family is encouraged to unplug for the evening.",
+    "event_info": [
+      {
+        "title": "Family Unplug & Play Night",
+        "start": "2026-05-07T18:00:00",
+        "end": "2026-05-07T20:00:00",
+        "description": "**Family Unplug & Play Night** is happening on the Bogan Playground on **Thursday, May 7 from 6-8 PM**. Families are invited to connect with others or enjoy the outdoors while children engage in creat",
+        "location": "Bogan Playground"
+      }
+    ]
+  },
+  {
     "title": "Breakfast with a Veteran Event",
     "block_id": "bav2a8v1tm-bm6aq85w8b",
     "content": "",
@@ -503,40 +537,6 @@
     ],
     "hash": "b0srpil80f-b570fb3xuh-bfr77vevhd-b8ouyyk787",
     "summary": "Parents can add funds to student lunch accounts through **PaySchool Central** and should keep accounts current. For assistance with lunch debt, contact Mrs. White. The **April 2026 breakfast and lunch menus** are now available. All breakfast meals include 100% fruit juice, apples, oranges or other fresh fruit, and a choice of milk."
-  },
-  {
-    "title": "Family Unplug & Play Night at Bogan",
-    "block_id": "bjqvo7kz71-b4tf4l2m9c",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/72a7/099924bf9740db3fd1ec38544bd9b5bf.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/wcbre-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-04-10T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Around \n\nBogan\n\nAround Bogan",
-        "id": "bjqvo7kz71"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/72a7/099924bf9740db3fd1ec38544bd9b5bf.jpeg",
-        "id": "b4tf4l2m9c"
-      }
-    ],
-    "hash": "bjqvo7kz71-b4tf4l2m9c",
-    "summary": "**Family Unplug & Play Night** is happening on the Bogan Playground on **Thursday, May 7 from 6-8 PM**. Families are invited to connect with others or enjoy the outdoors while children engage in creative, independent play. **Snacks will be provided** and attendees should **bring a lawn chair**. The whole family is encouraged to unplug for the evening.",
-    "event_info": [
-      {
-        "title": "Family Unplug & Play Night",
-        "start": "2026-05-07T18:00:00",
-        "end": "2026-05-07T20:00:00",
-        "description": "**Family Unplug & Play Night** is happening on the Bogan Playground on **Thursday, May 7 from 6-8 PM**. Families are invited to connect with others or enjoy the outdoors while children engage in creat",
-        "location": "Bogan Playground"
-      }
-    ]
   },
   {
     "title": "Bogan PTG Meeting - April 14",

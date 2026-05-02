@@ -189,6 +189,34 @@
     "summary": "The City of Oxford is creating a Parks Master Plan with Pros Consulting and wants feedback from Talawanda families who use the parks. Community members can complete a survey, use virtual mapping tools, and contribute to a vision board at **https://engagepros.mysocialpinpoint.com/oxford**."
   },
   {
+    "title": "Mayfest Silent Auction & Raffle Baskets",
+    "block_id": "bi501v5k89-bjg3336tr4-bcmqjbwd1a",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/b530h",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-04-24T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Mayfest \n\nSilent \n\nAuction \n\n& \n\nRaffle \n\nBaskets \n\nInformation!\n\nMayfest Silent Auction & Raffle Baskets Information!",
+        "id": "bi501v5k89"
+      },
+      {
+        "type": "items",
+        "content": "zoom_out_map\n                \n\n\n\n\n\n\n\n\nzoom_out_map\n                \n\n\n\n\n\n\n\n\nzoom_out_map",
+        "id": "bjg3336tr4"
+      },
+      {
+        "type": "items",
+        "content": "zoom_out_map\n                \n\n\n\n\n\n\n\n\nzoom_out_map\n                \n\n\n\n\n\n\n\n\nzoom_out_map",
+        "id": "bcmqjbwd1a"
+      }
+    ],
+    "hash": "bi501v5k89-bjg3336tr4-bcmqjbwd1a",
+    "summary": "Information about silent auction and raffle baskets for Mayfest. The newsletter item appears to contain images with details about the auction and raffle, but the specific information about dates, times, basket themes, or how to participate is not visible in the text content provided."
+  },
+  {
     "title": "Marshall Elementary Spring Fling Family Dance",
     "block_id": "bhatmtq6ud-bk2euyiehj",
     "content": "",
@@ -221,34 +249,6 @@
         "location": "Marshall Elementary School"
       }
     ]
-  },
-  {
-    "title": "Mayfest Silent Auction & Raffle Baskets",
-    "block_id": "bi501v5k89-bjg3336tr4-bcmqjbwd1a",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/b530h",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-04-24T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Mayfest \n\nSilent \n\nAuction \n\n& \n\nRaffle \n\nBaskets \n\nInformation!\n\nMayfest Silent Auction & Raffle Baskets Information!",
-        "id": "bi501v5k89"
-      },
-      {
-        "type": "items",
-        "content": "zoom_out_map\n                \n\n\n\n\n\n\n\n\nzoom_out_map\n                \n\n\n\n\n\n\n\n\nzoom_out_map",
-        "id": "bjg3336tr4"
-      },
-      {
-        "type": "items",
-        "content": "zoom_out_map\n                \n\n\n\n\n\n\n\n\nzoom_out_map\n                \n\n\n\n\n\n\n\n\nzoom_out_map",
-        "id": "bcmqjbwd1a"
-      }
-    ],
-    "hash": "bi501v5k89-bjg3336tr4-bcmqjbwd1a",
-    "summary": "Information about silent auction and raffle baskets for Mayfest. The newsletter item appears to contain images with details about the auction and raffle, but the specific information about dates, times, basket themes, or how to participate is not visible in the text content provided."
   },
   {
     "title": "Oxford Lions Club Eyeglasses Donation Drive",
@@ -484,29 +484,6 @@
     "summary": "**Welcome back from Spring Break!** Students returned with great energy and focus after the break. **State testing has begun** and students are showing excellent effort and perseverance. Parents can support their children by ensuring they get adequate sleep, eat a healthy breakfast, and arrive on time each day for testing success."
   },
   {
-    "title": "Tips for Improving Student Reading Comprehension",
-    "block_id": "b31v2hmzkn-b4zyvpkcno",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/sryg5",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-04-10T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "NOTES \n\nFROM \n\nTITLE \n\nTALK \n\nNOTES FROM TITLE TALK",
-        "id": "b31v2hmzkn"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Does your student understand what they are reading? A reader needs to understand what they are reading; simply reading the words is not enough. A good way to know if your student is understanding what they are reading is by asking questions. Questions about the story elements (characters, setting, events, etc.) let you know if your student is comprehending the text. Some questions you may want to ask:Who is the main character? Where does the story take place? (Setting: place and time)What is the problem? How was the problem solved?Activities: Ask your student to retell the story. Have your student draw a picture of the story. In Reading Corner, we are using the UFLI curriculum. Here is a parent resource for you to look at!Parent reading help K-3If you need help with any of these activities, please reach out to your student’s Reading Corner teacher.",
-        "id": "b4zyvpkcno"
-      }
-    ],
-    "hash": "b31v2hmzkn-b4zyvpkcno",
-    "summary": "Parents can help assess reading comprehension by asking questions about story elements like characters, setting, and plot. **Suggested activities**: have students retell the story or draw pictures about what they read. The Reading Corner program uses the **UFLI curriculum** and offers a [parent resource guide](Parent reading help K-3). Contact your student's Reading Corner teacher for additional support."
-  },
-  {
     "title": "Important Dates and Early Release Schedule",
     "block_id": "bxxze6r7so-bx30sup0r2-bxpadasriv",
     "content": "",
@@ -600,6 +577,29 @@
         "location": "Talawanda High School"
       }
     ]
+  },
+  {
+    "title": "Tips for Improving Student Reading Comprehension",
+    "block_id": "b31v2hmzkn-b4zyvpkcno",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/sryg5",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-04-10T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "NOTES \n\nFROM \n\nTITLE \n\nTALK \n\nNOTES FROM TITLE TALK",
+        "id": "b31v2hmzkn"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Does your student understand what they are reading? A reader needs to understand what they are reading; simply reading the words is not enough. A good way to know if your student is understanding what they are reading is by asking questions. Questions about the story elements (characters, setting, events, etc.) let you know if your student is comprehending the text. Some questions you may want to ask:Who is the main character? Where does the story take place? (Setting: place and time)What is the problem? How was the problem solved?Activities: Ask your student to retell the story. Have your student draw a picture of the story. In Reading Corner, we are using the UFLI curriculum. Here is a parent resource for you to look at!Parent reading help K-3If you need help with any of these activities, please reach out to your student’s Reading Corner teacher.",
+        "id": "b4zyvpkcno"
+      }
+    ],
+    "hash": "b31v2hmzkn-b4zyvpkcno",
+    "summary": "Parents can help assess reading comprehension by asking questions about story elements like characters, setting, and plot. **Suggested activities**: have students retell the story or draw pictures about what they read. The Reading Corner program uses the **UFLI curriculum** and offers a [parent resource guide](Parent reading help K-3). Contact your student's Reading Corner teacher for additional support."
   },
   {
     "title": "Spring Flower Sale Pickup Information",
