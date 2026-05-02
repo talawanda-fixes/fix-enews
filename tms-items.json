@@ -1,5 +1,113 @@
 [
   {
+    "title": "Early Release Days May 19-21",
+    "block_id": "b3jnlp3gqy-b89rv5y4sb-bfc1k9gqyy",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/43ce/02905b0d14523d095437130897001691.png"
+    ],
+    "source_url": "https://app.smore.com/n/3f91z-12-days-and-counting?ref=email",
+    "source_title": "12 Days and Counting! | Smore Newsletters for Education",
+    "date": "2026-05-01T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "*~ \n\nEARLY \n\nRELEASE \n\nDAYS! \n\n~*\n\n*~ EARLY RELEASE DAYS! ~*",
+        "id": "b3jnlp3gqy"
+      },
+      {
+        "type": "text.title",
+        "content": "START \n\nPLANNING \n\nAHEAD!\n\nSTART PLANNING AHEAD!",
+        "id": "b89rv5y4sb"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/43ce/02905b0d14523d095437130897001691.png",
+        "id": "bfc1k9gqyy"
+      }
+    ],
+    "hash": "b3jnlp3gqy-b89rv5y4sb-bfc1k9gqyy",
+    "summary": "The last three days of school **(May 19, 20, 21) will be early release days** with the following dismissal times:\n- **TMS (Talawanda Middle School)**: 11:20 am\n- **THS (Talawanda High School)**: 11:40 am\n- **Elementary**: 1:00 pm for car riders, buses depart at 1:10 pm",
+    "event_info": [
+      {
+        "title": "Early Release Day - TMS dismissal at 11:20 am",
+        "start": "2026-05-19T11:20:00",
+        "end": "2026-05-19T11:20:00",
+        "description": "The last three days of school **(May 19, 20, 21) will be early release days** with the following dismissal times:\n- **TMS (Talawanda Middle School)**: 11:20 am\n- **THS (Talawanda High School)**: 11:40",
+        "location": "Talawanda Middle School"
+      },
+      {
+        "title": "Early Release Day - THS dismissal at 11:40 am",
+        "start": "2026-05-19T11:40:00",
+        "end": "2026-05-19T11:40:00",
+        "description": "The last three days of school **(May 19, 20, 21) will be early release days** with the following dismissal times:\n- **TMS (Talawanda Middle School)**: 11:20 am\n- **THS (Talawanda High School)**: 11:40",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Early Release Day - Elementary dismissal at 1:00 pm (buses 1:10 pm)",
+        "start": "2026-05-19T13:00:00",
+        "end": "2026-05-19T13:00:00",
+        "description": "The last three days of school **(May 19, 20, 21) will be early release days** with the following dismissal times:\n- **TMS (Talawanda Middle School)**: 11:20 am\n- **THS (Talawanda High School)**: 11:40",
+        "location": "Talawanda School District"
+      }
+    ]
+  },
+  {
+    "title": "TMS Testing Incentive Reward Day",
+    "block_id": "b1pkl6zdgv-bvrxhchrj1",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/3f91z-12-days-and-counting?ref=email",
+    "source_title": "12 Days and Counting! | Smore Newsletters for Education",
+    "date": "2026-05-01T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "STUDENT \n\nINCENTIVE \n\nREWARD \n\nDAY!\n\nSTUDENT INCENTIVE REWARD DAY!",
+        "id": "b1pkl6zdgv"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "TMS Testing Incentive Reward Day is May 8th! Please help students celebrate their success by purchasing some items for the reward day! Thank you for your support! Amazon List",
+        "id": "bvrxhchrj1"
+      }
+    ],
+    "hash": "b1pkl6zdgv-bvrxhchrj1",
+    "summary": "**TMS Testing Incentive Reward Day** is scheduled for **May 8th**. Families can support students celebrating their testing success by purchasing items from the **[Amazon List](Amazon List)** to help make the reward day special.",
+    "event_info": [
+      {
+        "title": "TMS Testing Incentive Reward Day",
+        "start": "2026-05-08T00:00:00",
+        "end": "2026-05-08T23:59:00",
+        "description": "**TMS Testing Incentive Reward Day** is scheduled for **May 8th**. Families can support students celebrating their testing success by purchasing items from the **[Amazon List](Amazon List)** to help m",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Oxford Parks Master Plan Community Survey",
+    "block_id": "bmf3mhxj3n-b7xtawiszt",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/3f91z-12-days-and-counting?ref=email",
+    "source_title": "12 Days and Counting! | Smore Newsletters for Education",
+    "date": "2026-05-01T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "COMMUNITY \n\nINFORMATION\n\nCOMMUNITY INFORMATION",
+        "id": "bmf3mhxj3n"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "City of Oxford Parks Master Plan:The city of Oxford is developing a Parks Master Plan with Pros Consulting. Please take a moment to complete the information at the link below. The site is specific for the Master Plan and has a survey, virtual mapping, and vision board. A lot of Talawanda families are park users and the city would like their feedback.https://engagepros.mysocialpinpoint.com/oxford",
+        "id": "b7xtawiszt"
+      }
+    ],
+    "hash": "bmf3mhxj3n-b7xtawiszt",
+    "summary": "The **City of Oxford** is developing a Parks Master Plan with Pros Consulting and is seeking feedback from Talawanda families who use the parks. The online site includes a **survey, virtual mapping, and vision board** for community input. Visit **https://engagepros.mysocialpinpoint.com/oxford** to participate."
+  },
+  {
     "title": "Oxford Swim and Dive Team Registration",
     "block_id": "bmf3mhxj3n-btmauvlyek",
     "content": "",
@@ -705,131 +813,6 @@
         "end": "2026-03-13T23:59:00",
         "description": "**Spring Picture Day** is scheduled for **March 13, 2026** at Talawanda Middle School. The photography service is provided by **Lifetouch Photography**. The Spring Picture Day ID is **EVTJ4BMPW**.",
         "location": "Talawanda Middle School"
-      }
-    ]
-  },
-  {
-    "title": "Track Season Information Available",
-    "block_id": "bxfiw0x3ae-bdxfcm4bpd-bw9tbzl1eg",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/y8qwkf-love-is-in-the-air?ref=email",
-    "source_title": "Love is in the Air! | Smore Newsletters for Education",
-    "date": "2026-02-13T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "DID \n\nSOMEONE \n\nSAY \n\nIT'S\n\nDID SOMEONE SAY IT'S",
-        "id": "bxfiw0x3ae"
-      },
-      {
-        "type": "text.title",
-        "content": "TRACK \n\nSEASON?!?\n\nTRACK SEASON?!?",
-        "id": "bdxfcm4bpd"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "All the information you will need is in this LINK.",
-        "id": "bw9tbzl1eg"
-      }
-    ],
-    "hash": "bxfiw0x3ae-bdxfcm4bpd-bw9tbzl1eg",
-    "summary": "Track season is starting at Talawanda High School! All necessary information about the track season can be found through the provided **[LINK](LINK)**."
-  },
-  {
-    "title": "FCCLA Meeting - New Club Starting",
-    "block_id": "bzkmgcsk36-byvdgcg45a",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/c082/6e5cba40c10c108c2369ea2ea3f030b6.png"
-    ],
-    "source_url": "https://app.smore.com/n/8b4p5-kindness-counts?ref=email",
-    "source_title": "Kindness Counts! | Smore Newsletters for Education",
-    "date": "2026-02-06T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "New \n\nClub \n\nStarting!\n\nNew Club Starting!",
-        "id": "bzkmgcsk36"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/c082/6e5cba40c10c108c2369ea2ea3f030b6.png",
-        "id": "byvdgcg45a"
-      }
-    ],
-    "hash": "bzkmgcsk36-byvdgcg45a",
-    "summary": "The FCCLA (Family, Career and Community Leaders of America) club meets on the **2nd Wednesday of each month from 2:15pm-3:15pm in Ms. Thomaswick's Room**. The club is sponsored by Talawanda/BT FCCLA and has been **TSD approved for distribution**. \n\nUpcoming meeting dates:\n- February 11\n- March 11\n- April 8\n- May 13",
-    "event_info": [
-      {
-        "title": "FCCLA Meeting",
-        "start": "2026-02-11T14:15:00",
-        "end": "2026-02-11T15:15:00",
-        "description": "The FCCLA (Family, Career and Community Leaders of America) club meets on the **2nd Wednesday of each month from 2:15pm-3:15pm in Ms. Thomaswick's Room**. The club is sponsored by Talawanda/BT FCCLA a",
-        "location": "Ms. Thomaswick's Room"
-      },
-      {
-        "title": "FCCLA Meeting",
-        "start": "2026-03-11T14:15:00",
-        "end": "2026-03-11T15:15:00",
-        "description": "The FCCLA (Family, Career and Community Leaders of America) club meets on the **2nd Wednesday of each month from 2:15pm-3:15pm in Ms. Thomaswick's Room**. The club is sponsored by Talawanda/BT FCCLA a",
-        "location": "Ms. Thomaswick's Room"
-      },
-      {
-        "title": "FCCLA Meeting",
-        "start": "2026-04-08T14:15:00",
-        "end": "2026-04-08T15:15:00",
-        "description": "The FCCLA (Family, Career and Community Leaders of America) club meets on the **2nd Wednesday of each month from 2:15pm-3:15pm in Ms. Thomaswick's Room**. The club is sponsored by Talawanda/BT FCCLA a",
-        "location": "Ms. Thomaswick's Room"
-      },
-      {
-        "title": "FCCLA Meeting",
-        "start": "2026-05-13T14:15:00",
-        "end": "2026-05-13T15:15:00",
-        "description": "The FCCLA (Family, Career and Community Leaders of America) club meets on the **2nd Wednesday of each month from 2:15pm-3:15pm in Ms. Thomaswick's Room**. The club is sponsored by Talawanda/BT FCCLA a",
-        "location": "Ms. Thomaswick's Room"
-      }
-    ]
-  },
-  {
-    "title": "Cookie Dough Fundraiser Sale",
-    "block_id": "bhr8j92nq7-bmwr897kvo-b5wbf0c2p8-bxnfkacbb2",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/8b4p5-kindness-counts?ref=email",
-    "source_title": "Kindness Counts! | Smore Newsletters for Education",
-    "date": "2026-02-06T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Cookie \n\nDough \n\nSale!!!\n\nCookie Dough Sale!!!",
-        "id": "bhr8j92nq7"
-      },
-      {
-        "type": "text.title",
-        "content": "February \n\n6th \n\n- \n\n26th\n\nFebruary 6th - 26th",
-        "id": "bmwr897kvo"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Use this LINK for the information!",
-        "id": "b5wbf0c2p8"
-      },
-      {
-        "type": "text.title",
-        "content": "Use \n\nthis \n\nLINK \n\nfor \n\nthe \n\nSale \n\nBrochure!\n\nUse this LINK for the Sale Brochure!",
-        "id": "bxnfkacbb2"
-      }
-    ],
-    "hash": "bhr8j92nq7-bmwr897kvo-b5wbf0c2p8-bxnfkacbb2",
-    "summary": "Cookie dough fundraiser sale running **February 6th through 26th**. Information and sale brochure available through provided links. Support the school by purchasing cookie dough during this three-week sale period.",
-    "event_info": [
-      {
-        "title": "Cookie Dough Sale",
-        "start": "2026-02-06T00:00:00",
-        "end": "2026-02-26T23:59:00",
-        "description": "Cookie dough fundraiser sale running **February 6th through 26th**. Information and sale brochure available through provided links. Support the school by purchasing cookie dough during this three-week",
-        "location": "Talawanda High School"
       }
     ]
   }

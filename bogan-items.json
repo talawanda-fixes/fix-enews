@@ -1,5 +1,92 @@
 [
   {
+    "title": "May Cafeteria Menus and Lunch Accounts",
+    "block_id": "b0srpil80f-b570fb3xuh-bfr77vevhd-bo2vrrtgxf",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/5cf6/0c1890e634151b1b7df944521e61ac6e.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/rjz21-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-05-01T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Cafeteria\n\nCafeteria",
+        "id": "b0srpil80f"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Lunch Accounts\nAs a reminder, you are able to add funds to your student's lunch account through the PaySchool Central. Please be mindful and keep your student's account current. If you need assistance with lunch debt, please reach out to Mrs. White.",
+        "id": "b570fb3xuh"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "May Menus\nHere are the breakfast and lunch menus for May!",
+        "id": "bfr77vevhd"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/5cf6/0c1890e634151b1b7df944521e61ac6e.jpeg",
+        "id": "bo2vrrtgxf"
+      }
+    ],
+    "hash": "b0srpil80f-b570fb3xuh-bfr77vevhd-bo2vrrtgxf",
+    "summary": "May breakfast and lunch menus are now available. Parents can add funds to student lunch accounts through **PaySchool Central** and should keep accounts current. For assistance with lunch debt, contact Mrs. White. The May breakfast menu includes items like Sausage & Cheese Biscuit Sandwiches, Mini Chocolate Donuts, Fresh Baked Cinnamon Rolls, Breakfast Pizza (Turkey Sausage), Apple Frudel, Stuffed Hash Brown, and Glazed Donuts, with 100% fruit juice, apples, oranges or other fresh fruit included with every breakfast. School is out for summer starting May 22nd."
+  },
+  {
+    "title": "5th Grade Pool Party Event",
+    "block_id": "bpx42aowpj-bib5s1q43h",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/9113/4c20e4caf95a911e020aa3f76de23fd7.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/rjz21-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-05-01T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PTG \n\nCorner\n\nPTG Corner",
+        "id": "bpx42aowpj"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/9113/4c20e4caf95a911e020aa3f76de23fd7.jpeg",
+        "id": "bib5s1q43h"
+      }
+    ],
+    "hash": "bpx42aowpj-bib5s1q43h",
+    "summary": "A **5th Grade Pool Party** is scheduled for **Sunday, May 31, 2026** from **6:00-8:00 PM** at the **Oxford Aquatic Center**. This free swim social is for rising 6th graders only (no siblings/families) to meet new friends before starting TMS in the fall. Pizza and snacks will be provided. Parents can volunteer to chaperone by scanning the QR code. Sponsored by Oxford Rotary Club, Bogan, Kramer, & Marshall PTGS.",
+    "event_info": [
+      {
+        "title": "5th Grade Pool Party",
+        "start": "2026-05-31T18:00:00",
+        "end": "2026-05-31T20:00:00",
+        "description": "A **5th Grade Pool Party** is scheduled for **Sunday, May 31, 2026** from **6:00-8:00 PM** at the **Oxford Aquatic Center**. This free swim social is for rising 6th graders only (no siblings/families)",
+        "location": "Oxford Aquatic Center"
+      }
+    ]
+  },
+  {
+    "title": "City of Oxford Parks Master Plan Survey",
+    "block_id": "brn1svv6x1",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/rjz21-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-05-01T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "City of Oxford Parks Master Plan\nThe city of Oxford is developing a Parks Master Plan with Pros Consulting. Please take a moment to complete the information at the link below. The site is specific for the Master Plan and has a survey, virtual mapping, and vision board. A lot of Talawanda families are park users and the city would like their feedback.https://engagepros.mysocialpinpoint.com/oxford",
+        "id": "brn1svv6x1"
+      }
+    ],
+    "hash": "brn1svv6x1",
+    "summary": "The City of Oxford is developing a **Parks Master Plan** with Pros Consulting and is seeking feedback from Talawanda families who use the parks. Please complete the **survey, virtual mapping, and vision board** at: https://engagepros.mysocialpinpoint.com/oxford"
+  },
+  {
     "title": "Weekly Update on Concerts and Testing",
     "block_id": "b3f7nm375u",
     "content": "",
@@ -578,102 +665,5 @@
     ],
     "hash": "berhllupn2-bbyw57cizv-bjl0h9pcd1",
     "summary": "The **PAX Good Behavior Game** is a research-based classroom strategy that helps students make positive choices and collaborate with others. It promotes a calmer, more focused learning environment through kindness, teamwork, and respectful behavior.\n\nThe April 2026 Student Calendar includes daily activities such as celebrating National Walking Day (April 3), World Health Day (April 6), Earth Day (April 22), and National Superhero Day (April 28), along with prompts for students to practice leadership skills and positive behaviors throughout the month."
-  },
-  {
-    "title": "April Cafeteria Menus and Lunch Accounts",
-    "block_id": "b0srpil80f-b570fb3xuh-bfr77vevhd-bnhz5qbj8v",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/eefd/4901b7a2b7d3216be7413274379d1a7f.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/5ewbs-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-03-27T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Cafeteria\n\nCafeteria",
-        "id": "b0srpil80f"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Lunch Accounts\nAs a reminder, you are able to add funds to your student's lunch account through the PaySchool Central. Please be mindful and keep your student's account current. If you need assistance with lunch debt, please reach out to Mrs. White.",
-        "id": "b570fb3xuh"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "April Menus\nHere are the breakfast and lunch menus for April!",
-        "id": "bfr77vevhd"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/eefd/4901b7a2b7d3216be7413274379d1a7f.jpeg",
-        "id": "bnhz5qbj8v"
-      }
-    ],
-    "hash": "b0srpil80f-b570fb3xuh-bfr77vevhd-bnhz5qbj8v",
-    "summary": "**Lunch accounts** can be funded through PaySchool Central. Parents should keep accounts current and contact Mrs. White if they need assistance with lunch debt.\n\n**April 2026 breakfast menu** includes items like Breakfast Pizza, Egg & Cheese Biscuit, Glazed Donut, Sausage & Cheese Biscuit Sandwich, Pancake on a Stick, Fresh Baked Cinnamon Roll, Apple Frudel, Stuffed Hash Brown, and Biscuits & Sausage Gravy. All meals include 100% fruit juice, fresh fruit, and choice of milk."
-  },
-  {
-    "title": "Spring State Testing Approaches for Grades 3-5",
-    "block_id": "bwu53kp6vk-bkrqsfsqgx",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/0340/0f0d8a45bf4f915c468f2217715318f2.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/q1p5t-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-03-20T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "Testing\nSpring Ohio State Testing for our 3rd-5th graders is quickly approaching! Your child's teacher will share the dates of testing with you. Please schedule any appointments or activities around testing so that we can make sure your student is tested. We will have a testing assembly soon to share tips and tricks and to encourage them to do their best on the tests. It would be helpful if you could reinforce this at home too.",
-        "id": "bwu53kp6vk"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/0340/0f0d8a45bf4f915c468f2217715318f2.jpeg",
-        "id": "bkrqsfsqgx"
-      }
-    ],
-    "hash": "bwu53kp6vk-bkrqsfsqgx",
-    "summary": "Ohio State Testing for 3rd-5th graders is coming soon. Teachers will share specific testing dates with families. **Please avoid scheduling appointments during testing times** to ensure students can participate. A testing assembly will be held to share tips and encourage students. Five tips for testing success include: get plenty of rest, be on time, eat a good breakfast, relax and take deep breaths, and follow your teacher's directions."
-  },
-  {
-    "title": "Talawanda Multicultural Family Night Invitation",
-    "block_id": "bwk8x8y5ub-burumwc4r8-bta1cjkux1",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/q1p5t-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-03-20T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Around \n\nTalawanda\n\nAround Talawanda",
-        "id": "bwk8x8y5ub"
-      },
-      {
-        "type": "text.title",
-        "content": "Talawanda \n\nMulticultural \n\nFamily \n\nNight\n\nTalawanda Multicultural Family Night",
-        "id": "burumwc4r8"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "We are excited to invite your family to our Talawanda Multicultural Family Night on April 14 from 6:00–7:30 PM at Kramer Elementary School. This event is open to all Talawanda families (K–12).This will be a fun evening where families can come together to celebrate the many cultures that make our community special. There will be activities, games, food, and opportunities to learn about different countries and traditions.If your family would like to participate, you are welcome to:• Attend the event with your family• Host a small booth or activity that represents your culture or country• Bring a traditional dish from your culture to share• Help with a game or activityIf you are interested in attending or participating, please click on the link and fill out the short form below:Google Form LinkThis will help us plan for the event and know how families would like to participate.We would love to see you there and celebrate!If you have any questions, please feel free to reach out.Thank you,Katie Slager",
-        "id": "bta1cjkux1"
-      }
-    ],
-    "hash": "bwk8x8y5ub-burumwc4r8-bta1cjkux1",
-    "summary": "**Talawanda Multicultural Family Night** will be held on **April 14 from 6:00–7:30 PM at Kramer Elementary School**, open to all Talawanda families (K–12). Families can attend, host a cultural booth or activity, bring traditional dishes to share, or help with games and activities. Interested families should fill out the [Google Form](Google Form Link) to help with event planning. Contact Katie Slager with questions.",
-    "event_info": [
-      {
-        "title": "Talawanda Multicultural Family Night",
-        "start": "2026-04-14T18:00:00",
-        "end": "2026-04-14T19:30:00",
-        "description": "**Talawanda Multicultural Family Night** will be held on **April 14 from 6:00–7:30 PM at Kramer Elementary School**, open to all Talawanda families (K–12). Families can attend, host a cultural booth o",
-        "location": "Kramer Elementary School"
-      }
-    ]
   }
 ]
