@@ -1,5 +1,75 @@
 [
   {
+    "title": "Community Bingo for Older Americans Month",
+    "block_id": "bmf3mhxj3n-bu3ol5o9zy-b4zrgm5kc3-bqvkvc5yix",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/b444/ef906ba578bd21c3757cae81bdb8729e.png",
+      "https://cdn.smore.com/u/9529/d878e52ca7207fdceb7546827131d21f.png"
+    ],
+    "source_url": "https://app.smore.com/n/qdjh6-9-days-and-counting?ref=email",
+    "source_title": "9 Days and Counting! | Smore Newsletters for Education",
+    "date": "2026-05-08T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "COMMUNITY \n\nINFORMATION\n\nCOMMUNITY INFORMATION",
+        "id": "bmf3mhxj3n"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Every May, Older Americans Month recognizes the contributions of older adults, highlights aging trends, and reaffirms commitments to serve our older community members. The 2026 theme is “Champion Your Health”.Throughout the month of May, Oxford Seniors, Age-Friendly Oxford, and the Coalition for a Healthy Community, Oxford Area are partnering to highlight and offer programming focused on promoting physical, mental, and emotional health and well-being at all ages.You can participate by playing “Community BINGO” with us! It’s as easy as 1, 2, 3!1) Print your own or pick up a Community Bingo card at any of the following locations:Oxford Seniors, 922 Tollgate Dr., OxfordOxford Lane Library, 441 S. Locust St.The Knolls of Oxford, Clubhouse or Front DeskScripps Gerontology Center, 396 Upham Hall, on campus2) Every time you do something listed on the card, mark it off. The goal is to get “BINGO” as many times as possible. A “BINGO” is marking off any 5 squares in a straight line – either vertically, horizontally, or diagonally.3) Bring your completed BINGO card to the Intergenerational BINGO Party on Sun. May 31 from 3:00 – 5:00 p.m. at Oxford Seniors for prizes, snacks, and FUN! A PDF version of the BINGO card is attached to this message if you'd like to print one at home.",
+        "id": "bu3ol5o9zy"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/b444/ef906ba578bd21c3757cae81bdb8729e.png",
+        "id": "b4zrgm5kc3"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/9529/d878e52ca7207fdceb7546827131d21f.png",
+        "id": "bqvkvc5yix"
+      }
+    ],
+    "hash": "bmf3mhxj3n-bu3ol5o9zy-b4zrgm5kc3-bqvkvc5yix",
+    "summary": "**Older Americans Month (May 2026)** celebrates older adults with the theme \"Champion Your Health.\" Oxford Seniors, Age-Friendly Oxford, and Coalition for a Healthy Community are hosting **Community BINGO** throughout May. Pick up a BINGO card at Oxford Seniors (922 Tollgate Dr.), Oxford Lane Library (441 S. Locust St.), The Knolls of Oxford, or Scripps Gerontology Center (396 Upham Hall). Mark off activities as you complete them (goal: get 5 in a row). Bring completed cards to the **Intergenerational BINGO Party on May 31, 3:00-5:00 PM at Oxford Seniors** for prizes and snacks.",
+    "event_info": [
+      {
+        "title": "Intergenerational BINGO Party",
+        "start": "2026-05-31T15:00:00",
+        "end": "2026-05-31T17:00:00",
+        "description": "**Older Americans Month (May 2026)** celebrates older adults with the theme \"Champion Your Health.\" Oxford Seniors, Age-Friendly Oxford, and Coalition for a Healthy Community are hosting **Community B",
+        "location": "Oxford Seniors, 922 Tollgate Dr., Oxford"
+      }
+    ]
+  },
+  {
+    "title": "Oxford Parks Master Plan Survey",
+    "block_id": "b7xtawiszt-b6zs8m6x4l",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/d726/6340771ae5d27968977c57bcee6d962f.png"
+    ],
+    "source_url": "https://app.smore.com/n/qdjh6-9-days-and-counting?ref=email",
+    "source_title": "9 Days and Counting! | Smore Newsletters for Education",
+    "date": "2026-05-08T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "City of Oxford Parks Master Plan:The city of Oxford is developing a Parks Master Plan with Pros Consulting. Please take a moment to complete the information at the link below. The site is specific for the Master Plan and has a survey, virtual mapping, and vision board. A lot of Talawanda families are park users and the city would like their feedback.https://engagepros.mysocialpinpoint.com/oxford",
+        "id": "b7xtawiszt"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/d726/6340771ae5d27968977c57bcee6d962f.png",
+        "id": "b6zs8m6x4l"
+      }
+    ],
+    "hash": "b7xtawiszt-b6zs8m6x4l",
+    "summary": "The City of Oxford is developing a Parks Master Plan and wants feedback from Talawanda families who use the parks. Residents can complete a survey, use virtual mapping tools, and contribute to a vision board at **https://engagepros.mysocialpinpoint.com/oxford**. The city is working with Pros Consulting on this initiative."
+  },
+  {
     "title": "Early Release Days May 19-21",
     "block_id": "b3jnlp3gqy-b89rv5y4sb-bfc1k9gqyy",
     "content": "",
@@ -744,76 +814,5 @@
     ],
     "hash": "bmf3mhxj3n-b46m4mw13v",
     "summary": "Miami University Psychology Clinic is offering an **8-week caregiver support group** focused on understanding and managing ADHD in children ages 6-12. The group meets **Wednesdays 5:30-7:00pm in-person, starting in March**. To participate, caregivers must have a child diagnosed with ADHD, complete a 1-hour pre-group intake session, and commit to 8 weeks of attendance. **TSI-APPROVED for distribution with TSD.** Contact: 513-529-2423 or psychologyclinic@miamioh.edu"
-  },
-  {
-    "title": "Wear Pink for Anti-Bullying Day",
-    "block_id": "b1z27vxh05-b1vo5kxzx4-betfijkfn9",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/4h28s-the-spring-shift?ref=email",
-    "source_title": "The Spring Shift | Smore Newsletters for Education",
-    "date": "2026-02-20T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "WEAR \n\nPINK!\n\nWEAR PINK!",
-        "id": "b1z27vxh05"
-      },
-      {
-        "type": "text.title",
-        "content": "Wednesday, \n\nFebruary \n\n25th\n\nWednesday, February 25th",
-        "id": "b1vo5kxzx4"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "zoom_out_map\n            \nNational Pink Shirt Day is a vibrant, national movement to fight bullying. It encourages everyone to wear pink shirts as a stand against bullying and brings people together, promoting kindness and inclusivity.This day also emphasizes that everyone has a role to play in promoting kindness and stopping bullying. The movement continues to grow, spreading its message worldwide.",
-        "id": "betfijkfn9"
-      }
-    ],
-    "hash": "b1z27vxh05-b1vo5kxzx4-betfijkfn9",
-    "summary": "**National Pink Shirt Day** is **Wednesday, February 25th**. Students and staff are encouraged to **wear pink** to stand against bullying and promote kindness and inclusivity. This vibrant national movement emphasizes that everyone has a role to play in stopping bullying.",
-    "event_info": [
-      {
-        "title": "National Pink Shirt Day - Wear Pink",
-        "start": "2026-02-25T00:00:00",
-        "end": "2026-02-25T23:59:00",
-        "description": "**National Pink Shirt Day** is **Wednesday, February 25th**. Students and staff are encouraged to **wear pink** to stand against bullying and promote kindness and inclusivity. This vibrant national mo",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Spring Pictures at Talawanda Middle School",
-    "block_id": "bmhxgxna23-bzmvmbmh6j",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/7221/96f716e754d525e279230bd61f221cc9.png"
-    ],
-    "source_url": "https://app.smore.com/n/4h28s-the-spring-shift?ref=email",
-    "source_title": "The Spring Shift | Smore Newsletters for Education",
-    "date": "2026-02-20T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Spring \n\nPictures!\n\nSpring Pictures!",
-        "id": "bmhxgxna23"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/7221/96f716e754d525e279230bd61f221cc9.png",
-        "id": "bzmvmbmh6j"
-      }
-    ],
-    "hash": "bmhxgxna23-bzmvmbmh6j",
-    "summary": "**Spring Picture Day** is scheduled for **March 13, 2026** at Talawanda Middle School. The photography service is provided by **Lifetouch Photography**. The Spring Picture Day ID is **EVTJ4BMPW**.",
-    "event_info": [
-      {
-        "title": "Spring Picture Day - Talawanda Middle School",
-        "start": "2026-03-13T00:00:00",
-        "end": "2026-03-13T23:59:00",
-        "description": "**Spring Picture Day** is scheduled for **March 13, 2026** at Talawanda Middle School. The photography service is provided by **Lifetouch Photography**. The Spring Picture Day ID is **EVTJ4BMPW**.",
-        "location": "Talawanda Middle School"
-      }
-    ]
   }
 ]

@@ -1,5 +1,131 @@
 [
   {
+    "title": "Kramer PTG Mile Fundraiser - May 11th",
+    "block_id": "b5m8132v16-by355f6uba-bvfcfqqglt-bncw8zzi9l",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/3d91/a7f0b58a7bb8153bbcaba10ff9183621.png"
+    ],
+    "source_url": "https://app.smore.com/n/a4jqg",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-05-08T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PTG\n\nPTG",
+        "id": "b5m8132v16"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/3d91/a7f0b58a7bb8153bbcaba10ff9183621.png",
+        "id": "by355f6uba"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "zoom_out_map\n            \nHave you connected your Kroger Rewards card to the Kramer PTG yet? Each account can be connected to ONE nonprofit. When you use this feature, Kroger donates a percentage of your expenses to our PTG. You just have to sign up once! https://www.kroger.com/i/community/community-rewards",
+        "id": "bncw8zzi9l"
+      }
+    ],
+    "hash": "b5m8132v16-by355f6uba-bvfcfqqglt-bncw8zzi9l",
+    "summary": "The **Kramer Mile fundraiser is on May 11th**, with each grade level running together down Sycamore Street adjacent to Kramer. Students can set up fundraising pages at **https://app.99pledges.com/fund/kramermile26/addme** to collect donations from family and friends. **Donations (online, cash, or check) must be turned in by 3:00pm on Monday, May 11th** and are due by midnight on Sunday, May 10th online. The grade level raising the most money wins an ice cream party, and top three individual fundraisers earn prize packs. Connect your **Kroger Rewards card** to Kramer PTG at https://www.kroger.com/i/community/community-rewards to support the PTG year-round.",
+    "event_info": [
+      {
+        "title": "Kramer Mile Fundraiser",
+        "start": "2026-05-11T00:00:00",
+        "end": "2026-05-11T01:00:00",
+        "description": "The **Kramer Mile fundraiser is on May 11th**, with each grade level running together down Sycamore Street adjacent to Kramer. Students can set up fundraising pages at **https://app.99pledges.com/fund",
+        "location": "Sycamore Street adjacent to Kramer Elementary"
+      },
+      {
+        "title": "Kramer Mile Donation Deadline (Cash/Check)",
+        "start": "2026-05-11T15:00:00",
+        "end": "2026-05-11T15:00:00",
+        "description": "The **Kramer Mile fundraiser is on May 11th**, with each grade level running together down Sycamore Street adjacent to Kramer. Students can set up fundraising pages at **https://app.99pledges.com/fund",
+        "location": "Kramer Elementary"
+      }
+    ]
+  },
+  {
+    "title": "Older Americans Month Community BINGO Challenge",
+    "block_id": "bsjx4b9ydm-b9svt12wtu-bezkvjbc6z",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/b127/8f8d4ed42f99233dc573776fd5f99abf.png",
+      "https://cdn.smore.com/u/accc/ca3aedbf1e9fb22683465f4c58f4e3d6.png"
+    ],
+    "source_url": "https://app.smore.com/n/a4jqg",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-05-08T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "Every May, Older Americans Month recognizes the contributions of older adults, highlights aging trends, and reaffirms commitments to serve our older community members. The 2026 theme is “Champion Your Health”.Throughout the month of May, Oxford Seniors, Age-Friendly Oxford, and the Coalition for a Healthy Community, Oxford Area are partnering to highlight and offer programming focused on promoting physical, mental, and emotional health and well-being at all ages.You can participate by playing “Community BINGO” with us! It’s as easy as 1, 2, 3!1) Print your own or pick up a Community Bingo card at any of the following locations:Oxford Seniors, 922 Tollgate Dr., OxfordOxford Lane Library, 441 S. Locust St.The Knolls of Oxford, Clubhouse or Front DeskScripps Gerontology Center, 396 Upham Hall, on campus2) Every time you do something listed on the card, mark it off. The goal is to get “BINGO” as many times as possible. A “BINGO” is marking off any 5 squares in a straight line – either vertically, horizontally, or diagonally.3) Bring your completed BINGO card to the Intergenerational BINGO Party on Sun. May 31 from 3:00 – 5:00 p.m. at Oxford Seniors for prizes, snacks, and FUN! A PDF version of the BINGO card is attached if you'd like to print one at home.",
+        "id": "bsjx4b9ydm"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/b127/8f8d4ed42f99233dc573776fd5f99abf.png",
+        "id": "b9svt12wtu"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/accc/ca3aedbf1e9fb22683465f4c58f4e3d6.png",
+        "id": "bezkvjbc6z"
+      }
+    ],
+    "hash": "bsjx4b9ydm-b9svt12wtu-bezkvjbc6z",
+    "summary": "**Older Americans Month** celebrates older adults' contributions throughout May 2026 with the theme \"Champion Your Health.\" Oxford Seniors, Age-Friendly Oxford, and the Coalition for a Healthy Community are hosting **Community BINGO** to promote physical, mental, and emotional health. Pick up a BINGO card at Oxford Seniors (922 Tollgate Dr.), Oxford Lane Library (441 S. Locust St.), The Knolls of Oxford, or Scripps Gerontology Center (396 Upham Hall), complete activities throughout May, and bring your completed card to the **Intergenerational BINGO Party on May 31, 3:00-5:00 PM** at Oxford Seniors for prizes and snacks.",
+    "event_info": [
+      {
+        "title": "Intergenerational BINGO Party",
+        "start": "2026-05-31T15:00:00",
+        "end": "2026-05-31T17:00:00",
+        "description": "**Older Americans Month** celebrates older adults' contributions throughout May 2026 with the theme \"Champion Your Health.\" Oxford Seniors, Age-Friendly Oxford, and the Coalition for a Healthy Communi",
+        "location": "Oxford Seniors, 922 Tollgate Dr., Oxford"
+      }
+    ]
+  },
+  {
+    "title": "Bantam Football & Cheerleading Registration 2026",
+    "block_id": "b4opng364u-b2poqat878-bbytghqdgk",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/8a9a/80886865b28f1fe6ce59589255fa12c4.png",
+      "https://cdn.smore.com/u/fee1/4a5239aa9de6a56478986226484df69c.png"
+    ],
+    "source_url": "https://app.smore.com/n/a4jqg",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-05-08T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Bantam \n\nFootball \n\nAssociation\n\nBantam Football Association",
+        "id": "b4opng364u"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/8a9a/80886865b28f1fe6ce59589255fa12c4.png",
+        "id": "b2poqat878"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/fee1/4a5239aa9de6a56478986226484df69c.png",
+        "id": "bbytghqdgk"
+      }
+    ],
+    "hash": "b4opng364u-b2poqat878-bbytghqdgk",
+    "summary": "The Talawanda Bantam Football Association is accepting **2026 registration for youth tackle football (grades K-6th) and cheerleading** programs. Registration must be completed **online by June 1st**. \n\n**Football registration ($220)** includes reversible jersey, game pants, socks, practice jersey, and duffle bag. **Cheerleading registration is $300 for new participants, $200 for returning** (includes uniform, pom poms, cheer bag, crop top, brief, bow, socks, shoes, and pink socks). \n\nFittings and signing event scheduled for May. Returning cheerleaders will not receive new uniforms unless registered as new players. Contact: 513-503-8635 or tbfaregistrar@gmail.com. More info at www.talawandabantamfootballassociation.sportingin.com",
+    "event_info": [
+      {
+        "title": "Bantam Football & Cheerleading Registration Deadline",
+        "start": "2026-06-01T23:59:00",
+        "end": "2026-06-01T23:59:00",
+        "description": "The Talawanda Bantam Football Association is accepting **2026 registration for youth tackle football (grades K-6th) and cheerleading** programs. Registration must be completed **online by June 1st**. ",
+        "location": "Online at www.talawandabantamfootballassociation.sportingin.com"
+      }
+    ]
+  },
+  {
     "title": "Field Day, No School Days, and Recent Activities",
     "block_id": "bmz9zvnn32-be4mrtmtze",
     "content": "",
@@ -582,88 +708,5 @@
         "location": "Talawanda Middle School, 4030 Reily Oxford Road"
       }
     ]
-  },
-  {
-    "title": "Reading Corner Newsletter on Decoding Skills",
-    "block_id": "ber66w8386-bn2pap4gkq",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/e0yz7",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-02-13T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Title \n\nTalk \n\nTitle Talk",
-        "id": "ber66w8386"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Title Talk Reading Corner February NewsletterWhat does decoding mean? A simple definition for decoding is recognizing letter sounds or patterns and blending them together to translate a written word into speech. Decoding is a foundational reading skill (phonics) that must be developed to begin successful reading with fluency. This process begins with students recognizing their letters and sounds then blending the sounds to speak the word, i.e., /c/ - /a/ - /t/ becomes cat.Here is an example of what happens when a student decodes a word:Recognizing letters and letter patterns (like b, sh, igh)Knowing the sounds they makeBlending those sounds together to read a wordActivities: Reading Rockets is a reputable research-based website for all things reading; and below are age-specific resources for decoding activities.Kindergarten: https://www.readingrockets.org/literacy-home/reading-101Kindergartener phonics and decoding activitiesFirst Grade:https://www.readingrockets.org/literacy-home/reading-101-guide-parents/your-first-grader/phonics-and-decoding-activitiesSecond Grade:https://www.readingrockets.org/literacy-home/reading-101-guide-parents/your-second-grader/phonics-and-decoding-activitiesThird Grade:Here is a video showing how a 3rd grade student uses syllables to decode longer words more easily.Questions or need help? Please reach out to your child's Reading Corner instructor; Mrs. Geshan, geshanc@talawanda.org, Mrs. Kobermann, kobermanc@talawanda.org, or Mrs. Walters, waltersh@talawanda.org.",
-        "id": "bn2pap4gkq"
-      }
-    ],
-    "hash": "ber66w8386-bn2pap4gkq",
-    "summary": "The February **Reading Corner Newsletter** explains decoding—the foundational reading skill of recognizing letter sounds and blending them to read words. The newsletter provides **grade-specific decoding activities** for Kindergarten through 3rd grade via Reading Rockets website links, including a video showing how 3rd graders use syllables to decode longer words. Parents can contact Mrs. Geshan (geshanc@talawanda.org), Mrs. Kobermann (kobermanc@talawanda.org), or Mrs. Walters (waltersh@talawanda.org) with questions."
-  },
-  {
-    "title": "Kramer Free Pantry Available to Students",
-    "block_id": "blqwkxb9tq-brwujkaymx-bx576e3ldv",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/e43f/73359dc655ec2964428fe8056ebd689e.png"
-    ],
-    "source_url": "https://app.smore.com/n/e0yz7",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-02-13T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "TALAWANDA \n\nFOOD \n\nRESOURCES\n\nTALAWANDA FOOD RESOURCES",
-        "id": "blqwkxb9tq"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/e43f/73359dc655ec2964428fe8056ebd689e.png",
-        "id": "brwujkaymx"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "OTHER TALAWANDA FREE RESOURCES\nSEE IMAGES BELOW FOR MORE INFORMATION",
-        "id": "bx576e3ldv"
-      }
-    ],
-    "hash": "blqwkxb9tq-brwujkaymx-bx576e3ldv",
-    "summary": "The **Kramer Free Pantry** is located at the entrance of Kramer and provides free food and hygiene items to all students. Available items include cereal, fruit, vegetables, peanut butter, spaghetti, mac and cheese, soup, shampoo, and toothbrushes. For questions, donations, or suggestions, contact **Chelsea Pike, Kramer Social Worker** at **513-273-3511** or **pikec@talawanda.org**."
-  },
-  {
-    "title": "Read At Home Program and Kroger Rewards",
-    "block_id": "b4qrzpzg5c-bwulg9ornb-bncw8zzi9l",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/5d55/a63f84b2e902666f1b14cc2bc29060e8.png"
-    ],
-    "source_url": "https://app.smore.com/n/e0yz7",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-02-13T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "zoom_out_map\n            \nRead At Home\nKramer RAH (Reading At Home) is a voluntary program from K-2nd graders that builds a home-school connection by rewarding students for reading at home. Each week students record the books they've read and turn-in record sheets for rewards. Rewards alternate between a student selected book and a small prize.",
-        "id": "b4qrzpzg5c"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/5d55/a63f84b2e902666f1b14cc2bc29060e8.png",
-        "id": "bwulg9ornb"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "zoom_out_map\n            \nHave you connected your Kroger Rewards card to the Kramer PTG yet? Each account can be connected to ONE nonprofit. When you use this feature, Kroger donates a percentage of your expenses to our PTG. You just have to sign up once! https://www.kroger.com/i/community/community-rewards",
-        "id": "bncw8zzi9l"
-      }
-    ],
-    "hash": "b4qrzpzg5c-bwulg9ornb-bncw8zzi9l",
-    "summary": "**Read At Home (RAH)** is a voluntary program for K-2nd grade students at Kramer Elementary that encourages reading at home. Students record books they've read each week on a record sheet and turn it in for rewards, which alternate between a student-selected book and a small prize.\n\n**Kroger Community Rewards:** Connect your Kroger Rewards card to Kramer PTG (one nonprofit per account) and Kroger will donate a percentage of your purchases to the PTG. Sign up once at https://www.kroger.com/i/community/community-rewards"
   }
 ]
