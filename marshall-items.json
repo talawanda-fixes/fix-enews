@@ -155,47 +155,6 @@
     "summary": "As the school year ends, families are encouraged to prevent \"summer slide\" (learning loss over summer break) by keeping students reading. Resources include **Lane Library**, the Bookmobile (library card needed), free e-books at **HooplaDigital.com**, and Little Free Libraries at elementary schools. Activity ideas include creating cozy reading spaces, building blanket forts for reading adventures, and participating in **[Scholastic's Summer Reading Bingo](https://www.scholastic.com/parents/books-and-reading/raise-a-reader-blog/summer-reading-bingo.html)**. Parents are reminded they are their child's best teacher."
   },
   {
-    "title": "Tattoo a Teacher Fundraiser by PTG",
-    "block_id": "bhatmtq6ud-bpaofn5848",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/3ca7/6daab8244061ebc41bb6334af18d910d.png"
-    ],
-    "source_url": "https://app.smore.com/n/9nzvh",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-05-01T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PTG \n\nCORNER\n\nPTG CORNER",
-        "id": "bhatmtq6ud"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/3ca7/6daab8244061ebc41bb6334af18d910d.png",
-        "id": "bpaofn5848"
-      }
-    ],
-    "hash": "bhatmtq6ud-bpaofn5848",
-    "summary": "Students can purchase temporary tattoos ($1 small, $3 medium, $5 large) for willing teachers and staff to wear as a PTG fundraiser. Choose from over 30 participating teachers including Mrs. Jones, Ms. Ann, Mr. Dan, Mrs. Chrissy, and many others. The teacher with the most tattoos wins a prize, and **Tattoo Day is Friday, May 8th**. **Forms and payment are due May 4th**.",
-    "event_info": [
-      {
-        "title": "Tattoo a Teacher Forms and Payment Due",
-        "start": "2026-05-04T00:00:00",
-        "end": "2026-05-04T23:59:00",
-        "description": "Students can purchase temporary tattoos ($1 small, $3 medium, $5 large) for willing teachers and staff to wear as a PTG fundraiser. Choose from over 30 participating teachers including Mrs. Jones, Ms.",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Tattoo a Teacher Day",
-        "start": "2026-05-08T00:00:00",
-        "end": "2026-05-08T23:59:00",
-        "description": "Students can purchase temporary tattoos ($1 small, $3 medium, $5 large) for willing teachers and staff to wear as a PTG fundraiser. Choose from over 30 participating teachers including Mrs. Jones, Ms.",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
     "title": "Social Worker Contact Information",
     "block_id": "bomk6tbtpd-bdka6yibi5-bpfleua654-be2jc9cz08",
     "content": "",
@@ -253,6 +212,47 @@
     ],
     "hash": "bisgsi05ub-bw1bvcwh8m",
     "summary": "The City of Oxford is creating a Parks Master Plan with Pros Consulting and wants feedback from Talawanda families who use the parks. Community members can complete a survey, use virtual mapping tools, and contribute to a vision board at **https://engagepros.mysocialpinpoint.com/oxford**."
+  },
+  {
+    "title": "Tattoo a Teacher Fundraiser by PTG",
+    "block_id": "bhatmtq6ud-bpaofn5848",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/3ca7/6daab8244061ebc41bb6334af18d910d.png"
+    ],
+    "source_url": "https://app.smore.com/n/9nzvh",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-05-01T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PTG \n\nCORNER\n\nPTG CORNER",
+        "id": "bhatmtq6ud"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/3ca7/6daab8244061ebc41bb6334af18d910d.png",
+        "id": "bpaofn5848"
+      }
+    ],
+    "hash": "bhatmtq6ud-bpaofn5848",
+    "summary": "Students can purchase temporary tattoos ($1 small, $3 medium, $5 large) for willing teachers and staff to wear as a PTG fundraiser. Choose from over 30 participating teachers including Mrs. Jones, Ms. Ann, Mr. Dan, Mrs. Chrissy, and many others. The teacher with the most tattoos wins a prize, and **Tattoo Day is Friday, May 8th**. **Forms and payment are due May 4th**.",
+    "event_info": [
+      {
+        "title": "Tattoo a Teacher Forms and Payment Due",
+        "start": "2026-05-04T00:00:00",
+        "end": "2026-05-04T23:59:00",
+        "description": "Students can purchase temporary tattoos ($1 small, $3 medium, $5 large) for willing teachers and staff to wear as a PTG fundraiser. Choose from over 30 participating teachers including Mrs. Jones, Ms.",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Tattoo a Teacher Day",
+        "start": "2026-05-08T00:00:00",
+        "end": "2026-05-08T23:59:00",
+        "description": "Students can purchase temporary tattoos ($1 small, $3 medium, $5 large) for willing teachers and staff to wear as a PTG fundraiser. Choose from over 30 participating teachers including Mrs. Jones, Ms.",
+        "location": "Talawanda High School"
+      }
+    ]
   },
   {
     "title": "Mayfest Silent Auction & Raffle Baskets",

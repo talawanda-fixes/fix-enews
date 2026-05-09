@@ -1,5 +1,37 @@
 [
   {
+    "title": "Senior Fee Payment Deadline May 1st",
+    "block_id": "biro7ce24w-b3gse6x0hd",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/kv8haz",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-04-24T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "SCHOOL \n\nFEES\n\nSCHOOL FEES",
+        "id": "biro7ce24w"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Just a reminder that Senior fees must be paid before graduation. All fees can be paid by cash or check in the Main office or online through the PaySchool Central link below. This must be done by May 1st. You may also manage your students lunch account through the link as well.PaySchools Central LINK",
+        "id": "b3gse6x0hd"
+      }
+    ],
+    "hash": "biro7ce24w-b3gse6x0hd",
+    "summary": "**Senior fees must be paid before graduation by May 1st.** Fees can be paid by cash or check in the Main Office or online through [PaySchools Central](PaySchools Central LINK). The same system can be used to manage student lunch accounts.",
+    "event_info": [
+      {
+        "title": "Senior Fee Payment Deadline",
+        "start": "2026-05-01T00:00:00",
+        "end": "2026-05-01T23:59:00",
+        "description": "**Senior fees must be paid before graduation by May 1st.** Fees can be paid by cash or check in the Main Office or online through [PaySchools Central](PaySchools Central LINK). The same system can be ",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
     "title": "Senior Cap and Gown and Chromebook Information",
     "block_id": "b0jj550frz-bum5x1ke3g-bnddbl7pcc",
     "content": "",
@@ -47,38 +79,6 @@
         "end": "2026-05-08T23:59:00",
         "description": "**Cap and Gown:** Caps and gowns are now available for pickup in the Main Office (Butler Tech students receive theirs at their campus). Gowns are rented and will be collected after graduation. Order a",
         "location": "Media Center"
-      }
-    ]
-  },
-  {
-    "title": "Senior Fee Payment Deadline May 1st",
-    "block_id": "biro7ce24w-b3gse6x0hd",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/kv8haz",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-04-24T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "SCHOOL \n\nFEES\n\nSCHOOL FEES",
-        "id": "biro7ce24w"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Just a reminder that Senior fees must be paid before graduation. All fees can be paid by cash or check in the Main office or online through the PaySchool Central link below. This must be done by May 1st. You may also manage your students lunch account through the link as well.PaySchools Central LINK",
-        "id": "b3gse6x0hd"
-      }
-    ],
-    "hash": "biro7ce24w-b3gse6x0hd",
-    "summary": "**Senior fees must be paid before graduation by May 1st.** Fees can be paid by cash or check in the Main Office or online through [PaySchools Central](PaySchools Central LINK). The same system can be used to manage student lunch accounts.",
-    "event_info": [
-      {
-        "title": "Senior Fee Payment Deadline",
-        "start": "2026-05-01T00:00:00",
-        "end": "2026-05-01T23:59:00",
-        "description": "**Senior fees must be paid before graduation by May 1st.** Fees can be paid by cash or check in the Main Office or online through [PaySchools Central](PaySchools Central LINK). The same system can be ",
-        "location": "Talawanda High School"
       }
     ]
   },
@@ -429,84 +429,6 @@
     ]
   },
   {
-    "title": "Prom Tickets Now Available",
-    "block_id": "bqrwz5ljtf-bg4tbvmfea-blscw4si4a",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/0241/5d2d8e456b2ceb52709fd353cf3c6457.png"
-    ],
-    "source_url": "https://app.smore.com/n/3aqzw",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-04-10T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PROM\n\nPROM",
-        "id": "bqrwz5ljtf"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/0241/5d2d8e456b2ceb52709fd353cf3c6457.png",
-        "id": "bg4tbvmfea"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Tickets available now on Hometown Ticketing!",
-        "id": "blscw4si4a"
-      }
-    ],
-    "hash": "bqrwz5ljtf-bg4tbvmfea-blscw4si4a",
-    "summary": "**Talawanda High School Prom** is scheduled for **May 2, 2026** from **8-11pm** at the **Hamilton Courtyard Marriott**. The theme is \"Time After Time\" featuring elegant clock and vintage time-themed decorations. **Tickets are available now on Hometown Ticketing!**",
-    "event_info": [
-      {
-        "title": "Talawanda High School Prom - Time After Time",
-        "start": "2026-05-02T20:00:00",
-        "end": "2026-05-02T23:00:00",
-        "description": "**Talawanda High School Prom** is scheduled for **May 2, 2026** from **8-11pm** at the **Hamilton Courtyard Marriott**. The theme is \"Time After Time\" featuring elegant clock and vintage time-themed d",
-        "location": "Hamilton Courtyard Marriott"
-      }
-    ]
-  },
-  {
-    "title": "Freshman Five Fundraiser for Homecoming Dance",
-    "block_id": "bkvpi3ypox-by6916o755-b1wl02atc8",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/ee3d/6645efa7ff8e74a527194d2943a8d64d.png"
-    ],
-    "source_url": "https://app.smore.com/n/3aqzw",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-04-10T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "FRESHMAN \n\nFIVE \n\nFUNDRAISER\n\nFRESHMAN FIVE FUNDRAISER",
-        "id": "bkvpi3ypox"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/ee3d/6645efa7ff8e74a527194d2943a8d64d.png",
-        "id": "by6916o755"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "The Class of 2029 is responsible for the homecoming dance in the fall of 2026. In order to provide a great experience for the whole school, the class must generate funds to plan and implement the dance (raising money for homecoming has always been the responsibility of the freshman class). Our goal is for as many freshmen students (or their families) to donate $5 to the Freshmen Five Fundraiser. This money will be imperative for a successful 2026 homecoming dance. You can donate directly to the fundraiser or look for a student by first name and last initial at the link below! https://app.99pledges.com/fund/thsclassof29",
-        "id": "b1wl02atc8"
-      }
-    ],
-    "hash": "bkvpi3ypox-by6916o755-b1wl02atc8",
-    "summary": "The **Class of 2029** is raising funds for the **Fall 2026 Homecoming Dance** through the **Freshman Five Fundraiser**. Families are encouraged to donate **$5** per freshman student to support the event. Donations can be made at **https://app.99pledges.com/fund/thsclassof29** where you can donate directly or search for a specific student by first name and last initial. This fundraiser is **TSD approved for distribution**.",
-    "event_info": [
-      {
-        "title": "Homecoming Dance 2026",
-        "start": "2026-09-01T00:00:00",
-        "end": "2026-11-30T23:59:00",
-        "description": "The **Class of 2029** is raising funds for the **Fall 2026 Homecoming Dance** through the **Freshman Five Fundraiser**. Families are encouraged to donate **$5** per freshman student to support the eve",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
     "title": "Board of Education Meeting April 16th",
     "block_id": "bwl8bjnvcf-baku72znj9",
     "content": "",
@@ -583,6 +505,84 @@
         "end": "2026-05-21T13:10:00",
         "description": "The last three days of school (May 19, 20, 21) will be early release days with the following dismissal times:\n- **TMS (Talawanda Middle School)**: 11:20 am\n- **THS (Talawanda High School)**: 11:40 am\n",
         "location": "Talawanda Elementary School"
+      }
+    ]
+  },
+  {
+    "title": "Prom Tickets Now Available",
+    "block_id": "bqrwz5ljtf-bg4tbvmfea-blscw4si4a",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/0241/5d2d8e456b2ceb52709fd353cf3c6457.png"
+    ],
+    "source_url": "https://app.smore.com/n/3aqzw",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-04-10T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PROM\n\nPROM",
+        "id": "bqrwz5ljtf"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/0241/5d2d8e456b2ceb52709fd353cf3c6457.png",
+        "id": "bg4tbvmfea"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Tickets available now on Hometown Ticketing!",
+        "id": "blscw4si4a"
+      }
+    ],
+    "hash": "bqrwz5ljtf-bg4tbvmfea-blscw4si4a",
+    "summary": "**Talawanda High School Prom** is scheduled for **May 2, 2026** from **8-11pm** at the **Hamilton Courtyard Marriott**. The theme is \"Time After Time\" featuring elegant clock and vintage time-themed decorations. **Tickets are available now on Hometown Ticketing!**",
+    "event_info": [
+      {
+        "title": "Talawanda High School Prom - Time After Time",
+        "start": "2026-05-02T20:00:00",
+        "end": "2026-05-02T23:00:00",
+        "description": "**Talawanda High School Prom** is scheduled for **May 2, 2026** from **8-11pm** at the **Hamilton Courtyard Marriott**. The theme is \"Time After Time\" featuring elegant clock and vintage time-themed d",
+        "location": "Hamilton Courtyard Marriott"
+      }
+    ]
+  },
+  {
+    "title": "Freshman Five Fundraiser for Homecoming Dance",
+    "block_id": "bkvpi3ypox-by6916o755-b1wl02atc8",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/ee3d/6645efa7ff8e74a527194d2943a8d64d.png"
+    ],
+    "source_url": "https://app.smore.com/n/3aqzw",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-04-10T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "FRESHMAN \n\nFIVE \n\nFUNDRAISER\n\nFRESHMAN FIVE FUNDRAISER",
+        "id": "bkvpi3ypox"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/ee3d/6645efa7ff8e74a527194d2943a8d64d.png",
+        "id": "by6916o755"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "The Class of 2029 is responsible for the homecoming dance in the fall of 2026. In order to provide a great experience for the whole school, the class must generate funds to plan and implement the dance (raising money for homecoming has always been the responsibility of the freshman class). Our goal is for as many freshmen students (or their families) to donate $5 to the Freshmen Five Fundraiser. This money will be imperative for a successful 2026 homecoming dance. You can donate directly to the fundraiser or look for a student by first name and last initial at the link below! https://app.99pledges.com/fund/thsclassof29",
+        "id": "b1wl02atc8"
+      }
+    ],
+    "hash": "bkvpi3ypox-by6916o755-b1wl02atc8",
+    "summary": "The **Class of 2029** is raising funds for the **Fall 2026 Homecoming Dance** through the **Freshman Five Fundraiser**. Families are encouraged to donate **$5** per freshman student to support the event. Donations can be made at **https://app.99pledges.com/fund/thsclassof29** where you can donate directly or search for a specific student by first name and last initial. This fundraiser is **TSD approved for distribution**.",
+    "event_info": [
+      {
+        "title": "Homecoming Dance 2026",
+        "start": "2026-09-01T00:00:00",
+        "end": "2026-11-30T23:59:00",
+        "description": "The **Class of 2029** is raising funds for the **Fall 2026 Homecoming Dance** through the **Freshman Five Fundraiser**. Families are encouraged to donate **$5** per freshman student to support the eve",
+        "location": "Talawanda High School"
       }
     ]
   },
