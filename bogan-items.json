@@ -539,6 +539,61 @@
     ]
   },
   {
+    "title": "Allergies or Cold: Know the Difference",
+    "block_id": "bfk3x3z2v4-bjcn9nrkts",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/5dd9/ae5d713d6c7a309afa0cbd1027b1d926.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/wcbre-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-04-10T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Nurse's \n\nNotes\n\nNurse's Notes",
+        "id": "bfk3x3z2v4"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/5dd9/ae5d713d6c7a309afa0cbd1027b1d926.jpeg",
+        "id": "bjcn9nrkts"
+      }
+    ],
+    "hash": "bfk3x3z2v4-bjcn9nrkts",
+    "summary": "The school nurse provides a flowchart to help distinguish between allergy symptoms and cold symptoms. **Key differences**: Allergies typically involve clear mucus, seasonal occurrence, itchiness, and symptoms that last for extended periods. Colds usually present with green or yellow mucus, fever, body discomfort, and symptoms that come on quickly and taper off fairly rapidly. **Call your doctor if** symptoms last longer than two weeks, symptoms worsen or new symptoms develop, you have a sore throat or fever higher than 100 degrees for longer than three days, or you experience intense chest pain and shortness of breath."
+  },
+  {
+    "title": "PAX Good Behavior Game Program",
+    "block_id": "berhllupn2-bbyw57cizv-bucgrnjyg6",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/7834/971b9194ffa6185cb89ac4ce2e5a431d.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/wcbre-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-04-10T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PAX\n\nPAX",
+        "id": "berhllupn2"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "The PAX Good Behavior Game is a research-based classroom strategy that helps children make positive choices, and collaborate with others. It supports a calmer, more focused learning environment by promoting kindness, teamwork, and respectful behavior.",
+        "id": "bbyw57cizv"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/7834/971b9194ffa6185cb89ac4ce2e5a431d.jpeg",
+        "id": "bucgrnjyg6"
+      }
+    ],
+    "hash": "berhllupn2-bbyw57cizv-bucgrnjyg6",
+    "summary": "The **PAX Good Behavior Game** is a research-based classroom strategy that helps students make positive choices and collaborate with others. It promotes a calmer, more focused learning environment through kindness, teamwork, and respectful behavior.\n\nThe April 2026 student calendar includes daily PAX activities such as National Walking Day (April 3), World Health Day (April 6), Earth Day activities (April 22), and National Superhero Day (April 28), along with prompts for students to practice leadership, gratitude, and positive behaviors throughout the month."
+  },
+  {
     "title": "Family Unplug & Play Night at Bogan",
     "block_id": "bjqvo7kz71-b4tf4l2m9c",
     "content": "",
@@ -612,60 +667,5 @@
         "location": "Bogan Elementary Cafeteria, 5200 Hamilton Oxford Rd., Oxford, OH 45056"
       }
     ]
-  },
-  {
-    "title": "Allergies or Cold: Know the Difference",
-    "block_id": "bfk3x3z2v4-bjcn9nrkts",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/5dd9/ae5d713d6c7a309afa0cbd1027b1d926.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/wcbre-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-04-10T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Nurse's \n\nNotes\n\nNurse's Notes",
-        "id": "bfk3x3z2v4"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/5dd9/ae5d713d6c7a309afa0cbd1027b1d926.jpeg",
-        "id": "bjcn9nrkts"
-      }
-    ],
-    "hash": "bfk3x3z2v4-bjcn9nrkts",
-    "summary": "The school nurse provides a flowchart to help distinguish between allergy symptoms and cold symptoms. **Key differences**: Allergies typically involve clear mucus, seasonal occurrence, itchiness, and symptoms that last for extended periods. Colds usually present with green or yellow mucus, fever, body discomfort, and symptoms that come on quickly and taper off fairly rapidly. **Call your doctor if** symptoms last longer than two weeks, symptoms worsen or new symptoms develop, you have a sore throat or fever higher than 100 degrees for longer than three days, or you experience intense chest pain and shortness of breath."
-  },
-  {
-    "title": "PAX Good Behavior Game Program",
-    "block_id": "berhllupn2-bbyw57cizv-bucgrnjyg6",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/7834/971b9194ffa6185cb89ac4ce2e5a431d.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/wcbre-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-04-10T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PAX\n\nPAX",
-        "id": "berhllupn2"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "The PAX Good Behavior Game is a research-based classroom strategy that helps children make positive choices, and collaborate with others. It supports a calmer, more focused learning environment by promoting kindness, teamwork, and respectful behavior.",
-        "id": "bbyw57cizv"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/7834/971b9194ffa6185cb89ac4ce2e5a431d.jpeg",
-        "id": "bucgrnjyg6"
-      }
-    ],
-    "hash": "berhllupn2-bbyw57cizv-bucgrnjyg6",
-    "summary": "The **PAX Good Behavior Game** is a research-based classroom strategy that helps students make positive choices and collaborate with others. It promotes a calmer, more focused learning environment through kindness, teamwork, and respectful behavior.\n\nThe April 2026 student calendar includes daily PAX activities such as National Walking Day (April 3), World Health Day (April 6), Earth Day activities (April 22), and National Superhero Day (April 28), along with prompts for students to practice leadership, gratitude, and positive behaviors throughout the month."
   }
 ]
