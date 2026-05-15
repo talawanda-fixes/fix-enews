@@ -1,5 +1,28 @@
 [
   {
+    "title": "Link Kroger Rewards to Kramer PTG",
+    "block_id": "b5m8132v16-bncw8zzi9l",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/42vzh",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-05-15T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PTG\n\nPTG",
+        "id": "b5m8132v16"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "zoom_out_map\n            \nHave you connected your Kroger Rewards card to the Kramer PTG yet? Each account can be connected to ONE nonprofit. When you use this feature, Kroger donates a percentage of your expenses to our PTG. You just have to sign up once! https://www.kroger.com/i/community/community-rewards",
+        "id": "bncw8zzi9l"
+      }
+    ],
+    "hash": "b5m8132v16-bncw8zzi9l",
+    "summary": "Connect your **Kroger Rewards card** to the Kramer PTG to help support the school. Kroger will donate a percentage of your purchases to the PTG, and you only need to sign up once. Each account can be linked to one nonprofit. Sign up at: https://www.kroger.com/i/community/community-rewards"
+  },
+  {
     "title": "Kramer PTG Mile Fundraiser - May 11th",
     "block_id": "b5m8132v16-by355f6uba-bvfcfqqglt-bncw8zzi9l",
     "content": "",
@@ -662,50 +685,6 @@
         "end": "2026-05-09T23:59:00",
         "description": "**Girls on the Run** is now accepting registration for grades 4-5 for the **Spring 2026 season (March 2 - May 9)**. The program focuses on building confidence, setting goals, making friends, and healt",
         "location": "Kramer Elementary in Mrs. Story's room 117"
-      }
-    ]
-  },
-  {
-    "title": "Community Resources and Events Information",
-    "block_id": "bz46wtbjri-b4h0989yht-boer6vpg4l-bq1bxnionj-be369ky4n3",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/edb2/3a4182ae11d248b362f59d1e6026ceef.png"
-    ],
-    "source_url": "https://app.smore.com/n/bsdgk",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-02-20T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "COMMUNITY \n\nPAGE\n\nCOMMUNITY PAGE",
-        "id": "bz46wtbjri"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "CLINK THE LINK BELOW TO SEE MORE COMMUNITY EVENTS ON THE TALAWANDA COMMUNITY PAGE! 🔽",
-        "id": "b4h0989yht"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "zoom_out_map\n            \nPEOPLE UNITED FOR SELF HELP\nPUSH provides grants to low-income homeowners in the Talawanda School District for critical and emergency home repairs. Call Jeanne or Sabrina at 513-523-8100 for more information. Application is attached. Http://www.push-oxford.org/",
-        "id": "bq1bxnionj"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/edb2/3a4182ae11d248b362f59d1e6026ceef.png",
-        "id": "be369ky4n3"
-      }
-    ],
-    "hash": "bz46wtbjri-b4h0989yht-boer6vpg4l-bq1bxnionj-be369ky4n3",
-    "summary": "The **Talawanda Community Page** provides information about local events and resources. **PUSH (People United for Self Help)** offers grants to low-income homeowners in the Talawanda School District for critical and emergency home repairs. Contact Jeanne or Sabrina at **513-523-8100** or visit [push-oxford.org](http://www.push-oxford.org/) for more information.\n\n**Talawanda Craft Fair** on **April 25, 2026** from **9 AM - 2 PM** at Talawanda Middle School (4030 Reily Oxford Road). Features home decor, jewelry, crafts, beauty products, baked goods, knitted items, and vintage clothes. **$2 entry fee**. Hosted by Talawanda Volleyball & Cheer Teams.",
-    "event_info": [
-      {
-        "title": "Talawanda Craft Fair",
-        "start": "2026-04-25T09:00:00",
-        "end": "2026-04-25T14:00:00",
-        "description": "The **Talawanda Community Page** provides information about local events and resources. **PUSH (People United for Self Help)** offers grants to low-income homeowners in the Talawanda School District f",
-        "location": "Talawanda Middle School, 4030 Reily Oxford Road"
       }
     ]
   }

@@ -1,5 +1,30 @@
 [
   {
+    "title": "School Medication Policy and Pickup Procedures",
+    "block_id": "bhrfin6j24-bkfxd0vifd",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/24e2/5c00c14d2e1a1469c0db00e26b96f23e.png"
+    ],
+    "source_url": "https://app.smore.com/n/16xzy",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-05-15T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Nurse's \n\nCorner\n\nNurse's Corner",
+        "id": "bhrfin6j24"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/24e2/5c00c14d2e1a1469c0db00e26b96f23e.png",
+        "id": "bkfxd0vifd"
+      }
+    ],
+    "hash": "bhrfin6j24-bkfxd0vifd",
+    "summary": "Students cannot transport any medications (prescription or over-the-counter) to or from school - an adult must pick up all medications. If your child needs medication at school, contact Nurse Tonja to arrange pickup. The notice includes an illustration of medication bottles and pills to emphasize this important safety policy."
+  },
+  {
     "title": "Marshall Elementary MayFest Community Event",
     "block_id": "bhatmtq6ud-be99iw6exi",
     "content": "",
@@ -775,45 +800,5 @@
     ],
     "hash": "bnmbq6ritu-bauhm8hclf-boh3us1447-ba0s3frire",
     "summary": "Marshall Elementary's April 2026 breakfast and lunch menus are now available. **Breakfast items** include options like French Toast Bites (April 16), Mini Maple Pancakes (April 15), Biscuits & Sausage Gravy (April 17, 29), and various breakfast pizzas and donut holes throughout the month. **Lunch offerings** feature items such as Popcorn Chicken Dinner Roll (April 9, 30), BBQ Boneless Chicken Wings (April 15), Walking Taco with Doritos (April 14), and Mac & Cheese with Garlic Toast (April 23). All meals include 100% fruit juice, fresh fruit selections, and choice of milk. Note: No school on April 6."
-  },
-  {
-    "title": "Spring Flower Sale Extended Through Break",
-    "block_id": "bhatmtq6ud-ba71tdv7h5-bgezk622el-b8ymlwiuk3-bbq2tanpt9",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/77eb/5c012a66ca71694820d54d848e58d371.png"
-    ],
-    "source_url": "https://app.smore.com/n/kyjrd",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-03-27T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PTG \n\nCORNER\n\nPTG CORNER",
-        "id": "bhatmtq6ud"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/77eb/5c012a66ca71694820d54d848e58d371.png",
-        "id": "ba71tdv7h5"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "GREAT NEWS! Our Foertmeyer & Sons Spring Flower Sale has been extended! The online store will be open through Spring Break! Be sure to get your plants, hanging baskets, butterfly gardens, and more today!The top sellers in every grade level PLUS any student who sells 15 or more items will silly string our teachers and staff! Use this link to purchase some beautiful flowers: https://marshallelementary.sowzer.com/parent-signup?step=welcome Or click the QR code:",
-        "id": "bgezk622el"
-      },
-      {
-        "type": "items",
-        "content": "zoom_out_map",
-        "id": "b8ymlwiuk3"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Thank you for supporting Marshall PTG, students, and staff!",
-        "id": "bbq2tanpt9"
-      }
-    ],
-    "hash": "bhatmtq6ud-ba71tdv7h5-bgezk622el-b8ymlwiuk3-bbq2tanpt9",
-    "summary": "**Online store extended** - The Foertmeyer & Sons Spring Flower Sale has been extended through Spring Break! Purchase plants, hanging baskets, butterfly gardens, and more at https://marshallelementary.sowzer.com/parent-signup?step=welcome. **Incentive**: Top sellers in every grade level and any student who sells 15+ items will get to silly string teachers and staff. Proceeds support Marshall PTG, students, and staff."
   }
 ]
