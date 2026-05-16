@@ -95,6 +95,65 @@
     "summary": "Bogan Elementary is selling **extra 2025/2026 yearbooks for $16**. The yearbook features the Bogan \"B\" logo in the school colors of navy blue and red. Students and families should contact the front office to purchase a yearbook and capture their memories from the school year."
   },
   {
+    "title": "Camp Lane Summer Reading Program",
+    "block_id": "ba85ovibbo-boq3dij6cg",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/6714/77d9d1b8478692480d2d5df57a6b36e7.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/43vek-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-05-08T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/6714/77d9d1b8478692480d2d5df57a6b36e7.jpeg",
+        "id": "ba85ovibbo"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "HERE is a link to the digital event calendar.",
+        "id": "boq3dij6cg"
+      }
+    ],
+    "hash": "ba85ovibbo-boq3dij6cg",
+    "summary": "**Camp Lane Summer Reading** runs **June 1 - August 1** at The Lane Libraries for all ages. Earn prizes by reading, attending library programs, and completing activities. Sign up at **lanepl.beanstack.org** to log points or ask a librarian. Locations include Hamilton, Fairfield, Oxford, Tech Center, and Bookmobile. Not affiliated with Talawanda School District. Friends of the Lane Libraries are supplying prizes.",
+    "event_info": [
+      {
+        "title": "Camp Lane Summer Reading Program",
+        "start": "2026-06-01T00:00:00",
+        "end": "2026-08-01T23:59:00",
+        "description": "**Camp Lane Summer Reading** runs **June 1 - August 1** at The Lane Libraries for all ages. Earn prizes by reading, attending library programs, and completing activities. Sign up at **lanepl.beanstack",
+        "location": "The Lane Libraries (Hamilton, Fairfield, Oxford, Tech Center, Bookmobile)"
+      }
+    ]
+  },
+  {
+    "title": "Oxford Parks Master Plan Survey",
+    "block_id": "brn1svv6x1-bujbxsn8z5",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/3bd4/3245f61eb1b1294c1e8ce1d9a1f0e769.png"
+    ],
+    "source_url": "https://app.smore.com/n/43vek-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-05-08T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "City of Oxford Parks Master Plan\nThe city of Oxford is developing a Parks Master Plan with Pros Consulting. Please take a moment to complete the information at the link below. The site is specific for the Master Plan and has a survey, virtual mapping, and vision board. A lot of Talawanda families are park users and the city would like their feedback.https://engagepros.mysocialpinpoint.com/oxford",
+        "id": "brn1svv6x1"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/3bd4/3245f61eb1b1294c1e8ce1d9a1f0e769.png",
+        "id": "bujbxsn8z5"
+      }
+    ],
+    "hash": "brn1svv6x1-bujbxsn8z5",
+    "summary": "The City of Oxford is developing a **Parks Master Plan** with Pros Consulting and wants feedback from Talawanda families who use the parks. The survey includes virtual mapping and a vision board to help shape the future of Oxford's parks. **Take the survey at:** https://engagepros.mysocialpinpoint.com/oxford\n\nContact the City of Oxford at **513-523-6314** or visit **cityofoxford.org** for more information."
+  },
+  {
     "title": "Bogan Elementary Field Day Volunteer Opportunity",
     "block_id": "bpx42aowpj-bqq2aiq2cu",
     "content": "",
@@ -174,65 +233,6 @@
         "location": "Oxford Seniors, 922 Tollgate Dr., Oxford"
       }
     ]
-  },
-  {
-    "title": "Camp Lane Summer Reading Program",
-    "block_id": "ba85ovibbo-boq3dij6cg",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/6714/77d9d1b8478692480d2d5df57a6b36e7.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/43vek-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-05-08T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/6714/77d9d1b8478692480d2d5df57a6b36e7.jpeg",
-        "id": "ba85ovibbo"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "HERE is a link to the digital event calendar.",
-        "id": "boq3dij6cg"
-      }
-    ],
-    "hash": "ba85ovibbo-boq3dij6cg",
-    "summary": "**Camp Lane Summer Reading** runs **June 1 - August 1** at The Lane Libraries for all ages. Earn prizes by reading, attending library programs, and completing activities. Sign up at **lanepl.beanstack.org** to log points or ask a librarian. Locations include Hamilton, Fairfield, Oxford, Tech Center, and Bookmobile. Not affiliated with Talawanda School District. Friends of the Lane Libraries are supplying prizes.",
-    "event_info": [
-      {
-        "title": "Camp Lane Summer Reading Program",
-        "start": "2026-06-01T00:00:00",
-        "end": "2026-08-01T23:59:00",
-        "description": "**Camp Lane Summer Reading** runs **June 1 - August 1** at The Lane Libraries for all ages. Earn prizes by reading, attending library programs, and completing activities. Sign up at **lanepl.beanstack",
-        "location": "The Lane Libraries (Hamilton, Fairfield, Oxford, Tech Center, Bookmobile)"
-      }
-    ]
-  },
-  {
-    "title": "Oxford Parks Master Plan Survey",
-    "block_id": "brn1svv6x1-bujbxsn8z5",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/3bd4/3245f61eb1b1294c1e8ce1d9a1f0e769.png"
-    ],
-    "source_url": "https://app.smore.com/n/43vek-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-05-08T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "City of Oxford Parks Master Plan\nThe city of Oxford is developing a Parks Master Plan with Pros Consulting. Please take a moment to complete the information at the link below. The site is specific for the Master Plan and has a survey, virtual mapping, and vision board. A lot of Talawanda families are park users and the city would like their feedback.https://engagepros.mysocialpinpoint.com/oxford",
-        "id": "brn1svv6x1"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/3bd4/3245f61eb1b1294c1e8ce1d9a1f0e769.png",
-        "id": "bujbxsn8z5"
-      }
-    ],
-    "hash": "brn1svv6x1-bujbxsn8z5",
-    "summary": "The City of Oxford is developing a **Parks Master Plan** with Pros Consulting and wants feedback from Talawanda families who use the parks. The survey includes virtual mapping and a vision board to help shape the future of Oxford's parks. **Take the survey at:** https://engagepros.mysocialpinpoint.com/oxford\n\nContact the City of Oxford at **513-523-6314** or visit **cityofoxford.org** for more information."
   },
   {
     "title": "May Cafeteria Menus and Lunch Accounts",
