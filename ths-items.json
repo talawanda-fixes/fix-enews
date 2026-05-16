@@ -81,129 +81,6 @@
     ]
   },
   {
-    "title": "Medication Pick-Up Reminder from Clinic",
-    "block_id": "bfprfo3g6c-bedj3kr1lz",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/e4e2/ab60b10682d283907a53e3a7a50f3e2b.png"
-    ],
-    "source_url": "https://app.smore.com/n/29056",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-05-15T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "FROM \n\nTHE \n\nCLINIC\n\nFROM THE CLINIC",
-        "id": "bfprfo3g6c"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/e4e2/ab60b10682d283907a53e3a7a50f3e2b.png",
-        "id": "bedj3kr1lz"
-      }
-    ],
-    "hash": "bfprfo3g6c-bedj3kr1lz",
-    "summary": "**Parents/Guardians must pick up student medications from the clinic by Thursday, May 21st.** Medications not picked up will be properly disposed of. For next year, medications require a new school medication permit form from the prescribing physician (available on the THS website or by contacting Nurse Andrea Owens at owensa@talawanda.org). Parents/Guardians must bring medications accompanied by the completed form.",
-    "event_info": [
-      {
-        "title": "Medication Pick-Up Deadline",
-        "start": "2026-05-21T00:00:00",
-        "end": "2026-05-21T23:59:00",
-        "description": "**Parents/Guardians must pick up student medications from the clinic by Thursday, May 21st.** Medications not picked up will be properly disposed of. For next year, medications require a new school me",
-        "location": "Talawanda High School Clinic"
-      }
-    ]
-  },
-  {
-    "title": "Club Meetings Week of May 18th",
-    "block_id": "b16db8wtno-bhfikqncz6",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/29056",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-05-15T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "CLUB \n\nMEETINGS\n\nCLUB MEETINGS",
-        "id": "b16db8wtno"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Monday, May 18thTuesday, May 19thWednesday, May 20thRobotics Club - 11:15 AM After finals in room 412. We will have pizza to celebrate all we have accomplished this year and plan ahead for next year. All members are welcome!Thursday, May 21stFriday, May 22nd",
-        "id": "bhfikqncz6"
-      }
-    ],
-    "hash": "b16db8wtno-bhfikqncz6",
-    "summary": "**Robotics Club** meets **Monday, May 18th at 11:15 AM** in room 412 after finals. Pizza will be provided to celebrate the year's accomplishments and plan for next year. All members are welcome to attend.",
-    "event_info": [
-      {
-        "title": "Robotics Club Meeting",
-        "start": "2026-05-18T11:15:00",
-        "end": "2026-05-18T12:15:00",
-        "description": "**Robotics Club** meets **Monday, May 18th at 11:15 AM** in room 412 after finals. Pizza will be provided to celebrate the year's accomplishments and plan for next year. All members are welcome to att",
-        "location": "Room 412"
-      }
-    ]
-  },
-  {
-    "title": "Older Americans Month Community BINGO Challenge",
-    "block_id": "b2434e884w-bf9an2z80x",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/29056",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-05-15T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "Every May, Older Americans Month recognizes the contributions of older adults, highlights aging trends, and reaffirms commitments to serve our older community members. The 2026 theme is “Champion Your Health”.Throughout the month of May, Oxford Seniors, Age-Friendly Oxford, and the Coalition for a Healthy Community, Oxford Area are partnering to highlight and offer programming focused on promoting physical, mental, and emotional health and well-being at all ages.You can participate by playing “Community BINGO” with us! It’s as easy as 1, 2, 3!1) Print your own or pick up a Community Bingo card at any of the following locations:Oxford Seniors, 922 Tollgate Dr., OxfordOxford Lane Library, 441 S. Locust St.The Knolls of Oxford, Clubhouse or Front DeskScripps Gerontology Center, 396 Upham Hall, on campus2) Every time you do something listed on the card, mark it off. The goal is to get “BINGO” as many times as possible. A “BINGO” is marking off any 5 squares in a straight line – either vertically, horizontally, or diagonally.3) Bring your completed BINGO card to the Intergenerational BINGO Party on Sun. May 31 from 3:00 – 5:00 p.m. at Oxford Seniors for prizes, snacks, and FUN!",
-        "id": "b2434e884w"
-      },
-      {
-        "type": "items",
-        "content": "zoom_out_map\n                \n\n\n\n\n\n\n\n\nzoom_out_map",
-        "id": "bf9an2z80x"
-      }
-    ],
-    "hash": "b2434e884w-bf9an2z80x",
-    "summary": "**Older Americans Month** (May 2026, theme: \"Champion Your Health\") features a **Community BINGO** challenge promoting health and well-being. Pick up BINGO cards at **Oxford Seniors** (922 Tollgate Dr.), **Oxford Lane Library** (441 S. Locust St.), **The Knolls of Oxford**, or **Scripps Gerontology Center** (396 Upham Hall). Complete activities on the card throughout May, then bring your card to the **Intergenerational BINGO Party on Sunday, May 31, 3:00-5:00 PM at Oxford Seniors** for prizes and snacks.",
-    "event_info": [
-      {
-        "title": "Intergenerational BINGO Party",
-        "start": "2026-05-31T15:00:00",
-        "end": "2026-05-31T17:00:00",
-        "description": "**Older Americans Month** (May 2026, theme: \"Champion Your Health\") features a **Community BINGO** challenge promoting health and well-being. Pick up BINGO cards at **Oxford Seniors** (922 Tollgate Dr",
-        "location": "Oxford Seniors, 922 Tollgate Dr., Oxford"
-      }
-    ]
-  },
-  {
-    "title": "Oxford Parks Master Plan Survey",
-    "block_id": "bsrk3bj0i6-bts5c68vn3",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/93b3/6a3bd33abfe1258dc79d9c7efb5c57fb.png"
-    ],
-    "source_url": "https://app.smore.com/n/29056",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-05-15T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "City of Oxford Parks Master Plan:\nThe city of Oxford is developing a Parks Master Plan with Pros Consulting. Please take a moment to complete the information at the link below. The site is specific for the Master Plan and has a survey, virtual mapping, and vision board. A lot of Talawanda families are park users and the city would like their feedback.https://engagepros.mysocialpinpoint.com/oxford",
-        "id": "bsrk3bj0i6"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/93b3/6a3bd33abfe1258dc79d9c7efb5c57fb.png",
-        "id": "bts5c68vn3"
-      }
-    ],
-    "hash": "bsrk3bj0i6-bts5c68vn3",
-    "summary": "The City of Oxford is developing a **Parks Master Plan** with Pros Consulting and seeks feedback from Talawanda families who use the parks. Complete the survey at **https://engagepros.mysocialpinpoint.com/oxford**, which includes a survey, virtual mapping, and vision board to help shape the future of Oxford's parks. Visit **cityofoxford.org** or call **513-523-6314** for more information."
-  },
-  {
     "title": "Finals Week Exam Schedule and Transportation",
     "block_id": "bv07l2ito9-b0jjex6szm",
     "content": "",
@@ -294,6 +171,72 @@
     ]
   },
   {
+    "title": "Medication Pick-Up Reminder from Clinic",
+    "block_id": "bfprfo3g6c-bedj3kr1lz",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/e4e2/ab60b10682d283907a53e3a7a50f3e2b.png"
+    ],
+    "source_url": "https://app.smore.com/n/29056",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-05-15T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "FROM \n\nTHE \n\nCLINIC\n\nFROM THE CLINIC",
+        "id": "bfprfo3g6c"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/e4e2/ab60b10682d283907a53e3a7a50f3e2b.png",
+        "id": "bedj3kr1lz"
+      }
+    ],
+    "hash": "bfprfo3g6c-bedj3kr1lz",
+    "summary": "**Parents/Guardians must pick up student medications from the clinic by Thursday, May 21st.** Medications not picked up will be properly disposed of. For next year, medications require a new school medication permit form from the prescribing physician (available on the THS website or by contacting Nurse Andrea Owens at owensa@talawanda.org). Parents/Guardians must bring medications accompanied by the completed form.",
+    "event_info": [
+      {
+        "title": "Medication Pick-Up Deadline",
+        "start": "2026-05-21T00:00:00",
+        "end": "2026-05-21T23:59:00",
+        "description": "**Parents/Guardians must pick up student medications from the clinic by Thursday, May 21st.** Medications not picked up will be properly disposed of. For next year, medications require a new school me",
+        "location": "Talawanda High School Clinic"
+      }
+    ]
+  },
+  {
+    "title": "Club Meetings Week of May 18th",
+    "block_id": "b16db8wtno-bhfikqncz6",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/29056",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-05-15T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "CLUB \n\nMEETINGS\n\nCLUB MEETINGS",
+        "id": "b16db8wtno"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Monday, May 18thTuesday, May 19thWednesday, May 20thRobotics Club - 11:15 AM After finals in room 412. We will have pizza to celebrate all we have accomplished this year and plan ahead for next year. All members are welcome!Thursday, May 21stFriday, May 22nd",
+        "id": "bhfikqncz6"
+      }
+    ],
+    "hash": "b16db8wtno-bhfikqncz6",
+    "summary": "**Robotics Club** meets **Monday, May 18th at 11:15 AM** in room 412 after finals. Pizza will be provided to celebrate the year's accomplishments and plan for next year. All members are welcome to attend.",
+    "event_info": [
+      {
+        "title": "Robotics Club Meeting",
+        "start": "2026-05-18T11:15:00",
+        "end": "2026-05-18T12:15:00",
+        "description": "**Robotics Club** meets **Monday, May 18th at 11:15 AM** in room 412 after finals. Pizza will be provided to celebrate the year's accomplishments and plan for next year. All members are welcome to att",
+        "location": "Room 412"
+      }
+    ]
+  },
+  {
     "title": "Transportation Request Forms Due June 5th",
     "block_id": "bk8gizguu7-be6q0wtizy",
     "content": "",
@@ -315,6 +258,63 @@
     ],
     "hash": "bk8gizguu7-be6q0wtizy",
     "summary": "**All families eligible for transportation services must complete a NEW transportation form each year.** Forms are due **June 5th, 2026** and must be submitted to Mrs. Rader at lrader@petermannbus.com or by calling 513-273-3151. [Access the form here](https://docs.google.com/forms/d/e/1FAIpQLSfqZ6Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9"
+  },
+  {
+    "title": "Older Americans Month Community BINGO Challenge",
+    "block_id": "b2434e884w-bf9an2z80x",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/29056",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-05-15T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "Every May, Older Americans Month recognizes the contributions of older adults, highlights aging trends, and reaffirms commitments to serve our older community members. The 2026 theme is “Champion Your Health”.Throughout the month of May, Oxford Seniors, Age-Friendly Oxford, and the Coalition for a Healthy Community, Oxford Area are partnering to highlight and offer programming focused on promoting physical, mental, and emotional health and well-being at all ages.You can participate by playing “Community BINGO” with us! It’s as easy as 1, 2, 3!1) Print your own or pick up a Community Bingo card at any of the following locations:Oxford Seniors, 922 Tollgate Dr., OxfordOxford Lane Library, 441 S. Locust St.The Knolls of Oxford, Clubhouse or Front DeskScripps Gerontology Center, 396 Upham Hall, on campus2) Every time you do something listed on the card, mark it off. The goal is to get “BINGO” as many times as possible. A “BINGO” is marking off any 5 squares in a straight line – either vertically, horizontally, or diagonally.3) Bring your completed BINGO card to the Intergenerational BINGO Party on Sun. May 31 from 3:00 – 5:00 p.m. at Oxford Seniors for prizes, snacks, and FUN!",
+        "id": "b2434e884w"
+      },
+      {
+        "type": "items",
+        "content": "zoom_out_map\n                \n\n\n\n\n\n\n\n\nzoom_out_map",
+        "id": "bf9an2z80x"
+      }
+    ],
+    "hash": "b2434e884w-bf9an2z80x",
+    "summary": "**Older Americans Month** (May 2026, theme: \"Champion Your Health\") features a **Community BINGO** challenge promoting health and well-being. Pick up BINGO cards at **Oxford Seniors** (922 Tollgate Dr.), **Oxford Lane Library** (441 S. Locust St.), **The Knolls of Oxford**, or **Scripps Gerontology Center** (396 Upham Hall). Complete activities on the card throughout May, then bring your card to the **Intergenerational BINGO Party on Sunday, May 31, 3:00-5:00 PM at Oxford Seniors** for prizes and snacks.",
+    "event_info": [
+      {
+        "title": "Intergenerational BINGO Party",
+        "start": "2026-05-31T15:00:00",
+        "end": "2026-05-31T17:00:00",
+        "description": "**Older Americans Month** (May 2026, theme: \"Champion Your Health\") features a **Community BINGO** challenge promoting health and well-being. Pick up BINGO cards at **Oxford Seniors** (922 Tollgate Dr",
+        "location": "Oxford Seniors, 922 Tollgate Dr., Oxford"
+      }
+    ]
+  },
+  {
+    "title": "Oxford Parks Master Plan Survey",
+    "block_id": "bsrk3bj0i6-bts5c68vn3",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/93b3/6a3bd33abfe1258dc79d9c7efb5c57fb.png"
+    ],
+    "source_url": "https://app.smore.com/n/29056",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-05-15T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "City of Oxford Parks Master Plan:\nThe city of Oxford is developing a Parks Master Plan with Pros Consulting. Please take a moment to complete the information at the link below. The site is specific for the Master Plan and has a survey, virtual mapping, and vision board. A lot of Talawanda families are park users and the city would like their feedback.https://engagepros.mysocialpinpoint.com/oxford",
+        "id": "bsrk3bj0i6"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/93b3/6a3bd33abfe1258dc79d9c7efb5c57fb.png",
+        "id": "bts5c68vn3"
+      }
+    ],
+    "hash": "bsrk3bj0i6-bts5c68vn3",
+    "summary": "The City of Oxford is developing a **Parks Master Plan** with Pros Consulting and seeks feedback from Talawanda families who use the parks. Complete the survey at **https://engagepros.mysocialpinpoint.com/oxford**, which includes a survey, virtual mapping, and vision board to help shape the future of Oxford's parks. Visit **cityofoxford.org** or call **513-523-6314** for more information."
   },
   {
     "title": "Senior Fee Payment Deadline May 1st",

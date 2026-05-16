@@ -1,5 +1,75 @@
 [
   {
+    "title": "Summer Resources for Students and Families",
+    "block_id": "bh1mh3rers-byy6ni4zk4",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/bd91/46916817bf1b300bb692af9b34bf6728.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/v5pz3-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-05-15T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Social \n\nWork \n\nSpotlight\n\nSocial Work Spotlight",
+        "id": "bh1mh3rers"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/bd91/46916817bf1b300bb692af9b34bf6728.jpeg",
+        "id": "byy6ni4zk4"
+      }
+    ],
+    "hash": "bh1mh3rers-byy6ni4zk4",
+    "summary": "**Four key summer resources are available:**\n- **Oxford Activities** - access via QR code for summer programs\n- **Free Bowling** - access via QR code for complimentary bowling opportunities\n- **Free Food Pantry at Bogan** - food assistance available\n- **Helpful Phone Numbers**: TOPSS 513-523-3851, Resources 211, Mental Health Crisis Support (call/text) (844) 427-4747"
+  },
+  {
+    "title": "Older Americans Month Community Bingo",
+    "block_id": "bwk8x8y5ub-bq2teukxp1-bp7qx07wmi-bfl4k2g4yv",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/fe12/16d67dc41b95358af98ea30aee12a7f5.jpeg",
+      "https://cdn.smore.com/u/b467/72067b552cd1b14d4393f1124063bc69.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/v5pz3-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-05-15T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Around \n\nTalawanda\n\nAround Talawanda",
+        "id": "bwk8x8y5ub"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Older Americans Month: Champion Your Health\nEvery May, Older Americans Month recognizes the contributions of older adults, highlights aging trends, and reaffirms commitments to serve our older community members. The 2026 theme is “Champion Your Health”.Throughout the month of May, Oxford Seniors, Age-Friendly Oxford, and the Coalition for a Healthy Community, Oxford Area are partnering to highlight and offer programming focused on promoting physical, mental, and emotional health and well-being at all ages.You can participate by playing “Community BINGO” with us! It’s as easy as 1, 2, 3!1) Print your own or pick up a Community Bingo card at any of the following locations:Oxford Seniors, 922 Tollgate Dr., OxfordOxford Lane Library, 441 S. Locust St.The Knolls of Oxford, Clubhouse or Front DeskScripps Gerontology Center, 396 Upham Hall, on campus2) Every time you do something listed on the card, mark it off. The goal is to get “BINGO” as many times as possible. A “BINGO” is marking off any 5 squares in a straight line – either vertically, horizontally, or diagonally.3) Bring your completed BINGO card to the Intergenerational BINGO Party on Sun. May 31 from 3:00 – 5:00 p.m. at Oxford Seniors for prizes, snacks, and FUN!",
+        "id": "bq2teukxp1"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/fe12/16d67dc41b95358af98ea30aee12a7f5.jpeg",
+        "id": "bp7qx07wmi"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/b467/72067b552cd1b14d4393f1124063bc69.jpeg",
+        "id": "bfl4k2g4yv"
+      }
+    ],
+    "hash": "bwk8x8y5ub-bq2teukxp1-bp7qx07wmi-bfl4k2g4yv",
+    "summary": "Celebrate **Older Americans Month** in May by playing **Community BINGO**! Pick up a card at Oxford Seniors (922 Tollgate Dr.), Oxford Lane Library (441 S. Locust St.), The Knolls of Oxford, or Scripps Gerontology Center (396 Upham Hall). Complete activities like attending chair yoga, visiting parks, making art, attending concerts, and connecting with neighbors. Bring your completed card to the **Intergenerational BINGO Party on May 31, 3:00-5:00 PM** at Oxford Seniors for prizes and snacks.",
+    "event_info": [
+      {
+        "title": "Intergenerational BINGO Party",
+        "start": "2026-05-31T15:00:00",
+        "end": "2026-05-31T17:00:00",
+        "description": "Celebrate **Older Americans Month** in May by playing **Community BINGO**! Pick up a card at Oxford Seniors (922 Tollgate Dr.), Oxford Lane Library (441 S. Locust St.), The Knolls of Oxford, or Scripp",
+        "location": "Oxford Seniors, 922 Tollgate Dr., Oxford"
+      }
+    ]
+  },
+  {
     "title": "Bogan Elementary Yearbooks on Sale",
     "block_id": "bjqvo7kz71-b68vmcmtnc",
     "content": "",
@@ -592,80 +662,5 @@
     ],
     "hash": "berhllupn2-bbyw57cizv-bucgrnjyg6",
     "summary": "The **PAX Good Behavior Game** is a research-based classroom strategy that helps students make positive choices and collaborate with others. It promotes a calmer, more focused learning environment through kindness, teamwork, and respectful behavior.\n\nThe April 2026 student calendar includes daily PAX activities such as National Walking Day (April 3), World Health Day (April 6), Earth Day activities (April 22), and National Superhero Day (April 28), along with prompts for students to practice leadership, gratitude, and positive behaviors throughout the month."
-  },
-  {
-    "title": "Family Unplug & Play Night at Bogan",
-    "block_id": "bjqvo7kz71-b4tf4l2m9c",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/72a7/099924bf9740db3fd1ec38544bd9b5bf.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/wcbre-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-04-10T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Around \n\nBogan\n\nAround Bogan",
-        "id": "bjqvo7kz71"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/72a7/099924bf9740db3fd1ec38544bd9b5bf.jpeg",
-        "id": "b4tf4l2m9c"
-      }
-    ],
-    "hash": "bjqvo7kz71-b4tf4l2m9c",
-    "summary": "**Family Unplug & Play Night** is happening on the Bogan Playground on **Thursday, May 7 from 6-8 PM**. Families are invited to connect with others or enjoy the outdoors while children engage in creative, independent play. **Snacks will be provided** and attendees should **bring a lawn chair**. The whole family is encouraged to unplug for the evening.",
-    "event_info": [
-      {
-        "title": "Family Unplug & Play Night",
-        "start": "2026-05-07T18:00:00",
-        "end": "2026-05-07T20:00:00",
-        "description": "**Family Unplug & Play Night** is happening on the Bogan Playground on **Thursday, May 7 from 6-8 PM**. Families are invited to connect with others or enjoy the outdoors while children engage in creat",
-        "location": "Bogan Playground"
-      }
-    ]
-  },
-  {
-    "title": "Breakfast with a Veteran Event",
-    "block_id": "bav2a8v1tm-bm6aq85w8b",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/2908/07453b315cb11bb1f2c1455d34ddbde7.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/wcbre-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-04-10T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "Breakfast with a Veteran\nWe are excited to announce our second annual Breakfast with a Veteran. Bogan students have the opportunity to invite one veteran from their family to have breakfast with them in the cafeteria.HERE is the link to RSVP for this event. There will also be a paper form coming home next week. You do NOT need to submit both. Bogan students with siblings in the building can share their veteran- we just ask that you fill out one RSVP for each student.We would also LOVE to receive photos of the veteran with their student(s) to make a slideshow. You can send them to your child's teacher through email or hard copy. You can also send them to Mrs. Mullins at mullinsm@talawanda.orgRSVPs are due by Friday, May 1st.",
-        "id": "bav2a8v1tm"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/2908/07453b315cb11bb1f2c1455d34ddbde7.jpeg",
-        "id": "bm6aq85w8b"
-      }
-    ],
-    "hash": "bav2a8v1tm-bm6aq85w8b",
-    "summary": "Bogan Elementary is hosting its **second annual Breakfast with a Veteran** on **May 18, 2026 at 10:00 AM** in the cafeteria. Students can invite one veteran from their family to share breakfast (siblings can share their veteran). **RSVP by Friday, May 1st** using the [online form](HERE) or paper form. Families are encouraged to submit photos of the veteran with their student(s) to Mrs. Mullins at mullinsm@talawanda.org for a slideshow.\n\n**Location:** Bogan Elementary Cafeteria, 5200 Hamilton Oxford Rd., Oxford, OH 45056",
-    "event_info": [
-      {
-        "title": "Breakfast with a Veteran - RSVP Deadline",
-        "start": "2026-05-01T00:00:00",
-        "end": "2026-05-01T01:00:00",
-        "description": "Bogan Elementary is hosting its **second annual Breakfast with a Veteran** on **May 18, 2026 at 10:00 AM** in the cafeteria. Students can invite one veteran from their family to share breakfast (sibli",
-        "location": "Bogan Elementary School"
-      },
-      {
-        "title": "Breakfast with a Veteran",
-        "start": "2026-05-18T10:00:00",
-        "end": "2026-05-18T11:00:00",
-        "description": "Bogan Elementary is hosting its **second annual Breakfast with a Veteran** on **May 18, 2026 at 10:00 AM** in the cafeteria. Students can invite one veteran from their family to share breakfast (sibli",
-        "location": "Bogan Elementary Cafeteria, 5200 Hamilton Oxford Rd., Oxford, OH 45056"
-      }
-    ]
   }
 ]

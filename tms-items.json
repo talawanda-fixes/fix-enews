@@ -70,6 +70,31 @@
     ]
   },
   {
+    "title": "Oxford Parks Master Plan Survey",
+    "block_id": "b7xtawiszt-b6zs8m6x4l",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/d726/6340771ae5d27968977c57bcee6d962f.png"
+    ],
+    "source_url": "https://app.smore.com/n/qdjh6-9-days-and-counting?ref=email",
+    "source_title": "9 Days and Counting! | Smore Newsletters for Education",
+    "date": "2026-05-08T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "City of Oxford Parks Master Plan:The city of Oxford is developing a Parks Master Plan with Pros Consulting. Please take a moment to complete the information at the link below. The site is specific for the Master Plan and has a survey, virtual mapping, and vision board. A lot of Talawanda families are park users and the city would like their feedback.https://engagepros.mysocialpinpoint.com/oxford",
+        "id": "b7xtawiszt"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/d726/6340771ae5d27968977c57bcee6d962f.png",
+        "id": "b6zs8m6x4l"
+      }
+    ],
+    "hash": "b7xtawiszt-b6zs8m6x4l",
+    "summary": "The City of Oxford is developing a Parks Master Plan and wants feedback from Talawanda families who use the parks. Residents can complete a survey, use virtual mapping tools, and contribute to a vision board at **https://engagepros.mysocialpinpoint.com/oxford**. The city is working with Pros Consulting on this initiative."
+  },
+  {
     "title": "Community Bingo for Older Americans Month",
     "block_id": "bmf3mhxj3n-bu3ol5o9zy-b4zrgm5kc3-bqvkvc5yix",
     "content": "",
@@ -113,31 +138,6 @@
         "location": "Oxford Seniors, 922 Tollgate Dr., Oxford"
       }
     ]
-  },
-  {
-    "title": "Oxford Parks Master Plan Survey",
-    "block_id": "b7xtawiszt-b6zs8m6x4l",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/d726/6340771ae5d27968977c57bcee6d962f.png"
-    ],
-    "source_url": "https://app.smore.com/n/qdjh6-9-days-and-counting?ref=email",
-    "source_title": "9 Days and Counting! | Smore Newsletters for Education",
-    "date": "2026-05-08T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "City of Oxford Parks Master Plan:The city of Oxford is developing a Parks Master Plan with Pros Consulting. Please take a moment to complete the information at the link below. The site is specific for the Master Plan and has a survey, virtual mapping, and vision board. A lot of Talawanda families are park users and the city would like their feedback.https://engagepros.mysocialpinpoint.com/oxford",
-        "id": "b7xtawiszt"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/d726/6340771ae5d27968977c57bcee6d962f.png",
-        "id": "b6zs8m6x4l"
-      }
-    ],
-    "hash": "b7xtawiszt-b6zs8m6x4l",
-    "summary": "The City of Oxford is developing a Parks Master Plan and wants feedback from Talawanda families who use the parks. Residents can complete a survey, use virtual mapping tools, and contribute to a vision board at **https://engagepros.mysocialpinpoint.com/oxford**. The city is working with Pros Consulting on this initiative."
   },
   {
     "title": "Early Release Days May 19-21",
