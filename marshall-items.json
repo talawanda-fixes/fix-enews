@@ -276,6 +276,42 @@
     ]
   },
   {
+    "title": "Social Worker Contact Information",
+    "block_id": "bomk6tbtpd-bdka6yibi5-bpfleua654-be2jc9cz08",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/3fe3/9399154807a71c67e0bc9936f178ce74.png",
+      "https://cdn.smore.com/u/b75a/4da5f3b7139ce57058974c3e69884f72.png"
+    ],
+    "source_url": "https://app.smore.com/n/9nzvh",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-05-01T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "NOTES \n\nFROM \n\nOUR \n\nSOCIAL \n\nWORKER\n\nNOTES FROM OUR SOCIAL WORKER",
+        "id": "bomk6tbtpd"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/3fe3/9399154807a71c67e0bc9936f178ce74.png",
+        "id": "bdka6yibi5"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/b75a/4da5f3b7139ce57058974c3e69884f72.png",
+        "id": "bpfleua654"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "With any questions, please contact Chrissy Rolfes at\n 513-273-3611",
+        "id": "be2jc9cz08"
+      }
+    ],
+    "hash": "bomk6tbtpd-bdka6yibi5-bpfleua654-be2jc9cz08",
+    "summary": "Contact Chrissy Rolfes, the school social worker, at **513-273-3611** for any questions or support needs."
+  },
+  {
     "title": "May 2026 Breakfast and Lunch Menus",
     "block_id": "bnmbq6ritu-bz48x1bwki-boh3us1447-b05k0ihdxk",
     "content": "",
@@ -363,42 +399,6 @@
     ],
     "hash": "b31v2hmzkn-bit417nzjg",
     "summary": "As the school year ends, families are encouraged to prevent \"summer slide\" (learning loss over summer break) by keeping students reading. Resources include **Lane Library**, the Bookmobile (library card needed), free e-books at **HooplaDigital.com**, and Little Free Libraries at elementary schools. Activity ideas include creating cozy reading spaces, building blanket forts for reading adventures, and participating in **[Scholastic's Summer Reading Bingo](https://www.scholastic.com/parents/books-and-reading/raise-a-reader-blog/summer-reading-bingo.html)**. Parents are reminded they are their child's best teacher."
-  },
-  {
-    "title": "Social Worker Contact Information",
-    "block_id": "bomk6tbtpd-bdka6yibi5-bpfleua654-be2jc9cz08",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/3fe3/9399154807a71c67e0bc9936f178ce74.png",
-      "https://cdn.smore.com/u/b75a/4da5f3b7139ce57058974c3e69884f72.png"
-    ],
-    "source_url": "https://app.smore.com/n/9nzvh",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-05-01T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "NOTES \n\nFROM \n\nOUR \n\nSOCIAL \n\nWORKER\n\nNOTES FROM OUR SOCIAL WORKER",
-        "id": "bomk6tbtpd"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/3fe3/9399154807a71c67e0bc9936f178ce74.png",
-        "id": "bdka6yibi5"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/b75a/4da5f3b7139ce57058974c3e69884f72.png",
-        "id": "bpfleua654"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "With any questions, please contact Chrissy Rolfes at\n 513-273-3611",
-        "id": "be2jc9cz08"
-      }
-    ],
-    "hash": "bomk6tbtpd-bdka6yibi5-bpfleua654-be2jc9cz08",
-    "summary": "Contact Chrissy Rolfes, the school social worker, at **513-273-3611** for any questions or support needs."
   },
   {
     "title": "Oxford Parks Master Plan Community Input",
