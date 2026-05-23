@@ -145,29 +145,44 @@
     ]
   },
   {
-    "title": "Bogan Elementary Yearbooks on Sale",
-    "block_id": "bjqvo7kz71-b68vmcmtnc",
+    "title": "Older Americans Month Community Bingo",
+    "block_id": "bq2teukxp1-bp7qx07wmi-bfl4k2g4yv",
     "content": "",
     "images": [
-      "https://cdn.smore.com/u/604c/c719cce2aee1d3e29d2f0f9aa32c86be.png"
+      "https://cdn.smore.com/u/fe12/16d67dc41b95358af98ea30aee12a7f5.jpeg",
+      "https://cdn.smore.com/u/b467/72067b552cd1b14d4393f1124063bc69.jpeg"
     ],
     "source_url": "https://app.smore.com/n/43vek-bogan-weekly-news",
     "source_title": "Bogan Weekly News | Smore Newsletters for Education",
     "date": "2026-05-08T00:00:00+00:00",
     "blocks": [
       {
-        "type": "text.title",
-        "content": "Around \n\nBogan\n\nAround Bogan",
-        "id": "bjqvo7kz71"
+        "type": "text.paragraph",
+        "content": "Older Americans Month: Champion Your Health\nEvery May, Older Americans Month recognizes the contributions of older adults, highlights aging trends, and reaffirms commitments to serve our older community members. The 2026 theme is “Champion Your Health”.Throughout the month of May, Oxford Seniors, Age-Friendly Oxford, and the Coalition for a Healthy Community, Oxford Area are partnering to highlight and offer programming focused on promoting physical, mental, and emotional health and well-being at all ages.You can participate by playing “Community BINGO” with us! It’s as easy as 1, 2, 3!1) Print your own or pick up a Community Bingo card at any of the following locations:Oxford Seniors, 922 Tollgate Dr., OxfordOxford Lane Library, 441 S. Locust St.The Knolls of Oxford, Clubhouse or Front DeskScripps Gerontology Center, 396 Upham Hall, on campus2) Every time you do something listed on the card, mark it off. The goal is to get “BINGO” as many times as possible. A “BINGO” is marking off any 5 squares in a straight line – either vertically, horizontally, or diagonally.3) Bring your completed BINGO card to the Intergenerational BINGO Party on Sun. May 31 from 3:00 – 5:00 p.m. at Oxford Seniors for prizes, snacks, and FUN!",
+        "id": "bq2teukxp1"
       },
       {
         "type": "image.single",
-        "url": "https://cdn.smore.com/u/604c/c719cce2aee1d3e29d2f0f9aa32c86be.png",
-        "id": "b68vmcmtnc"
+        "url": "https://cdn.smore.com/u/fe12/16d67dc41b95358af98ea30aee12a7f5.jpeg",
+        "id": "bp7qx07wmi"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/b467/72067b552cd1b14d4393f1124063bc69.jpeg",
+        "id": "bfl4k2g4yv"
       }
     ],
-    "hash": "bjqvo7kz71-b68vmcmtnc",
-    "summary": "Bogan Elementary is selling **extra 2025/2026 yearbooks for $16**. The yearbook features the Bogan \"B\" logo in the school colors of navy blue and red. Students and families should contact the front office to purchase a yearbook and capture their memories from the school year."
+    "hash": "bq2teukxp1-bp7qx07wmi-bfl4k2g4yv",
+    "summary": "**Older Americans Month** (May 2026) celebrates older adults with the theme \"Champion Your Health.\" Participate in **Community BINGO** by completing activities like meditation, visiting parks, attending concerts, and making new friends. Pick up a BINGO card at Oxford Seniors (922 Tollgate Dr.), Oxford Lane Library (441 S. Locust St.), The Knolls of Oxford, or Scripps Gerontology Center (396 Upham Hall). Mark off activities as you complete them and bring your card to the **Intergenerational BINGO Party on Sunday, May 31, 3:00-5:00 PM at Oxford Seniors** for prizes and snacks.",
+    "event_info": [
+      {
+        "title": "Intergenerational BINGO Party",
+        "start": "2026-05-31T15:00:00",
+        "end": "2026-05-31T17:00:00",
+        "description": "**Older Americans Month** (May 2026) celebrates older adults with the theme \"Champion Your Health.\" Participate in **Community BINGO** by completing activities like meditation, visiting parks, attendi",
+        "location": "Oxford Seniors, 922 Tollgate Dr., Oxford"
+      }
+    ]
   },
   {
     "title": "Camp Lane Summer Reading Program",
@@ -229,6 +244,31 @@
     "summary": "The City of Oxford is developing a **Parks Master Plan** with Pros Consulting and wants feedback from Talawanda families who use the parks. The survey includes virtual mapping and a vision board to help shape the future of Oxford's parks. **Take the survey at:** https://engagepros.mysocialpinpoint.com/oxford\n\nContact the City of Oxford at **513-523-6314** or visit **cityofoxford.org** for more information."
   },
   {
+    "title": "Bogan Elementary Yearbooks on Sale",
+    "block_id": "bjqvo7kz71-b68vmcmtnc",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/604c/c719cce2aee1d3e29d2f0f9aa32c86be.png"
+    ],
+    "source_url": "https://app.smore.com/n/43vek-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-05-08T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Around \n\nBogan\n\nAround Bogan",
+        "id": "bjqvo7kz71"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/604c/c719cce2aee1d3e29d2f0f9aa32c86be.png",
+        "id": "b68vmcmtnc"
+      }
+    ],
+    "hash": "bjqvo7kz71-b68vmcmtnc",
+    "summary": "Bogan Elementary is selling **extra 2025/2026 yearbooks for $16**. The yearbook features the Bogan \"B\" logo in the school colors of navy blue and red. Students and families should contact the front office to purchase a yearbook and capture their memories from the school year."
+  },
+  {
     "title": "Bogan Elementary Field Day Volunteer Opportunity",
     "block_id": "bpx42aowpj-bqq2aiq2cu",
     "content": "",
@@ -270,42 +310,36 @@
     ]
   },
   {
-    "title": "Older Americans Month Community Bingo",
-    "block_id": "bq2teukxp1-bp7qx07wmi-bfl4k2g4yv",
+    "title": "5th Grade Pool Party Event",
+    "block_id": "bpx42aowpj-bib5s1q43h",
     "content": "",
     "images": [
-      "https://cdn.smore.com/u/fe12/16d67dc41b95358af98ea30aee12a7f5.jpeg",
-      "https://cdn.smore.com/u/b467/72067b552cd1b14d4393f1124063bc69.jpeg"
+      "https://cdn.smore.com/u/9113/4c20e4caf95a911e020aa3f76de23fd7.jpeg"
     ],
-    "source_url": "https://app.smore.com/n/43vek-bogan-weekly-news",
+    "source_url": "https://app.smore.com/n/rjz21-bogan-weekly-news",
     "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-05-08T00:00:00+00:00",
+    "date": "2026-05-01T00:00:00+00:00",
     "blocks": [
       {
-        "type": "text.paragraph",
-        "content": "Older Americans Month: Champion Your Health\nEvery May, Older Americans Month recognizes the contributions of older adults, highlights aging trends, and reaffirms commitments to serve our older community members. The 2026 theme is “Champion Your Health”.Throughout the month of May, Oxford Seniors, Age-Friendly Oxford, and the Coalition for a Healthy Community, Oxford Area are partnering to highlight and offer programming focused on promoting physical, mental, and emotional health and well-being at all ages.You can participate by playing “Community BINGO” with us! It’s as easy as 1, 2, 3!1) Print your own or pick up a Community Bingo card at any of the following locations:Oxford Seniors, 922 Tollgate Dr., OxfordOxford Lane Library, 441 S. Locust St.The Knolls of Oxford, Clubhouse or Front DeskScripps Gerontology Center, 396 Upham Hall, on campus2) Every time you do something listed on the card, mark it off. The goal is to get “BINGO” as many times as possible. A “BINGO” is marking off any 5 squares in a straight line – either vertically, horizontally, or diagonally.3) Bring your completed BINGO card to the Intergenerational BINGO Party on Sun. May 31 from 3:00 – 5:00 p.m. at Oxford Seniors for prizes, snacks, and FUN!",
-        "id": "bq2teukxp1"
+        "type": "text.title",
+        "content": "PTG \n\nCorner\n\nPTG Corner",
+        "id": "bpx42aowpj"
       },
       {
         "type": "image.single",
-        "url": "https://cdn.smore.com/u/fe12/16d67dc41b95358af98ea30aee12a7f5.jpeg",
-        "id": "bp7qx07wmi"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/b467/72067b552cd1b14d4393f1124063bc69.jpeg",
-        "id": "bfl4k2g4yv"
+        "url": "https://cdn.smore.com/u/9113/4c20e4caf95a911e020aa3f76de23fd7.jpeg",
+        "id": "bib5s1q43h"
       }
     ],
-    "hash": "bq2teukxp1-bp7qx07wmi-bfl4k2g4yv",
-    "summary": "**Older Americans Month** (May 2026) celebrates older adults with the theme \"Champion Your Health.\" Participate in **Community BINGO** by completing activities like meditation, visiting parks, attending concerts, and making new friends. Pick up a BINGO card at Oxford Seniors (922 Tollgate Dr.), Oxford Lane Library (441 S. Locust St.), The Knolls of Oxford, or Scripps Gerontology Center (396 Upham Hall). Mark off activities as you complete them and bring your card to the **Intergenerational BINGO Party on Sunday, May 31, 3:00-5:00 PM at Oxford Seniors** for prizes and snacks.",
+    "hash": "bpx42aowpj-bib5s1q43h",
+    "summary": "A **5th Grade Pool Party** is scheduled for **Sunday, May 31, 2026** from **6:00-8:00 PM** at the **Oxford Aquatic Center**. This free swim social is for rising 6th graders only (no siblings/families) to meet new friends before starting TMS in the fall. Pizza and snacks will be provided. Parents can volunteer to chaperone by scanning the QR code. Sponsored by Oxford Rotary Club, Bogan, Kramer, & Marshall PTGS.",
     "event_info": [
       {
-        "title": "Intergenerational BINGO Party",
-        "start": "2026-05-31T15:00:00",
-        "end": "2026-05-31T17:00:00",
-        "description": "**Older Americans Month** (May 2026) celebrates older adults with the theme \"Champion Your Health.\" Participate in **Community BINGO** by completing activities like meditation, visiting parks, attendi",
-        "location": "Oxford Seniors, 922 Tollgate Dr., Oxford"
+        "title": "5th Grade Pool Party",
+        "start": "2026-05-31T18:00:00",
+        "end": "2026-05-31T20:00:00",
+        "description": "A **5th Grade Pool Party** is scheduled for **Sunday, May 31, 2026** from **6:00-8:00 PM** at the **Oxford Aquatic Center**. This free swim social is for rising 6th graders only (no siblings/families)",
+        "location": "Oxford Aquatic Center"
       }
     ]
   },
@@ -343,40 +377,6 @@
     ],
     "hash": "b0srpil80f-b570fb3xuh-bfr77vevhd-bo2vrrtgxf",
     "summary": "May breakfast and lunch menus are now available. Parents can add funds to student lunch accounts through **PaySchool Central** and should keep accounts current. For assistance with lunch debt, contact Mrs. White. The May breakfast menu includes items like Sausage & Cheese Biscuit Sandwiches, Mini Chocolate Donuts, Fresh Baked Cinnamon Rolls, Breakfast Pizza (Turkey Sausage), Apple Frudel, Stuffed Hash Brown, and Glazed Donuts, with 100% fruit juice, apples, oranges or other fresh fruit included with every breakfast. School is out for summer starting May 22nd."
-  },
-  {
-    "title": "5th Grade Pool Party Event",
-    "block_id": "bpx42aowpj-bib5s1q43h",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/9113/4c20e4caf95a911e020aa3f76de23fd7.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/rjz21-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-05-01T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PTG \n\nCorner\n\nPTG Corner",
-        "id": "bpx42aowpj"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/9113/4c20e4caf95a911e020aa3f76de23fd7.jpeg",
-        "id": "bib5s1q43h"
-      }
-    ],
-    "hash": "bpx42aowpj-bib5s1q43h",
-    "summary": "A **5th Grade Pool Party** is scheduled for **Sunday, May 31, 2026** from **6:00-8:00 PM** at the **Oxford Aquatic Center**. This free swim social is for rising 6th graders only (no siblings/families) to meet new friends before starting TMS in the fall. Pizza and snacks will be provided. Parents can volunteer to chaperone by scanning the QR code. Sponsored by Oxford Rotary Club, Bogan, Kramer, & Marshall PTGS.",
-    "event_info": [
-      {
-        "title": "5th Grade Pool Party",
-        "start": "2026-05-31T18:00:00",
-        "end": "2026-05-31T20:00:00",
-        "description": "A **5th Grade Pool Party** is scheduled for **Sunday, May 31, 2026** from **6:00-8:00 PM** at the **Oxford Aquatic Center**. This free swim social is for rising 6th graders only (no siblings/families)",
-        "location": "Oxford Aquatic Center"
-      }
-    ]
   },
   {
     "title": "City of Oxford Parks Master Plan Survey",
