@@ -1,5 +1,80 @@
 [
   {
+    "title": "End of Year Message from Dr. Cannon",
+    "block_id": "bkk2i8f9na",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/3q7gm-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-05-22T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "A Message from Dr. Cannon Happy Friday!This final week was filled with celebration, reflection, and joy as students wrapped up learning, enjoyed end-of-year activities, and spent meaningful time with classmates and staff. We loved seeing their excitement as they celebrated a successful year of growth and achievement.Our students have made tremendous progress and should feel proud of their hard work and perseverance. From classroom learning to school events and performances, it has been a year full of growth and memorable experiences.It is such a privilege to be part of a school community that consistently comes together to support our students. This year has reflected what is possible when families, staff, and students work in partnership with shared purpose and care. Congratulations to our 5th graders and to the Talawanda Class of 2026! We wish you all the absolute best for your very bright futures. We hope you have an amazing summer!Sincerely,Dr. Kirsten Cannon, Principalps) I will be returning in the fall as Dr. Soros! 😁",
+        "id": "bkk2i8f9na"
+      }
+    ],
+    "hash": "bkk2i8f9na",
+    "summary": "Dr. Cannon reflects on a successful final week filled with celebrations and end-of-year activities. Students showed tremendous growth throughout the year, and the school community came together to support their achievements. **Congratulations to 5th graders and the Talawanda Class of 2026!** Dr. Cannon will return in the fall as **Dr. Soros** after getting married."
+  },
+  {
+    "title": "End of Year Message from Counselor",
+    "block_id": "bnsnk1ab7y-bl84ivk7qj",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/3q7gm-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-05-22T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Counselor \n\nCorner Counselor Corner",
+        "id": "bnsnk1ab7y"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Hello parents and guardians!It has been an amazing school year watching your students grow and succeed. I have enjoyed every moment of teaching, laughing with, and watching them shine. I hope you all have an amazing and restful summer and we will see you in August!",
+        "id": "bl84ivk7qj"
+      }
+    ],
+    "hash": "bnsnk1ab7y-bl84ivk7qj",
+    "summary": "The school counselor reflects on a successful school year and wishes students and families a restful summer. School will resume in **August**. The counselor expresses appreciation for watching students grow and succeed throughout the year."
+  },
+  {
+    "title": "Summer Scoops Literacy Camp at Oxford Lane Library",
+    "block_id": "bwk8x8y5ub-bcbt0bhm8i",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/f71e/ca7097419fd70976829572f41b5de5dd.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/3q7gm-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-05-22T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Around \n\nTalawanda Around Talawanda",
+        "id": "bwk8x8y5ub"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/f71e/ca7097419fd70976829572f41b5de5dd.jpeg",
+        "id": "bcbt0bhm8i"
+      }
+    ],
+    "hash": "bwk8x8y5ub-bcbt0bhm8i",
+    "summary": "**Summer Scoops Literacy Camp** is offered for incoming 1st-3rd graders on **July 14-16 from 10:00 AM-12:00 PM** at Oxford Lane Library (441 S. Locust St., Oxford, OH 45056). The camp provides individualized support to nurture reading skills and confidence. Parents can use the QR code to sign up their child for the program.",
+    "event_info": [
+      {
+        "title": "Summer Scoops Literacy Camp",
+        "start": "2026-07-14T10:00:00",
+        "end": "2026-07-16T12:00:00",
+        "description": "**Summer Scoops Literacy Camp** is offered for incoming 1st-3rd graders on **July 14-16 from 10:00 AM-12:00 PM** at Oxford Lane Library (441 S. Locust St., Oxford, OH 45056). The camp provides individ",
+        "location": "Oxford Lane Library, 441 S. Locust St., Oxford, OH 45056"
+      }
+    ]
+  },
+  {
     "title": "Summer Resources for Students and Families",
     "block_id": "bh1mh3rers-byy6ni4zk4",
     "content": "",
@@ -580,87 +655,5 @@
         "location": "Home/Community"
       }
     ]
-  },
-  {
-    "title": "Lions Club Eyeglass Collection Drive",
-    "block_id": "b5sn2kzhx1",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/cdzfn-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-04-17T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "Lions Club Spring Eyeglass Collection\nThe Oxford Lions Club Sight Saving Committee is collecting used eyeglasses, sunglasses as well as cases! These glasses and cases are donated all over the world to children who are in need. The lenses and frames from the donated glasses are modified to meet individual children's eye needs. Every year, Oxford Lions Club collects and sends 900-plus pairs of glasses to children in need!Please send any glasses donations to Betsy Beaton (Marshall Elementary School) or Shaunna Tafelski (Board Office) by mid-May We are happy to swing by and pick up glasses donations or they can be dropped off at Marshall or the Board Office. Thank you for supporting the Oxford Lions Club! Thanks!",
-        "id": "b5sn2kzhx1"
-      }
-    ],
-    "hash": "b5sn2kzhx1",
-    "summary": "The **Oxford Lions Club** is collecting used eyeglasses, sunglasses, and cases to donate to children in need worldwide. Donated glasses are modified to meet individual children's vision needs—the club sends over **900 pairs annually**. **Donations due by mid-May** can be sent to Betsy Beaton (Marshall Elementary School) or Shaunna Tafelski (Board Office), with pickup available upon request.",
-    "event_info": [
-      {
-        "title": "Eyeglass Collection Deadline",
-        "start": "2026-05-15T00:00:00",
-        "end": "2026-05-15T23:59:00",
-        "description": "The **Oxford Lions Club** is collecting used eyeglasses, sunglasses, and cases to donate to children in need worldwide. Donated glasses are modified to meet individual children's vision needs—the club",
-        "location": "Marshall Elementary School or Board Office"
-      }
-    ]
-  },
-  {
-    "title": "Allergies or Cold: Know the Difference",
-    "block_id": "bfk3x3z2v4-bjcn9nrkts",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/5dd9/ae5d713d6c7a309afa0cbd1027b1d926.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/wcbre-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-04-10T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Nurse's \n\nNotes\n\nNurse's Notes",
-        "id": "bfk3x3z2v4"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/5dd9/ae5d713d6c7a309afa0cbd1027b1d926.jpeg",
-        "id": "bjcn9nrkts"
-      }
-    ],
-    "hash": "bfk3x3z2v4-bjcn9nrkts",
-    "summary": "The school nurse provides a flowchart to help distinguish between allergy symptoms and cold symptoms. **Key differences**: Allergies typically involve clear mucus, seasonal occurrence, itchiness, and symptoms that last for extended periods. Colds usually present with green or yellow mucus, fever, body discomfort, and symptoms that come on quickly and taper off fairly rapidly. **Call your doctor if** symptoms last longer than two weeks, symptoms worsen or new symptoms develop, you have a sore throat or fever higher than 100 degrees for longer than three days, or you experience intense chest pain and shortness of breath."
-  },
-  {
-    "title": "PAX Good Behavior Game Program",
-    "block_id": "berhllupn2-bbyw57cizv-bucgrnjyg6",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/7834/971b9194ffa6185cb89ac4ce2e5a431d.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/wcbre-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-04-10T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PAX\n\nPAX",
-        "id": "berhllupn2"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "The PAX Good Behavior Game is a research-based classroom strategy that helps children make positive choices, and collaborate with others. It supports a calmer, more focused learning environment by promoting kindness, teamwork, and respectful behavior.",
-        "id": "bbyw57cizv"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/7834/971b9194ffa6185cb89ac4ce2e5a431d.jpeg",
-        "id": "bucgrnjyg6"
-      }
-    ],
-    "hash": "berhllupn2-bbyw57cizv-bucgrnjyg6",
-    "summary": "The **PAX Good Behavior Game** is a research-based classroom strategy that helps students make positive choices and collaborate with others. It promotes a calmer, more focused learning environment through kindness, teamwork, and respectful behavior.\n\nThe April 2026 student calendar includes daily PAX activities such as National Walking Day (April 3), World Health Day (April 6), Earth Day activities (April 22), and National Superhero Day (April 28), along with prompts for students to practice leadership, gratitude, and positive behaviors throughout the month."
   }
 ]
