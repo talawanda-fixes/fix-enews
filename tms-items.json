@@ -712,52 +712,6 @@
     ]
   },
   {
-    "title": "Spring Pictures Order Deadline and Picture Day",
-    "block_id": "bmhxgxna23-bzmvmbmh6j-bn4bt0xfbs",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/7221/96f716e754d525e279230bd61f221cc9.png"
-    ],
-    "source_url": "https://app.smore.com/n/m4efg-the-spring-shift?ref=email",
-    "source_title": "The Spring Shift | Smore Newsletters for Education",
-    "date": "2026-02-27T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Spring \n\nPictures!\n\nSpring Pictures!",
-        "id": "bmhxgxna23"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/7221/96f716e754d525e279230bd61f221cc9.png",
-        "id": "bzmvmbmh6j"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Please know pictures will have to be purchased prior to picture day. The cut off for orders will be Thursday, March 12th at midnight. Only students purchasing pictures will be photographed.",
-        "id": "bn4bt0xfbs"
-      }
-    ],
-    "hash": "bmhxgxna23-bzmvmbmh6j-bn4bt0xfbs",
-    "summary": "**Spring pictures will be taken on March 13, 2026** by Lifetouch Photography at Talawanda Middle School. **Orders must be placed by Thursday, March 12th at midnight** - this is a pre-order only event. Only students who purchase pictures in advance will be photographed. Picture Day ID: **EVTJ4BMPW**.",
-    "event_info": [
-      {
-        "title": "Spring Pictures Order Deadline",
-        "start": "2026-03-12T23:59:00",
-        "end": "2026-03-12T23:59:00",
-        "description": "**Spring pictures will be taken on March 13, 2026** by Lifetouch Photography at Talawanda Middle School. **Orders must be placed by Thursday, March 12th at midnight** - this is a pre-order only event.",
-        "location": "Online (Lifetouch Photography)"
-      },
-      {
-        "title": "Spring Picture Day",
-        "start": "2026-03-13T00:00:00",
-        "end": "2026-03-13T23:59:00",
-        "description": "**Spring pictures will be taken on March 13, 2026** by Lifetouch Photography at Talawanda Middle School. **Orders must be placed by Thursday, March 12th at midnight** - this is a pre-order only event.",
-        "location": "Talawanda Middle School"
-      }
-    ]
-  },
-  {
     "title": "Cheerleading Tryouts Registration - Grades 6-11",
     "block_id": "biap2jdzap-bm1f4g7uhd",
     "content": "",
@@ -830,6 +784,52 @@
         "end": "2026-03-26T16:15:00",
         "description": "**Cheerleading tryouts** are open for Talawanda students in grades 6th-11th interested in the Middle School and High School cheerleading program. \n\n**Key Dates:**\n- **Tryout Prep Clinics:** March 9 & ",
         "location": "TMS"
+      }
+    ]
+  },
+  {
+    "title": "Spring Pictures Order Deadline and Picture Day",
+    "block_id": "bmhxgxna23-bzmvmbmh6j-bn4bt0xfbs",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/7221/96f716e754d525e279230bd61f221cc9.png"
+    ],
+    "source_url": "https://app.smore.com/n/m4efg-the-spring-shift?ref=email",
+    "source_title": "The Spring Shift | Smore Newsletters for Education",
+    "date": "2026-02-27T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Spring \n\nPictures!\n\nSpring Pictures!",
+        "id": "bmhxgxna23"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/7221/96f716e754d525e279230bd61f221cc9.png",
+        "id": "bzmvmbmh6j"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Please know pictures will have to be purchased prior to picture day. The cut off for orders will be Thursday, March 12th at midnight. Only students purchasing pictures will be photographed.",
+        "id": "bn4bt0xfbs"
+      }
+    ],
+    "hash": "bmhxgxna23-bzmvmbmh6j-bn4bt0xfbs",
+    "summary": "**Spring pictures will be taken on March 13, 2026** by Lifetouch Photography at Talawanda Middle School. **Orders must be placed by Thursday, March 12th at midnight** - this is a pre-order only event. Only students who purchase pictures in advance will be photographed. Picture Day ID: **EVTJ4BMPW**.",
+    "event_info": [
+      {
+        "title": "Spring Pictures Order Deadline",
+        "start": "2026-03-12T23:59:00",
+        "end": "2026-03-12T23:59:00",
+        "description": "**Spring pictures will be taken on March 13, 2026** by Lifetouch Photography at Talawanda Middle School. **Orders must be placed by Thursday, March 12th at midnight** - this is a pre-order only event.",
+        "location": "Online (Lifetouch Photography)"
+      },
+      {
+        "title": "Spring Picture Day",
+        "start": "2026-03-13T00:00:00",
+        "end": "2026-03-13T23:59:00",
+        "description": "**Spring pictures will be taken on March 13, 2026** by Lifetouch Photography at Talawanda Middle School. **Orders must be placed by Thursday, March 12th at midnight** - this is a pre-order only event.",
+        "location": "Talawanda Middle School"
       }
     ]
   }

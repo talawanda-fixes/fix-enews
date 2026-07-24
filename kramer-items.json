@@ -654,47 +654,6 @@
     "summary": "**PTG** (Parent Teacher Group) announcement. No additional details, dates, times, or locations are provided in this item."
   },
   {
-    "title": "Kramer PTG Cake Roll Fundraiser",
-    "block_id": "b5m8132v16-bjva70dcqe",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/fa2b/4f5bd11028fbe2f2bd59cc993eff2bff.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/ya6kr",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-03-06T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PTG\n\nPTG",
-        "id": "b5m8132v16"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/fa2b/4f5bd11028fbe2f2bd59cc993eff2bff.jpeg",
-        "id": "bjva70dcqe"
-      }
-    ],
-    "hash": "b5m8132v16-bjva70dcqe",
-    "summary": "The **Kramer PTG Cake Roll Fundraiser** runs from **March 2-18**. Orders include cake rolls, pretzels, coffee, and pet treats. **Pickup is Thursday, March 26, 4-6 PM at Kramer Cafeteria**. All proceeds support Kramer fieldtrips and classroom needs. For more information, contact Brooke Cropenbaker at spanglbr@miamioh.edu.",
-    "event_info": [
-      {
-        "title": "Kramer PTG Cake Roll Fundraiser Order Period",
-        "start": "2026-03-02T00:00:00",
-        "end": "2026-03-18T23:59:00",
-        "description": "The **Kramer PTG Cake Roll Fundraiser** runs from **March 2-18**. Orders include cake rolls, pretzels, coffee, and pet treats. **Pickup is Thursday, March 26, 4-6 PM at Kramer Cafeteria**. All proceed",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Kramer PTG Fundraiser Pickup",
-        "start": "2026-03-26T16:00:00",
-        "end": "2026-03-26T18:00:00",
-        "description": "The **Kramer PTG Cake Roll Fundraiser** runs from **March 2-18**. Orders include cake rolls, pretzels, coffee, and pet treats. **Pickup is Thursday, March 26, 4-6 PM at Kramer Cafeteria**. All proceed",
-        "location": "Kramer Cafeteria"
-      }
-    ]
-  },
-  {
     "title": "Volunteer for Kramer Conference Meals",
     "block_id": "b810s40lgy-bhhc0mlk22",
     "content": "",
@@ -732,6 +691,47 @@
         "end": "2026-03-17T23:59:00",
         "description": "Volunteers are needed to provide meals for teachers and staff during the **Spring 2026 Kramer Conference** on **Thursday, March 12 and Tuesday, March 17**. Sign up using the QR code provided in the fl",
         "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Kramer PTG Cake Roll Fundraiser",
+    "block_id": "b5m8132v16-bjva70dcqe",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/fa2b/4f5bd11028fbe2f2bd59cc993eff2bff.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/ya6kr",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-03-06T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PTG\n\nPTG",
+        "id": "b5m8132v16"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/fa2b/4f5bd11028fbe2f2bd59cc993eff2bff.jpeg",
+        "id": "bjva70dcqe"
+      }
+    ],
+    "hash": "b5m8132v16-bjva70dcqe",
+    "summary": "The **Kramer PTG Cake Roll Fundraiser** runs from **March 2-18**. Orders include cake rolls, pretzels, coffee, and pet treats. **Pickup is Thursday, March 26, 4-6 PM at Kramer Cafeteria**. All proceeds support Kramer fieldtrips and classroom needs. For more information, contact Brooke Cropenbaker at spanglbr@miamioh.edu.",
+    "event_info": [
+      {
+        "title": "Kramer PTG Cake Roll Fundraiser Order Period",
+        "start": "2026-03-02T00:00:00",
+        "end": "2026-03-18T23:59:00",
+        "description": "The **Kramer PTG Cake Roll Fundraiser** runs from **March 2-18**. Orders include cake rolls, pretzels, coffee, and pet treats. **Pickup is Thursday, March 26, 4-6 PM at Kramer Cafeteria**. All proceed",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Kramer PTG Fundraiser Pickup",
+        "start": "2026-03-26T16:00:00",
+        "end": "2026-03-26T18:00:00",
+        "description": "The **Kramer PTG Cake Roll Fundraiser** runs from **March 2-18**. Orders include cake rolls, pretzels, coffee, and pet treats. **Pickup is Thursday, March 26, 4-6 PM at Kramer Cafeteria**. All proceed",
+        "location": "Kramer Cafeteria"
       }
     ]
   }
