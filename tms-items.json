@@ -1,5 +1,296 @@
 [
   {
+    "title": "6th Grade Student Contact Information Form",
+    "block_id": "bgdwsh2yyz-bt7bmjg5n0",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/6z8uq-off-and-running?ref=email",
+    "source_title": "OFF AND RUNNING!! | Smore Newsletters for Education",
+    "date": "2026-08-21T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "ATTENTION \n\n6TH \n\nGRADE \n\nPARENTS! ATTENTION 6TH GRADE PARENTS!",
+        "id": "bgdwsh2yyz"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "6th Grade Student Contact Info. (2026/27)6th Grade Parents please complete! This information helps the 6th grade staff get to know your child, and informs us who to contact to ensure that your child has a great year in 6th grade. This form will be used by ALL 6th grade teachers. Please only complete this form once per child in 6th grade.",
+        "id": "bt7bmjg5n0"
+      }
+    ],
+    "hash": "bgdwsh2yyz-bt7bmjg5n0",
+    "summary": "**6th grade parents** are asked to complete a student contact information form for the 2026/27 school year. This form helps 6th grade staff get to know each child and ensures proper contact information for a successful year. The form is shared among all 6th grade teachers and should only be completed **once per child** in 6th grade."
+  },
+  {
+    "title": "ProgressBook Setup and Training Information",
+    "block_id": "bh8fcthb7h-bzjo23rkff",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/6z8uq-off-and-running?ref=email",
+    "source_title": "OFF AND RUNNING!! | Smore Newsletters for Education",
+    "date": "2026-08-21T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PROGRESSBOOK \n\nINFORMATION PROGRESSBOOK INFORMATION",
+        "id": "bh8fcthb7h"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Students will be learning how to use Progressbook to check on grades and homework assignments. Information will be sent home to parents who have not yet set up a parent account as well. Please use this LINK for more information to best utilize the tools that are offered with Progressbook.",
+        "id": "bzjo23rkff"
+      }
+    ],
+    "hash": "bh8fcthb7h-bzjo23rkff",
+    "summary": "Students will learn how to use **ProgressBook** to check grades and homework assignments. Parents who haven't set up a parent account will receive information on how to do so. A [LINK](LINK) is available with more information on utilizing ProgressBook tools."
+  },
+  {
+    "title": "Middle School Cafeteria Price List",
+    "block_id": "b9wyxx022l-ba6lkjnll3",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/4e21/bd4f4073eb4073774e855057a60a3e11.png"
+    ],
+    "source_url": "https://app.smore.com/n/6z8uq-off-and-running?ref=email",
+    "source_title": "OFF AND RUNNING!! | Smore Newsletters for Education",
+    "date": "2026-08-21T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "NEWS \n\nFROM \n\nTHE \n\nCAFETERIA NEWS FROM THE CAFETERIA",
+        "id": "b9wyxx022l"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/4e21/bd4f4073eb4073774e855057a60a3e11.png",
+        "id": "ba6lkjnll3"
+      }
+    ],
+    "hash": "b9wyxx022l-ba6lkjnll3",
+    "summary": "**Snacks and drinks** available for purchase starting in **September** (must have money in hand or on account):\n- **Snacks:** Chips ($1.75), Rice Krispie Treat ($1.25), Fruit Roll Up/Fruit by the Foot ($1.00), Ice Cream ($1.50), Cookie ($1.00), Fruit/Vegetable ($1.00)\n- **Drinks:** Extra Milk ($0.85), Plain Water ($1.50), Switch or Bottled Juice ($2.25)\n- **Meals:** Breakfast ($1.75), Extra Breakfast Entree ($1.50), Lunch ($4.00), Extra Lunch Entree ($2.75)",
+    "event_info": [
+      {
+        "title": "Cafeteria Snacks & Drinks Sales Begin",
+        "start": "2026-09-01T00:00:00",
+        "end": "2026-09-30T23:59:00",
+        "description": "**Snacks and drinks** available for purchase starting in **September** (must have money in hand or on account):\n- **Snacks:** Chips ($1.75), Rice Krispie Treat ($1.25), Fruit Roll Up/Fruit by the Foot",
+        "location": "Talawanda Middle School"
+      }
+    ]
+  },
+  {
+    "title": "Glen Helen 7th Grade Trip Information",
+    "block_id": "bzeoze9zr6-bmf93kkmbu-brfk2rgdop-b1u6sthexu",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/8f86/6ace52d71d44e97db0da2aafb3bf2aec.png",
+      "https://cdn.smore.com/u/95d4/33594ba06f5c704925e4f5ad83cd9616.png",
+      "https://cdn.smore.com/u/8f3e/3c3ada7a75da60cb97b2d99237cb0d13.png"
+    ],
+    "source_url": "https://app.smore.com/n/6z8uq-off-and-running?ref=email",
+    "source_title": "OFF AND RUNNING!! | Smore Newsletters for Education",
+    "date": "2026-08-21T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "GLEN \n\nHELEN \n\nINFORMATION GLEN HELEN INFORMATION",
+        "id": "bzeoze9zr6"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/8f86/6ace52d71d44e97db0da2aafb3bf2aec.png",
+        "id": "bmf93kkmbu"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/95d4/33594ba06f5c704925e4f5ad83cd9616.png",
+        "id": "brfk2rgdop"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/8f3e/3c3ada7a75da60cb97b2d99237cb0d13.png",
+        "id": "b1u6sthexu"
+      }
+    ],
+    "hash": "bzeoze9zr6-bmf93kkmbu-brfk2rgdop-b1u6sthexu",
+    "summary": "The 7th grade Glen Helen overnight camp requires a **$50 deposit by Friday, August 28, 2026** (total cost $165, balance $115). Students must submit both a **Commitment Letter** and **Discipline Contract** by this deadline. Additional paperwork (health form, photo waiver) and full payment are due by **Friday, September 11, 2026**. Medical permits must be turned in **three days before departure** with correct medication paperwork. The trip uses a **3-strike behavior system** at Glen Helen, with **no refund** if a child is removed for behavior. Starting **August 31st**, a similar behavior system applies at school leading up to the trip—a 3rd offense results in removal from the trip with full refund available prior to September 15, 2026, partial refund after. Students who receive in-school or out-of-school suspension will be immediately suspended from the trip. Payment options include cash, check (to Talawanda Middle School), or pie sale/cookie dough fundraiser earnings.",
+    "event_info": [
+      {
+        "title": "Glen Helen Commitment Letter & Discipline Contract Due",
+        "start": "2026-08-28T00:00:00",
+        "end": "2026-08-28T23:59:00",
+        "description": "The 7th grade Glen Helen overnight camp requires a **$50 deposit by Friday, August 28, 2026** (total cost $165, balance $115). Students must submit both a **Commitment Letter** and **Discipline Contra",
+        "location": "Talawanda Middle School"
+      },
+      {
+        "title": "Glen Helen Additional Paperwork & Full Payment Due",
+        "start": "2026-09-11T00:00:00",
+        "end": "2026-09-11T23:59:00",
+        "description": "The 7th grade Glen Helen overnight camp requires a **$50 deposit by Friday, August 28, 2026** (total cost $165, balance $115). Students must submit both a **Commitment Letter** and **Discipline Contra",
+        "location": "Talawanda Middle School"
+      },
+      {
+        "title": "School Behavior System Begins for Glen Helen Trip",
+        "start": "2026-08-31T00:00:00",
+        "end": "2026-08-31T23:59:00",
+        "description": "The 7th grade Glen Helen overnight camp requires a **$50 deposit by Friday, August 28, 2026** (total cost $165, balance $115). Students must submit both a **Commitment Letter** and **Discipline Contra",
+        "location": "Talawanda Middle School"
+      }
+    ]
+  },
+  {
+    "title": "Brave Initiative Team (B.I.T.) Club Information",
+    "block_id": "b7fgf5psp4-balk8kiqdt",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/13f4/d1ef0818b063e977fa9f7b2e28c243aa.png"
+    ],
+    "source_url": "https://app.smore.com/n/6z8uq-off-and-running?ref=email",
+    "source_title": "OFF AND RUNNING!! | Smore Newsletters for Education",
+    "date": "2026-08-21T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "CLUB \n\nINFORMATION! CLUB INFORMATION!",
+        "id": "b7fgf5psp4"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/13f4/d1ef0818b063e977fa9f7b2e28c243aa.png",
+        "id": "balk8kiqdt"
+      }
+    ],
+    "hash": "b7fgf5psp4-balk8kiqdt",
+    "summary": "The **Brave Initiative Team (B.I.T.)** is a new club focused on building leadership skills, creating a healthier school and community, and promoting mental health, kindness, and healthy habits. Members will meet **once a month during lunch**, with the first meeting to be announced soon. Contact Mrs. Macechko at **513.273.3390** with any questions."
+  },
+  {
+    "title": "Engineering and Coding Club for Middle School",
+    "block_id": "btxe8ogb8a-b4g8fs8l1a",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/6z8uq-off-and-running?ref=email",
+    "source_title": "OFF AND RUNNING!! | Smore Newsletters for Education",
+    "date": "2026-08-21T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "ENGINEERING \n\nAND \n\nCODING \n\nCLUB ENGINEERING AND CODING CLUB",
+        "id": "btxe8ogb8a"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "After school Engineering and Coding Club starts in September. This is a dynamic and engaging environment where students in 6-8th grade can explore the world of engineering and coding. Our club is designed for students who are interested in technology, problem-solving, and innovation. Two Miami University based clubs will be directing our engineering and coding activities this year. Kode2Learn is a student organization that organizes and runs events for kids in the Oxford area that promote teamwork and problem solving through the use of computer programming. SWE (Society of Women Engineers) organization's goal is to encourage our middle school students to consider engineering or computing as a career and provide activities related to engineering/coding.Engineering/Coding Club times - Schedule(After school until 3:30 p.m.)Engineering Focus: SWENext - Thursdays Sept. 17, 24, Oct. 1, 8, 15Coding/Programming Focus: Kode2Learn - Wednesdays Oct. 21, 28, Nov. 4, 11, 18See Mrs. Ruppert for club permission slips (Room 406).",
+        "id": "b4g8fs8l1a"
+      }
+    ],
+    "hash": "btxe8ogb8a-b4g8fs8l1a",
+    "summary": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women Engineers)** leads engineering activities on Thursdays (Sept. 17, 24, Oct. 1, 8, 15), and **Kode2Learn** leads coding/programming sessions on Wednesdays (Oct. 21, 28, Nov. 4, 11, 18). Students can pick up permission slips from Mrs. Ruppert in Room 406.",
+    "event_info": [
+      {
+        "title": "Engineering Focus - SWE (Society of Women Engineers)",
+        "start": "2026-09-17T00:00:00",
+        "end": "2026-09-17T15:30:00",
+        "description": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women En",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Engineering Focus - SWE (Society of Women Engineers)",
+        "start": "2026-09-24T00:00:00",
+        "end": "2026-09-24T15:30:00",
+        "description": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women En",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Engineering Focus - SWE (Society of Women Engineers)",
+        "start": "2026-10-01T00:00:00",
+        "end": "2026-10-01T15:30:00",
+        "description": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women En",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Engineering Focus - SWE (Society of Women Engineers)",
+        "start": "2026-10-08T00:00:00",
+        "end": "2026-10-08T15:30:00",
+        "description": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women En",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Engineering Focus - SWE (Society of Women Engineers)",
+        "start": "2026-10-15T00:00:00",
+        "end": "2026-10-15T15:30:00",
+        "description": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women En",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Coding/Programming Focus - Kode2Learn",
+        "start": "2026-10-21T00:00:00",
+        "end": "2026-10-21T15:30:00",
+        "description": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women En",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Coding/Programming Focus - Kode2Learn",
+        "start": "2026-10-28T00:00:00",
+        "end": "2026-10-28T15:30:00",
+        "description": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women En",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Coding/Programming Focus - Kode2Learn",
+        "start": "2026-11-04T00:00:00",
+        "end": "2026-11-04T15:30:00",
+        "description": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women En",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Coding/Programming Focus - Kode2Learn",
+        "start": "2026-11-11T00:00:00",
+        "end": "2026-11-11T15:30:00",
+        "description": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women En",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Coding/Programming Focus - Kode2Learn",
+        "start": "2026-11-18T00:00:00",
+        "end": "2026-11-18T15:30:00",
+        "description": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women En",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Back to School Spiritwear Sales",
+    "block_id": "bw8c5qp935-ba93d5a8g4-bgwi18yehc",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/3ee4/b08b40a00ca0f71a2d7bb876f385dbc1.png",
+      "https://cdn.smore.com/u/57f7/aed9de6aaec5c1fbe81b7a3f8f3abd21.png"
+    ],
+    "source_url": "https://app.smore.com/n/6z8uq-off-and-running?ref=email",
+    "source_title": "OFF AND RUNNING!! | Smore Newsletters for Education",
+    "date": "2026-08-21T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "LOOKING \n\nFOR \n\nBACK \n\nTO \n\nSCHOOL \n\nSPIRITWEAR? LOOKING FOR BACK TO SCHOOL SPIRITWEAR?",
+        "id": "bw8c5qp935"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/3ee4/b08b40a00ca0f71a2d7bb876f385dbc1.png",
+        "id": "ba93d5a8g4"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/57f7/aed9de6aaec5c1fbe81b7a3f8f3abd21.png",
+        "id": "bgwi18yehc"
+      }
+    ],
+    "hash": "bw8c5qp935-ba93d5a8g4-bgwi18yehc",
+    "summary": "**1st Place Spiritwear** is offering Talawanda Brave spirit wear for the new school year with **up to 35% off sitewide**. Two promotions are available:\n\n- **Weekend Tee Sale**: Kids tees $17.99, Adult tees $19.99\n- **Official gear** including hoodies, t-shirts, and accessories\n\n**Free shipping on orders over $85**. Shop at **1stplace.sale/71854**"
+  },
+  {
     "title": "KT Training Fitness Program Information",
     "block_id": "bmf3mhxj3n-b5zb5vgwir-b99tmjdldt",
     "content": "",
@@ -479,357 +770,6 @@
         "end": "2026-03-27T23:59:00",
         "description": "Talawanda Middle School is hosting **Spring Break Spirit Week** during the week of March 23rd with daily themed dress-up days:\n- **Monday (March 23)**: Pajama Day - PJs must be school appropriate\n- **",
         "location": "Talawanda Middle School"
-      }
-    ]
-  },
-  {
-    "title": "Cookie Dough Fundraiser Pick-Up Event",
-    "block_id": "brcxccby91-b0teht5b05",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/dhkqz-welcome-spring?ref=email",
-    "source_title": "WELCOME SPRING! | Smore Newsletters for Education",
-    "date": "2026-03-20T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "COOKIE \n\nDOUGH \n\nPICK-UP!\n\nCOOKIE DOUGH PICK-UP!",
-        "id": "brcxccby91"
-      },
-      {
-        "type": "text.title",
-        "content": "March \n\n25th, \n\n2:30 \n\n- \n\n6:30pm\n\nMarch 25th, 2:30 - 6:30pm",
-        "id": "b0teht5b05"
-      }
-    ],
-    "hash": "brcxccby91-b0teht5b05",
-    "summary": "**Cookie dough pick-up** is scheduled for **March 25th from 2:30-6:30 PM**. Please plan to collect your cookie dough orders during this time window.",
-    "event_info": [
-      {
-        "title": "Cookie Dough Pick-Up",
-        "start": "2026-03-25T14:30:00",
-        "end": "2026-03-25T18:30:00",
-        "description": "**Cookie dough pick-up** is scheduled for **March 25th from 2:30-6:30 PM**. Please plan to collect your cookie dough orders during this time window.",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Join the PTG - Meeting March 23rd",
-    "block_id": "b89rv5y4sb-bxf7wjq0jf-by4knug9k4",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/acdd/c580a5824377d64b71fd57a1e98df91a.png"
-    ],
-    "source_url": "https://app.smore.com/n/dhkqz-blooming-with-news?ref=email",
-    "source_title": "Blooming With News | Smore Newsletters for Education",
-    "date": "2026-03-13T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "READY \n\nTO \n\nJOIN \n\nPTG?\n\nREADY TO JOIN PTG?",
-        "id": "b89rv5y4sb"
-      },
-      {
-        "type": "text.title",
-        "content": "We \n\nlook \n\nforward \n\nto \n\nmeeting \n\nyou!\n\nWe look forward to meeting you!",
-        "id": "bxf7wjq0jf"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/acdd/c580a5824377d64b71fd57a1e98df91a.png",
-        "id": "by4knug9k4"
-      }
-    ],
-    "hash": "b89rv5y4sb-bxf7wjq0jf-by4knug9k4",
-    "summary": "The PTG is welcoming new board members for the 2026-2027 school year. A meeting is scheduled for **March 23rd at 2:30 PM in the TMS Media Center** to plan goals and vision for the upcoming school year. The board currently has positions filled for President (Sarah Meaney), Vice President (Stephene Seals-Spahn), and Treasurer (Jenna Fillmore), with an **open Secretary position**. Parents, students, teachers, and staff are all welcome to attend and help brainstorm ways to support students and staff. **Email tmsptgbrave@gmail.com if interested in the Secretary position.**",
-    "event_info": [
-      {
-        "title": "PTG Meeting - Planning for 2026-2027 School Year",
-        "start": "2026-03-23T14:30:00",
-        "end": "2026-03-23T15:30:00",
-        "description": "The PTG is welcoming new board members for the 2026-2027 school year. A meeting is scheduled for **March 23rd at 2:30 PM in the TMS Media Center** to plan goals and vision for the upcoming school year",
-        "location": "TMS Media Center"
-      }
-    ]
-  },
-  {
-    "title": "Mountain Bike Club Permission Form",
-    "block_id": "b5rsppjmjs-betzulspm8",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/d7e1/57154b0f9950d06fedb749eea53664d5.png"
-    ],
-    "source_url": "https://app.smore.com/n/g5rwy-spring-forward?ref=email",
-    "source_title": "Spring Forward | Smore Newsletters for Education",
-    "date": "2026-03-06T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/d7e1/57154b0f9950d06fedb749eea53664d5.png",
-        "id": "b5rsppjmjs"
-      },
-      {
-        "type": "text.title",
-        "content": "PERMISSION \n\nFORM \n\nCLICK \n\nHERE!\n\nPERMISSION FORM CLICK HERE!",
-        "id": "betzulspm8"
-      }
-    ],
-    "hash": "b5rsppjmjs-betzulspm8",
-    "summary": "The **Mountain Bike Club is back** and meets after school in Room 511 from **2:15-4:00 PM** (pick up at Garage Door behind school). Students will learn bike history, maintenance, and riding from experienced enthusiasts. Bring a bike helmet daily; personal bikes welcome or use shared Trek bikes. \n\n**Meeting dates:** March 12, 19, 26; April 2, 9, 16, 23, 30; May 7, 14\n\n**Contact:** Scott Dennis at denniss@talawanda.org or 513-273-3380\n\n**[Permission form required - click link in original item]**",
-    "event_info": [
-      {
-        "title": "Mountain Bike Club Meeting",
-        "start": "2026-03-12T14:15:00",
-        "end": "2026-03-12T16:00:00",
-        "description": "The **Mountain Bike Club is back** and meets after school in Room 511 from **2:15-4:00 PM** (pick up at Garage Door behind school). Students will learn bike history, maintenance, and riding from exper",
-        "location": "Room 511, Talawanda High School (pick up at Garage Door)"
-      },
-      {
-        "title": "Mountain Bike Club Meeting",
-        "start": "2026-03-19T14:15:00",
-        "end": "2026-03-19T16:00:00",
-        "description": "The **Mountain Bike Club is back** and meets after school in Room 511 from **2:15-4:00 PM** (pick up at Garage Door behind school). Students will learn bike history, maintenance, and riding from exper",
-        "location": "Room 511, Talawanda High School (pick up at Garage Door)"
-      },
-      {
-        "title": "Mountain Bike Club Meeting",
-        "start": "2026-03-26T14:15:00",
-        "end": "2026-03-26T16:00:00",
-        "description": "The **Mountain Bike Club is back** and meets after school in Room 511 from **2:15-4:00 PM** (pick up at Garage Door behind school). Students will learn bike history, maintenance, and riding from exper",
-        "location": "Room 511, Talawanda High School (pick up at Garage Door)"
-      },
-      {
-        "title": "Mountain Bike Club Meeting",
-        "start": "2026-04-02T14:15:00",
-        "end": "2026-04-02T16:00:00",
-        "description": "The **Mountain Bike Club is back** and meets after school in Room 511 from **2:15-4:00 PM** (pick up at Garage Door behind school). Students will learn bike history, maintenance, and riding from exper",
-        "location": "Room 511, Talawanda High School (pick up at Garage Door)"
-      },
-      {
-        "title": "Mountain Bike Club Meeting",
-        "start": "2026-04-09T14:15:00",
-        "end": "2026-04-09T16:00:00",
-        "description": "The **Mountain Bike Club is back** and meets after school in Room 511 from **2:15-4:00 PM** (pick up at Garage Door behind school). Students will learn bike history, maintenance, and riding from exper",
-        "location": "Room 511, Talawanda High School (pick up at Garage Door)"
-      },
-      {
-        "title": "Mountain Bike Club Meeting",
-        "start": "2026-04-16T14:15:00",
-        "end": "2026-04-16T16:00:00",
-        "description": "The **Mountain Bike Club is back** and meets after school in Room 511 from **2:15-4:00 PM** (pick up at Garage Door behind school). Students will learn bike history, maintenance, and riding from exper",
-        "location": "Room 511, Talawanda High School (pick up at Garage Door)"
-      },
-      {
-        "title": "Mountain Bike Club Meeting",
-        "start": "2026-04-23T14:15:00",
-        "end": "2026-04-23T16:00:00",
-        "description": "The **Mountain Bike Club is back** and meets after school in Room 511 from **2:15-4:00 PM** (pick up at Garage Door behind school). Students will learn bike history, maintenance, and riding from exper",
-        "location": "Room 511, Talawanda High School (pick up at Garage Door)"
-      },
-      {
-        "title": "Mountain Bike Club Meeting",
-        "start": "2026-04-30T14:15:00",
-        "end": "2026-04-30T16:00:00",
-        "description": "The **Mountain Bike Club is back** and meets after school in Room 511 from **2:15-4:00 PM** (pick up at Garage Door behind school). Students will learn bike history, maintenance, and riding from exper",
-        "location": "Room 511, Talawanda High School (pick up at Garage Door)"
-      },
-      {
-        "title": "Mountain Bike Club Meeting",
-        "start": "2026-05-07T14:15:00",
-        "end": "2026-05-07T16:00:00",
-        "description": "The **Mountain Bike Club is back** and meets after school in Room 511 from **2:15-4:00 PM** (pick up at Garage Door behind school). Students will learn bike history, maintenance, and riding from exper",
-        "location": "Room 511, Talawanda High School (pick up at Garage Door)"
-      },
-      {
-        "title": "Mountain Bike Club Meeting",
-        "start": "2026-05-14T14:15:00",
-        "end": "2026-05-14T16:00:00",
-        "description": "The **Mountain Bike Club is back** and meets after school in Room 511 from **2:15-4:00 PM** (pick up at Garage Door behind school). Students will learn bike history, maintenance, and riding from exper",
-        "location": "Room 511, Talawanda High School (pick up at Garage Door)"
-      }
-    ]
-  },
-  {
-    "title": "World Teen Mental Health Day Celebration",
-    "block_id": "b62sic7m0k",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/g5rwy-spring-forward?ref=email",
-    "source_title": "Spring Forward | Smore Newsletters for Education",
-    "date": "2026-03-06T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "2026 World Teen Mental Health Celebration at TMS\nMonday, March 2nd was World Teen Mental Health Day. Started in 2020, this day focused on encouraging teens to talk openly about mental health and supporting mental health education. The Brave Initiative Team and the Sources of Strength Team at TMS created a plan and celebration for the student body.Thanks to bi3, Interact for Health, and the Joe Burrow Foundation, TMS received funding to provide each student with a \"mental health toolkit\". Throughout the school day, students received different items to help them think about strategies to stay mentally well and deal with life's stressors. From journaling to being physically active, students had the opportunity to think about what works best for them.During lunch on Monday, students will also had the opportunity to think about individuals in their lives who serve as mentors. These may be individuals at home, in school, or in the community. As a school, we created a display of all of the identified mentors.We encourage you to ask your student about this celebration. If you have any questions or want any additional information, please feel free to contact Talawanda Health & Wellness at 513.273.3390.Please enjoy this VIDEO of some of the events from the day.",
-        "id": "b62sic7m0k"
-      }
-    ],
-    "hash": "b62sic7m0k",
-    "summary": "**Talawanda Middle School** celebrated **World Teen Mental Health Day on Monday, March 2nd** with activities organized by the Brave Initiative Team and Sources of Strength Team. Thanks to funding from **bi3, Interact for Health, and the Joe Burrow Foundation**, each student received a mental health toolkit with items promoting strategies like journaling and physical activity. Students also created a display honoring mentors in their lives during lunch. For more information, contact Talawanda Health & Wellness at **513.273.3390** or view the [VIDEO](https://www.youtube.com/watch?v=dQw4w9WgXcQ) of the day's events.",
-    "event_info": [
-      {
-        "title": "World Teen Mental Health Day Celebration at TMS",
-        "start": "2026-03-02T00:00:00",
-        "end": "2026-03-02T23:59:00",
-        "description": "**Talawanda Middle School** celebrated **World Teen Mental Health Day on Monday, March 2nd** with activities organized by the Brave Initiative Team and Sources of Strength Team. Thanks to funding from",
-        "location": "Talawanda Middle School"
-      }
-    ]
-  },
-  {
-    "title": "Free Food Box Drive-Thru Distribution Event",
-    "block_id": "bmf3mhxj3n-bcn8fwq1b2",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/8e2f/7ce105591b2c6c380663bc164b22ce5a.png"
-    ],
-    "source_url": "https://app.smore.com/n/g5rwy-spring-forward?ref=email",
-    "source_title": "Spring Forward | Smore Newsletters for Education",
-    "date": "2026-03-06T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "COMMUNITY \n\nINFORMATION\n\nCOMMUNITY INFORMATION",
-        "id": "bmf3mhxj3n"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/8e2f/7ce105591b2c6c380663bc164b22ce5a.png",
-        "id": "bcn8fwq1b2"
-      }
-    ],
-    "hash": "bmf3mhxj3n-bcn8fwq1b2",
-    "summary": "A **free food box drive-thru distribution** will be held on **March 24 from 3:30-5:30 PM** at Talawanda High School. **Registration is highly encouraged due to limited quantity** at **https://forms.gle/66coSfzmRpqaYqdQ7**. This is a TSD-approved distribution not affiliated with TSD.",
-    "event_info": [
-      {
-        "title": "Free Food Box Drive-Thru Distribution",
-        "start": "2026-03-24T15:30:00",
-        "end": "2026-03-24T17:30:00",
-        "description": "A **free food box drive-thru distribution** will be held on **March 24 from 3:30-5:30 PM** at Talawanda High School. **Registration is highly encouraged due to limited quantity** at **https://forms.gl",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Spring Pictures Order Deadline and Picture Day",
-    "block_id": "bmhxgxna23-bzmvmbmh6j-bn4bt0xfbs",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/7221/96f716e754d525e279230bd61f221cc9.png"
-    ],
-    "source_url": "https://app.smore.com/n/m4efg-the-spring-shift?ref=email",
-    "source_title": "The Spring Shift | Smore Newsletters for Education",
-    "date": "2026-02-27T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Spring \n\nPictures!\n\nSpring Pictures!",
-        "id": "bmhxgxna23"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/7221/96f716e754d525e279230bd61f221cc9.png",
-        "id": "bzmvmbmh6j"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Please know pictures will have to be purchased prior to picture day. The cut off for orders will be Thursday, March 12th at midnight. Only students purchasing pictures will be photographed.",
-        "id": "bn4bt0xfbs"
-      }
-    ],
-    "hash": "bmhxgxna23-bzmvmbmh6j-bn4bt0xfbs",
-    "summary": "**Spring pictures will be taken on March 13, 2026** by Lifetouch Photography at Talawanda Middle School. **Orders must be placed by Thursday, March 12th at midnight** - this is a pre-order only event. Only students who purchase pictures in advance will be photographed. Picture Day ID: **EVTJ4BMPW**.",
-    "event_info": [
-      {
-        "title": "Spring Pictures Order Deadline",
-        "start": "2026-03-12T23:59:00",
-        "end": "2026-03-12T23:59:00",
-        "description": "**Spring pictures will be taken on March 13, 2026** by Lifetouch Photography at Talawanda Middle School. **Orders must be placed by Thursday, March 12th at midnight** - this is a pre-order only event.",
-        "location": "Online (Lifetouch Photography)"
-      },
-      {
-        "title": "Spring Picture Day",
-        "start": "2026-03-13T00:00:00",
-        "end": "2026-03-13T23:59:00",
-        "description": "**Spring pictures will be taken on March 13, 2026** by Lifetouch Photography at Talawanda Middle School. **Orders must be placed by Thursday, March 12th at midnight** - this is a pre-order only event.",
-        "location": "Talawanda Middle School"
-      }
-    ]
-  },
-  {
-    "title": "Cheerleading Tryouts Registration - Grades 6-11",
-    "block_id": "biap2jdzap-bm1f4g7uhd",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/57a0/a845e5f867167dfcaf906d1f9cbff590.png"
-    ],
-    "source_url": "https://app.smore.com/n/m4efg-the-spring-shift?ref=email",
-    "source_title": "The Spring Shift | Smore Newsletters for Education",
-    "date": "2026-02-27T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "USE \n\nTHIS \n\nLINK \n\nTO \n\nREGISTER \n\nFOR \n\nTRYOUTS. \n\nGRADES \n\n6TH \n\n- \n\n11TH!\n\nUSE THIS LINK TO REGISTER FOR TRYOUTS. GRADES 6TH - 11TH!",
-        "id": "biap2jdzap"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/57a0/a845e5f867167dfcaf906d1f9cbff590.png",
-        "id": "bm1f4g7uhd"
-      }
-    ],
-    "hash": "biap2jdzap-bm1f4g7uhd",
-    "summary": "**Cheerleading tryouts** are open for Talawanda students in grades 6th-11th interested in the Middle School and High School cheerleading program. \n\n**Key Dates:**\n- **Tryout Prep Clinics:** March 9 & 16, 2:30-4pm @ TMS\n- **Parent/Athlete Meeting:** March 16, 5:30pm @ TMS\n- **Tryout Clinics:** March 23-25, 3-5pm @ TMS\n- **Tryouts:** March 26, 3:15pm @ TMS\n\n**Contact:** Janna Eason at 513.273.3305 or easonj@talawanda.org",
-    "event_info": [
-      {
-        "title": "Cheerleading Tryout Prep Clinic",
-        "start": "2026-03-09T14:30:00",
-        "end": "2026-03-09T16:00:00",
-        "description": "**Cheerleading tryouts** are open for Talawanda students in grades 6th-11th interested in the Middle School and High School cheerleading program. \n\n**Key Dates:**\n- **Tryout Prep Clinics:** March 9 & ",
-        "location": "TMS"
-      },
-      {
-        "title": "Cheerleading Tryout Prep Clinic",
-        "start": "2026-03-16T14:30:00",
-        "end": "2026-03-16T16:00:00",
-        "description": "**Cheerleading tryouts** are open for Talawanda students in grades 6th-11th interested in the Middle School and High School cheerleading program. \n\n**Key Dates:**\n- **Tryout Prep Clinics:** March 9 & ",
-        "location": "TMS"
-      },
-      {
-        "title": "Cheerleading Parent and Athlete Meeting",
-        "start": "2026-03-16T17:30:00",
-        "end": "2026-03-16T18:30:00",
-        "description": "**Cheerleading tryouts** are open for Talawanda students in grades 6th-11th interested in the Middle School and High School cheerleading program. \n\n**Key Dates:**\n- **Tryout Prep Clinics:** March 9 & ",
-        "location": "TMS"
-      },
-      {
-        "title": "Cheerleading Tryout Clinic",
-        "start": "2026-03-23T15:00:00",
-        "end": "2026-03-23T17:00:00",
-        "description": "**Cheerleading tryouts** are open for Talawanda students in grades 6th-11th interested in the Middle School and High School cheerleading program. \n\n**Key Dates:**\n- **Tryout Prep Clinics:** March 9 & ",
-        "location": "TMS"
-      },
-      {
-        "title": "Cheerleading Tryout Clinic",
-        "start": "2026-03-24T15:00:00",
-        "end": "2026-03-24T17:00:00",
-        "description": "**Cheerleading tryouts** are open for Talawanda students in grades 6th-11th interested in the Middle School and High School cheerleading program. \n\n**Key Dates:**\n- **Tryout Prep Clinics:** March 9 & ",
-        "location": "TMS"
-      },
-      {
-        "title": "Cheerleading Tryout Clinic",
-        "start": "2026-03-25T15:00:00",
-        "end": "2026-03-25T17:00:00",
-        "description": "**Cheerleading tryouts** are open for Talawanda students in grades 6th-11th interested in the Middle School and High School cheerleading program. \n\n**Key Dates:**\n- **Tryout Prep Clinics:** March 9 & ",
-        "location": "TMS"
-      },
-      {
-        "title": "Cheerleading Tryouts",
-        "start": "2026-03-26T15:15:00",
-        "end": "2026-03-26T16:15:00",
-        "description": "**Cheerleading tryouts** are open for Talawanda students in grades 6th-11th interested in the Middle School and High School cheerleading program. \n\n**Key Dates:**\n- **Tryout Prep Clinics:** March 9 & ",
-        "location": "TMS"
       }
     ]
   }
