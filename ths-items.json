@@ -1,5 +1,233 @@
 [
   {
+    "title": "Weekly Calendar for Talawanda High School",
+    "block_id": "b1oohprvfy",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/syn76",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-08-28T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Weekly \n\nCalendar Weekly Calendar",
+        "id": "b1oohprvfy"
+      }
+    ],
+    "hash": "b1oohprvfy",
+    "summary": "The weekly calendar for Talawanda High School is now available. Specific events, dates, and times for the week are not provided in the text content."
+  },
+  {
+    "title": "Club Meetings and Activities Schedule",
+    "block_id": "bv0ung9ptn-bghptfzqhm-bjqbid088y",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/syn76",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-08-28T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Club \n\nMeetings Club Meetings",
+        "id": "bv0ung9ptn"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Monday, August 31st2:30 pm - Robotics Club, room 412 - all interested students are welcome! 2:30 pm - Setting Stone, room 320Tuesday, September 1st9:30 am - 10:00 am - Mock Trial, room 315 - informational meeting2:30 - 3:15 pm - Art Club, room 603 - all are welcome!2:30 - 3:30 pm - Diversity Club, room 400 - join us for snacks & activity planning to promote acceptance in our community!Wednesday, September 2nd2:30 pm - Robotics Club, room 412 - all interested students are welcome! Thursday, September 3rd5:00 pm - 7:00 pm - Mock Trial, room 315 - practiceFriday, September 4thTalawanda High School's environmental club, Project Green, is welcoming new members! If you're interested in environmental issues and participating in outdoor activities like gardening, forest restoration, wildlife research, etc., please see Mrs. Ruther in room 224 ASAP!",
+        "id": "bghptfzqhm"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Coming Up Wednesday, September 9th 9:30 am - 10:00 am - Best Buddies - Informational Meeting during tutorial, room 316Thursday, September 24th2:30 pm - 3:00 pm - Best Buddies Meeting, room 316",
+        "id": "bjqbid088y"
+      }
+    ],
+    "hash": "bv0ung9ptn-bghptfzqhm-bjqbid088y",
+    "summary": "Multiple clubs are meeting the week of August 31st through September 4th, including **Robotics Club** (Mon/Wed, room 412), **Mock Trial** (Tue/Thu, room 315), **Art Club** (Tue, room 603), **Diversity Club** (Tue, room 400), and **Setting Stone** (Mon, room 320). **Project Green** environmental club is recruiting new members interested in gardening, forest restoration, and wildlife research—see Mrs. Ruther in room 224. **Best Buddies** has an informational meeting September 9th and first meeting September 24th in room 316.",
+    "event_info": [
+      {
+        "title": "Robotics Club Meeting",
+        "start": "2026-08-31T14:30:00",
+        "end": "2026-08-31T15:30:00",
+        "description": "Multiple clubs are meeting the week of August 31st through September 4th, including **Robotics Club** (Mon/Wed, room 412), **Mock Trial** (Tue/Thu, room 315), **Art Club** (Tue, room 603), **Diversity",
+        "location": "Room 412"
+      },
+      {
+        "title": "Setting Stone Meeting",
+        "start": "2026-08-31T14:30:00",
+        "end": "2026-08-31T15:30:00",
+        "description": "Multiple clubs are meeting the week of August 31st through September 4th, including **Robotics Club** (Mon/Wed, room 412), **Mock Trial** (Tue/Thu, room 315), **Art Club** (Tue, room 603), **Diversity",
+        "location": "Room 320"
+      },
+      {
+        "title": "Mock Trial Informational Meeting",
+        "start": "2026-09-01T09:30:00",
+        "end": "2026-09-01T10:00:00",
+        "description": "Multiple clubs are meeting the week of August 31st through September 4th, including **Robotics Club** (Mon/Wed, room 412), **Mock Trial** (Tue/Thu, room 315), **Art Club** (Tue, room 603), **Diversity",
+        "location": "Room 315"
+      },
+      {
+        "title": "Art Club Meeting",
+        "start": "2026-09-01T14:30:00",
+        "end": "2026-09-01T15:15:00",
+        "description": "Multiple clubs are meeting the week of August 31st through September 4th, including **Robotics Club** (Mon/Wed, room 412), **Mock Trial** (Tue/Thu, room 315), **Art Club** (Tue, room 603), **Diversity",
+        "location": "Room 603"
+      },
+      {
+        "title": "Diversity Club Meeting",
+        "start": "2026-09-01T14:30:00",
+        "end": "2026-09-01T15:30:00",
+        "description": "Multiple clubs are meeting the week of August 31st through September 4th, including **Robotics Club** (Mon/Wed, room 412), **Mock Trial** (Tue/Thu, room 315), **Art Club** (Tue, room 603), **Diversity",
+        "location": "Room 400"
+      },
+      {
+        "title": "Robotics Club Meeting",
+        "start": "2026-09-02T14:30:00",
+        "end": "2026-09-02T15:30:00",
+        "description": "Multiple clubs are meeting the week of August 31st through September 4th, including **Robotics Club** (Mon/Wed, room 412), **Mock Trial** (Tue/Thu, room 315), **Art Club** (Tue, room 603), **Diversity",
+        "location": "Room 412"
+      },
+      {
+        "title": "Mock Trial Practice",
+        "start": "2026-09-03T17:00:00",
+        "end": "2026-09-03T19:00:00",
+        "description": "Multiple clubs are meeting the week of August 31st through September 4th, including **Robotics Club** (Mon/Wed, room 412), **Mock Trial** (Tue/Thu, room 315), **Art Club** (Tue, room 603), **Diversity",
+        "location": "Room 315"
+      },
+      {
+        "title": "Project Green New Member Recruitment",
+        "start": "2026-09-04T00:00:00",
+        "end": "2026-09-04T23:59:00",
+        "description": "Multiple clubs are meeting the week of August 31st through September 4th, including **Robotics Club** (Mon/Wed, room 412), **Mock Trial** (Tue/Thu, room 315), **Art Club** (Tue, room 603), **Diversity",
+        "location": "Room 224"
+      },
+      {
+        "title": "Best Buddies Informational Meeting",
+        "start": "2026-09-09T09:30:00",
+        "end": "2026-09-09T10:00:00",
+        "description": "Multiple clubs are meeting the week of August 31st through September 4th, including **Robotics Club** (Mon/Wed, room 412), **Mock Trial** (Tue/Thu, room 315), **Art Club** (Tue, room 603), **Diversity",
+        "location": "Room 316"
+      },
+      {
+        "title": "Best Buddies Meeting",
+        "start": "2026-09-24T14:30:00",
+        "end": "2026-09-24T15:00:00",
+        "description": "Multiple clubs are meeting the week of August 31st through September 4th, including **Robotics Club** (Mon/Wed, room 412), **Mock Trial** (Tue/Thu, room 315), **Art Club** (Tue, room 603), **Diversity",
+        "location": "Room 316"
+      }
+    ]
+  },
+  {
+    "title": "National Honor Society Informational Meeting",
+    "block_id": "bofeetx504-b5vmdagbaz",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/syn76",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-08-28T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "NHS NHS",
+        "id": "bofeetx504"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "National Honor Society Informational Meeting Juniors and Seniors with at least a 3.6 cumulative GPA are eligible to apply. Please join us for an informational meeting during tutorial on Thursday, September 3rd in the PAC. See Mrs. Sammons or email her at sammona@talawanda.org.",
+        "id": "b5vmdagbaz"
+      }
+    ],
+    "hash": "bofeetx504-b5vmdagbaz",
+    "summary": "**National Honor Society** is holding an informational meeting for eligible students. Juniors and Seniors with at least a **3.6 cumulative GPA** can apply. The meeting will be held during **tutorial on Thursday, September 3rd in the PAC**. Contact Mrs. Sammons at sammona@talawanda.org for more information.",
+    "event_info": [
+      {
+        "title": "NHS Informational Meeting",
+        "start": "2026-09-03T00:00:00",
+        "end": "2026-09-03T01:00:00",
+        "description": "**National Honor Society** is holding an informational meeting for eligible students. Juniors and Seniors with at least a **3.6 cumulative GPA** can apply. The meeting will be held during **tutorial o",
+        "location": "PAC"
+      }
+    ]
+  },
+  {
+    "title": "Free Homecoming Dress Giveaway Event",
+    "block_id": "bxgl6dkrac-bya4yruonj",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/syn76",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-08-28T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "FREE \n\nHomecoming \n\nDress \n\nEvent FREE Homecoming Dress Event",
+        "id": "bxgl6dkrac"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Join us for our 7th Annual FREE FORMAL DRESS Giveaway event! We have over 2,000 FREE long and short dresses to choose from + men's suits, shoes, jewelry, make up, skincare, foundation wear, etc for Homecoming/Coronation/Fall-Winter formal dances for students in need.Dates: September 5-6Location: Harrison Junior School Commons9840 West Rd, Harrison, OH 45030Pop Up Shop Hours:Saturday, Sept 5, 9am-3pmSunday, Sept 6, 9am-3pmWe will have the following items available for FREE:Long and short dresses - sizes XS-26Shoes - sizes 6-11JewelryAccessoriesFoundation Wear (body suits NEW!)Make up & Skin CareEtc.DETAILS:- Event is open to any High School or Junior High student in need attending a fall/winter formal dance- Students can be from any school or homeschool- No registration required, pop up shop open 9am-3pm- No paperwork or school referrals required- 1 dress or suit per student (+ shoes/jewelry)- Student must be there in person to take home a dress- Donations can also be made on site if you have dresses, shoes, jewelry, etc to donate- We are a registered 501c3 non-profit charity so we can also give you a donation letter for your taxes.",
+        "id": "bya4yruonj"
+      }
+    ],
+    "hash": "bxgl6dkrac-bya4yruonj",
+    "summary": "The 7th Annual FREE Formal Dress Giveaway offers over 2,000 dresses, men's suits, shoes, jewelry, makeup, and accessories for students attending fall/winter formal dances. **Open to any high school or junior high student in need** from any school or homeschool. **September 5-6, 9am-3pm** at Harrison Junior School Commons (9840 West Rd, Harrison, OH 45030). No registration or paperwork required; students must attend in person and can receive one dress or suit plus accessories.",
+    "event_info": [
+      {
+        "title": "Free Homecoming Dress Giveaway - Day 1",
+        "start": "2026-09-05T09:00:00",
+        "end": "2026-09-05T15:00:00",
+        "description": "The 7th Annual FREE Formal Dress Giveaway offers over 2,000 dresses, men's suits, shoes, jewelry, makeup, and accessories for students attending fall/winter formal dances. **Open to any high school or",
+        "location": "Harrison Junior School Commons, 9840 West Rd, Harrison, OH 45030"
+      },
+      {
+        "title": "Free Homecoming Dress Giveaway - Day 2",
+        "start": "2026-09-06T09:00:00",
+        "end": "2026-09-06T15:00:00",
+        "description": "The 7th Annual FREE Formal Dress Giveaway offers over 2,000 dresses, men's suits, shoes, jewelry, makeup, and accessories for students attending fall/winter formal dances. **Open to any high school or",
+        "location": "Harrison Junior School Commons, 9840 West Rd, Harrison, OH 45030"
+      }
+    ]
+  },
+  {
+    "title": "FFA Annual Mum Sale",
+    "block_id": "b0dbtkh1eb-bz7h60omb7",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/syn76",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-08-28T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "FFA FFA",
+        "id": "b0dbtkh1eb"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Annual Mum Sale The Talawanda/Butler Tech FFA Chapter has started their annual mum sale! The following colors are available: white, rusty red, orange/bronze, pink/purple and yellow. The mums come in two sizes: 8\" ($8) and 12\" ($25). All orders and money (cash or check) are due by Sept. 11th and pick up will be from the THS Ag Shop on Thursday, Sept. 24th from 3:00 pm - 6:30 pm. Contact any FFA member or Chapter Advisor to place an order (Mrs. Roberts - robertsk@talawanda.org and Miss Kendel - kendelc@talawanda.org). Thank you for your continued support!",
+        "id": "bz7h60omb7"
+      }
+    ],
+    "hash": "b0dbtkh1eb-bz7h60omb7",
+    "summary": "The Talawanda/Butler Tech FFA Chapter is holding their annual mum sale with flowers available in white, rusty red, orange/bronze, pink/purple, and yellow. Two sizes are offered: **8\" ($8)** and **12\" ($25)**. **Orders and payment (cash or check) are due by September 11th**, with pickup on **September 24th from 3:00-6:30 PM at the THS Ag Shop**. Contact any FFA member or advisors Mrs. Roberts (robertsk@talawanda.org) or Miss Kendel (kendelc@talawanda.org) to order.",
+    "event_info": [
+      {
+        "title": "FFA Mum Sale Orders Due",
+        "start": "2026-09-11T00:00:00",
+        "end": "2026-09-11T23:59:00",
+        "description": "The Talawanda/Butler Tech FFA Chapter is holding their annual mum sale with flowers available in white, rusty red, orange/bronze, pink/purple, and yellow. Two sizes are offered: **8\" ($8)** and **12\" ",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "FFA Mum Sale Pickup",
+        "start": "2026-09-24T15:00:00",
+        "end": "2026-09-24T18:30:00",
+        "description": "The Talawanda/Butler Tech FFA Chapter is holding their annual mum sale with flowers available in white, rusty red, orange/bronze, pink/purple, and yellow. Two sizes are offered: **8\" ($8)** and **12\" ",
+        "location": "THS Ag Shop"
+      }
+    ]
+  },
+  {
     "title": "Weekly Calendar - Picture Day August 25th",
     "block_id": "b1oohprvfy-bw-7813877137",
     "content": "",
@@ -577,259 +805,6 @@
         "end": "2026-05-31T23:59:00",
         "description": "**2025-26 Yearbooks are selling out quickly!** Order yours today at [yearbookforever.com](http://yearbookforever.com) by searching for Talawanda High School. **Last day to order is May 31st** - pre-or",
         "location": "Online at yearbookforever.com"
-      }
-    ]
-  },
-  {
-    "title": "Butler Tech Program Openings Available",
-    "block_id": "b6csdzn5w4-bht9rlz7wd-bvvehwovpd",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/f28f/3d3b61c600762608501816d5b69739b4.png"
-    ],
-    "source_url": "https://app.smore.com/n/kv8haz",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-04-24T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "BUTLER \n\nTECH\n\nBUTLER TECH",
-        "id": "b6csdzn5w4"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/f28f/3d3b61c600762608501816d5b69739b4.png",
-        "id": "bht9rlz7wd"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "You can apply here",
-        "id": "bvvehwovpd"
-      }
-    ],
-    "hash": "b6csdzn5w4-bht9rlz7wd-bvvehwovpd",
-    "summary": "Butler Tech still has **possible openings** for next school year in multiple programs. Available programs include:\n- **School of the Arts**: Visual Art & Design, Performing Arts and Production\n- **OTC+ (LeSourdsville)**: One Semester CNA & Phlebotomy, One Semester Certified Clinical Medical Assistant\n- **Natural Science Center**: Environmental and Conservation Science\n- **D. Russel Lee**: One Year Firefighting, One Year EMT, Mechatronics\n\nApplications can be submitted online."
-  },
-  {
-    "title": "Club Meetings Schedule This Week",
-    "block_id": "b16db8wtno-bhfikqncz6-blvdto0i17",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/04d9/bc81bb9822f94ee72b801cc5297b7ffa.png"
-    ],
-    "source_url": "https://app.smore.com/n/kv8haz",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-04-24T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "CLUB \n\nMEETINGS\n\nCLUB MEETINGS",
-        "id": "b16db8wtno"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Monday, April 27thMoot Court 6:00 - 7:30 PM, room 315Setting Stone 2:30 - 3:30 PM, room 320Tuesday, April 28thArt Club 2:30 - 3:30 PM, room 603Diversity Club Meet at Kofenya Coffee after schoolRobotics Club 2:30 - 3:30 PM, room 412Tribune 5:00 - 6:00 PM, room 315Wednesday, April 29thRobotics Club 2:30 - 3:30 PM, room 412Thursday, April 30thGame Club 2:30 - 3:15 PM, room 603Moot Court 5:00 - 7:00 PM, room 315Project Green 2:30 - 3:30 PM, room 224 All are welcome!Friday, May 1stMoot Court States - Supreme Court of OhioSaturday, May 2ndBest Buddies 10:30 AM Friendship Walk, Marucm Park",
-        "id": "bhfikqncz6"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/04d9/bc81bb9822f94ee72b801cc5297b7ffa.png",
-        "id": "blvdto0i17"
-      }
-    ],
-    "hash": "b16db8wtno-bhfikqncz6-blvdto0i17",
-    "summary": "Multiple club meetings scheduled for the week of April 27-May 2, 2026:\n- **Monday 4/27:** Moot Court (6:00-7:30 PM, room 315), Setting Stone (2:30-3:30 PM, room 320)\n- **Tuesday 4/28:** Art Club (2:30-3:30 PM, room 603), Diversity Club (after school at Kofenya Coffee), Robotics Club (2:30-3:30 PM, room 412), Tribune (5:00-6:00 PM, room 315)\n- **Wednesday 4/29:** Robotics Club (2:30-3:30 PM, room 412)\n- **Thursday 4/30:** Game Club (2:30-3:15 PM, room 603), Moot Court (5:00-7:00 PM, room 315), Project Green (2:30-3:30 PM, room 224)\n- **Friday 5/1:** Moot Court States at Supreme Court of Ohio\n- **Saturday 5/2:** Best Buddies Friendship Walk at Marcum Park (10:30 AM)",
-    "event_info": [
-      {
-        "title": "Moot Court Meeting",
-        "start": "2026-04-27T18:00:00",
-        "end": "2026-04-27T19:30:00",
-        "description": "Multiple club meetings scheduled for the week of April 27-May 2, 2026:\n- **Monday 4/27:** Moot Court (6:00-7:30 PM, room 315), Setting Stone (2:30-3:30 PM, room 320)\n- **Tuesday 4/28:** Art Club (2:30",
-        "location": "Room 315, Talawanda High School"
-      },
-      {
-        "title": "Setting Stone Meeting",
-        "start": "2026-04-27T14:30:00",
-        "end": "2026-04-27T15:30:00",
-        "description": "Multiple club meetings scheduled for the week of April 27-May 2, 2026:\n- **Monday 4/27:** Moot Court (6:00-7:30 PM, room 315), Setting Stone (2:30-3:30 PM, room 320)\n- **Tuesday 4/28:** Art Club (2:30",
-        "location": "Room 320, Talawanda High School"
-      },
-      {
-        "title": "Art Club Meeting",
-        "start": "2026-04-28T14:30:00",
-        "end": "2026-04-28T15:30:00",
-        "description": "Multiple club meetings scheduled for the week of April 27-May 2, 2026:\n- **Monday 4/27:** Moot Court (6:00-7:30 PM, room 315), Setting Stone (2:30-3:30 PM, room 320)\n- **Tuesday 4/28:** Art Club (2:30",
-        "location": "Room 603, Talawanda High School"
-      },
-      {
-        "title": "Diversity Club Meeting",
-        "start": "2026-04-28T00:00:00",
-        "end": "2026-04-28T01:00:00",
-        "description": "Multiple club meetings scheduled for the week of April 27-May 2, 2026:\n- **Monday 4/27:** Moot Court (6:00-7:30 PM, room 315), Setting Stone (2:30-3:30 PM, room 320)\n- **Tuesday 4/28:** Art Club (2:30",
-        "location": "Kofenya Coffee"
-      },
-      {
-        "title": "Robotics Club Meeting",
-        "start": "2026-04-28T14:30:00",
-        "end": "2026-04-28T15:30:00",
-        "description": "Multiple club meetings scheduled for the week of April 27-May 2, 2026:\n- **Monday 4/27:** Moot Court (6:00-7:30 PM, room 315), Setting Stone (2:30-3:30 PM, room 320)\n- **Tuesday 4/28:** Art Club (2:30",
-        "location": "Room 412, Talawanda High School"
-      },
-      {
-        "title": "Tribune Meeting",
-        "start": "2026-04-28T17:00:00",
-        "end": "2026-04-28T18:00:00",
-        "description": "Multiple club meetings scheduled for the week of April 27-May 2, 2026:\n- **Monday 4/27:** Moot Court (6:00-7:30 PM, room 315), Setting Stone (2:30-3:30 PM, room 320)\n- **Tuesday 4/28:** Art Club (2:30",
-        "location": "Room 315, Talawanda High School"
-      },
-      {
-        "title": "Robotics Club Meeting",
-        "start": "2026-04-29T14:30:00",
-        "end": "2026-04-29T15:30:00",
-        "description": "Multiple club meetings scheduled for the week of April 27-May 2, 2026:\n- **Monday 4/27:** Moot Court (6:00-7:30 PM, room 315), Setting Stone (2:30-3:30 PM, room 320)\n- **Tuesday 4/28:** Art Club (2:30",
-        "location": "Room 412, Talawanda High School"
-      },
-      {
-        "title": "Game Club Meeting",
-        "start": "2026-04-30T14:30:00",
-        "end": "2026-04-30T15:15:00",
-        "description": "Multiple club meetings scheduled for the week of April 27-May 2, 2026:\n- **Monday 4/27:** Moot Court (6:00-7:30 PM, room 315), Setting Stone (2:30-3:30 PM, room 320)\n- **Tuesday 4/28:** Art Club (2:30",
-        "location": "Room 603, Talawanda High School"
-      },
-      {
-        "title": "Moot Court Meeting",
-        "start": "2026-04-30T17:00:00",
-        "end": "2026-04-30T19:00:00",
-        "description": "Multiple club meetings scheduled for the week of April 27-May 2, 2026:\n- **Monday 4/27:** Moot Court (6:00-7:30 PM, room 315), Setting Stone (2:30-3:30 PM, room 320)\n- **Tuesday 4/28:** Art Club (2:30",
-        "location": "Room 315, Talawanda High School"
-      },
-      {
-        "title": "Project Green Meeting",
-        "start": "2026-04-30T14:30:00",
-        "end": "2026-04-30T15:30:00",
-        "description": "Multiple club meetings scheduled for the week of April 27-May 2, 2026:\n- **Monday 4/27:** Moot Court (6:00-7:30 PM, room 315), Setting Stone (2:30-3:30 PM, room 320)\n- **Tuesday 4/28:** Art Club (2:30",
-        "location": "Room 224, Talawanda High School"
-      },
-      {
-        "title": "Moot Court States Competition",
-        "start": "2026-05-01T00:00:00",
-        "end": "2026-05-01T01:00:00",
-        "description": "Multiple club meetings scheduled for the week of April 27-May 2, 2026:\n- **Monday 4/27:** Moot Court (6:00-7:30 PM, room 315), Setting Stone (2:30-3:30 PM, room 320)\n- **Tuesday 4/28:** Art Club (2:30",
-        "location": "Supreme Court of Ohio"
-      },
-      {
-        "title": "Tutorial Meeting in Cafeteria",
-        "start": "2026-04-17T00:00:00",
-        "end": "2026-04-17T01:00:00",
-        "description": "Multiple club meetings scheduled for the week of April 27-May 2, 2026:\n- **Monday 4/27:** Moot Court (6:00-7:30 PM, room 315), Setting Stone (2:30-3:30 PM, room 320)\n- **Tuesday 4/28:** Art Club (2:30",
-        "location": "Cafeteria, Talawanda High School"
-      },
-      {
-        "title": "Meeting After School",
-        "start": "2026-04-23T00:00:00",
-        "end": "2026-04-23T01:00:00",
-        "description": "Multiple club meetings scheduled for the week of April 27-May 2, 2026:\n- **Monday 4/27:** Moot Court (6:00-7:30 PM, room 315), Setting Stone (2:30-3:30 PM, room 320)\n- **Tuesday 4/28:** Art Club (2:30",
-        "location": "Room 316, Talawanda High School"
-      },
-      {
-        "title": "Best Buddies Friendship Walk",
-        "start": "2026-05-02T10:30:00",
-        "end": "2026-05-02T11:30:00",
-        "description": "Multiple club meetings scheduled for the week of April 27-May 2, 2026:\n- **Monday 4/27:** Moot Court (6:00-7:30 PM, room 315), Setting Stone (2:30-3:30 PM, room 320)\n- **Tuesday 4/28:** Art Club (2:30",
-        "location": ""
-      }
-    ]
-  },
-  {
-    "title": "Lions Club Eyeglass Collection Drive",
-    "block_id": "b6ga30cpx3-bp3urmfv2o",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/d5jzs7",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-04-17T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "LIONS \n\nCLUB \n\nEYEGLASS \n\nCOLLECTION\n\nLIONS CLUB EYEGLASS COLLECTION",
-        "id": "b6ga30cpx3"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "The Oxford Lions Club Sight Saving Committee is collecting used eyeglasses, sunglasses as well as cases! These glasses and cases are donated all over the world to children who are in need. The lenses and frames from the donated glasses are modified to meet individual children's eye needs. Every year, Oxford Lions Club collects and sends 900-plus pairs of glasses to children in need!Please send any glasses donations to Betsy Beaton (Marshall Elementary School) or Shaunna Tafelski (Board Office) by mid-May We are happy to swing by and pick up glasses donations or they can be dropped off at Marshall or the Board Office. Thank you for supporting the Oxford Lions Club! Thanks!",
-        "id": "bp3urmfv2o"
-      }
-    ],
-    "hash": "b6ga30cpx3-bp3urmfv2o",
-    "summary": "The **Oxford Lions Club** is collecting **used eyeglasses, sunglasses, and cases** to donate to children in need worldwide. The donated glasses are modified to meet individual children's vision needs, with the Lions Club sending over **900 pairs annually**. Donations should be sent to **Betsy Beaton at Marshall Elementary School** or **Shaunna Tafelski at the Board Office by mid-May**. Pick-up or drop-off available at Marshall Elementary or the Board Office.",
-    "event_info": [
-      {
-        "title": "Lions Club Eyeglass Collection Deadline",
-        "start": "2026-05-15T00:00:00",
-        "end": "2026-05-15T23:59:00",
-        "description": "The **Oxford Lions Club** is collecting **used eyeglasses, sunglasses, and cases** to donate to children in need worldwide. The donated glasses are modified to meet individual children's vision needs,",
-        "location": "Marshall Elementary School or Board Office"
-      }
-    ]
-  },
-  {
-    "title": "Quarter 4 Parent-Teacher Conferences",
-    "block_id": "bb8lp9032b-bp00dk9th0",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/3264/893420ab764cc2c09baf6965c687bd48.png"
-    ],
-    "source_url": "https://app.smore.com/n/d5jzs7",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-04-17T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "SCHOOL \n\nCOUNSELING \n\nOFFICE\n\nSCHOOL COUNSELING OFFICE",
-        "id": "bb8lp9032b"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/3264/893420ab764cc2c09baf6965c687bd48.png",
-        "id": "bp00dk9th0"
-      }
-    ],
-    "hash": "bb8lp9032b-bp00dk9th0",
-    "summary": "**Quarter 4 parent-teacher conferences** will be held on **April 23rd from 3:00-7:00 PM**. Parents should email **sensm@talawanda.org** to schedule a conference time with their student's teachers or counselors.",
-    "event_info": [
-      {
-        "title": "Quarter 4 Parent-Teacher Conferences",
-        "start": "2026-04-23T15:00:00",
-        "end": "2026-04-23T19:00:00",
-        "description": "**Quarter 4 parent-teacher conferences** will be held on **April 23rd from 3:00-7:00 PM**. Parents should email **sensm@talawanda.org** to schedule a conference time with their student's teachers or c",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Cap and Gown Orders and Delivery",
-    "block_id": "bum5x1ke3g",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/d5jzs7",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-04-17T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "CAP AND GOWN\nIf you haven't done so, please visit Jostens.com to order your cap and gown. Orders need to be placed as soon as possible.Delivery will take place April 21st during both lunches at THS. Butler Tech students will have their cap and gown delivered to their respective campus.The gowns are rented and Jostens will be here to collect them following the graduation ceremony.",
-        "id": "bum5x1ke3g"
-      }
-    ],
-    "hash": "bum5x1ke3g",
-    "summary": "**Order your cap and gown at Jostens.com as soon as possible.** Delivery will take place **April 21st during both lunches at THS**; Butler Tech students will receive theirs at their respective campus. The gowns are rented and will be collected by Jostens following the graduation ceremony.",
-    "event_info": [
-      {
-        "title": "Cap and Gown Delivery",
-        "start": "2026-04-21T00:00:00",
-        "end": "2026-04-21T01:00:00",
-        "description": "**Order your cap and gown at Jostens.com as soon as possible.** Delivery will take place **April 21st during both lunches at THS**; Butler Tech students will receive theirs at their respective campus.",
-        "location": "Talawanda High School"
       }
     ]
   }
