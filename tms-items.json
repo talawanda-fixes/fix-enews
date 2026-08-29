@@ -239,6 +239,101 @@
     "summary": "Students will learn how to use **ProgressBook** to check grades and homework assignments. Parents who haven't set up a parent account will receive information on how to do so. A [LINK](LINK) is available with more information on utilizing ProgressBook tools."
   },
   {
+    "title": "Engineering and Coding Club for Middle School",
+    "block_id": "btxe8ogb8a-b4g8fs8l1a",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/6z8uq-off-and-running?ref=email",
+    "source_title": "OFF AND RUNNING!! | Smore Newsletters for Education",
+    "date": "2026-08-21T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "ENGINEERING \n\nAND \n\nCODING \n\nCLUB ENGINEERING AND CODING CLUB",
+        "id": "btxe8ogb8a"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "After school Engineering and Coding Club starts in September. This is a dynamic and engaging environment where students in 6-8th grade can explore the world of engineering and coding. Our club is designed for students who are interested in technology, problem-solving, and innovation. Two Miami University based clubs will be directing our engineering and coding activities this year. Kode2Learn is a student organization that organizes and runs events for kids in the Oxford area that promote teamwork and problem solving through the use of computer programming. SWE (Society of Women Engineers) organization's goal is to encourage our middle school students to consider engineering or computing as a career and provide activities related to engineering/coding.Engineering/Coding Club times - Schedule(After school until 3:30 p.m.)Engineering Focus: SWENext - Thursdays Sept. 17, 24, Oct. 1, 8, 15Coding/Programming Focus: Kode2Learn - Wednesdays Oct. 21, 28, Nov. 4, 11, 18See Mrs. Ruppert for club permission slips (Room 406).",
+        "id": "b4g8fs8l1a"
+      }
+    ],
+    "hash": "btxe8ogb8a-b4g8fs8l1a",
+    "summary": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women Engineers)** leads engineering activities on Thursdays (Sept. 17, 24, Oct. 1, 8, 15), and **Kode2Learn** leads coding/programming sessions on Wednesdays (Oct. 21, 28, Nov. 4, 11, 18). Students can pick up permission slips from Mrs. Ruppert in Room 406.",
+    "event_info": [
+      {
+        "title": "Engineering Focus - SWE (Society of Women Engineers)",
+        "start": "2026-09-17T00:00:00",
+        "end": "2026-09-17T15:30:00",
+        "description": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women En",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Engineering Focus - SWE (Society of Women Engineers)",
+        "start": "2026-09-24T00:00:00",
+        "end": "2026-09-24T15:30:00",
+        "description": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women En",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Engineering Focus - SWE (Society of Women Engineers)",
+        "start": "2026-10-01T00:00:00",
+        "end": "2026-10-01T15:30:00",
+        "description": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women En",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Engineering Focus - SWE (Society of Women Engineers)",
+        "start": "2026-10-08T00:00:00",
+        "end": "2026-10-08T15:30:00",
+        "description": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women En",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Engineering Focus - SWE (Society of Women Engineers)",
+        "start": "2026-10-15T00:00:00",
+        "end": "2026-10-15T15:30:00",
+        "description": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women En",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Coding/Programming Focus - Kode2Learn",
+        "start": "2026-10-21T00:00:00",
+        "end": "2026-10-21T15:30:00",
+        "description": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women En",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Coding/Programming Focus - Kode2Learn",
+        "start": "2026-10-28T00:00:00",
+        "end": "2026-10-28T15:30:00",
+        "description": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women En",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Coding/Programming Focus - Kode2Learn",
+        "start": "2026-11-04T00:00:00",
+        "end": "2026-11-04T15:30:00",
+        "description": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women En",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Coding/Programming Focus - Kode2Learn",
+        "start": "2026-11-11T00:00:00",
+        "end": "2026-11-11T15:30:00",
+        "description": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women En",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Coding/Programming Focus - Kode2Learn",
+        "start": "2026-11-18T00:00:00",
+        "end": "2026-11-18T15:30:00",
+        "description": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women En",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
     "title": "Middle School Cafeteria Price List",
     "block_id": "b9wyxx022l-ba6lkjnll3",
     "content": "",
@@ -356,101 +451,6 @@
     ],
     "hash": "b7fgf5psp4-balk8kiqdt",
     "summary": "The **Brave Initiative Team (B.I.T.)** is a new club focused on building leadership skills, creating a healthier school and community, and promoting mental health, kindness, and healthy habits. Members will meet **once a month during lunch**, with the first meeting to be announced soon. Contact Mrs. Macechko at **513.273.3390** with any questions."
-  },
-  {
-    "title": "Engineering and Coding Club for Middle School",
-    "block_id": "btxe8ogb8a-b4g8fs8l1a",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/6z8uq-off-and-running?ref=email",
-    "source_title": "OFF AND RUNNING!! | Smore Newsletters for Education",
-    "date": "2026-08-21T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "ENGINEERING \n\nAND \n\nCODING \n\nCLUB ENGINEERING AND CODING CLUB",
-        "id": "btxe8ogb8a"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "After school Engineering and Coding Club starts in September. This is a dynamic and engaging environment where students in 6-8th grade can explore the world of engineering and coding. Our club is designed for students who are interested in technology, problem-solving, and innovation. Two Miami University based clubs will be directing our engineering and coding activities this year. Kode2Learn is a student organization that organizes and runs events for kids in the Oxford area that promote teamwork and problem solving through the use of computer programming. SWE (Society of Women Engineers) organization's goal is to encourage our middle school students to consider engineering or computing as a career and provide activities related to engineering/coding.Engineering/Coding Club times - Schedule(After school until 3:30 p.m.)Engineering Focus: SWENext - Thursdays Sept. 17, 24, Oct. 1, 8, 15Coding/Programming Focus: Kode2Learn - Wednesdays Oct. 21, 28, Nov. 4, 11, 18See Mrs. Ruppert for club permission slips (Room 406).",
-        "id": "b4g8fs8l1a"
-      }
-    ],
-    "hash": "btxe8ogb8a-b4g8fs8l1a",
-    "summary": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women Engineers)** leads engineering activities on Thursdays (Sept. 17, 24, Oct. 1, 8, 15), and **Kode2Learn** leads coding/programming sessions on Wednesdays (Oct. 21, 28, Nov. 4, 11, 18). Students can pick up permission slips from Mrs. Ruppert in Room 406.",
-    "event_info": [
-      {
-        "title": "Engineering Focus - SWE (Society of Women Engineers)",
-        "start": "2026-09-17T00:00:00",
-        "end": "2026-09-17T15:30:00",
-        "description": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women En",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Engineering Focus - SWE (Society of Women Engineers)",
-        "start": "2026-09-24T00:00:00",
-        "end": "2026-09-24T15:30:00",
-        "description": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women En",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Engineering Focus - SWE (Society of Women Engineers)",
-        "start": "2026-10-01T00:00:00",
-        "end": "2026-10-01T15:30:00",
-        "description": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women En",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Engineering Focus - SWE (Society of Women Engineers)",
-        "start": "2026-10-08T00:00:00",
-        "end": "2026-10-08T15:30:00",
-        "description": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women En",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Engineering Focus - SWE (Society of Women Engineers)",
-        "start": "2026-10-15T00:00:00",
-        "end": "2026-10-15T15:30:00",
-        "description": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women En",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Coding/Programming Focus - Kode2Learn",
-        "start": "2026-10-21T00:00:00",
-        "end": "2026-10-21T15:30:00",
-        "description": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women En",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Coding/Programming Focus - Kode2Learn",
-        "start": "2026-10-28T00:00:00",
-        "end": "2026-10-28T15:30:00",
-        "description": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women En",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Coding/Programming Focus - Kode2Learn",
-        "start": "2026-11-04T00:00:00",
-        "end": "2026-11-04T15:30:00",
-        "description": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women En",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Coding/Programming Focus - Kode2Learn",
-        "start": "2026-11-11T00:00:00",
-        "end": "2026-11-11T15:30:00",
-        "description": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women En",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Coding/Programming Focus - Kode2Learn",
-        "start": "2026-11-18T00:00:00",
-        "end": "2026-11-18T15:30:00",
-        "description": "An after-school **Engineering and Coding Club** for students in grades 6-8 starts in September, running until 3:30 p.m. The club features two Miami University organizations: **SWE (Society of Women En",
-        "location": "Talawanda High School"
-      }
-    ]
   },
   {
     "title": "Back to School Spiritwear Sales",

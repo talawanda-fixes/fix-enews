@@ -228,38 +228,6 @@
     ]
   },
   {
-    "title": "Weekly Calendar - Picture Day August 25th",
-    "block_id": "b1oohprvfy-bw-7813877137",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/qdjhs",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-08-21T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Weekly \n\nCalendar Weekly Calendar",
-        "id": "b1oohprvfy"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Tuesday, August 25th - Picture Day",
-        "id": "bw-7813877137"
-      }
-    ],
-    "hash": "b1oohprvfy-bw-7813877137",
-    "summary": "**Picture Day** is scheduled for **Tuesday, August 25th**. Students should be prepared for school photos on this date.",
-    "event_info": [
-      {
-        "title": "Picture Day",
-        "start": "2026-08-25T00:00:00",
-        "end": "2026-08-25T23:59:00",
-        "description": "**Picture Day** is scheduled for **Tuesday, August 25th**. Students should be prepared for school photos on this date.",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
     "title": "Upcoming Events and Important Dates",
     "block_id": "buo31yik3z-bazj2jx48w",
     "content": "",
@@ -313,6 +281,56 @@
     ]
   },
   {
+    "title": "Athletics Weekly Updates",
+    "block_id": "bt9jp4t7lv",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/qdjhs",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-08-21T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Athletics \n\nWeekly \n\nUpdates Athletics Weekly Updates",
+        "id": "bt9jp4t7lv"
+      }
+    ],
+    "hash": "bt9jp4t7lv",
+    "summary": "This item appears to be a header or placeholder for weekly athletics updates but contains no specific information, events, schedules, or announcements at this time."
+  },
+  {
+    "title": "Weekly Calendar - Picture Day August 25th",
+    "block_id": "b1oohprvfy-bw-7813877137",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/qdjhs",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-08-21T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Weekly \n\nCalendar Weekly Calendar",
+        "id": "b1oohprvfy"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Tuesday, August 25th - Picture Day",
+        "id": "bw-7813877137"
+      }
+    ],
+    "hash": "b1oohprvfy-bw-7813877137",
+    "summary": "**Picture Day** is scheduled for **Tuesday, August 25th**. Students should be prepared for school photos on this date.",
+    "event_info": [
+      {
+        "title": "Picture Day",
+        "start": "2026-08-25T00:00:00",
+        "end": "2026-08-25T23:59:00",
+        "description": "**Picture Day** is scheduled for **Tuesday, August 25th**. Students should be prepared for school photos on this date.",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
     "title": "Club Meetings Schedule This Week",
     "block_id": "bv0ung9ptn-bghptfzqhm",
     "content": "",
@@ -357,24 +375,6 @@
         "location": "Media Center, Talawanda High School"
       }
     ]
-  },
-  {
-    "title": "Athletics Weekly Updates",
-    "block_id": "bt9jp4t7lv",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/qdjhs",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-08-21T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Athletics \n\nWeekly \n\nUpdates Athletics Weekly Updates",
-        "id": "bt9jp4t7lv"
-      }
-    ],
-    "hash": "bt9jp4t7lv",
-    "summary": "This item appears to be a header or placeholder for weekly athletics updates but contains no specific information, events, schedules, or announcements at this time."
   },
   {
     "title": "Graduation Timeline and Important Dates",

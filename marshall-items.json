@@ -266,6 +266,34 @@
     ]
   },
   {
+    "title": "School Lunch Menu and Payment Information",
+    "block_id": "b6sz32hq6u-bzdqbw5gmd-bi8tg7reyf",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/a4h1x",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-08-21T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "WHAT'S \n\nCOOKING?! WHAT'S COOKING?!",
+        "id": "b6sz32hq6u"
+      },
+      {
+        "type": "items",
+        "content": "zoom_out_map    zoom_out_map",
+        "id": "bzdqbw5gmd"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "https://www.payschoolscentral.com/",
+        "id": "bi8tg7reyf"
+      }
+    ],
+    "hash": "b6sz32hq6u-bzdqbw5gmd-bi8tg7reyf",
+    "summary": "Access the school lunch menu and make payments through **Pay Schools Central**. Visit [payschoolscentral.com](https://www.payschoolscentral.com/) to view meal options and manage your student's lunch account."
+  },
+  {
     "title": "Marshall Elementary Car Rider Procedures",
     "block_id": "bh9mmwk9fi-b9q4k9ber8",
     "content": "",
@@ -348,34 +376,6 @@
         "location": "Marshall Elementary School"
       }
     ]
-  },
-  {
-    "title": "School Lunch Menu and Payment Information",
-    "block_id": "b6sz32hq6u-bzdqbw5gmd-bi8tg7reyf",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/a4h1x",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-08-21T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "WHAT'S \n\nCOOKING?! WHAT'S COOKING?!",
-        "id": "b6sz32hq6u"
-      },
-      {
-        "type": "items",
-        "content": "zoom_out_map    zoom_out_map",
-        "id": "bzdqbw5gmd"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "https://www.payschoolscentral.com/",
-        "id": "bi8tg7reyf"
-      }
-    ],
-    "hash": "b6sz32hq6u-bzdqbw5gmd-bi8tg7reyf",
-    "summary": "Access the school lunch menu and make payments through **Pay Schools Central**. Visit [payschoolscentral.com](https://www.payschoolscentral.com/) to view meal options and manage your student's lunch account."
   },
   {
     "title": "Marshall Elementary Breakfast and Lunch Menus",
