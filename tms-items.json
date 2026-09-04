@@ -1,5 +1,183 @@
 [
   {
+    "title": "Breakfast Available Daily for Students",
+    "block_id": "bpto8rbpwg-bcqs32zryn",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/erat3-september-is-here?ref=email",
+    "source_title": "September is Here! | Smore Newsletters for Education",
+    "date": "2026-09-04T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "NEWS \n\nFROM \n\nTHE \n\nCAFETERIA NEWS FROM THE CAFETERIA",
+        "id": "bpto8rbpwg"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Parents please know that we do serve breakfast every morning. Your student has plenty of time once they arrive at school to sit down and have breakfast. We will make sure that they are given ample time once they arrive at school to finish their breakfast.",
+        "id": "bcqs32zryn"
+      }
+    ],
+    "hash": "bpto8rbpwg-bcqs32zryn",
+    "summary": "**Breakfast is served every morning** at school. Students have plenty of time to eat breakfast after arriving, and staff will ensure they have ample time to finish before classes begin."
+  },
+  {
+    "title": "Engineering and Coding Club Information",
+    "block_id": "b7fgf5psp4-btxe8ogb8a-b4g8fs8l1a",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/erat3-september-is-here?ref=email",
+    "source_title": "September is Here! | Smore Newsletters for Education",
+    "date": "2026-09-04T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "CLUB \n\nINFORMATION! CLUB INFORMATION!",
+        "id": "b7fgf5psp4"
+      },
+      {
+        "type": "text.title",
+        "content": "ENGINEERING \n\nAND \n\nCODING \n\nCLUB ENGINEERING AND CODING CLUB",
+        "id": "btxe8ogb8a"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "After school Engineering and Coding Club starts in September. This is a dynamic and engaging environment where students in 6-8th grade can explore the world of engineering and coding. Our club is designed for students who are interested in technology, problem-solving, and innovation. Two Miami University based clubs will be directing our engineering and coding activities this year. Kode2Learn is a student organization that organizes and runs events for kids in the Oxford area that promote teamwork and problem solving through the use of computer programming. SWE (Society of Women Engineers) organization's goal is to encourage our middle school students to consider engineering or computing as a career and provide activities related to engineering/coding.Engineering/Coding Club times - Schedule(After school until 3:30 p.m.)Engineering Focus: SWENext - Thursdays Sept. 17, 24, Oct. 1, 8, 15Coding/Programming Focus: Kode2Learn - Wednesdays Oct. 21, 28, Nov. 4, 11, 18See Mrs. Ruppert for club permission slips (Room 406).",
+        "id": "b4g8fs8l1a"
+      }
+    ],
+    "hash": "b7fgf5psp4-btxe8ogb8a-b4g8fs8l1a",
+    "summary": "After-school **Engineering and Coding Club** for students in grades 6-8 starts in September, led by two Miami University student organizations. **Engineering Focus (SWE)** meets Thursdays after school until 3:30 PM on Sept. 17, 24, Oct. 1, 8, 15. **Coding/Programming Focus (Kode2Learn)** meets Wednesdays after school until 3:30 PM on Oct. 21, 28, Nov. 4, 11, 18. Permission slips available from Mrs. Ruppert in Room 406.",
+    "event_info": [
+      {
+        "title": "Engineering Club (SWE) Session",
+        "start": "2026-09-17T15:30:00",
+        "end": "2026-09-17T15:30:00",
+        "description": "After-school **Engineering and Coding Club** for students in grades 6-8 starts in September, led by two Miami University student organizations. **Engineering Focus (SWE)** meets Thursdays after school",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Engineering Club (SWE) Session",
+        "start": "2026-09-24T15:30:00",
+        "end": "2026-09-24T15:30:00",
+        "description": "After-school **Engineering and Coding Club** for students in grades 6-8 starts in September, led by two Miami University student organizations. **Engineering Focus (SWE)** meets Thursdays after school",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Engineering Club (SWE) Session",
+        "start": "2026-10-01T15:30:00",
+        "end": "2026-10-01T15:30:00",
+        "description": "After-school **Engineering and Coding Club** for students in grades 6-8 starts in September, led by two Miami University student organizations. **Engineering Focus (SWE)** meets Thursdays after school",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Engineering Club (SWE) Session",
+        "start": "2026-10-08T15:30:00",
+        "end": "2026-10-08T15:30:00",
+        "description": "After-school **Engineering and Coding Club** for students in grades 6-8 starts in September, led by two Miami University student organizations. **Engineering Focus (SWE)** meets Thursdays after school",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Engineering Club (SWE) Session",
+        "start": "2026-10-15T15:30:00",
+        "end": "2026-10-15T15:30:00",
+        "description": "After-school **Engineering and Coding Club** for students in grades 6-8 starts in September, led by two Miami University student organizations. **Engineering Focus (SWE)** meets Thursdays after school",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Coding Club (Kode2Learn) Session",
+        "start": "2026-10-21T15:30:00",
+        "end": "2026-10-21T15:30:00",
+        "description": "After-school **Engineering and Coding Club** for students in grades 6-8 starts in September, led by two Miami University student organizations. **Engineering Focus (SWE)** meets Thursdays after school",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Coding Club (Kode2Learn) Session",
+        "start": "2026-10-28T15:30:00",
+        "end": "2026-10-28T15:30:00",
+        "description": "After-school **Engineering and Coding Club** for students in grades 6-8 starts in September, led by two Miami University student organizations. **Engineering Focus (SWE)** meets Thursdays after school",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Coding Club (Kode2Learn) Session",
+        "start": "2026-11-04T15:30:00",
+        "end": "2026-11-04T15:30:00",
+        "description": "After-school **Engineering and Coding Club** for students in grades 6-8 starts in September, led by two Miami University student organizations. **Engineering Focus (SWE)** meets Thursdays after school",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Coding Club (Kode2Learn) Session",
+        "start": "2026-11-11T15:30:00",
+        "end": "2026-11-11T15:30:00",
+        "description": "After-school **Engineering and Coding Club** for students in grades 6-8 starts in September, led by two Miami University student organizations. **Engineering Focus (SWE)** meets Thursdays after school",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Coding Club (Kode2Learn) Session",
+        "start": "2026-11-18T15:30:00",
+        "end": "2026-11-18T15:30:00",
+        "description": "After-school **Engineering and Coding Club** for students in grades 6-8 starts in September, led by two Miami University student organizations. **Engineering Focus (SWE)** meets Thursdays after school",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Little Aggies First Meeting for Middle Schoolers",
+    "block_id": "baa1oatbxc-bg8w11oxar",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/erat3-september-is-here?ref=email",
+    "source_title": "September is Here! | Smore Newsletters for Education",
+    "date": "2026-09-04T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "LITTLE \n\nAGGIES! LITTLE AGGIES!",
+        "id": "baa1oatbxc"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Little Aggies is kicking off for the year! Students interested in agriculture, FFA, leadership, and getting more involved are invited to join us for our first meeting.Wednesday, September 162:15–3:15 PMRoom 301Come see what Little Aggies is all about. All interested students in grades 6-8 are welcome!",
+        "id": "bg8w11oxar"
+      }
+    ],
+    "hash": "baa1oatbxc-bg8w11oxar",
+    "summary": "**Little Aggies** is starting up for the year! The first meeting is **Wednesday, September 16** from **2:15–3:15 PM in Room 301**. All students in **grades 6-8** interested in agriculture, FFA, leadership, and getting involved are welcome to attend.",
+    "event_info": [
+      {
+        "title": "Little Aggies First Meeting",
+        "start": "2026-09-16T14:15:00",
+        "end": "2026-09-16T15:15:00",
+        "description": "**Little Aggies** is starting up for the year! The first meeting is **Wednesday, September 16** from **2:15–3:15 PM in Room 301**. All students in **grades 6-8** interested in agriculture, FFA, leader",
+        "location": "Room 301"
+      }
+    ]
+  },
+  {
+    "title": "E-News Flyers Moved to Peach Jar",
+    "block_id": "b5knk25h6x-b1a6acqupi",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/erat3-september-is-here?ref=email",
+    "source_title": "September is Here! | Smore Newsletters for Education",
+    "date": "2026-09-04T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PEACH \n\nJAR! PEACH JAR!",
+        "id": "b5knk25h6x"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Notice that the e-news looks different? All of the flyers we used to include have all been moved to PEACH JAR. Please use the link below to help you gain access to see all of the flyers for school and community events.LINKS to TSD's Peachjar Digital Flyer Solution-Peachjar Flyers Page",
+        "id": "b1a6acqupi"
+      }
+    ],
+    "hash": "b5knk25h6x-b1a6acqupi",
+    "summary": "The e-newsletter format has changed - **all school and community event flyers have been moved to Peach Jar**. Access the flyers through the [TSD's Peachjar Digital Flyer Solution](https://www.peachjar.com/) link. Flyers that were previously included directly in the e-news will now only be available through Peach Jar."
+  },
+  {
     "title": "Picture Day - September 3rd",
     "block_id": "b7t4rbm3ov-be5gcuv3xr-baxl2r61o8",
     "content": "",
@@ -620,162 +798,6 @@
         "end": "2026-05-31T17:00:00",
         "description": "**Older Americans Month (May 2026)** celebrates older adults with the theme \"Champion Your Health.\" Oxford Seniors, Age-Friendly Oxford, and Coalition for a Healthy Community are hosting **Community B",
         "location": "Oxford Seniors, 922 Tollgate Dr., Oxford"
-      }
-    ]
-  },
-  {
-    "title": "Early Release Days May 19-21",
-    "block_id": "b3jnlp3gqy-b89rv5y4sb-bfc1k9gqyy",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/43ce/02905b0d14523d095437130897001691.png"
-    ],
-    "source_url": "https://app.smore.com/n/3f91z-12-days-and-counting?ref=email",
-    "source_title": "12 Days and Counting! | Smore Newsletters for Education",
-    "date": "2026-05-01T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "*~ \n\nEARLY \n\nRELEASE \n\nDAYS! \n\n~*\n\n*~ EARLY RELEASE DAYS! ~*",
-        "id": "b3jnlp3gqy"
-      },
-      {
-        "type": "text.title",
-        "content": "START \n\nPLANNING \n\nAHEAD!\n\nSTART PLANNING AHEAD!",
-        "id": "b89rv5y4sb"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/43ce/02905b0d14523d095437130897001691.png",
-        "id": "bfc1k9gqyy"
-      }
-    ],
-    "hash": "b3jnlp3gqy-b89rv5y4sb-bfc1k9gqyy",
-    "summary": "The last three days of school **(May 19, 20, 21) will be early release days** with the following dismissal times:\n- **TMS (Talawanda Middle School)**: 11:20 am\n- **THS (Talawanda High School)**: 11:40 am\n- **Elementary**: 1:00 pm for car riders, buses depart at 1:10 pm",
-    "event_info": [
-      {
-        "title": "Early Release Day - TMS dismissal at 11:20 am",
-        "start": "2026-05-19T11:20:00",
-        "end": "2026-05-19T11:20:00",
-        "description": "The last three days of school **(May 19, 20, 21) will be early release days** with the following dismissal times:\n- **TMS (Talawanda Middle School)**: 11:20 am\n- **THS (Talawanda High School)**: 11:40",
-        "location": "Talawanda Middle School"
-      },
-      {
-        "title": "Early Release Day - THS dismissal at 11:40 am",
-        "start": "2026-05-19T11:40:00",
-        "end": "2026-05-19T11:40:00",
-        "description": "The last three days of school **(May 19, 20, 21) will be early release days** with the following dismissal times:\n- **TMS (Talawanda Middle School)**: 11:20 am\n- **THS (Talawanda High School)**: 11:40",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Early Release Day - Elementary dismissal at 1:00 pm (buses 1:10 pm)",
-        "start": "2026-05-19T13:00:00",
-        "end": "2026-05-19T13:00:00",
-        "description": "The last three days of school **(May 19, 20, 21) will be early release days** with the following dismissal times:\n- **TMS (Talawanda Middle School)**: 11:20 am\n- **THS (Talawanda High School)**: 11:40",
-        "location": "Talawanda School District"
-      }
-    ]
-  },
-  {
-    "title": "TMS Testing Incentive Reward Day",
-    "block_id": "b1pkl6zdgv-bvrxhchrj1",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/3f91z-12-days-and-counting?ref=email",
-    "source_title": "12 Days and Counting! | Smore Newsletters for Education",
-    "date": "2026-05-01T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "STUDENT \n\nINCENTIVE \n\nREWARD \n\nDAY!\n\nSTUDENT INCENTIVE REWARD DAY!",
-        "id": "b1pkl6zdgv"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "TMS Testing Incentive Reward Day is May 8th! Please help students celebrate their success by purchasing some items for the reward day! Thank you for your support! Amazon List",
-        "id": "bvrxhchrj1"
-      }
-    ],
-    "hash": "b1pkl6zdgv-bvrxhchrj1",
-    "summary": "**TMS Testing Incentive Reward Day** is scheduled for **May 8th**. Families can support students celebrating their testing success by purchasing items from the **[Amazon List](Amazon List)** to help make the reward day special.",
-    "event_info": [
-      {
-        "title": "TMS Testing Incentive Reward Day",
-        "start": "2026-05-08T00:00:00",
-        "end": "2026-05-08T23:59:00",
-        "description": "**TMS Testing Incentive Reward Day** is scheduled for **May 8th**. Families can support students celebrating their testing success by purchasing items from the **[Amazon List](Amazon List)** to help m",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Oxford Parks Master Plan Community Survey",
-    "block_id": "bmf3mhxj3n-b7xtawiszt",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/3f91z-12-days-and-counting?ref=email",
-    "source_title": "12 Days and Counting! | Smore Newsletters for Education",
-    "date": "2026-05-01T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "COMMUNITY \n\nINFORMATION\n\nCOMMUNITY INFORMATION",
-        "id": "bmf3mhxj3n"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "City of Oxford Parks Master Plan:The city of Oxford is developing a Parks Master Plan with Pros Consulting. Please take a moment to complete the information at the link below. The site is specific for the Master Plan and has a survey, virtual mapping, and vision board. A lot of Talawanda families are park users and the city would like their feedback.https://engagepros.mysocialpinpoint.com/oxford",
-        "id": "b7xtawiszt"
-      }
-    ],
-    "hash": "bmf3mhxj3n-b7xtawiszt",
-    "summary": "The **City of Oxford** is developing a Parks Master Plan with Pros Consulting and is seeking feedback from Talawanda families who use the parks. The online site includes a **survey, virtual mapping, and vision board** for community input. Visit **https://engagepros.mysocialpinpoint.com/oxford** to participate."
-  },
-  {
-    "title": "Oxford Swim and Dive Team Registration",
-    "block_id": "bmf3mhxj3n-btmauvlyek",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/2a19/04b933d31c7b91416c6ccfce619b501b.png"
-    ],
-    "source_url": "https://app.smore.com/n/d8qnp-22-days-and-counting?ref=email",
-    "source_title": "22 Days and Counting! | Smore Newsletters for Education",
-    "date": "2026-04-17T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "COMMUNITY \n\nINFORMATION\n\nCOMMUNITY INFORMATION",
-        "id": "bmf3mhxj3n"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/2a19/04b933d31c7b91416c6ccfce619b501b.png",
-        "id": "btmauvlyek"
-      }
-    ],
-    "hash": "bmf3mhxj3n-btmauvlyek",
-    "summary": "The **Oxford Swim and Dive Team** is a community summer competitive program for ages 4-18 of all abilities. **Practices begin May 26, 2026** at the Oxford Aquatic Center with various schedules for different age groups. Registration costs: Swim Team $150, Dive $120, Swim & Dive $200 (discounts available for multiple children; pool membership required). A **trial period is available May 26-29 for $30**. Additionally, Coach Steve offers a **Makos Stroke Clinic at Miami's Rec Center for swimmers ages 5-13, April 20 - May 22, 2026**, and **Dive Well practice on Mondays, Wednesdays & Fridays 5:30-6:30 pm** (Spring Session $180). Register at **swimosdt.com** or contact oxfordswimdive@gmail.com.",
-    "event_info": [
-      {
-        "title": "Oxford Swim and Dive Team Practices Begin",
-        "start": "2026-05-26T08:00:00",
-        "end": "2026-05-26T21:00:00",
-        "description": "The **Oxford Swim and Dive Team** is a community summer competitive program for ages 4-18 of all abilities. **Practices begin May 26, 2026** at the Oxford Aquatic Center with various schedules for dif",
-        "location": "The Oxford Aquatic Center"
-      },
-      {
-        "title": "Makos Stroke Clinic at Miami's Rec Center",
-        "start": "2026-04-20T00:00:00",
-        "end": "2026-05-22T23:59:00",
-        "description": "The **Oxford Swim and Dive Team** is a community summer competitive program for ages 4-18 of all abilities. **Practices begin May 26, 2026** at the Oxford Aquatic Center with various schedules for dif",
-        "location": "Miami's Rec Center"
-      },
-      {
-        "title": "Oxford Swim and Dive Team Trial Period",
-        "start": "2026-05-26T08:00:00",
-        "end": "2026-05-29T10:45:00",
-        "description": "The **Oxford Swim and Dive Team** is a community summer competitive program for ages 4-18 of all abilities. **Practices begin May 26, 2026** at the Oxford Aquatic Center with various schedules for dif",
-        "location": "The Oxford Aquatic Center"
       }
     ]
   }

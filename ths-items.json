@@ -1,5 +1,186 @@
 [
   {
+    "title": "Weekly Calendar: Labor Day Break",
+    "block_id": "b1oohprvfy-b1b8dt9wh0",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/9qeum",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-09-04T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Weekly \n\nCalendar Weekly Calendar",
+        "id": "b1oohprvfy"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Monday, September 7th - No School, Labor DayTuesday, September 8th - No School",
+        "id": "b1b8dt9wh0"
+      }
+    ],
+    "hash": "b1oohprvfy-b1b8dt9wh0",
+    "summary": "**No school** on the following days:\n- **Monday, September 7th** - Labor Day\n- **Tuesday, September 8th**",
+    "event_info": [
+      {
+        "title": "No School - Labor Day",
+        "start": "2026-09-07T00:00:00",
+        "end": "2026-09-07T23:59:00",
+        "description": "**No school** on the following days:\n- **Monday, September 7th** - Labor Day\n- **Tuesday, September 8th**",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "No School",
+        "start": "2026-09-08T00:00:00",
+        "end": "2026-09-08T23:59:00",
+        "description": "**No school** on the following days:\n- **Monday, September 7th** - Labor Day\n- **Tuesday, September 8th**",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Miami University Mentorship Program for Juniors/Seniors",
+    "block_id": "b3g8k756ja-bddi8t4vu2",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/9qeum",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-09-04T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "School \n\nCounseling \n\nOffice School Counseling Office",
+        "id": "b3g8k756ja"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Juniors and Seniors,We are reaching out to you regarding a new mentorship opportunity with college students at Miami University. A group of students at Miami University are starting a mentorship club connecting Talawanda High School students with current college students. If you have any questions about a certain major, life after high school, or you just want someone to talk to who has been through the college application process these Miami students would love to be a resource to you. They will be coming during Tutorial Period every other Friday, so you won't have to stay after school to participate. Before these Miami students can start coming in, they need to gauge your interest. If this is something that you would be interested in, we would love for you to fill out the form below. Mentorship Interest FormIf you have any questions, feel free to email the Miami students at hopeandafutureclub@gmail.com. Thank you!",
+        "id": "bddi8t4vu2"
+      }
+    ],
+    "hash": "b3g8k756ja-bddi8t4vu2",
+    "summary": "Juniors and seniors can sign up for a **mentorship program with Miami University college students** who will visit during Tutorial Period every other Friday. Mentors can answer questions about college majors, life after high school, and the application process. Interested students should fill out the **[Mentorship Interest Form](hopeandafutureclub@gmail.com)** or email hopeandafutureclub@gmail.com with questions."
+  },
+  {
+    "title": "Quarter 1 Parent-Teacher Conference Night",
+    "block_id": "bq1n9695nh-bka02buaum",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/7386/002acb43e8489fedfef7ec9d9d8654d6.png"
+    ],
+    "source_url": "https://app.smore.com/n/9qeum",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-09-04T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Conferences Conferences",
+        "id": "bq1n9695nh"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/7386/002acb43e8489fedfef7ec9d9d8654d6.png",
+        "id": "bka02buaum"
+      }
+    ],
+    "hash": "bq1n9695nh-bka02buaum",
+    "summary": "**Quarter 1 Conference Night** is scheduled for **September 24** from **3:15 PM to 7:00 PM** at Talawanda High School. Parents should email Mrs. Sens at **sensm@talawanda.org** to schedule a conference appointment.",
+    "event_info": [
+      {
+        "title": "Quarter 1 Conference Night",
+        "start": "2026-09-24T15:15:00",
+        "end": "2026-09-24T19:00:00",
+        "description": "**Quarter 1 Conference Night** is scheduled for **September 24** from **3:15 PM to 7:00 PM** at Talawanda High School. Parents should email Mrs. Sens at **sensm@talawanda.org** to schedule a conferenc",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Yearbook Sales and Senior Portrait Deadline",
+    "block_id": "bgso3bdzpl-brtajhmco5-bni2pazemq",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/1b65/7e3ec691ae246b5b442b357c3061d474.png"
+    ],
+    "source_url": "https://app.smore.com/n/9qeum",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-09-04T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Yearbook Yearbook",
+        "id": "bgso3bdzpl"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Yearbooks are on sale now for the lowest price of the year. Go to yearbookforever.com to get yours today.",
+        "id": "brtajhmco5"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/1b65/7e3ec691ae246b5b442b357c3061d474.png",
+        "id": "bni2pazemq"
+      }
+    ],
+    "hash": "bgso3bdzpl-brtajhmco5-bni2pazemq",
+    "summary": "**Yearbooks are on sale now** at the lowest price of the year at yearbookforever.com. **Senior portrait deadline is March 26th.** Submit portraits by scanning the QR code with access code **talawanda2027** or email photos larger than 1MB to yearbook@talawanda.org. Photos must be in portrait format, greater than 1MB, follow the student code of conduct, and black and white photos are discouraged. If no portrait is submitted, your school ID photo will be used. Senior ads are also available ($100 for full page down to $25 for ¼ page) - contact yearbook@talawanda.org for more information.",
+    "event_info": [
+      {
+        "title": "Senior Yearbook Portrait Deadline",
+        "start": "2027-03-26T00:00:00",
+        "end": "2027-03-26T23:59:00",
+        "description": "**Yearbooks are on sale now** at the lowest price of the year at yearbookforever.com. **Senior portrait deadline is March 26th.** Submit portraits by scanning the QR code with access code **talawanda2",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "FCCLA Costa Rica Trip Opportunity",
+    "block_id": "br7o2hhsgv-bylat3ndgu",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/9qeum",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-09-04T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "FCCLA FCCLA",
+        "id": "br7o2hhsgv"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Costa Rica We are traveling to COSTA RICA and you are invited to go!This is an amazing opportunity to travel to a new region, experience outdoor adventures and try new things. The cost includes all expenses (flight, transportation, breakfast/dinner, activities, designated travel guide, tips, etc) except for lunches and souvenirs. This opportunity is open to high school students and adults (background check required)Please contact Mrs. Croucher if you have any other questions. www.eftours.com/3008612UY",
+        "id": "bylat3ndgu"
+      }
+    ],
+    "hash": "br7o2hhsgv-bylat3ndgu",
+    "summary": "**FCCLA is organizing a trip to Costa Rica** open to high school students and adults. The cost includes flight, transportation, breakfast/dinner, activities, travel guide, and tips (lunches and souvenirs not included). Adults must complete a background check. Contact Mrs. Croucher for questions or visit **www.eftours.com/3008612UY** for more information."
+  },
+  {
+    "title": "Peachjar Digital Flyer Solution Access",
+    "block_id": "b2vm14dwnz-b9f7soitkm",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/9qeum",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-09-04T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PEACHJAR PEACHJAR",
+        "id": "b2vm14dwnz"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "LINKS to TSD's Peachjar Digital Flyer Solution- Peachjar Flyers Page",
+        "id": "b9f7soitkm"
+      }
+    ],
+    "hash": "b2vm14dwnz-b9f7soitkm",
+    "summary": "Talawanda School District uses **Peachjar** as its digital flyer distribution system. Access all community and school flyers through the [Peachjar Flyers Page](https://www.peachjar.com/flyers/all/schools/67890)."
+  },
+  {
     "title": "Weekly Calendar for Talawanda High School",
     "block_id": "b1oohprvfy",
     "content": "",
@@ -610,201 +791,6 @@
         "end": "2026-05-18T12:15:00",
         "description": "**Robotics Club** meets **Monday, May 18th at 11:15 AM** in room 412 after finals. Pizza will be provided to celebrate the year's accomplishments and plan for next year. All members are welcome to att",
         "location": "Room 412"
-      }
-    ]
-  },
-  {
-    "title": "Transportation Request Forms Due June 5th",
-    "block_id": "bk8gizguu7-be6q0wtizy",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/29056",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-05-15T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "COMMUNITY \n\nINFORMATION\n\nCOMMUNITY INFORMATION",
-        "id": "bk8gizguu7"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "2026/27 TRANSPORTATION\nAll families that are eligible for transportation services in TSD MUST complete a NEW Transportation Form each school year. This is critical to developing bus routes for each school year.Talawanda / Petermann Transportation Request Form- HEREA NEW FORM MUST BE FILLED OUT EVERY YEAR (AND IF THERE IS A CHANGE DURING THE SCHOOL YEAR)The NEW Form, once submitted, will delete any previous requestsThere is a 1.0 mile no transportation zoneAll alternate requests MUST be renewed every school yearDuring the school year, please allow two days after transportation receives this form before the request is filledForms must be submitted to Mrs. Rader in the transportation office- lrader@petermannbus.com. For any questions- 513-273-3151DUE DATE for FORMS - June 5th, 2026",
-        "id": "be6q0wtizy"
-      }
-    ],
-    "hash": "bk8gizguu7-be6q0wtizy",
-    "summary": "**All families eligible for transportation services must complete a NEW transportation form each year.** Forms are due **June 5th, 2026** and must be submitted to Mrs. Rader at lrader@petermannbus.com or by calling 513-273-3151. [Access the form here](https://docs.google.com/forms/d/e/1FAIpQLSfqZ6Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9Z0Y9"
-  },
-  {
-    "title": "Older Americans Month Community BINGO Challenge",
-    "block_id": "b2434e884w-bf9an2z80x",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/29056",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-05-15T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "Every May, Older Americans Month recognizes the contributions of older adults, highlights aging trends, and reaffirms commitments to serve our older community members. The 2026 theme is “Champion Your Health”.Throughout the month of May, Oxford Seniors, Age-Friendly Oxford, and the Coalition for a Healthy Community, Oxford Area are partnering to highlight and offer programming focused on promoting physical, mental, and emotional health and well-being at all ages.You can participate by playing “Community BINGO” with us! It’s as easy as 1, 2, 3!1) Print your own or pick up a Community Bingo card at any of the following locations:Oxford Seniors, 922 Tollgate Dr., OxfordOxford Lane Library, 441 S. Locust St.The Knolls of Oxford, Clubhouse or Front DeskScripps Gerontology Center, 396 Upham Hall, on campus2) Every time you do something listed on the card, mark it off. The goal is to get “BINGO” as many times as possible. A “BINGO” is marking off any 5 squares in a straight line – either vertically, horizontally, or diagonally.3) Bring your completed BINGO card to the Intergenerational BINGO Party on Sun. May 31 from 3:00 – 5:00 p.m. at Oxford Seniors for prizes, snacks, and FUN!",
-        "id": "b2434e884w"
-      },
-      {
-        "type": "items",
-        "content": "zoom_out_map\n                \n\n\n\n\n\n\n\n\nzoom_out_map",
-        "id": "bf9an2z80x"
-      }
-    ],
-    "hash": "b2434e884w-bf9an2z80x",
-    "summary": "**Older Americans Month** (May 2026, theme: \"Champion Your Health\") features a **Community BINGO** challenge promoting health and well-being. Pick up BINGO cards at **Oxford Seniors** (922 Tollgate Dr.), **Oxford Lane Library** (441 S. Locust St.), **The Knolls of Oxford**, or **Scripps Gerontology Center** (396 Upham Hall). Complete activities on the card throughout May, then bring your card to the **Intergenerational BINGO Party on Sunday, May 31, 3:00-5:00 PM at Oxford Seniors** for prizes and snacks.",
-    "event_info": [
-      {
-        "title": "Intergenerational BINGO Party",
-        "start": "2026-05-31T15:00:00",
-        "end": "2026-05-31T17:00:00",
-        "description": "**Older Americans Month** (May 2026, theme: \"Champion Your Health\") features a **Community BINGO** challenge promoting health and well-being. Pick up BINGO cards at **Oxford Seniors** (922 Tollgate Dr",
-        "location": "Oxford Seniors, 922 Tollgate Dr., Oxford"
-      }
-    ]
-  },
-  {
-    "title": "Oxford Parks Master Plan Survey",
-    "block_id": "bsrk3bj0i6-bts5c68vn3",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/93b3/6a3bd33abfe1258dc79d9c7efb5c57fb.png"
-    ],
-    "source_url": "https://app.smore.com/n/29056",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-05-15T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "City of Oxford Parks Master Plan:\nThe city of Oxford is developing a Parks Master Plan with Pros Consulting. Please take a moment to complete the information at the link below. The site is specific for the Master Plan and has a survey, virtual mapping, and vision board. A lot of Talawanda families are park users and the city would like their feedback.https://engagepros.mysocialpinpoint.com/oxford",
-        "id": "bsrk3bj0i6"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/93b3/6a3bd33abfe1258dc79d9c7efb5c57fb.png",
-        "id": "bts5c68vn3"
-      }
-    ],
-    "hash": "bsrk3bj0i6-bts5c68vn3",
-    "summary": "The City of Oxford is developing a **Parks Master Plan** with Pros Consulting and seeks feedback from Talawanda families who use the parks. Complete the survey at **https://engagepros.mysocialpinpoint.com/oxford**, which includes a survey, virtual mapping, and vision board to help shape the future of Oxford's parks. Visit **cityofoxford.org** or call **513-523-6314** for more information."
-  },
-  {
-    "title": "Senior Fee Payment Deadline May 1st",
-    "block_id": "biro7ce24w-b3gse6x0hd",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/kv8haz",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-04-24T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "SCHOOL \n\nFEES\n\nSCHOOL FEES",
-        "id": "biro7ce24w"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Just a reminder that Senior fees must be paid before graduation. All fees can be paid by cash or check in the Main office or online through the PaySchool Central link below. This must be done by May 1st. You may also manage your students lunch account through the link as well.PaySchools Central LINK",
-        "id": "b3gse6x0hd"
-      }
-    ],
-    "hash": "biro7ce24w-b3gse6x0hd",
-    "summary": "**Senior fees must be paid before graduation by May 1st.** Fees can be paid by cash or check in the Main Office or online through [PaySchools Central](PaySchools Central LINK). The same system can be used to manage student lunch accounts.",
-    "event_info": [
-      {
-        "title": "Senior Fee Payment Deadline",
-        "start": "2026-05-01T00:00:00",
-        "end": "2026-05-01T23:59:00",
-        "description": "**Senior fees must be paid before graduation by May 1st.** Fees can be paid by cash or check in the Main Office or online through [PaySchools Central](PaySchools Central LINK). The same system can be ",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Senior Cap and Gown and Chromebook Information",
-    "block_id": "b0jj550frz-bum5x1ke3g-bnddbl7pcc",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/kv8haz",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-04-24T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "SENIOR \n\nINFORMATION\n\nSENIOR INFORMATION",
-        "id": "b0jj550frz"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "CAP AND GOWN\nIf you haven't done so, please visit Jostens.com to order your cap and gown. Orders need to be placed as soon as possible.Caps and Gowns have been delivered and can be picked up in the Main Office.Butler Tech students will have their cap and gown delivered to their respective campus.The gowns are rented and Jostens will be here to collect them following the graduation ceremony.",
-        "id": "bum5x1ke3g"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "CHROMEBOOKSSenior Chromebook turn in will be on Wednesday, May 6th, Thursday, May 7th and Friday, May 8th in the Media Center. Please make sure to turn in your Chromebook, case, and charger. Missing items will have a replacement charge added to your school account.",
-        "id": "bnddbl7pcc"
-      }
-    ],
-    "hash": "b0jj550frz-bum5x1ke3g-bnddbl7pcc",
-    "summary": "**Cap and Gown:** Caps and gowns are now available for pickup in the Main Office (Butler Tech students receive theirs at their campus). Gowns are rented and will be collected after graduation. Order at **Jostens.com** if you haven't already.\n\n**Chromebooks:** Seniors must turn in their Chromebook, case, and charger to the Media Center on **May 6th, 7th, or 8th**. Missing items will result in replacement charges.",
-    "event_info": [
-      {
-        "title": "Senior Chromebook Turn-in",
-        "start": "2026-05-06T00:00:00",
-        "end": "2026-05-06T23:59:00",
-        "description": "**Cap and Gown:** Caps and gowns are now available for pickup in the Main Office (Butler Tech students receive theirs at their campus). Gowns are rented and will be collected after graduation. Order a",
-        "location": "Media Center"
-      },
-      {
-        "title": "Senior Chromebook Turn-in",
-        "start": "2026-05-07T00:00:00",
-        "end": "2026-05-07T23:59:00",
-        "description": "**Cap and Gown:** Caps and gowns are now available for pickup in the Main Office (Butler Tech students receive theirs at their campus). Gowns are rented and will be collected after graduation. Order a",
-        "location": "Media Center"
-      },
-      {
-        "title": "Senior Chromebook Turn-in",
-        "start": "2026-05-08T00:00:00",
-        "end": "2026-05-08T23:59:00",
-        "description": "**Cap and Gown:** Caps and gowns are now available for pickup in the Main Office (Butler Tech students receive theirs at their campus). Gowns are rented and will be collected after graduation. Order a",
-        "location": "Media Center"
-      }
-    ]
-  },
-  {
-    "title": "Order 2025-26 Yearbooks by May 31st",
-    "block_id": "baj03m9x7z-bsmb7hjodf",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/kv8haz",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-04-24T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "YEARBOOKS\n\nYEARBOOKS",
-        "id": "baj03m9x7z"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "2025-26 Yearbooks are going fast! Make sure to order yours today by going to yearbookforever.com and searching for Talawanda High School! - PRE ORDER TODAY and RESERVE YOUR COPY! LAST DAY FOR ORDERING IS MAY 31st!",
-        "id": "bsmb7hjodf"
-      }
-    ],
-    "hash": "baj03m9x7z-bsmb7hjodf",
-    "summary": "**2025-26 Yearbooks are selling out quickly!** Order yours today at [yearbookforever.com](http://yearbookforever.com) by searching for Talawanda High School. **Last day to order is May 31st** - pre-order now to reserve your copy!",
-    "event_info": [
-      {
-        "title": "Yearbook Ordering Deadline",
-        "start": "2026-05-31T00:00:00",
-        "end": "2026-05-31T23:59:00",
-        "description": "**2025-26 Yearbooks are selling out quickly!** Order yours today at [yearbookforever.com](http://yearbookforever.com) by searching for Talawanda High School. **Last day to order is May 31st** - pre-or",
-        "location": "Online at yearbookforever.com"
       }
     ]
   }
