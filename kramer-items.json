@@ -89,40 +89,6 @@
     "summary": "Talawanda School District is launching **Peachjar**, a digital flyer management system for the 2026-2027 school year that replaces paper handouts with electronic delivery. Parents automatically receive a **weekly digest email** of school-approved flyers if their email is on file—no registration needed. Flyers can also be viewed via the Peachjar button on the school website, and parents can opt out or adjust email frequency at any time."
   },
   {
-    "title": "Picture Day at Kramer Elementary School",
-    "block_id": "blzjhbh03w-b9l0ru3t0v-bltpxeppe9",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/7ee8/fbd38814a215ffd34673b1cd47279cc6.png"
-    ],
-    "source_url": "https://app.smore.com/n/w2guj",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-08-28T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Picture \n\nDay Picture Day",
-        "id": "blzjhbh03w"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/7ee8/fbd38814a215ffd34673b1cd47279cc6.png",
-        "id": "b9l0ru3t0v"
-      }
-    ],
-    "hash": "blzjhbh03w-b9l0ru3t0v-bltpxeppe9",
-    "summary": "Picture Day is scheduled for **Wednesday, September 2, 2026** at **Kramer Elementary School**. Parents can pre-order photos online at **mylifetouch.com** using Picture Day ID: **EVTP9CZ9Z**. Students will be photographed on Picture Day, and orders will be sent home with students afterward. For questions, contact the Help Center at lifetouch.com/support-us and select K-12 School Photography for assistance.",
-    "event_info": [
-      {
-        "title": "Picture Day at Kramer Elementary School",
-        "start": "2026-09-02T00:00:00",
-        "end": "2026-09-02T23:59:00",
-        "description": "Picture Day is scheduled for **Wednesday, September 2, 2026** at **Kramer Elementary School**. Parents can pre-order photos online at **mylifetouch.com** using Picture Day ID: **EVTP9CZ9Z**. Students ",
-        "location": "Kramer Elementary School"
-      }
-    ]
-  },
-  {
     "title": "September 2026 School Calendar",
     "block_id": "b3ompqiql8-br6ew5zxz1",
     "content": "",
@@ -188,6 +154,40 @@
         "end": "2026-09-29T20:00:00",
         "description": "**Key dates for September 2026:**\n- **Sept 1**: PTG Meeting at 7pm\n- **Sept 2**: Picture Day\n- **Sept 7**: No School (Labor Day)\n- **Sept 8**: No School (Professional Development Day)\n- **Sept 18**: N",
         "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Picture Day at Kramer Elementary School",
+    "block_id": "blzjhbh03w-b9l0ru3t0v-bltpxeppe9",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/7ee8/fbd38814a215ffd34673b1cd47279cc6.png"
+    ],
+    "source_url": "https://app.smore.com/n/w2guj",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-08-28T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Picture \n\nDay Picture Day",
+        "id": "blzjhbh03w"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/7ee8/fbd38814a215ffd34673b1cd47279cc6.png",
+        "id": "b9l0ru3t0v"
+      }
+    ],
+    "hash": "blzjhbh03w-b9l0ru3t0v-bltpxeppe9",
+    "summary": "Picture Day is scheduled for **Wednesday, September 2, 2026** at **Kramer Elementary School**. Parents can pre-order photos online at **mylifetouch.com** using Picture Day ID: **EVTP9CZ9Z**. Students will be photographed on Picture Day, and orders will be sent home with students afterward. For questions, contact the Help Center at lifetouch.com/support-us and select K-12 School Photography for assistance.",
+    "event_info": [
+      {
+        "title": "Picture Day at Kramer Elementary School",
+        "start": "2026-09-02T00:00:00",
+        "end": "2026-09-02T23:59:00",
+        "description": "Picture Day is scheduled for **Wednesday, September 2, 2026** at **Kramer Elementary School**. Parents can pre-order photos online at **mylifetouch.com** using Picture Day ID: **EVTP9CZ9Z**. Students ",
+        "location": "Kramer Elementary School"
       }
     ]
   },

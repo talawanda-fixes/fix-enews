@@ -181,24 +181,6 @@
     "summary": "Talawanda School District uses **Peachjar** as its digital flyer distribution system. Access all community and school flyers through the [Peachjar Flyers Page](https://www.peachjar.com/flyers/all/schools/67890)."
   },
   {
-    "title": "Weekly Calendar for Talawanda High School",
-    "block_id": "b1oohprvfy",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/syn76",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-08-28T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Weekly \n\nCalendar Weekly Calendar",
-        "id": "b1oohprvfy"
-      }
-    ],
-    "hash": "b1oohprvfy",
-    "summary": "The weekly calendar for Talawanda High School is now available. Specific events, dates, and times for the week are not provided in the text content."
-  },
-  {
     "title": "Club Meetings and Activities Schedule",
     "block_id": "bv0ung9ptn-bghptfzqhm-bjqbid088y",
     "content": "",
@@ -299,38 +281,6 @@
     ]
   },
   {
-    "title": "National Honor Society Informational Meeting",
-    "block_id": "bofeetx504-b5vmdagbaz",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/syn76",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-08-28T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "NHS NHS",
-        "id": "bofeetx504"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "National Honor Society Informational Meeting Juniors and Seniors with at least a 3.6 cumulative GPA are eligible to apply. Please join us for an informational meeting during tutorial on Thursday, September 3rd in the PAC. See Mrs. Sammons or email her at sammona@talawanda.org.",
-        "id": "b5vmdagbaz"
-      }
-    ],
-    "hash": "bofeetx504-b5vmdagbaz",
-    "summary": "**National Honor Society** is holding an informational meeting for eligible students. Juniors and Seniors with at least a **3.6 cumulative GPA** can apply. The meeting will be held during **tutorial on Thursday, September 3rd in the PAC**. Contact Mrs. Sammons at sammona@talawanda.org for more information.",
-    "event_info": [
-      {
-        "title": "NHS Informational Meeting",
-        "start": "2026-09-03T00:00:00",
-        "end": "2026-09-03T01:00:00",
-        "description": "**National Honor Society** is holding an informational meeting for eligible students. Juniors and Seniors with at least a **3.6 cumulative GPA** can apply. The meeting will be held during **tutorial o",
-        "location": "PAC"
-      }
-    ]
-  },
-  {
     "title": "Free Homecoming Dress Giveaway Event",
     "block_id": "bxgl6dkrac-bya4yruonj",
     "content": "",
@@ -405,6 +355,56 @@
         "end": "2026-09-24T18:30:00",
         "description": "The Talawanda/Butler Tech FFA Chapter is holding their annual mum sale with flowers available in white, rusty red, orange/bronze, pink/purple, and yellow. Two sizes are offered: **8\" ($8)** and **12\" ",
         "location": "THS Ag Shop"
+      }
+    ]
+  },
+  {
+    "title": "Weekly Calendar for Talawanda High School",
+    "block_id": "b1oohprvfy",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/syn76",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-08-28T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Weekly \n\nCalendar Weekly Calendar",
+        "id": "b1oohprvfy"
+      }
+    ],
+    "hash": "b1oohprvfy",
+    "summary": "The weekly calendar for Talawanda High School is now available. Specific events, dates, and times for the week are not provided in the text content."
+  },
+  {
+    "title": "National Honor Society Informational Meeting",
+    "block_id": "bofeetx504-b5vmdagbaz",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/syn76",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-08-28T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "NHS NHS",
+        "id": "bofeetx504"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "National Honor Society Informational Meeting Juniors and Seniors with at least a 3.6 cumulative GPA are eligible to apply. Please join us for an informational meeting during tutorial on Thursday, September 3rd in the PAC. See Mrs. Sammons or email her at sammona@talawanda.org.",
+        "id": "b5vmdagbaz"
+      }
+    ],
+    "hash": "bofeetx504-b5vmdagbaz",
+    "summary": "**National Honor Society** is holding an informational meeting for eligible students. Juniors and Seniors with at least a **3.6 cumulative GPA** can apply. The meeting will be held during **tutorial on Thursday, September 3rd in the PAC**. Contact Mrs. Sammons at sammona@talawanda.org for more information.",
+    "event_info": [
+      {
+        "title": "NHS Informational Meeting",
+        "start": "2026-09-03T00:00:00",
+        "end": "2026-09-03T01:00:00",
+        "description": "**National Honor Society** is holding an informational meeting for eligible students. Juniors and Seniors with at least a **3.6 cumulative GPA** can apply. The meeting will be held during **tutorial o",
+        "location": "PAC"
       }
     ]
   },
