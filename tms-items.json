@@ -311,38 +311,6 @@
     "summary": "The e-newsletter format has changed - **all school and community event flyers have been moved to Peach Jar**. Access the flyers through the [TSD's Peachjar Digital Flyer Solution](https://www.peachjar.com/) link. Flyers that were previously included directly in the e-news will now only be available through Peach Jar."
   },
   {
-    "title": "Student Vaccination Requirements and Deadline",
-    "block_id": "b59ctka4an-ba9nhijx94",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/yegc0-what-a-great-start?ref=email",
-    "source_title": "WHAT A GREAT START! | Smore Newsletters for Education",
-    "date": "2026-08-28T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "NOTES \n\nFROM \n\nTHE \n\nNURSE NOTES FROM THE NURSE",
-        "id": "b59ctka4an"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "This is a friendly reminder that your child may be due for important routine vaccinations, including the Tdap (Tetanus, Diphtheria, and Pertussis) and Meningococcal vaccines. The state of Ohio requires that all students have these vaccinations by 7th grade. We are requiring that proof of these vaccines or an exemption are provided by September 9, 2026. If proof is not provided, then your student will be excluded from school and not allowed to return until proof of vaccines are provided. Please contact your child's healthcare provider or local health department to review their immunization record and determine whether these vaccines are needed. If your child has already received these vaccinations, please provide the school with an updated immunization record so that we can ensure our records are current.If you have questions about your child's vaccination requirements, please contact Becky Hart RN TMS clinic at 513-273-3314.",
-        "id": "ba9nhijx94"
-      }
-    ],
-    "hash": "b59ctka4an-ba9nhijx94",
-    "summary": "All students must provide proof of **Tdap** (Tetanus, Diphtheria, and Pertussis) and **Meningococcal** vaccines or an exemption by **September 9, 2026**. These vaccinations are required by the state of Ohio for all 7th grade students. Students without proof will be excluded from school until documentation is provided. Contact your healthcare provider or Becky Hart RN at TMS clinic at **513-273-3314** with questions.",
-    "event_info": [
-      {
-        "title": "Vaccination Proof or Exemption Deadline",
-        "start": "2026-09-09T00:00:00",
-        "end": "2026-09-09T23:59:00",
-        "description": "All students must provide proof of **Tdap** (Tetanus, Diphtheria, and Pertussis) and **Meningococcal** vaccines or an exemption by **September 9, 2026**. These vaccinations are required by the state o",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
     "title": "Mountain Bike Club Meetings and Activities",
     "block_id": "bzcsyto516-bc8weshbn7",
     "content": "",
@@ -445,6 +413,38 @@
         "end": "2026-08-30T23:59:00",
         "description": "Talawanda's Back-to-School Spirit Wear Sale offers **up to 35% off sitewide** with only **one week remaining**. Special flash pricing this weekend includes **tees at $19.99, hoodies at $32.99, and cre",
         "location": "Online"
+      }
+    ]
+  },
+  {
+    "title": "Student Vaccination Requirements and Deadline",
+    "block_id": "b59ctka4an-ba9nhijx94",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/yegc0-what-a-great-start?ref=email",
+    "source_title": "WHAT A GREAT START! | Smore Newsletters for Education",
+    "date": "2026-08-28T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "NOTES \n\nFROM \n\nTHE \n\nNURSE NOTES FROM THE NURSE",
+        "id": "b59ctka4an"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "This is a friendly reminder that your child may be due for important routine vaccinations, including the Tdap (Tetanus, Diphtheria, and Pertussis) and Meningococcal vaccines. The state of Ohio requires that all students have these vaccinations by 7th grade. We are requiring that proof of these vaccines or an exemption are provided by September 9, 2026. If proof is not provided, then your student will be excluded from school and not allowed to return until proof of vaccines are provided. Please contact your child's healthcare provider or local health department to review their immunization record and determine whether these vaccines are needed. If your child has already received these vaccinations, please provide the school with an updated immunization record so that we can ensure our records are current.If you have questions about your child's vaccination requirements, please contact Becky Hart RN TMS clinic at 513-273-3314.",
+        "id": "ba9nhijx94"
+      }
+    ],
+    "hash": "b59ctka4an-ba9nhijx94",
+    "summary": "All students must provide proof of **Tdap** (Tetanus, Diphtheria, and Pertussis) and **Meningococcal** vaccines or an exemption by **September 9, 2026**. These vaccinations are required by the state of Ohio for all 7th grade students. Students without proof will be excluded from school until documentation is provided. Contact your healthcare provider or Becky Hart RN at TMS clinic at **513-273-3314** with questions.",
+    "event_info": [
+      {
+        "title": "Vaccination Proof or Exemption Deadline",
+        "start": "2026-09-09T00:00:00",
+        "end": "2026-09-09T23:59:00",
+        "description": "All students must provide proof of **Tdap** (Tetanus, Diphtheria, and Pertussis) and **Meningococcal** vaccines or an exemption by **September 9, 2026**. These vaccinations are required by the state o",
+        "location": "Talawanda High School"
       }
     ]
   },
