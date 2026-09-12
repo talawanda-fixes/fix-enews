@@ -168,40 +168,6 @@
     "summary": "Talawanda School District now uses **Peachjar**, a digital flyer delivery service, to share information with families about educational, athletic, cultural, and community opportunities. Families can click the image to access TSD and community flyers through this new platform."
   },
   {
-    "title": "Unplug and Play Playground Event",
-    "block_id": "bjqvo7kz71-b74m6trbab",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/43a1/00fe3b711e1fb6a18ad654a3ec10b28b.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/bcwm1-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-09-04T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Around \n\nBogan Around Bogan",
-        "id": "bjqvo7kz71"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/43a1/00fe3b711e1fb6a18ad654a3ec10b28b.jpeg",
-        "id": "b74m6trbab"
-      }
-    ],
-    "hash": "bjqvo7kz71-b74m6trbab",
-    "summary": "**Unplug and Play** event at the Bogan playground on **Thursday, September 10** from **5:30pm-7:30pm**. Students can hang out with friends, see their teachers, and enjoy popsicles. The event features playground equipment including a yellow slide, and sports activities with soccer and football available.",
-    "event_info": [
-      {
-        "title": "Unplug and Play at Bogan Playground",
-        "start": "2026-09-10T17:30:00",
-        "end": "2026-09-10T19:30:00",
-        "description": "**Unplug and Play** event at the Bogan playground on **Thursday, September 10** from **5:30pm-7:30pm**. Students can hang out with friends, see their teachers, and enjoy popsicles. The event features ",
-        "location": "Bogan playground"
-      }
-    ]
-  },
-  {
     "title": "School Social Worker Introduction and Services",
     "block_id": "bh1mh3rers-b1j5poder9",
     "content": "",
@@ -296,6 +262,40 @@
     ],
     "hash": "bfr77vevhd-byjfy5ixy6",
     "summary": "The **September 2026 breakfast menu** for Bogan Elementary is now available. The menu includes a rotating selection of items throughout the month such as Mini Chocolate Chip French Toast, Stuffed Hash Brown, Glazed Donuts, Sausage & Cheese Biscuit Sandwiches, Mini Pancake Sausage Wraps, Cinnamon Buns, Egg & Cheese options, Apple Cinnamon Swirl Texas Toast, Biscuits & Sausage Gravy, Mini Powdered Donuts, Cinnamon French Toast Sticks, Breakfast Pizza, and Glazed Donut Pull-Apart. **100% fruit juice, fresh fruit, and milk are included with every breakfast.** No school on September 8th and 18th (Labor Day on September 7th)."
+  },
+  {
+    "title": "Unplug and Play Playground Event",
+    "block_id": "bjqvo7kz71-b74m6trbab",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/43a1/00fe3b711e1fb6a18ad654a3ec10b28b.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/bcwm1-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-09-04T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Around \n\nBogan Around Bogan",
+        "id": "bjqvo7kz71"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/43a1/00fe3b711e1fb6a18ad654a3ec10b28b.jpeg",
+        "id": "b74m6trbab"
+      }
+    ],
+    "hash": "bjqvo7kz71-b74m6trbab",
+    "summary": "**Unplug and Play** event at the Bogan playground on **Thursday, September 10** from **5:30pm-7:30pm**. Students can hang out with friends, see their teachers, and enjoy popsicles. The event features playground equipment including a yellow slide, and sports activities with soccer and football available.",
+    "event_info": [
+      {
+        "title": "Unplug and Play at Bogan Playground",
+        "start": "2026-09-10T17:30:00",
+        "end": "2026-09-10T19:30:00",
+        "description": "**Unplug and Play** event at the Bogan playground on **Thursday, September 10** from **5:30pm-7:30pm**. Students can hang out with friends, see their teachers, and enjoy popsicles. The event features ",
+        "location": "Bogan playground"
+      }
+    ]
   },
   {
     "title": "PTG Fall Programs: Mumkins and Reading at Home",

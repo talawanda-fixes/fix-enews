@@ -281,45 +281,6 @@
     ]
   },
   {
-    "title": "Free Homecoming Dress Giveaway Event",
-    "block_id": "bxgl6dkrac-bya4yruonj",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/syn76",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-08-28T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "FREE \n\nHomecoming \n\nDress \n\nEvent FREE Homecoming Dress Event",
-        "id": "bxgl6dkrac"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Join us for our 7th Annual FREE FORMAL DRESS Giveaway event! We have over 2,000 FREE long and short dresses to choose from + men's suits, shoes, jewelry, make up, skincare, foundation wear, etc for Homecoming/Coronation/Fall-Winter formal dances for students in need.Dates: September 5-6Location: Harrison Junior School Commons9840 West Rd, Harrison, OH 45030Pop Up Shop Hours:Saturday, Sept 5, 9am-3pmSunday, Sept 6, 9am-3pmWe will have the following items available for FREE:Long and short dresses - sizes XS-26Shoes - sizes 6-11JewelryAccessoriesFoundation Wear (body suits NEW!)Make up & Skin CareEtc.DETAILS:- Event is open to any High School or Junior High student in need attending a fall/winter formal dance- Students can be from any school or homeschool- No registration required, pop up shop open 9am-3pm- No paperwork or school referrals required- 1 dress or suit per student (+ shoes/jewelry)- Student must be there in person to take home a dress- Donations can also be made on site if you have dresses, shoes, jewelry, etc to donate- We are a registered 501c3 non-profit charity so we can also give you a donation letter for your taxes.",
-        "id": "bya4yruonj"
-      }
-    ],
-    "hash": "bxgl6dkrac-bya4yruonj",
-    "summary": "The 7th Annual FREE Formal Dress Giveaway offers over 2,000 dresses, men's suits, shoes, jewelry, makeup, and accessories for students attending fall/winter formal dances. **Open to any high school or junior high student in need** from any school or homeschool. **September 5-6, 9am-3pm** at Harrison Junior School Commons (9840 West Rd, Harrison, OH 45030). No registration or paperwork required; students must attend in person and can receive one dress or suit plus accessories.",
-    "event_info": [
-      {
-        "title": "Free Homecoming Dress Giveaway - Day 1",
-        "start": "2026-09-05T09:00:00",
-        "end": "2026-09-05T15:00:00",
-        "description": "The 7th Annual FREE Formal Dress Giveaway offers over 2,000 dresses, men's suits, shoes, jewelry, makeup, and accessories for students attending fall/winter formal dances. **Open to any high school or",
-        "location": "Harrison Junior School Commons, 9840 West Rd, Harrison, OH 45030"
-      },
-      {
-        "title": "Free Homecoming Dress Giveaway - Day 2",
-        "start": "2026-09-06T09:00:00",
-        "end": "2026-09-06T15:00:00",
-        "description": "The 7th Annual FREE Formal Dress Giveaway offers over 2,000 dresses, men's suits, shoes, jewelry, makeup, and accessories for students attending fall/winter formal dances. **Open to any high school or",
-        "location": "Harrison Junior School Commons, 9840 West Rd, Harrison, OH 45030"
-      }
-    ]
-  },
-  {
     "title": "FFA Annual Mum Sale",
     "block_id": "b0dbtkh1eb-bz7h60omb7",
     "content": "",
@@ -355,6 +316,45 @@
         "end": "2026-09-24T18:30:00",
         "description": "The Talawanda/Butler Tech FFA Chapter is holding their annual mum sale with flowers available in white, rusty red, orange/bronze, pink/purple, and yellow. Two sizes are offered: **8\" ($8)** and **12\" ",
         "location": "THS Ag Shop"
+      }
+    ]
+  },
+  {
+    "title": "Free Homecoming Dress Giveaway Event",
+    "block_id": "bxgl6dkrac-bya4yruonj",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/syn76",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-08-28T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "FREE \n\nHomecoming \n\nDress \n\nEvent FREE Homecoming Dress Event",
+        "id": "bxgl6dkrac"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Join us for our 7th Annual FREE FORMAL DRESS Giveaway event! We have over 2,000 FREE long and short dresses to choose from + men's suits, shoes, jewelry, make up, skincare, foundation wear, etc for Homecoming/Coronation/Fall-Winter formal dances for students in need.Dates: September 5-6Location: Harrison Junior School Commons9840 West Rd, Harrison, OH 45030Pop Up Shop Hours:Saturday, Sept 5, 9am-3pmSunday, Sept 6, 9am-3pmWe will have the following items available for FREE:Long and short dresses - sizes XS-26Shoes - sizes 6-11JewelryAccessoriesFoundation Wear (body suits NEW!)Make up & Skin CareEtc.DETAILS:- Event is open to any High School or Junior High student in need attending a fall/winter formal dance- Students can be from any school or homeschool- No registration required, pop up shop open 9am-3pm- No paperwork or school referrals required- 1 dress or suit per student (+ shoes/jewelry)- Student must be there in person to take home a dress- Donations can also be made on site if you have dresses, shoes, jewelry, etc to donate- We are a registered 501c3 non-profit charity so we can also give you a donation letter for your taxes.",
+        "id": "bya4yruonj"
+      }
+    ],
+    "hash": "bxgl6dkrac-bya4yruonj",
+    "summary": "The 7th Annual FREE Formal Dress Giveaway offers over 2,000 dresses, men's suits, shoes, jewelry, makeup, and accessories for students attending fall/winter formal dances. **Open to any high school or junior high student in need** from any school or homeschool. **September 5-6, 9am-3pm** at Harrison Junior School Commons (9840 West Rd, Harrison, OH 45030). No registration or paperwork required; students must attend in person and can receive one dress or suit plus accessories.",
+    "event_info": [
+      {
+        "title": "Free Homecoming Dress Giveaway - Day 1",
+        "start": "2026-09-05T09:00:00",
+        "end": "2026-09-05T15:00:00",
+        "description": "The 7th Annual FREE Formal Dress Giveaway offers over 2,000 dresses, men's suits, shoes, jewelry, makeup, and accessories for students attending fall/winter formal dances. **Open to any high school or",
+        "location": "Harrison Junior School Commons, 9840 West Rd, Harrison, OH 45030"
+      },
+      {
+        "title": "Free Homecoming Dress Giveaway - Day 2",
+        "start": "2026-09-06T09:00:00",
+        "end": "2026-09-06T15:00:00",
+        "description": "The 7th Annual FREE Formal Dress Giveaway offers over 2,000 dresses, men's suits, shoes, jewelry, makeup, and accessories for students attending fall/winter formal dances. **Open to any high school or",
+        "location": "Harrison Junior School Commons, 9840 West Rd, Harrison, OH 45030"
       }
     ]
   },
