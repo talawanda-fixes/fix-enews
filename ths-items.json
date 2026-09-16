@@ -639,96 +639,6 @@
     ]
   },
   {
-    "title": "Finals Week Exam Schedule and Transportation",
-    "block_id": "bv07l2ito9-b0jjex6szm",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/e5a6/b35fe65ad7379bf1cb80604ae2caa4bd.png"
-    ],
-    "source_url": "https://app.smore.com/n/29056",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-05-15T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "EXAM \n\nSCHEDULE\n\nEXAM SCHEDULE",
-        "id": "bv07l2ito9"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/e5a6/b35fe65ad7379bf1cb80604ae2caa4bd.png",
-        "id": "b0jjex6szm"
-      }
-    ],
-    "hash": "bv07l2ito9-b0jjex6szm",
-    "summary": "**Finals take place May 19-21** with modified schedules. Students should arrive by 11:10 AM and only attend classes with exams. Buses depart at 11:40 AM daily.\n\n**Monday, 5/18:** Regular bell schedule (Q Bell 7:30-7:50, then periods 1-7 with 4A/4B splits)\n\n**Tuesday, 5/19:** 1st Period Exam (7:55-9:25), Break (9:25-9:40), 2nd Period Exam (9:40-11:10)\n\n**Wednesday, 5/20:** 3rd Period Exam (7:55-9:25), Break (9:25-9:40), 4th Period Exam (9:40-11:10)\n\n**Thursday, 5/21:** 5th Period Exam (7:55-9:25), Break (9:25-9:40), 6th Period Exam (9:40-11:10)",
-    "event_info": [
-      {
-        "title": "Regular Schedule Before Finals",
-        "start": "2026-05-18T07:30:00",
-        "end": "2026-05-18T14:30:00",
-        "description": "**Finals take place May 19-21** with modified schedules. Students should arrive by 11:10 AM and only attend classes with exams. Buses depart at 11:40 AM daily.\n\n**Monday, 5/18:** Regular bell schedule",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "1st Period Exam",
-        "start": "2026-05-19T07:55:00",
-        "end": "2026-05-19T09:25:00",
-        "description": "**Finals take place May 19-21** with modified schedules. Students should arrive by 11:10 AM and only attend classes with exams. Buses depart at 11:40 AM daily.\n\n**Monday, 5/18:** Regular bell schedule",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "2nd Period Exam",
-        "start": "2026-05-19T09:40:00",
-        "end": "2026-05-19T11:10:00",
-        "description": "**Finals take place May 19-21** with modified schedules. Students should arrive by 11:10 AM and only attend classes with exams. Buses depart at 11:40 AM daily.\n\n**Monday, 5/18:** Regular bell schedule",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Buses Depart After Exams",
-        "start": "2026-05-19T11:40:00",
-        "end": "2026-05-19T11:40:00",
-        "description": "**Finals take place May 19-21** with modified schedules. Students should arrive by 11:10 AM and only attend classes with exams. Buses depart at 11:40 AM daily.\n\n**Monday, 5/18:** Regular bell schedule",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "3rd Period Exam",
-        "start": "2026-05-20T07:55:00",
-        "end": "2026-05-20T09:25:00",
-        "description": "**Finals take place May 19-21** with modified schedules. Students should arrive by 11:10 AM and only attend classes with exams. Buses depart at 11:40 AM daily.\n\n**Monday, 5/18:** Regular bell schedule",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "4th Period Exam",
-        "start": "2026-05-20T09:40:00",
-        "end": "2026-05-20T11:10:00",
-        "description": "**Finals take place May 19-21** with modified schedules. Students should arrive by 11:10 AM and only attend classes with exams. Buses depart at 11:40 AM daily.\n\n**Monday, 5/18:** Regular bell schedule",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Buses Depart After Exams",
-        "start": "2026-05-20T11:40:00",
-        "end": "2026-05-20T11:40:00",
-        "description": "**Finals take place May 19-21** with modified schedules. Students should arrive by 11:10 AM and only attend classes with exams. Buses depart at 11:40 AM daily.\n\n**Monday, 5/18:** Regular bell schedule",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "5th Period Exam",
-        "start": "2026-05-21T07:55:00",
-        "end": "2026-05-21T09:25:00",
-        "description": "**Finals take place May 19-21** with modified schedules. Students should arrive by 11:10 AM and only attend classes with exams. Buses depart at 11:40 AM daily.\n\n**Monday, 5/18:** Regular bell schedule",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "6th Period Exam",
-        "start": "2026-05-21T09:40:00",
-        "end": "2026-05-21T11:10:00",
-        "description": "**Finals take place May 19-21** with modified schedules. Students should arrive by 11:10 AM and only attend classes with exams. Buses depart at 11:40 AM daily.\n\n**Monday, 5/18:** Regular bell schedule",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
     "title": "Medication Pick-Up Reminder from Clinic",
     "block_id": "bfprfo3g6c-bedj3kr1lz",
     "content": "",
@@ -791,6 +701,38 @@
         "end": "2026-05-18T12:15:00",
         "description": "**Robotics Club** meets **Monday, May 18th at 11:15 AM** in room 412 after finals. Pizza will be provided to celebrate the year's accomplishments and plan for next year. All members are welcome to att",
         "location": "Room 412"
+      }
+    ]
+  },
+  {
+    "title": "Older Americans Month Community BINGO Challenge",
+    "block_id": "b2434e884w-bf9an2z80x",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/29056",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-05-15T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "Every May, Older Americans Month recognizes the contributions of older adults, highlights aging trends, and reaffirms commitments to serve our older community members. The 2026 theme is “Champion Your Health”.Throughout the month of May, Oxford Seniors, Age-Friendly Oxford, and the Coalition for a Healthy Community, Oxford Area are partnering to highlight and offer programming focused on promoting physical, mental, and emotional health and well-being at all ages.You can participate by playing “Community BINGO” with us! It’s as easy as 1, 2, 3!1) Print your own or pick up a Community Bingo card at any of the following locations:Oxford Seniors, 922 Tollgate Dr., OxfordOxford Lane Library, 441 S. Locust St.The Knolls of Oxford, Clubhouse or Front DeskScripps Gerontology Center, 396 Upham Hall, on campus2) Every time you do something listed on the card, mark it off. The goal is to get “BINGO” as many times as possible. A “BINGO” is marking off any 5 squares in a straight line – either vertically, horizontally, or diagonally.3) Bring your completed BINGO card to the Intergenerational BINGO Party on Sun. May 31 from 3:00 – 5:00 p.m. at Oxford Seniors for prizes, snacks, and FUN!",
+        "id": "b2434e884w"
+      },
+      {
+        "type": "items",
+        "content": "zoom_out_map\n                \n\n\n\n\n\n\n\n\nzoom_out_map",
+        "id": "bf9an2z80x"
+      }
+    ],
+    "hash": "b2434e884w-bf9an2z80x",
+    "summary": "**Older Americans Month** (May 2026, theme: \"Champion Your Health\") features a **Community BINGO** challenge promoting health and well-being. Pick up BINGO cards at **Oxford Seniors** (922 Tollgate Dr.), **Oxford Lane Library** (441 S. Locust St.), **The Knolls of Oxford**, or **Scripps Gerontology Center** (396 Upham Hall). Complete activities on the card throughout May, then bring your card to the **Intergenerational BINGO Party on Sunday, May 31, 3:00-5:00 PM at Oxford Seniors** for prizes and snacks.",
+    "event_info": [
+      {
+        "title": "Intergenerational BINGO Party",
+        "start": "2026-05-31T15:00:00",
+        "end": "2026-05-31T17:00:00",
+        "description": "**Older Americans Month** (May 2026, theme: \"Champion Your Health\") features a **Community BINGO** challenge promoting health and well-being. Pick up BINGO cards at **Oxford Seniors** (922 Tollgate Dr",
+        "location": "Oxford Seniors, 922 Tollgate Dr., Oxford"
       }
     ]
   }
