@@ -1,5 +1,39 @@
 [
   {
+    "title": "Fall Flower Sale Pick-Up Information",
+    "block_id": "bi6881i3gq-b9jnhf7ffa",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/f8c5/d68993fa32caed0ecf7001caab36818e.png"
+    ],
+    "source_url": "https://app.smore.com/n/s7vej",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-09-18T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PTG \n\nCORNER PTG CORNER",
+        "id": "bi6881i3gq"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/f8c5/d68993fa32caed0ecf7001caab36818e.png",
+        "id": "b9jnhf7ffa"
+      }
+    ],
+    "hash": "bi6881i3gq-b9jnhf7ffa",
+    "summary": "Thank you for supporting Marshall PTG through the Fall Flower Sale! **Flower pick-up is Saturday, September 19th between 12-2 PM.** Please plan to collect your flowers during this designated time window.",
+    "event_info": [
+      {
+        "title": "Fall Flower Sale Pick-Up",
+        "start": "2026-09-19T12:00:00",
+        "end": "2026-09-19T14:00:00",
+        "description": "Thank you for supporting Marshall PTG through the Fall Flower Sale! **Flower pick-up is Saturday, September 19th between 12-2 PM.** Please plan to collect your flowers during this designated time wind",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
     "title": "No Toy Policy Begins September 14th",
     "block_id": "bh9mmwk9fi-blej2c0z7r",
     "content": "",
@@ -827,46 +861,5 @@
     ],
     "hash": "b76b9kjbpo",
     "summary": "**Cell phones must be powered off and stored all day** from arrival to dismissal per Ohio Senate Bill 158. Phones cannot be used in classrooms, hallways, restrooms, recess, or cafeteria. **Violations result in progressive consequences**: 1st offense = warning, 2nd = confiscation until end of day, 3rd = parent pickup required, subsequent = loss of privileges. During school-wide emergencies, students will be given supervised access to phones once safe. All parent contact must go through the main office."
-  },
-  {
-    "title": "Marshall Elementary Running Club Registration Open",
-    "block_id": "bm28ehp68p-bg3qhn8k60",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/e28a/eb27c2f21e3eea4aaf1cf461ce840725.png"
-    ],
-    "source_url": "https://app.smore.com/n/a4h1x",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-08-21T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "MARSHALL \n\nELEMENTARY \n\nRUNNING \n\nCLUB \n\n🏃👟 MARSHALL ELEMENTARY RUNNING CLUB 🏃👟",
-        "id": "bm28ehp68p"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/e28a/eb27c2f21e3eea4aaf1cf461ce840725.png",
-        "id": "bg3qhn8k60"
-      }
-    ],
-    "hash": "bm28ehp68p-bg3qhn8k60",
-    "summary": "The **Marshall Elementary Running Club** is accepting registrations for its second year, open to all Marshall 3rd-5th graders. The club meets **Tuesdays & Fridays from 8:15-9:00 AM** at Marshall Elementary School from **August 25 - October 10**. Cost is **$15 for a T-shirt**. Coaches include Ms. Sparks, Ms. Shriver, Ms. Lykins, and Ms. Beaton. Students should bring comfortable running shoes, water bottle, and positive attitude. Two races are scheduled: **September 5 at 9:00 AM** at Talawanda High School (1K race, meet at 8:30 AM) and **October 10** at Marshall Elementary. Contact: sparksm@talawanda.org",
-    "event_info": [
-      {
-        "title": "Marshall Running Club 1K Race at Talawanda High School",
-        "start": "2026-09-05T09:00:00",
-        "end": "2026-09-05T10:00:00",
-        "description": "The **Marshall Elementary Running Club** is accepting registrations for its second year, open to all Marshall 3rd-5th graders. The club meets **Tuesdays & Fridays from 8:15-9:00 AM** at Marshall Eleme",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Marshall Running Club Race at Marshall Elementary",
-        "start": "2026-10-10T00:00:00",
-        "end": "2026-10-10T01:00:00",
-        "description": "The **Marshall Elementary Running Club** is accepting registrations for its second year, open to all Marshall 3rd-5th graders. The club meets **Tuesdays & Fridays from 8:15-9:00 AM** at Marshall Eleme",
-        "location": "Marshall Elementary School"
-      }
-    ]
   }
 ]
