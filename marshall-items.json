@@ -34,6 +34,31 @@
     ]
   },
   {
+    "title": "Title I Reading Corner Program Information",
+    "block_id": "bmp6wiz0pw-by0l4qx860",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/556f/26643fc528e3b89a00c00d6dbc9c4dca.png"
+    ],
+    "source_url": "https://app.smore.com/n/kpzb46",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-09-11T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "READING \n\nCORNER READING CORNER",
+        "id": "bmp6wiz0pw"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/556f/26643fc528e3b89a00c00d6dbc9c4dca.png",
+        "id": "by0l4qx860"
+      }
+    ],
+    "hash": "bmp6wiz0pw-by0l4qx860",
+    "summary": "The **Title I Reading Corner Classroom** provides daily 30-minute small-group reading instruction for K-3 students at Marshall Elementary. Teachers Lisa Dyer and Shawna Dalton work with students on letter naming, phonemic awareness, phonics, vocabulary, fluency, comprehension, and writing. Students are selected based on assessments given at the beginning of the school year and in December, and are released from the program when they consistently meet grade-level benchmarks. Parents are welcome to contact teachers with questions about their child's reading progress."
+  },
+  {
     "title": "No Toy Policy Begins September 14th",
     "block_id": "bh9mmwk9fi-blej2c0z7r",
     "content": "",
@@ -102,29 +127,38 @@
     ]
   },
   {
-    "title": "Title I Reading Corner Program Information",
-    "block_id": "bmp6wiz0pw-by0l4qx860",
+    "title": "Picture Day Information and Reminders",
+    "block_id": "bh9mmwk9fi-bhod5yfqb8",
     "content": "",
     "images": [
-      "https://cdn.smore.com/u/556f/26643fc528e3b89a00c00d6dbc9c4dca.png"
+      "https://cdn.smore.com/u/00b1/f69ca4406e13bbc60d25568e3249bd2d.png"
     ],
-    "source_url": "https://app.smore.com/n/kpzb46",
+    "source_url": "https://app.smore.com/n/u63xy1",
     "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-09-11T00:00:00+00:00",
+    "date": "2026-09-04T00:00:00+00:00",
     "blocks": [
       {
         "type": "text.title",
-        "content": "READING \n\nCORNER READING CORNER",
-        "id": "bmp6wiz0pw"
+        "content": "IMPORTANT \n\nUPDATES \n\n& \n\nREMINDERS IMPORTANT UPDATES & REMINDERS",
+        "id": "bh9mmwk9fi"
       },
       {
         "type": "image.single",
-        "url": "https://cdn.smore.com/u/556f/26643fc528e3b89a00c00d6dbc9c4dca.png",
-        "id": "by0l4qx860"
+        "url": "https://cdn.smore.com/u/00b1/f69ca4406e13bbc60d25568e3249bd2d.png",
+        "id": "bhod5yfqb8"
       }
     ],
-    "hash": "bmp6wiz0pw-by0l4qx860",
-    "summary": "The **Title I Reading Corner Classroom** provides daily 30-minute small-group reading instruction for K-3 students at Marshall Elementary. Teachers Lisa Dyer and Shawna Dalton work with students on letter naming, phonemic awareness, phonics, vocabulary, fluency, comprehension, and writing. Students are selected based on assessments given at the beginning of the school year and in December, and are released from the program when they consistently meet grade-level benchmarks. Parents are welcome to contact teachers with questions about their child's reading progress."
+    "hash": "bh9mmwk9fi-bhod5yfqb8",
+    "summary": "**Picture Day is Wednesday, September 23, 2026** at Maude Marshall Elementary School. Order online at **mylifetouch.com** using Picture Day ID **EVTVTTF7C** before midnight on Picture Day for FREE shipping. Students can also bring completed flyers with cash or check on Picture Day, with orders placed online after Picture Day subject to shipping fees.",
+    "event_info": [
+      {
+        "title": "Picture Day at Maude Marshall Elementary",
+        "start": "2026-09-23T00:00:00",
+        "end": "2026-09-23T01:00:00",
+        "description": "**Picture Day is Wednesday, September 23, 2026** at Maude Marshall Elementary School. Order online at **mylifetouch.com** using Picture Day ID **EVTVTTF7C** before midnight on Picture Day for FREE shi",
+        "location": "Maude Marshall Elementary School"
+      }
+    ]
   },
   {
     "title": "Dental Van Visit - October 12th",
@@ -278,40 +312,6 @@
         "end": "2026-09-08T23:59:00",
         "description": "**No school Monday, September 8th or Tuesday, September 9th** – students return Wednesday, September 10th. The school thanks families for supporting the PTG fundraiser and celebrates a successful Paja",
         "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Picture Day Information and Reminders",
-    "block_id": "bh9mmwk9fi-bhod5yfqb8",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/00b1/f69ca4406e13bbc60d25568e3249bd2d.png"
-    ],
-    "source_url": "https://app.smore.com/n/u63xy1",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-09-04T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "IMPORTANT \n\nUPDATES \n\n& \n\nREMINDERS IMPORTANT UPDATES & REMINDERS",
-        "id": "bh9mmwk9fi"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/00b1/f69ca4406e13bbc60d25568e3249bd2d.png",
-        "id": "bhod5yfqb8"
-      }
-    ],
-    "hash": "bh9mmwk9fi-bhod5yfqb8",
-    "summary": "**Picture Day is Wednesday, September 23, 2026** at Maude Marshall Elementary School. Order online at **mylifetouch.com** using Picture Day ID **EVTVTTF7C** before midnight on Picture Day for FREE shipping. Students can also bring completed flyers with cash or check on Picture Day, with orders placed online after Picture Day subject to shipping fees.",
-    "event_info": [
-      {
-        "title": "Picture Day at Maude Marshall Elementary",
-        "start": "2026-09-23T00:00:00",
-        "end": "2026-09-23T01:00:00",
-        "description": "**Picture Day is Wednesday, September 23, 2026** at Maude Marshall Elementary School. Order online at **mylifetouch.com** using Picture Day ID **EVTVTTF7C** before midnight on Picture Day for FREE shi",
-        "location": "Maude Marshall Elementary School"
       }
     ]
   },
