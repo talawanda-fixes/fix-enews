@@ -1,5 +1,39 @@
 [
   {
+    "title": "Dine to Donate at LaRosa's Oxford",
+    "block_id": "bpx42aowpj-bto8crem3z",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/8db7/0ef74fcbe8b4aee72a84d9e3577fd4b7.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/6xrbjt-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-09-18T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PTG \n\nCorner PTG Corner",
+        "id": "bpx42aowpj"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/8db7/0ef74fcbe8b4aee72a84d9e3577fd4b7.jpeg",
+        "id": "bto8crem3z"
+      }
+    ],
+    "hash": "bpx42aowpj-bto8crem3z",
+    "summary": "**Dine to Donate fundraiser at LaRosa's Family Pizzeria in Oxford on Tuesday, September 22nd from 4 pm-11 pm.** Present the flyer for dine-in, carry-out, or delivery to support the Bogan PTG, students, and staff. For questions, contact BoganPTG@gmail.com.",
+    "event_info": [
+      {
+        "title": "Dine to Donate at LaRosa's Oxford",
+        "start": "2026-09-22T16:00:00",
+        "end": "2026-09-22T23:00:00",
+        "description": "**Dine to Donate fundraiser at LaRosa's Family Pizzeria in Oxford on Tuesday, September 22nd from 4 pm-11 pm.** Present the flyer for dine-in, carry-out, or delivery to support the Bogan PTG, students",
+        "location": "LaRosa's Family Pizzeria, Oxford"
+      }
+    ]
+  },
+  {
     "title": "September is Attendance Awareness Month",
     "block_id": "bjqvo7kz71-bfmqdkhp7i",
     "content": "",
@@ -609,30 +643,5 @@
     ],
     "hash": "bd03u7m4qz-b445rh3fvc",
     "summary": "Talawanda High School continues its **Positive Behavioral Interventions and Supports (PBIS)** program with exciting student recognition opportunities. Students can earn **Bogan Brave Tickets** from staff for following expectations, with weekly Friday prize drawings by Dr. Cannon. Monthly **Student of the Month** awards recognize students demonstrating specific character traits, earning certificates, photos, and Good News Calls home. \n\n**Cafeteria expectations** include: **Be Kind** (use appropriate language, say please/thank you, welcome everyone, help peers, listen to tablemates), **Be Safe** (enter/exit quietly with walking feet, stay seated, keep hands/feet to self, share food only from share table), and **Be Responsible** (use 3-inch voice, raise hand for help, follow adult directions, use tools appropriately, keep table and floor clean)."
-  },
-  {
-    "title": "Meet Mrs. Emily - School Social Worker",
-    "block_id": "bh1mh3rers-bu9e2anrtp",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/f8e5/5330953681650fbc57287de9001d241f.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/9xcjr-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-08-21T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Social \n\nWork \n\nSpotlight Social Work Spotlight",
-        "id": "bh1mh3rers"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/f8e5/5330953681650fbc57287de9001d241f.jpeg",
-        "id": "bu9e2anrtp"
-      }
-    ],
-    "hash": "bh1mh3rers-bu9e2anrtp",
-    "summary": "Mrs. Emily is Talawanda High School's social worker for the 2026-2027 school year. She provides **student support** for mental health needs and additional support, **resource guidance** including food/hygiene support, clothing, shoes, coats, rent/utilities assistance, and holiday assistance, and **food support** through a Little FREE Pantry outside Bogan, weekly Power Packs, family food boxes, and donations. Contact her at **whitee@talawanda.org** or **513-273-3403** for any needs or questions."
   }
 ]

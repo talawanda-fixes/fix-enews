@@ -192,45 +192,6 @@
     ]
   },
   {
-    "title": "Yearbook Sales and Senior Portrait Deadline",
-    "block_id": "bgso3bdzpl-brtajhmco5-bni2pazemq",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/1b65/7e3ec691ae246b5b442b357c3061d474.png"
-    ],
-    "source_url": "https://app.smore.com/n/9qeum",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-09-04T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Yearbook Yearbook",
-        "id": "bgso3bdzpl"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Yearbooks are on sale now for the lowest price of the year. Go to yearbookforever.com to get yours today.",
-        "id": "brtajhmco5"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/1b65/7e3ec691ae246b5b442b357c3061d474.png",
-        "id": "bni2pazemq"
-      }
-    ],
-    "hash": "bgso3bdzpl-brtajhmco5-bni2pazemq",
-    "summary": "**Yearbooks are on sale now** at the lowest price of the year at yearbookforever.com. **Senior portrait deadline is March 26th.** Submit portraits by scanning the QR code with access code **talawanda2027** or email photos larger than 1MB to yearbook@talawanda.org. Photos must be in portrait format, greater than 1MB, follow the student code of conduct, and black and white photos are discouraged. If no portrait is submitted, your school ID photo will be used. Senior ads are also available ($100 for full page down to $25 for ¼ page) - contact yearbook@talawanda.org for more information.",
-    "event_info": [
-      {
-        "title": "Senior Yearbook Portrait Deadline",
-        "start": "2027-03-26T00:00:00",
-        "end": "2027-03-26T23:59:00",
-        "description": "**Yearbooks are on sale now** at the lowest price of the year at yearbookforever.com. **Senior portrait deadline is March 26th.** Submit portraits by scanning the QR code with access code **talawanda2",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
     "title": "FCCLA Costa Rica Trip Opportunity",
     "block_id": "br7o2hhsgv-bylat3ndgu",
     "content": "",
@@ -275,6 +236,84 @@
     ],
     "hash": "b2vm14dwnz-b9f7soitkm",
     "summary": "Talawanda School District uses **Peachjar** as its digital flyer distribution system. Access all community and school flyers through the [Peachjar Flyers Page](https://www.peachjar.com/flyers/all/schools/67890)."
+  },
+  {
+    "title": "Yearbook Sales and Senior Portrait Deadline",
+    "block_id": "bgso3bdzpl-brtajhmco5-bni2pazemq",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/1b65/7e3ec691ae246b5b442b357c3061d474.png"
+    ],
+    "source_url": "https://app.smore.com/n/9qeum",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-09-04T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Yearbook Yearbook",
+        "id": "bgso3bdzpl"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Yearbooks are on sale now for the lowest price of the year. Go to yearbookforever.com to get yours today.",
+        "id": "brtajhmco5"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/1b65/7e3ec691ae246b5b442b357c3061d474.png",
+        "id": "bni2pazemq"
+      }
+    ],
+    "hash": "bgso3bdzpl-brtajhmco5-bni2pazemq",
+    "summary": "**Yearbooks are on sale now** at the lowest price of the year at yearbookforever.com. **Senior portrait deadline is March 26th.** Submit portraits by scanning the QR code with access code **talawanda2027** or email photos larger than 1MB to yearbook@talawanda.org. Photos must be in portrait format, greater than 1MB, follow the student code of conduct, and black and white photos are discouraged. If no portrait is submitted, your school ID photo will be used. Senior ads are also available ($100 for full page down to $25 for ¼ page) - contact yearbook@talawanda.org for more information.",
+    "event_info": [
+      {
+        "title": "Senior Yearbook Portrait Deadline",
+        "start": "2027-03-26T00:00:00",
+        "end": "2027-03-26T23:59:00",
+        "description": "**Yearbooks are on sale now** at the lowest price of the year at yearbookforever.com. **Senior portrait deadline is March 26th.** Submit portraits by scanning the QR code with access code **talawanda2",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "FFA Annual Mum Sale",
+    "block_id": "b0dbtkh1eb-bz7h60omb7",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/syn76",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-08-28T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "FFA FFA",
+        "id": "b0dbtkh1eb"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Annual Mum Sale The Talawanda/Butler Tech FFA Chapter has started their annual mum sale! The following colors are available: white, rusty red, orange/bronze, pink/purple and yellow. The mums come in two sizes: 8\" ($8) and 12\" ($25). All orders and money (cash or check) are due by Sept. 11th and pick up will be from the THS Ag Shop on Thursday, Sept. 24th from 3:00 pm - 6:30 pm. Contact any FFA member or Chapter Advisor to place an order (Mrs. Roberts - robertsk@talawanda.org and Miss Kendel - kendelc@talawanda.org). Thank you for your continued support!",
+        "id": "bz7h60omb7"
+      }
+    ],
+    "hash": "b0dbtkh1eb-bz7h60omb7",
+    "summary": "The Talawanda/Butler Tech FFA Chapter is holding their annual mum sale with flowers available in white, rusty red, orange/bronze, pink/purple, and yellow. Two sizes are offered: **8\" ($8)** and **12\" ($25)**. **Orders and payment (cash or check) are due by September 11th**, with pickup on **September 24th from 3:00-6:30 PM at the THS Ag Shop**. Contact any FFA member or advisors Mrs. Roberts (robertsk@talawanda.org) or Miss Kendel (kendelc@talawanda.org) to order.",
+    "event_info": [
+      {
+        "title": "FFA Mum Sale Orders Due",
+        "start": "2026-09-11T00:00:00",
+        "end": "2026-09-11T23:59:00",
+        "description": "The Talawanda/Butler Tech FFA Chapter is holding their annual mum sale with flowers available in white, rusty red, orange/bronze, pink/purple, and yellow. Two sizes are offered: **8\" ($8)** and **12\" ",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "FFA Mum Sale Pickup",
+        "start": "2026-09-24T15:00:00",
+        "end": "2026-09-24T18:30:00",
+        "description": "The Talawanda/Butler Tech FFA Chapter is holding their annual mum sale with flowers available in white, rusty red, orange/bronze, pink/purple, and yellow. Two sizes are offered: **8\" ($8)** and **12\" ",
+        "location": "THS Ag Shop"
+      }
+    ]
   },
   {
     "title": "Club Meetings and Activities Schedule",
@@ -373,45 +412,6 @@
         "end": "2026-09-24T15:00:00",
         "description": "Multiple clubs are meeting the week of August 31st through September 4th, including **Robotics Club** (Mon/Wed, room 412), **Mock Trial** (Tue/Thu, room 315), **Art Club** (Tue, room 603), **Diversity",
         "location": "Room 316"
-      }
-    ]
-  },
-  {
-    "title": "FFA Annual Mum Sale",
-    "block_id": "b0dbtkh1eb-bz7h60omb7",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/syn76",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-08-28T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "FFA FFA",
-        "id": "b0dbtkh1eb"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Annual Mum Sale The Talawanda/Butler Tech FFA Chapter has started their annual mum sale! The following colors are available: white, rusty red, orange/bronze, pink/purple and yellow. The mums come in two sizes: 8\" ($8) and 12\" ($25). All orders and money (cash or check) are due by Sept. 11th and pick up will be from the THS Ag Shop on Thursday, Sept. 24th from 3:00 pm - 6:30 pm. Contact any FFA member or Chapter Advisor to place an order (Mrs. Roberts - robertsk@talawanda.org and Miss Kendel - kendelc@talawanda.org). Thank you for your continued support!",
-        "id": "bz7h60omb7"
-      }
-    ],
-    "hash": "b0dbtkh1eb-bz7h60omb7",
-    "summary": "The Talawanda/Butler Tech FFA Chapter is holding their annual mum sale with flowers available in white, rusty red, orange/bronze, pink/purple, and yellow. Two sizes are offered: **8\" ($8)** and **12\" ($25)**. **Orders and payment (cash or check) are due by September 11th**, with pickup on **September 24th from 3:00-6:30 PM at the THS Ag Shop**. Contact any FFA member or advisors Mrs. Roberts (robertsk@talawanda.org) or Miss Kendel (kendelc@talawanda.org) to order.",
-    "event_info": [
-      {
-        "title": "FFA Mum Sale Orders Due",
-        "start": "2026-09-11T00:00:00",
-        "end": "2026-09-11T23:59:00",
-        "description": "The Talawanda/Butler Tech FFA Chapter is holding their annual mum sale with flowers available in white, rusty red, orange/bronze, pink/purple, and yellow. Two sizes are offered: **8\" ($8)** and **12\" ",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "FFA Mum Sale Pickup",
-        "start": "2026-09-24T15:00:00",
-        "end": "2026-09-24T18:30:00",
-        "description": "The Talawanda/Butler Tech FFA Chapter is holding their annual mum sale with flowers available in white, rusty red, orange/bronze, pink/purple, and yellow. Two sizes are offered: **8\" ($8)** and **12\" ",
-        "location": "THS Ag Shop"
       }
     ]
   },
@@ -558,6 +558,52 @@
     ]
   },
   {
+    "title": "Club Meetings Schedule This Week",
+    "block_id": "bv0ung9ptn-bghptfzqhm",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/qdjhs",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-08-21T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Club \n\nMeetings Club Meetings",
+        "id": "bv0ung9ptn"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Monday, August 24th2:30 pm - Robotics Club, room 412: All interested students are welcome! Questions, see Ms. Schran2:30 pm - Setting Stone, room 320Tuesday, August 25thWednesday, August 26thThursday, August 27thFriday, August 28th9:30 am - Youth Initiative Team (YIT), Media CenterTalawanda High School's environmental club, Project Green, is welcoming new members! If you're interested in environmental issues and participating in outdoor activities like gardening, forest restoration, wildlife research, etc., please see Mrs. Ruther in room 224 ASAP!",
+        "id": "bghptfzqhm"
+      }
+    ],
+    "hash": "bv0ung9ptn-bghptfzqhm",
+    "summary": "Several clubs are meeting this week at Talawanda High School:\n- **Monday, August 24th at 2:30 pm**: Robotics Club in room 412 (contact Ms. Schran with questions) and Setting Stone in room 320\n- **Friday, August 28th at 9:30 am**: Youth Initiative Team (YIT) in Media Center\n- **Project Green** (environmental club) is recruiting new members for activities like gardening, forest restoration, and wildlife research—see Mrs. Ruther in room 224 ASAP.",
+    "event_info": [
+      {
+        "title": "Robotics Club Meeting",
+        "start": "2026-08-24T14:30:00",
+        "end": "2026-08-24T15:30:00",
+        "description": "Several clubs are meeting this week at Talawanda High School:\n- **Monday, August 24th at 2:30 pm**: Robotics Club in room 412 (contact Ms. Schran with questions) and Setting Stone in room 320\n- **Frid",
+        "location": "Room 412, Talawanda High School"
+      },
+      {
+        "title": "Setting Stone Meeting",
+        "start": "2026-08-24T14:30:00",
+        "end": "2026-08-24T15:30:00",
+        "description": "Several clubs are meeting this week at Talawanda High School:\n- **Monday, August 24th at 2:30 pm**: Robotics Club in room 412 (contact Ms. Schran with questions) and Setting Stone in room 320\n- **Frid",
+        "location": "Room 320, Talawanda High School"
+      },
+      {
+        "title": "Youth Initiative Team (YIT) Meeting",
+        "start": "2026-08-28T09:30:00",
+        "end": "2026-08-28T10:30:00",
+        "description": "Several clubs are meeting this week at Talawanda High School:\n- **Monday, August 24th at 2:30 pm**: Robotics Club in room 412 (contact Ms. Schran with questions) and Setting Stone in room 320\n- **Frid",
+        "location": "Media Center, Talawanda High School"
+      }
+    ]
+  },
+  {
     "title": "Athletics Weekly Updates",
     "block_id": "bt9jp4t7lv",
     "content": "",
@@ -604,52 +650,6 @@
         "end": "2026-08-25T23:59:00",
         "description": "**Picture Day** is scheduled for **Tuesday, August 25th**. Students should be prepared for school photos on this date.",
         "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Club Meetings Schedule This Week",
-    "block_id": "bv0ung9ptn-bghptfzqhm",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/qdjhs",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-08-21T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Club \n\nMeetings Club Meetings",
-        "id": "bv0ung9ptn"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Monday, August 24th2:30 pm - Robotics Club, room 412: All interested students are welcome! Questions, see Ms. Schran2:30 pm - Setting Stone, room 320Tuesday, August 25thWednesday, August 26thThursday, August 27thFriday, August 28th9:30 am - Youth Initiative Team (YIT), Media CenterTalawanda High School's environmental club, Project Green, is welcoming new members! If you're interested in environmental issues and participating in outdoor activities like gardening, forest restoration, wildlife research, etc., please see Mrs. Ruther in room 224 ASAP!",
-        "id": "bghptfzqhm"
-      }
-    ],
-    "hash": "bv0ung9ptn-bghptfzqhm",
-    "summary": "Several clubs are meeting this week at Talawanda High School:\n- **Monday, August 24th at 2:30 pm**: Robotics Club in room 412 (contact Ms. Schran with questions) and Setting Stone in room 320\n- **Friday, August 28th at 9:30 am**: Youth Initiative Team (YIT) in Media Center\n- **Project Green** (environmental club) is recruiting new members for activities like gardening, forest restoration, and wildlife research—see Mrs. Ruther in room 224 ASAP.",
-    "event_info": [
-      {
-        "title": "Robotics Club Meeting",
-        "start": "2026-08-24T14:30:00",
-        "end": "2026-08-24T15:30:00",
-        "description": "Several clubs are meeting this week at Talawanda High School:\n- **Monday, August 24th at 2:30 pm**: Robotics Club in room 412 (contact Ms. Schran with questions) and Setting Stone in room 320\n- **Frid",
-        "location": "Room 412, Talawanda High School"
-      },
-      {
-        "title": "Setting Stone Meeting",
-        "start": "2026-08-24T14:30:00",
-        "end": "2026-08-24T15:30:00",
-        "description": "Several clubs are meeting this week at Talawanda High School:\n- **Monday, August 24th at 2:30 pm**: Robotics Club in room 412 (contact Ms. Schran with questions) and Setting Stone in room 320\n- **Frid",
-        "location": "Room 320, Talawanda High School"
-      },
-      {
-        "title": "Youth Initiative Team (YIT) Meeting",
-        "start": "2026-08-28T09:30:00",
-        "end": "2026-08-28T10:30:00",
-        "description": "Several clubs are meeting this week at Talawanda High School:\n- **Monday, August 24th at 2:30 pm**: Robotics Club in room 412 (contact Ms. Schran with questions) and Setting Stone in room 320\n- **Frid",
-        "location": "Media Center, Talawanda High School"
       }
     ]
   },

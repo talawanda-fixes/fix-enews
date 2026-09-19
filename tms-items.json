@@ -138,6 +138,57 @@
     ]
   },
   {
+    "title": "8th Grade DC Trip Parent Meetings",
+    "block_id": "brqq3yfajd-b4vpod9mzx-bw6ahebu1k",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/bekh2-september-is-here?ref=email",
+    "source_title": "September is Here! | Smore Newsletters for Education",
+    "date": "2026-09-11T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "8th \n\nGrade \n\nDC \n\nTrip 8th Grade DC Trip",
+        "id": "brqq3yfajd"
+      },
+      {
+        "type": "text.title",
+        "content": "PARENT \n\nMEETINGS! PARENT MEETINGS!",
+        "id": "b4vpod9mzx"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "DC TRIP - PARENT MEETING DATESMonday, 9-21. 7pm TMS CafeThursday, 9-24. 7pm TMS CafeTuesday, 9-29. 7pm TMS CafeInformation was passed out Thursday/Friday 9/10-118th grade families - Look for an email in final forms.",
+        "id": "bw6ahebu1k"
+      }
+    ],
+    "hash": "brqq3yfajd-b4vpod9mzx-bw6ahebu1k",
+    "summary": "Parent meetings for the 8th grade DC trip will be held at the TMS Cafe on three dates: **Monday, September 21 at 7pm**, **Thursday, September 24 at 7pm**, and **Tuesday, September 29 at 7pm**. Information was distributed to students on September 10-11, and 8th grade families should look for an email in FinalForms.",
+    "event_info": [
+      {
+        "title": "8th Grade DC Trip Parent Meeting",
+        "start": "2026-09-21T19:00:00",
+        "end": "2026-09-21T20:00:00",
+        "description": "Parent meetings for the 8th grade DC trip will be held at the TMS Cafe on three dates: **Monday, September 21 at 7pm**, **Thursday, September 24 at 7pm**, and **Tuesday, September 29 at 7pm**. Informa",
+        "location": "TMS Cafe"
+      },
+      {
+        "title": "8th Grade DC Trip Parent Meeting",
+        "start": "2026-09-24T19:00:00",
+        "end": "2026-09-24T20:00:00",
+        "description": "Parent meetings for the 8th grade DC trip will be held at the TMS Cafe on three dates: **Monday, September 21 at 7pm**, **Thursday, September 24 at 7pm**, and **Tuesday, September 29 at 7pm**. Informa",
+        "location": "TMS Cafe"
+      },
+      {
+        "title": "8th Grade DC Trip Parent Meeting",
+        "start": "2026-09-29T19:00:00",
+        "end": "2026-09-29T20:00:00",
+        "description": "Parent meetings for the 8th grade DC trip will be held at the TMS Cafe on three dates: **Monday, September 21 at 7pm**, **Thursday, September 24 at 7pm**, and **Tuesday, September 29 at 7pm**. Informa",
+        "location": "TMS Cafe"
+      }
+    ]
+  },
+  {
     "title": "TMS Enews September 11, 2026",
     "block_id": "blog_post_https://www.talawanda.org/talawanda-middle-school-blog/entry/tms-enews-9-11-26/",
     "content": "TMS Enews 9/11/26\n\n\n\n\n\n\n\n\n\n\n Back To Talawanda Middle School Blog\n\r\n\t                TMS Enews 9/11/26\r\n\t            \n\nSep 11, 2026\n\n\n\n\n\n\n\nTMS Enews 9/11/26- TMS ENEWS LINK",
@@ -216,57 +267,6 @@
         "end": "2026-09-17T01:00:00",
         "description": "**Spirit Week runs September 14th-18th** with themed dress-up days:\n- **Monday**: Pajama Day - Roll out of bed and into school in your favorite pjs\n- **Tuesday**: Twin Day - Get your friends together ",
         "location": "Talawanda Middle School"
-      }
-    ]
-  },
-  {
-    "title": "8th Grade DC Trip Parent Meetings",
-    "block_id": "brqq3yfajd-b4vpod9mzx-bw6ahebu1k",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/bekh2-september-is-here?ref=email",
-    "source_title": "September is Here! | Smore Newsletters for Education",
-    "date": "2026-09-11T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "8th \n\nGrade \n\nDC \n\nTrip 8th Grade DC Trip",
-        "id": "brqq3yfajd"
-      },
-      {
-        "type": "text.title",
-        "content": "PARENT \n\nMEETINGS! PARENT MEETINGS!",
-        "id": "b4vpod9mzx"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "DC TRIP - PARENT MEETING DATESMonday, 9-21. 7pm TMS CafeThursday, 9-24. 7pm TMS CafeTuesday, 9-29. 7pm TMS CafeInformation was passed out Thursday/Friday 9/10-118th grade families - Look for an email in final forms.",
-        "id": "bw6ahebu1k"
-      }
-    ],
-    "hash": "brqq3yfajd-b4vpod9mzx-bw6ahebu1k",
-    "summary": "Parent meetings for the 8th grade DC trip will be held at the TMS Cafe on three dates: **Monday, September 21 at 7pm**, **Thursday, September 24 at 7pm**, and **Tuesday, September 29 at 7pm**. Information was distributed to students on September 10-11, and 8th grade families should look for an email in FinalForms.",
-    "event_info": [
-      {
-        "title": "8th Grade DC Trip Parent Meeting",
-        "start": "2026-09-21T19:00:00",
-        "end": "2026-09-21T20:00:00",
-        "description": "Parent meetings for the 8th grade DC trip will be held at the TMS Cafe on three dates: **Monday, September 21 at 7pm**, **Thursday, September 24 at 7pm**, and **Tuesday, September 29 at 7pm**. Informa",
-        "location": "TMS Cafe"
-      },
-      {
-        "title": "8th Grade DC Trip Parent Meeting",
-        "start": "2026-09-24T19:00:00",
-        "end": "2026-09-24T20:00:00",
-        "description": "Parent meetings for the 8th grade DC trip will be held at the TMS Cafe on three dates: **Monday, September 21 at 7pm**, **Thursday, September 24 at 7pm**, and **Tuesday, September 29 at 7pm**. Informa",
-        "location": "TMS Cafe"
-      },
-      {
-        "title": "8th Grade DC Trip Parent Meeting",
-        "start": "2026-09-29T19:00:00",
-        "end": "2026-09-29T20:00:00",
-        "description": "Parent meetings for the 8th grade DC trip will be held at the TMS Cafe on three dates: **Monday, September 21 at 7pm**, **Thursday, September 24 at 7pm**, and **Tuesday, September 29 at 7pm**. Informa",
-        "location": "TMS Cafe"
       }
     ]
   },
@@ -394,6 +394,29 @@
     ]
   },
   {
+    "title": "E-News Flyers Moved to Peach Jar",
+    "block_id": "b5knk25h6x-b1a6acqupi",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/erat3-september-is-here?ref=email",
+    "source_title": "September is Here! | Smore Newsletters for Education",
+    "date": "2026-09-04T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PEACH \n\nJAR! PEACH JAR!",
+        "id": "b5knk25h6x"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Notice that the e-news looks different? All of the flyers we used to include have all been moved to PEACH JAR. Please use the link below to help you gain access to see all of the flyers for school and community events.LINKS to TSD's Peachjar Digital Flyer Solution-Peachjar Flyers Page",
+        "id": "b1a6acqupi"
+      }
+    ],
+    "hash": "b5knk25h6x-b1a6acqupi",
+    "summary": "The e-newsletter format has changed - **all school and community event flyers have been moved to Peach Jar**. Access the flyers through the [TSD's Peachjar Digital Flyer Solution](https://www.peachjar.com/) link. Flyers that were previously included directly in the e-news will now only be available through Peach Jar."
+  },
+  {
     "title": "Little Aggies First Meeting for Middle Schoolers",
     "block_id": "baa1oatbxc-bg8w11oxar",
     "content": "",
@@ -424,29 +447,6 @@
         "location": "Room 301"
       }
     ]
-  },
-  {
-    "title": "E-News Flyers Moved to Peach Jar",
-    "block_id": "b5knk25h6x-b1a6acqupi",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/erat3-september-is-here?ref=email",
-    "source_title": "September is Here! | Smore Newsletters for Education",
-    "date": "2026-09-04T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PEACH \n\nJAR! PEACH JAR!",
-        "id": "b5knk25h6x"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Notice that the e-news looks different? All of the flyers we used to include have all been moved to PEACH JAR. Please use the link below to help you gain access to see all of the flyers for school and community events.LINKS to TSD's Peachjar Digital Flyer Solution-Peachjar Flyers Page",
-        "id": "b1a6acqupi"
-      }
-    ],
-    "hash": "b5knk25h6x-b1a6acqupi",
-    "summary": "The e-newsletter format has changed - **all school and community event flyers have been moved to Peach Jar**. Access the flyers through the [TSD's Peachjar Digital Flyer Solution](https://www.peachjar.com/) link. Flyers that were previously included directly in the e-news will now only be available through Peach Jar."
   },
   {
     "title": "Mountain Bike Club Meetings and Activities",
