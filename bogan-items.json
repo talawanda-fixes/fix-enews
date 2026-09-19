@@ -82,6 +82,31 @@
     "summary": "Students should **stay home** if they have: fever of 100°F or higher, vomiting or diarrhea within 24 hours, undiagnosed rash with fever, active head lice, sore throat with fever/swollen glands/strep, eye infection with discharge, severe respiratory illness, or feel too sick to participate. Students can **return when**: fever-free for 24 hours without medicine, vomiting resolved overnight and can hold down food, diarrhea improved to no more than 2 accidents per 24 hours, rash cleared by doctor, lice treatment completed, 12-24 hours after antibiotics (for strep/eye infection), or respiratory symptoms improving for 24 hours and fever-free. **Stay healthy** by washing hands, covering coughs, and being kind."
   },
   {
+    "title": "Peachjar Digital Flyer Service Introduction",
+    "block_id": "bwk8x8y5ub-bupxh9h4hd",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/4641/c3f314da6321871983cdeab978dbcac4.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/y12ne-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-09-11T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Around \n\nTalawanda Around Talawanda",
+        "id": "bwk8x8y5ub"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/4641/c3f314da6321871983cdeab978dbcac4.jpeg",
+        "id": "bupxh9h4hd"
+      }
+    ],
+    "hash": "bwk8x8y5ub-bupxh9h4hd",
+    "summary": "Talawanda School District now uses **Peachjar**, a digital flyer delivery service, to share information with families about educational, athletic, cultural, and community opportunities. Families can click the image to access TSD and community flyers through this new platform."
+  },
+  {
     "title": "Bogan PTG Events and Fundraisers",
     "block_id": "bpx42aowpj-bh8qc4w12s-bto8crem3z-b9x4odiux2",
     "content": "",
@@ -175,31 +200,6 @@
         "location": "Chipotle"
       }
     ]
-  },
-  {
-    "title": "Peachjar Digital Flyer Service Introduction",
-    "block_id": "bwk8x8y5ub-bupxh9h4hd",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/4641/c3f314da6321871983cdeab978dbcac4.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/y12ne-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-09-11T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Around \n\nTalawanda Around Talawanda",
-        "id": "bwk8x8y5ub"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/4641/c3f314da6321871983cdeab978dbcac4.jpeg",
-        "id": "bupxh9h4hd"
-      }
-    ],
-    "hash": "bwk8x8y5ub-bupxh9h4hd",
-    "summary": "Talawanda School District now uses **Peachjar**, a digital flyer delivery service, to share information with families about educational, athletic, cultural, and community opportunities. Families can click the image to access TSD and community flyers through this new platform."
   },
   {
     "title": "School Social Worker Introduction and Services",
