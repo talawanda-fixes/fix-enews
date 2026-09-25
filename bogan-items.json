@@ -148,29 +148,6 @@
     ]
   },
   {
-    "title": "September is Attendance Awareness Month",
-    "block_id": "bjqvo7kz71-bfmqdkhp7i",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/y12ne-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-09-11T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Around \n\nBogan Around Bogan",
-        "id": "bjqvo7kz71"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "September is Attendance Awareness Month! Student attendance is crucial to your student's success here at school.The state of Ohio defines chronic absenteeism as a student being absent for 10% of the year for both unexcused AND excused. In addition, the state looks at hours that a student has missed school- not just days. This mean that tardies in the morning and early dismissals in the afternoon contribute to chronic absenteeism.If your family has a fun trip planned, we absolutely encourage you to go and make those memories!! Please just be mindful of other days that your student is absent.We will send monthly letters home if your child has reached 10% or more absences. This is a way for us to proactively share information with you about your child's attendance.Please know that we are here to help!! Do not hesitate reach out if you have any questions or need assistance!",
-        "id": "bfmqdkhp7i"
-      }
-    ],
-    "hash": "bjqvo7kz71-bfmqdkhp7i",
-    "summary": "**September is Attendance Awareness Month** at Talawanda High School. Ohio defines chronic absenteeism as missing 10% or more of the year (both excused and unexcused absences), and this includes hours missed from tardies and early dismissals, not just full days. Families will receive monthly letters if their child reaches 10% or more absences, and the school encourages families to reach out if they need assistance with attendance issues."
-  },
-  {
     "title": "School Health Guidelines: When to Stay Home",
     "block_id": "bfk3x3z2v4-b27mhl6bz5",
     "content": "",
@@ -219,6 +196,29 @@
     ],
     "hash": "bwk8x8y5ub-bupxh9h4hd",
     "summary": "Talawanda School District now uses **Peachjar**, a digital flyer delivery service, to share information with families about educational, athletic, cultural, and community opportunities. Families can click the image to access TSD and community flyers through this new platform."
+  },
+  {
+    "title": "September is Attendance Awareness Month",
+    "block_id": "bjqvo7kz71-bfmqdkhp7i",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/y12ne-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-09-11T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Around \n\nBogan Around Bogan",
+        "id": "bjqvo7kz71"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "September is Attendance Awareness Month! Student attendance is crucial to your student's success here at school.The state of Ohio defines chronic absenteeism as a student being absent for 10% of the year for both unexcused AND excused. In addition, the state looks at hours that a student has missed school- not just days. This mean that tardies in the morning and early dismissals in the afternoon contribute to chronic absenteeism.If your family has a fun trip planned, we absolutely encourage you to go and make those memories!! Please just be mindful of other days that your student is absent.We will send monthly letters home if your child has reached 10% or more absences. This is a way for us to proactively share information with you about your child's attendance.Please know that we are here to help!! Do not hesitate reach out if you have any questions or need assistance!",
+        "id": "bfmqdkhp7i"
+      }
+    ],
+    "hash": "bjqvo7kz71-bfmqdkhp7i",
+    "summary": "**September is Attendance Awareness Month** at Talawanda High School. Ohio defines chronic absenteeism as missing 10% or more of the year (both excused and unexcused absences), and this includes hours missed from tardies and early dismissals, not just full days. Families will receive monthly letters if their child reaches 10% or more absences, and the school encourages families to reach out if they need assistance with attendance issues."
   },
   {
     "title": "Bogan PTG Events and Fundraisers",
@@ -341,6 +341,31 @@
     "summary": "Mrs. Emily is the School Social Worker for the 2026-2027 school year. She provides **student support** for mental health needs and additional support options, **resource guidance** including food/hygiene support, clothing, rent/utilities assistance, and holiday assistance, and **food support** through a Little FREE Pantry outside Bogan, weekly Power Packs, family food boxes, and donations. Contact her at whitee@talawanda.org or 513-273-3403."
   },
   {
+    "title": "September 2026 Breakfast Menu Available",
+    "block_id": "bfr77vevhd-byjfy5ixy6",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/d49c/b6f4ab9bce2c239ff464430303806565.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/bcwm1-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-09-04T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "September Menus Here are the breakfast and lunch menus for September!",
+        "id": "bfr77vevhd"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/d49c/b6f4ab9bce2c239ff464430303806565.jpeg",
+        "id": "byjfy5ixy6"
+      }
+    ],
+    "hash": "bfr77vevhd-byjfy5ixy6",
+    "summary": "The **September 2026 breakfast menu** for Bogan Elementary is now available. The menu includes a rotating selection of items throughout the month such as Mini Chocolate Chip French Toast, Stuffed Hash Brown, Glazed Donuts, Sausage & Cheese Biscuit Sandwiches, Mini Pancake Sausage Wraps, Cinnamon Buns, Egg & Cheese options, Apple Cinnamon Swirl Texas Toast, Biscuits & Sausage Gravy, Mini Powdered Donuts, Cinnamon French Toast Sticks, Breakfast Pizza, and Glazed Donut Pull-Apart. **100% fruit juice, fresh fruit, and milk are included with every breakfast.** No school on September 8th and 18th (Labor Day on September 7th)."
+  },
+  {
     "title": "PAX Good Behavior Game Calendar",
     "block_id": "berhllupn2-bbyw57cizv-bbwiju01hj",
     "content": "",
@@ -385,31 +410,6 @@
         "location": "Talawanda High School"
       }
     ]
-  },
-  {
-    "title": "September 2026 Breakfast Menu Available",
-    "block_id": "bfr77vevhd-byjfy5ixy6",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/d49c/b6f4ab9bce2c239ff464430303806565.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/bcwm1-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-09-04T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "September Menus Here are the breakfast and lunch menus for September!",
-        "id": "bfr77vevhd"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/d49c/b6f4ab9bce2c239ff464430303806565.jpeg",
-        "id": "byjfy5ixy6"
-      }
-    ],
-    "hash": "bfr77vevhd-byjfy5ixy6",
-    "summary": "The **September 2026 breakfast menu** for Bogan Elementary is now available. The menu includes a rotating selection of items throughout the month such as Mini Chocolate Chip French Toast, Stuffed Hash Brown, Glazed Donuts, Sausage & Cheese Biscuit Sandwiches, Mini Pancake Sausage Wraps, Cinnamon Buns, Egg & Cheese options, Apple Cinnamon Swirl Texas Toast, Biscuits & Sausage Gravy, Mini Powdered Donuts, Cinnamon French Toast Sticks, Breakfast Pizza, and Glazed Donut Pull-Apart. **100% fruit juice, fresh fruit, and milk are included with every breakfast.** No school on September 8th and 18th (Labor Day on September 7th)."
   },
   {
     "title": "Unplug and Play Playground Event",
