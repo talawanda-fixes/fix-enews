@@ -1,5 +1,98 @@
 [
   {
+    "title": "Football Dine to Donate at Chipotle",
+    "block_id": "bdsclmxr2y",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/gv8qa",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-09-25T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "Talawanda Football Hosting Dine to Donate Talawanda Football is hosting a \"Dine to Donate\" event at Chipotle on Monday, September 28 at the the westside Hamilton location - 1455 Main St. - from 5-9 pm. They will donate 25% of your purchase back to the team, all you have to do is mention that you are there to support Talawanda football. You can order online as well, just be sure to enter the code (DQNJVMX)​. Thank you for your support!",
+        "id": "bdsclmxr2y"
+      }
+    ],
+    "hash": "bdsclmxr2y",
+    "summary": "**Talawanda Football Dine to Donate** fundraiser at **Chipotle** (1455 Main St., Hamilton westside location) on **Monday, September 28, 5-9 PM**. Chipotle will donate **25% of your purchase** to the team—mention you're supporting Talawanda football when ordering. For online orders, use code **DQNJVMX**.",
+    "event_info": [
+      {
+        "title": "Talawanda Football Dine to Donate at Chipotle",
+        "start": "2026-09-28T17:00:00",
+        "end": "2026-09-28T21:00:00",
+        "description": "**Talawanda Football Dine to Donate** fundraiser at **Chipotle** (1455 Main St., Hamilton westside location) on **Monday, September 28, 5-9 PM**. Chipotle will donate **25% of your purchase** to the t",
+        "location": "Chipotle, 1455 Main St., Hamilton"
+      }
+    ]
+  },
+  {
+    "title": "London and Paris Trip Summer 2028",
+    "block_id": "bwrbl26t27",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/gv8qa",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-09-25T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "zoom_out_map Paris and London We’re thrilled to announce our London & Paris trip in Summer of 2028! This life-changing experience will help students build confidence, independence, and global perspective.An enrollment meeting will be held on September 29 at 6:30 in Room 611 to share everything you need to know. If 50 families RSVP, we will hold a raffle for $500 off! Find meeting info and RSVP here: https://rsvp.eftours.com/ffp4y6kWhy attend?- Learn how to save $250 with early enrollment.- Get first access to limited spots.- Learn about what we’ll see and do, trip cost, and more.Click here to RSVP!",
+        "id": "bwrbl26t27"
+      }
+    ],
+    "hash": "bwrbl26t27",
+    "summary": "A **London & Paris trip** is planned for **Summer 2028** to help students build confidence, independence, and global perspective. An **enrollment meeting** will be held on **September 29 at 6:30 PM in Room 611** to cover trip details, costs, and what students will see and do. If 50 families RSVP, there will be a **raffle for $500 off**, and early enrollment saves $250. [RSVP here](https://rsvp.eftours.com/ffp4y6k)",
+    "event_info": [
+      {
+        "title": "London & Paris Trip Enrollment Meeting",
+        "start": "2026-09-29T18:30:00",
+        "end": "2026-09-29T19:30:00",
+        "description": "A **London & Paris trip** is planned for **Summer 2028** to help students build confidence, independence, and global perspective. An **enrollment meeting** will be held on **September 29 at 6:30 PM in",
+        "location": "Room 611"
+      }
+    ]
+  },
+  {
+    "title": "FCCLA Trunk or Treat Event",
+    "block_id": "b7m3vxbalc-binllu1fza-bg6x3pxlio",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/2575/285bee19e56787f3dfd3ebf17eb68d8b.png"
+    ],
+    "source_url": "https://app.smore.com/n/gv8qa",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-09-25T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "TRUNK \n\nOR \n\nTREAT TRUNK OR TREAT",
+        "id": "b7m3vxbalc"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "FCCLA is hosting their annual  Trunk or Treat  on October 27th from 6:00-7:30 PM. If you would like to host a trunk, please RSVP at this link.",
+        "id": "binllu1fza"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/2575/285bee19e56787f3dfd3ebf17eb68d8b.png",
+        "id": "bg6x3pxlio"
+      }
+    ],
+    "hash": "b7m3vxbalc-binllu1fza-bg6x3pxlio",
+    "summary": "**FCCLA is hosting their annual Trunk or Treat** on **Tuesday, October 27th from 6:00-7:30 PM** at Talawanda High School. If you would like to sponsor a trunk, you can [RSVP here](link provided via QR code). The event is sponsored by Talawanda/Butler Tech FCCLA.",
+    "event_info": [
+      {
+        "title": "FCCLA Trunk or Treat",
+        "start": "2026-10-27T18:00:00",
+        "end": "2026-10-27T19:30:00",
+        "description": "**FCCLA is hosting their annual Trunk or Treat** on **Tuesday, October 27th from 6:00-7:30 PM** at Talawanda High School. If you would like to sponsor a trunk, you can [RSVP here](link provided via QR",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
     "title": "Scholarship Opportunities for Seniors Available",
     "block_id": "b579oy2ax9",
     "content": "",
@@ -620,118 +713,5 @@
     ],
     "hash": "bt9jp4t7lv",
     "summary": "This item appears to be a header or placeholder for weekly athletics updates but contains no specific information, events, schedules, or announcements at this time."
-  },
-  {
-    "title": "Weekly Calendar - Picture Day August 25th",
-    "block_id": "b1oohprvfy-bw-7813877137",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/qdjhs",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-08-21T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Weekly \n\nCalendar Weekly Calendar",
-        "id": "b1oohprvfy"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Tuesday, August 25th - Picture Day",
-        "id": "bw-7813877137"
-      }
-    ],
-    "hash": "b1oohprvfy-bw-7813877137",
-    "summary": "**Picture Day** is scheduled for **Tuesday, August 25th**. Students should be prepared for school photos on this date.",
-    "event_info": [
-      {
-        "title": "Picture Day",
-        "start": "2026-08-25T00:00:00",
-        "end": "2026-08-25T23:59:00",
-        "description": "**Picture Day** is scheduled for **Tuesday, August 25th**. Students should be prepared for school photos on this date.",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Graduation Timeline and Important Dates",
-    "block_id": "biojhqcghn-b6j9os3an5",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/9ede/f7e7fac4dafea9446c31023ac97dfc85.png"
-    ],
-    "source_url": "https://app.smore.com/n/29056",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-05-15T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "GRADUATION \n\nTIMELINE\n\nGRADUATION TIMELINE",
-        "id": "biojhqcghn"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/9ede/f7e7fac4dafea9446c31023ac97dfc85.png",
-        "id": "b6j9os3an5"
-      }
-    ],
-    "hash": "biojhqcghn-b6j9os3an5",
-    "summary": "The **Graduation Rehearsal is May 21st at 11:00 AM** at Talawanda High School. Students must bring their Cap, Gown, and Tassel to rehearsal or they cannot participate in commencement. **Commencement begins promptly at 6:30 PM** at The Marvin Wilhelm Athletic Complex at Talawanda HS (graduates must arrive by 5:30 PM). After the ceremony, students return gowns when picking up diplomas; **all gowns are rentals and must be returned after the ceremony**. Diplomas not received on May 21st can be picked up May 27th, 8:00 AM-2:00 PM in the Main Office.",
-    "event_info": [
-      {
-        "title": "Graduation Rehearsal",
-        "start": "2026-05-21T11:00:00",
-        "end": "2026-05-21T12:00:00",
-        "description": "The **Graduation Rehearsal is May 21st at 11:00 AM** at Talawanda High School. Students must bring their Cap, Gown, and Tassel to rehearsal or they cannot participate in commencement. **Commencement b",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Commencement Ceremony",
-        "start": "2026-05-21T18:30:00",
-        "end": "2026-05-21T19:30:00",
-        "description": "The **Graduation Rehearsal is May 21st at 11:00 AM** at Talawanda High School. Students must bring their Cap, Gown, and Tassel to rehearsal or they cannot participate in commencement. **Commencement b",
-        "location": "The Marvin Wilhelm Athletic Complex at Talawanda HS"
-      }
-    ]
-  },
-  {
-    "title": "Lifetouch Graduation Photos Pre-Order Information",
-    "block_id": "b5qypvr1vt-bfykk5jt0o-bff47fq231",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/956e/ff3b4e6789a7986187ac6388cadaf63e.png",
-      "https://cdn.smore.com/u/cf1d/29d14ea43379b5ebebd5be6526647098.png"
-    ],
-    "source_url": "https://app.smore.com/n/29056",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-05-15T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "LIFETOUCH \n\nGRADUATION \n\nPHOTOS\n\nLIFETOUCH GRADUATION PHOTOS",
-        "id": "b5qypvr1vt"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/956e/ff3b4e6789a7986187ac6388cadaf63e.png",
-        "id": "bfykk5jt0o"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/cf1d/29d14ea43379b5ebebd5be6526647098.png",
-        "id": "bff47fq231"
-      }
-    ],
-    "hash": "b5qypvr1vt-bfykk5jt0o-bff47fq231",
-    "summary": "The **graduation ceremony is scheduled for May 21, 2026**. Students can **pre-order an optional AdvancePay credit** for free shipping on photo orders of $35+ after the event. Once event images are ready (allow 2-3 business days for processing), students will receive a text notification. To get started, text **50728GY26 to 90738** or visit **https://my.photoday.com/g** and enter your phone number followed by your access code.",
-    "event_info": [
-      {
-        "title": "Graduation Ceremony",
-        "start": "2026-05-21T00:00:00",
-        "end": "2026-05-21T01:00:00",
-        "description": "The **graduation ceremony is scheduled for May 21, 2026**. Students can **pre-order an optional AdvancePay credit** for free shipping on photo orders of $35+ after the event. Once event images are rea",
-        "location": "Talawanda High School"
-      }
-    ]
   }
 ]
