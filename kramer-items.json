@@ -486,6 +486,29 @@
     ]
   },
   {
+    "title": "Kids' Baking Competition at Kramer Carnival",
+    "block_id": "bl3h7nqjcr-bwjraempvm-byqg42uyyt",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/afrdup",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-09-18T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Kids' \n\nBaking \n\nCompetition \n\nat \n\nKramer \n\nCarnival  Kids' Baking Competition at Kramer Carnival",
+        "id": "bl3h7nqjcr"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Love to bake or decorate? Show your skills and help raise money for Kramer Elementary School by entering our Kid's Baking Competition! Fill out this entry to let us know you are planning to participate! Link to participate here.",
+        "id": "bwjraempvm"
+      }
+    ],
+    "hash": "bl3h7nqjcr-bwjraempvm-byqg42uyyt",
+    "summary": "Students who love to bake or decorate can enter the **Kids' Baking Competition** at the Kramer Carnival to showcase their skills and help raise money for **Kramer Elementary School**. Interested participants should [fill out an entry form](link) to register for the competition."
+  },
+  {
     "title": "No School Friday and Dolly Day Reminder",
     "block_id": "b5j2tt6xtv-bmwlkrdosf",
     "content": "",
@@ -621,29 +644,6 @@
         "location": "Student classrooms"
       }
     ]
-  },
-  {
-    "title": "Kids' Baking Competition at Kramer Carnival",
-    "block_id": "bl3h7nqjcr-bwjraempvm-byqg42uyyt",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/afrdup",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-09-18T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Kids' \n\nBaking \n\nCompetition \n\nat \n\nKramer \n\nCarnival  Kids' Baking Competition at Kramer Carnival",
-        "id": "bl3h7nqjcr"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Love to bake or decorate? Show your skills and help raise money for Kramer Elementary School by entering our Kid's Baking Competition! Fill out this entry to let us know you are planning to participate! Link to participate here.",
-        "id": "bwjraempvm"
-      }
-    ],
-    "hash": "bl3h7nqjcr-bwjraempvm-byqg42uyyt",
-    "summary": "Students who love to bake or decorate can enter the **Kids' Baking Competition** at the Kramer Carnival to showcase their skills and help raise money for **Kramer Elementary School**. Interested participants should [fill out an entry form](link) to register for the competition."
   },
   {
     "title": "Conference Meal Sign-Up for Parent-Teacher Conferences",

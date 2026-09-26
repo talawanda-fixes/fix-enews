@@ -251,40 +251,6 @@
     "summary": "Juniors and seniors can sign up for a **mentorship program with Miami University college students** who will visit during Tutorial Period every other Friday. Mentors can answer questions about college majors, life after high school, and the application process. Interested students should fill out the **[Mentorship Interest Form](hopeandafutureclub@gmail.com)** or email hopeandafutureclub@gmail.com with questions."
   },
   {
-    "title": "Quarter 1 Parent-Teacher Conference Night",
-    "block_id": "bq1n9695nh-bka02buaum",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/7386/002acb43e8489fedfef7ec9d9d8654d6.png"
-    ],
-    "source_url": "https://app.smore.com/n/9qeum",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-09-04T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Conferences Conferences",
-        "id": "bq1n9695nh"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/7386/002acb43e8489fedfef7ec9d9d8654d6.png",
-        "id": "bka02buaum"
-      }
-    ],
-    "hash": "bq1n9695nh-bka02buaum",
-    "summary": "**Quarter 1 Conference Night** is scheduled for **September 24** from **3:15 PM to 7:00 PM** at Talawanda High School. Parents should email Mrs. Sens at **sensm@talawanda.org** to schedule a conference appointment.",
-    "event_info": [
-      {
-        "title": "Quarter 1 Conference Night",
-        "start": "2026-09-24T15:15:00",
-        "end": "2026-09-24T19:00:00",
-        "description": "**Quarter 1 Conference Night** is scheduled for **September 24** from **3:15 PM to 7:00 PM** at Talawanda High School. Parents should email Mrs. Sens at **sensm@talawanda.org** to schedule a conferenc",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
     "title": "FCCLA Costa Rica Trip Opportunity",
     "block_id": "br7o2hhsgv-bylat3ndgu",
     "content": "",
@@ -329,6 +295,40 @@
     ],
     "hash": "b2vm14dwnz-b9f7soitkm",
     "summary": "Talawanda School District uses **Peachjar** as its digital flyer distribution system. Access all community and school flyers through the [Peachjar Flyers Page](https://www.peachjar.com/flyers/all/schools/67890)."
+  },
+  {
+    "title": "Quarter 1 Parent-Teacher Conference Night",
+    "block_id": "bq1n9695nh-bka02buaum",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/7386/002acb43e8489fedfef7ec9d9d8654d6.png"
+    ],
+    "source_url": "https://app.smore.com/n/9qeum",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-09-04T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Conferences Conferences",
+        "id": "bq1n9695nh"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/7386/002acb43e8489fedfef7ec9d9d8654d6.png",
+        "id": "bka02buaum"
+      }
+    ],
+    "hash": "bq1n9695nh-bka02buaum",
+    "summary": "**Quarter 1 Conference Night** is scheduled for **September 24** from **3:15 PM to 7:00 PM** at Talawanda High School. Parents should email Mrs. Sens at **sensm@talawanda.org** to schedule a conference appointment.",
+    "event_info": [
+      {
+        "title": "Quarter 1 Conference Night",
+        "start": "2026-09-24T15:15:00",
+        "end": "2026-09-24T19:00:00",
+        "description": "**Quarter 1 Conference Night** is scheduled for **September 24** from **3:15 PM to 7:00 PM** at Talawanda High School. Parents should email Mrs. Sens at **sensm@talawanda.org** to schedule a conferenc",
+        "location": "Talawanda High School"
+      }
+    ]
   },
   {
     "title": "Yearbook Sales and Senior Portrait Deadline",

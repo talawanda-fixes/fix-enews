@@ -335,79 +335,6 @@
     ]
   },
   {
-    "title": "Picture Day Information and Reminders",
-    "block_id": "bh9mmwk9fi-bhod5yfqb8",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/00b1/f69ca4406e13bbc60d25568e3249bd2d.png"
-    ],
-    "source_url": "https://app.smore.com/n/u63xy1",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-09-04T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "IMPORTANT \n\nUPDATES \n\n& \n\nREMINDERS IMPORTANT UPDATES & REMINDERS",
-        "id": "bh9mmwk9fi"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/00b1/f69ca4406e13bbc60d25568e3249bd2d.png",
-        "id": "bhod5yfqb8"
-      }
-    ],
-    "hash": "bh9mmwk9fi-bhod5yfqb8",
-    "summary": "**Picture Day is Wednesday, September 23, 2026** at Maude Marshall Elementary School. Order online at **mylifetouch.com** using Picture Day ID **EVTVTTF7C** before midnight on Picture Day for FREE shipping. Students can also bring completed flyers with cash or check on Picture Day, with orders placed online after Picture Day subject to shipping fees.",
-    "event_info": [
-      {
-        "title": "Picture Day at Maude Marshall Elementary",
-        "start": "2026-09-23T00:00:00",
-        "end": "2026-09-23T01:00:00",
-        "description": "**Picture Day is Wednesday, September 23, 2026** at Maude Marshall Elementary School. Order online at **mylifetouch.com** using Picture Day ID **EVTVTTF7C** before midnight on Picture Day for FREE shi",
-        "location": "Maude Marshall Elementary School"
-      }
-    ]
-  },
-  {
-    "title": "Dental Van Visit - October 12th",
-    "block_id": "bomk6tbtpd-bm6k3gvnrb-bs401aswgs",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/1f00/1b3744a5c0ba0c4806653a619c51275c.png"
-    ],
-    "source_url": "https://app.smore.com/n/u63xy1",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-09-04T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "NOTES \n\nFROM \n\nOUR \n\nSOCIAL \n\nWORKER NOTES FROM OUR SOCIAL WORKER",
-        "id": "bomk6tbtpd"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/1f00/1b3744a5c0ba0c4806653a619c51275c.png",
-        "id": "bm6k3gvnrb"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "🔗: https://phs.jotform.com/form/252455535246055",
-        "id": "bs401aswgs"
-      }
-    ],
-    "hash": "bomk6tbtpd-bm6k3gvnrb-bs401aswgs",
-    "summary": "A **Dental Van** will visit the school on **Monday, October 12th, 2026** during school hours to provide dental services to students. Parents/guardians must complete consent forms at **https://phs.jotform.com/form/252455535246055**. For questions, contact Social Worker Chrissy Rolfes.",
-    "event_info": [
-      {
-        "title": "Dental Van Visit",
-        "start": "2026-10-12T00:00:00",
-        "end": "2026-10-12T23:59:00",
-        "description": "A **Dental Van** will visit the school on **Monday, October 12th, 2026** during school hours to provide dental services to students. Parents/guardians must complete consent forms at **https://phs.jotf",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
     "title": "Marshall Elementary September 2026 Menus",
     "block_id": "b6sz32hq6u-bm2arnla6j-bg6vyodw2b",
     "content": "",
@@ -483,6 +410,79 @@
     ],
     "hash": "bidm12oeju-bz3f64i2zv-b9vouro3as",
     "summary": "Talawanda School District now uses **Peachjar**, a digital flyer delivery service, to share information about educational, athletic, cultural, and community opportunities with families. This paperless system delivers flyers electronically and provides convenient access to current community information. **Families will receive a weekly email** with flyers."
+  },
+  {
+    "title": "Picture Day Information and Reminders",
+    "block_id": "bh9mmwk9fi-bhod5yfqb8",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/00b1/f69ca4406e13bbc60d25568e3249bd2d.png"
+    ],
+    "source_url": "https://app.smore.com/n/u63xy1",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-09-04T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "IMPORTANT \n\nUPDATES \n\n& \n\nREMINDERS IMPORTANT UPDATES & REMINDERS",
+        "id": "bh9mmwk9fi"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/00b1/f69ca4406e13bbc60d25568e3249bd2d.png",
+        "id": "bhod5yfqb8"
+      }
+    ],
+    "hash": "bh9mmwk9fi-bhod5yfqb8",
+    "summary": "**Picture Day is Wednesday, September 23, 2026** at Maude Marshall Elementary School. Order online at **mylifetouch.com** using Picture Day ID **EVTVTTF7C** before midnight on Picture Day for FREE shipping. Students can also bring completed flyers with cash or check on Picture Day, with orders placed online after Picture Day subject to shipping fees.",
+    "event_info": [
+      {
+        "title": "Picture Day at Maude Marshall Elementary",
+        "start": "2026-09-23T00:00:00",
+        "end": "2026-09-23T01:00:00",
+        "description": "**Picture Day is Wednesday, September 23, 2026** at Maude Marshall Elementary School. Order online at **mylifetouch.com** using Picture Day ID **EVTVTTF7C** before midnight on Picture Day for FREE shi",
+        "location": "Maude Marshall Elementary School"
+      }
+    ]
+  },
+  {
+    "title": "Dental Van Visit - October 12th",
+    "block_id": "bomk6tbtpd-bm6k3gvnrb-bs401aswgs",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/1f00/1b3744a5c0ba0c4806653a619c51275c.png"
+    ],
+    "source_url": "https://app.smore.com/n/u63xy1",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-09-04T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "NOTES \n\nFROM \n\nOUR \n\nSOCIAL \n\nWORKER NOTES FROM OUR SOCIAL WORKER",
+        "id": "bomk6tbtpd"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/1f00/1b3744a5c0ba0c4806653a619c51275c.png",
+        "id": "bm6k3gvnrb"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "🔗: https://phs.jotform.com/form/252455535246055",
+        "id": "bs401aswgs"
+      }
+    ],
+    "hash": "bomk6tbtpd-bm6k3gvnrb-bs401aswgs",
+    "summary": "A **Dental Van** will visit the school on **Monday, October 12th, 2026** during school hours to provide dental services to students. Parents/guardians must complete consent forms at **https://phs.jotform.com/form/252455535246055**. For questions, contact Social Worker Chrissy Rolfes.",
+    "event_info": [
+      {
+        "title": "Dental Van Visit",
+        "start": "2026-10-12T00:00:00",
+        "end": "2026-10-12T23:59:00",
+        "description": "A **Dental Van** will visit the school on **Monday, October 12th, 2026** during school hours to provide dental services to students. Parents/guardians must complete consent forms at **https://phs.jotf",
+        "location": "Talawanda High School"
+      }
+    ]
   },
   {
     "title": "Weekly Update and Long Weekend Reminder",
