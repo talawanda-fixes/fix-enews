@@ -1,5 +1,153 @@
 [
   {
+    "title": "Club Meetings for October 5-9",
+    "block_id": "bv0ung9ptn-bghptfzqhm-b171gj9tpc",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/u8bmq",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-10-02T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Club \n\nMeetings Club Meetings",
+        "id": "bv0ung9ptn"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Monday, October 5th2:30 pm - 4:00 pm - Robotics Club, room 412 - all interested students are welcome!2:30 pm - Setting Stone, room 3202:30 pm - 3:15 pm - Tribune, room 315Tuesday, October 6th2:30 pm - 3:15 pm - Art Club, room 6032:30 pm - 3:15 pm - Diversity Club, Kofenya Coffee Shop uptown - free coffee!5:00 pm - 7:00 pm - Mock Trial, room 315 - practiceWednesday, October 7th2:30 pm - 4:00 pm - Robotics Club, room 412 - all interested students are welcome!Thursday, October 8th5:00 pm - 7:00 pm - Mock Trial, room 315 2:30 pm - Best Buddies - Volleyball game at Edgewood - sign up on Google ClassroomFriday, October 9th9:30 am - Best Buddies - Meeting, room 3162:30 pm - 3:30 pm - Project Green, room 224 - all are welcome!",
+        "id": "bghptfzqhm"
+      },
+      {
+        "type": "items",
+        "content": "zoom_out_map",
+        "id": "b171gj9tpc"
+      }
+    ],
+    "hash": "bv0ung9ptn-bghptfzqhm-b171gj9tpc",
+    "summary": "Multiple club meetings scheduled for the week of October 5-9. **Robotics Club** meets Monday and Wednesday 2:30-4:00 PM in room 412. **Diversity Club** meets Tuesday at Kofenya Coffee Shop uptown with free coffee. Other clubs meeting include Setting Stone, Tribune, Art Club, Mock Trial, Best Buddies, and Project Green. See schedule for specific times and locations.",
+    "event_info": [
+      {
+        "title": "Robotics Club Meeting",
+        "start": "2026-10-05T14:30:00",
+        "end": "2026-10-05T16:00:00",
+        "description": "Multiple club meetings scheduled for the week of October 5-9. **Robotics Club** meets Monday and Wednesday 2:30-4:00 PM in room 412. **Diversity Club** meets Tuesday at Kofenya Coffee Shop uptown with",
+        "location": "Room 412, Talawanda High School"
+      },
+      {
+        "title": "Setting Stone Meeting",
+        "start": "2026-10-05T14:30:00",
+        "end": "2026-10-05T15:30:00",
+        "description": "Multiple club meetings scheduled for the week of October 5-9. **Robotics Club** meets Monday and Wednesday 2:30-4:00 PM in room 412. **Diversity Club** meets Tuesday at Kofenya Coffee Shop uptown with",
+        "location": "Room 320, Talawanda High School"
+      },
+      {
+        "title": "Tribune Meeting",
+        "start": "2026-10-05T14:30:00",
+        "end": "2026-10-05T15:15:00",
+        "description": "Multiple club meetings scheduled for the week of October 5-9. **Robotics Club** meets Monday and Wednesday 2:30-4:00 PM in room 412. **Diversity Club** meets Tuesday at Kofenya Coffee Shop uptown with",
+        "location": "Room 315, Talawanda High School"
+      },
+      {
+        "title": "Art Club Meeting",
+        "start": "2026-10-06T14:30:00",
+        "end": "2026-10-06T15:15:00",
+        "description": "Multiple club meetings scheduled for the week of October 5-9. **Robotics Club** meets Monday and Wednesday 2:30-4:00 PM in room 412. **Diversity Club** meets Tuesday at Kofenya Coffee Shop uptown with",
+        "location": "Room 603, Talawanda High School"
+      },
+      {
+        "title": "Diversity Club Meeting",
+        "start": "2026-10-06T14:30:00",
+        "end": "2026-10-06T15:15:00",
+        "description": "Multiple club meetings scheduled for the week of October 5-9. **Robotics Club** meets Monday and Wednesday 2:30-4:00 PM in room 412. **Diversity Club** meets Tuesday at Kofenya Coffee Shop uptown with",
+        "location": "Kofenya Coffee Shop uptown"
+      },
+      {
+        "title": "Mock Trial Practice",
+        "start": "2026-10-06T17:00:00",
+        "end": "2026-10-06T19:00:00",
+        "description": "Multiple club meetings scheduled for the week of October 5-9. **Robotics Club** meets Monday and Wednesday 2:30-4:00 PM in room 412. **Diversity Club** meets Tuesday at Kofenya Coffee Shop uptown with",
+        "location": "Room 315, Talawanda High School"
+      },
+      {
+        "title": "Robotics Club Meeting",
+        "start": "2026-10-07T14:30:00",
+        "end": "2026-10-07T16:00:00",
+        "description": "Multiple club meetings scheduled for the week of October 5-9. **Robotics Club** meets Monday and Wednesday 2:30-4:00 PM in room 412. **Diversity Club** meets Tuesday at Kofenya Coffee Shop uptown with",
+        "location": "Room 412, Talawanda High School"
+      },
+      {
+        "title": "Mock Trial Practice",
+        "start": "2026-10-08T17:00:00",
+        "end": "2026-10-08T19:00:00",
+        "description": "Multiple club meetings scheduled for the week of October 5-9. **Robotics Club** meets Monday and Wednesday 2:30-4:00 PM in room 412. **Diversity Club** meets Tuesday at Kofenya Coffee Shop uptown with",
+        "location": "Room 315, Talawanda High School"
+      },
+      {
+        "title": "Best Buddies - Volleyball Game at Edgewood",
+        "start": "2026-10-08T14:30:00",
+        "end": "2026-10-08T15:30:00",
+        "description": "Multiple club meetings scheduled for the week of October 5-9. **Robotics Club** meets Monday and Wednesday 2:30-4:00 PM in room 412. **Diversity Club** meets Tuesday at Kofenya Coffee Shop uptown with",
+        "location": "Edgewood"
+      },
+      {
+        "title": "Best Buddies Meeting",
+        "start": "2026-10-09T09:30:00",
+        "end": "2026-10-09T10:30:00",
+        "description": "Multiple club meetings scheduled for the week of October 5-9. **Robotics Club** meets Monday and Wednesday 2:30-4:00 PM in room 412. **Diversity Club** meets Tuesday at Kofenya Coffee Shop uptown with",
+        "location": "Room 316, Talawanda High School"
+      },
+      {
+        "title": "Project Green Meeting",
+        "start": "2026-10-09T14:30:00",
+        "end": "2026-10-09T15:30:00",
+        "description": "Multiple club meetings scheduled for the week of October 5-9. **Robotics Club** meets Monday and Wednesday 2:30-4:00 PM in room 412. **Diversity Club** meets Tuesday at Kofenya Coffee Shop uptown with",
+        "location": "Room 224, Talawanda High School"
+      },
+      {
+        "title": "Club Meetings Week",
+        "start": "2026-10-05T00:00:00",
+        "end": "2026-10-09T23:59:00",
+        "description": "Multiple club meetings scheduled for the week of October 5-9. **Robotics Club** meets Monday and Wednesday 2:30-4:00 PM in room 412. **Diversity Club** meets Tuesday at Kofenya Coffee Shop uptown with",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Setting Stone Meeting End Time",
+        "start": "2026-10-05T14:30:00",
+        "end": "2026-10-05T16:00:00",
+        "description": "Multiple club meetings scheduled for the week of October 5-9. **Robotics Club** meets Monday and Wednesday 2:30-4:00 PM in room 412. **Diversity Club** meets Tuesday at Kofenya Coffee Shop uptown with",
+        "location": "Room 320, Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "TSD One Plan Family Engagement",
+    "block_id": "bs4cuv4xss",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/u8bmq",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-10-02T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "TSD One Plan TSD One Plan Family EngagementWe invite and encourage our families to review the TSD One Plan linked to our website. Talawanda is in year one of our current One Plan. Additional information about the One Plan can be found on the Ohio Department of Education and Workforce, linked here.If you have feedback to share or would like to be part of the parent/community advisory group for our One Plan, please contact Ms. Stephanie Aerni, Director of Teaching & Learning (AerniS@talawanda.org). There will also be a feedback session on 11/19/26 ahead of the School Board Meeting at the THS Performing Art Center.",
+        "id": "bs4cuv4xss"
+      }
+    ],
+    "hash": "bs4cuv4xss",
+    "summary": "Families are invited to review the **TSD One Plan** on the district website—Talawanda is in year one of the current plan. Additional information is available on the [Ohio Department of Education and Workforce website](https://education.ohio.gov). To provide feedback or join the parent/community advisory group, contact **Ms. Stephanie Aerni** at AerniS@talawanda.org. A **feedback session** will be held on **11/19/26** before the School Board Meeting at the **THS Performing Art Center**.",
+    "event_info": [
+      {
+        "title": "TSD One Plan Feedback Session",
+        "start": "2026-11-19T00:00:00",
+        "end": "2026-11-19T01:00:00",
+        "description": "Families are invited to review the **TSD One Plan** on the district website—Talawanda is in year one of the current plan. Additional information is available on the [Ohio Department of Education and W",
+        "location": "THS Performing Art Center"
+      }
+    ]
+  },
+  {
     "title": "Football Dine to Donate at Chipotle",
     "block_id": "bdsclmxr2y",
     "content": "",
@@ -649,69 +797,5 @@
         "location": "Talawanda High School"
       }
     ]
-  },
-  {
-    "title": "Club Meetings Schedule This Week",
-    "block_id": "bv0ung9ptn-bghptfzqhm",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/qdjhs",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-08-21T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Club \n\nMeetings Club Meetings",
-        "id": "bv0ung9ptn"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Monday, August 24th2:30 pm - Robotics Club, room 412: All interested students are welcome! Questions, see Ms. Schran2:30 pm - Setting Stone, room 320Tuesday, August 25thWednesday, August 26thThursday, August 27thFriday, August 28th9:30 am - Youth Initiative Team (YIT), Media CenterTalawanda High School's environmental club, Project Green, is welcoming new members! If you're interested in environmental issues and participating in outdoor activities like gardening, forest restoration, wildlife research, etc., please see Mrs. Ruther in room 224 ASAP!",
-        "id": "bghptfzqhm"
-      }
-    ],
-    "hash": "bv0ung9ptn-bghptfzqhm",
-    "summary": "Several clubs are meeting this week at Talawanda High School:\n- **Monday, August 24th at 2:30 pm**: Robotics Club in room 412 (contact Ms. Schran with questions) and Setting Stone in room 320\n- **Friday, August 28th at 9:30 am**: Youth Initiative Team (YIT) in Media Center\n- **Project Green** (environmental club) is recruiting new members for activities like gardening, forest restoration, and wildlife research—see Mrs. Ruther in room 224 ASAP.",
-    "event_info": [
-      {
-        "title": "Robotics Club Meeting",
-        "start": "2026-08-24T14:30:00",
-        "end": "2026-08-24T15:30:00",
-        "description": "Several clubs are meeting this week at Talawanda High School:\n- **Monday, August 24th at 2:30 pm**: Robotics Club in room 412 (contact Ms. Schran with questions) and Setting Stone in room 320\n- **Frid",
-        "location": "Room 412, Talawanda High School"
-      },
-      {
-        "title": "Setting Stone Meeting",
-        "start": "2026-08-24T14:30:00",
-        "end": "2026-08-24T15:30:00",
-        "description": "Several clubs are meeting this week at Talawanda High School:\n- **Monday, August 24th at 2:30 pm**: Robotics Club in room 412 (contact Ms. Schran with questions) and Setting Stone in room 320\n- **Frid",
-        "location": "Room 320, Talawanda High School"
-      },
-      {
-        "title": "Youth Initiative Team (YIT) Meeting",
-        "start": "2026-08-28T09:30:00",
-        "end": "2026-08-28T10:30:00",
-        "description": "Several clubs are meeting this week at Talawanda High School:\n- **Monday, August 24th at 2:30 pm**: Robotics Club in room 412 (contact Ms. Schran with questions) and Setting Stone in room 320\n- **Frid",
-        "location": "Media Center, Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Athletics Weekly Updates",
-    "block_id": "bt9jp4t7lv",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/qdjhs",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-08-21T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Athletics \n\nWeekly \n\nUpdates Athletics Weekly Updates",
-        "id": "bt9jp4t7lv"
-      }
-    ],
-    "hash": "bt9jp4t7lv",
-    "summary": "This item appears to be a header or placeholder for weekly athletics updates but contains no specific information, events, schedules, or announcements at this time."
   }
 ]
