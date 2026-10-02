@@ -389,37 +389,6 @@
     ]
   },
   {
-    "title": "Marshall Elementary September 2026 Menus",
-    "block_id": "b6sz32hq6u-bm2arnla6j-bg6vyodw2b",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/8b21/e9e32cc2e125128438686639a8e321dc.png",
-      "https://cdn.smore.com/u/6696/33d5ab1623331cd9aa4dd74dca72d5fa.png"
-    ],
-    "source_url": "https://app.smore.com/n/u63xy1",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-09-04T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "WHAT'S \n\nCOOKING?! WHAT'S COOKING?!",
-        "id": "b6sz32hq6u"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/8b21/e9e32cc2e125128438686639a8e321dc.png",
-        "id": "bm2arnla6j"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/6696/33d5ab1623331cd9aa4dd74dca72d5fa.png",
-        "id": "bg6vyodw2b"
-      }
-    ],
-    "hash": "b6sz32hq6u-bm2arnla6j-bg6vyodw2b",
-    "summary": "Marshall Elementary's **breakfast and lunch menus for September 2026** are now available. The breakfast menu includes items like Mini Maple Pancakes, French Toast Bites, Bagel Sandwiches, and Breakfast Pizza, with **100% fruit juice, fresh fruit, and choice of milk included with every breakfast**. The lunch menu features Chili Cheese Dogs, Walking Tacos, Chicken Tenders, Detroit Deep Dish Pizza, and various other entrees, with **choice of milk included with every lunch**. School is closed for Labor Day (September 7-8) and September 18. All menus are subject to change based on product availability."
-  },
-  {
     "title": "Volunteer and Visitor Policy Requirements",
     "block_id": "b2gl7gfvmy-b8qo9r1giy-bhwsnb4j3v",
     "content": "",
@@ -464,6 +433,37 @@
     ],
     "hash": "bidm12oeju-bz3f64i2zv-b9vouro3as",
     "summary": "Talawanda School District now uses **Peachjar**, a digital flyer delivery service, to share information about educational, athletic, cultural, and community opportunities with families. This paperless system delivers flyers electronically and provides convenient access to current community information. **Families will receive a weekly email** with flyers."
+  },
+  {
+    "title": "Marshall Elementary September 2026 Menus",
+    "block_id": "b6sz32hq6u-bm2arnla6j-bg6vyodw2b",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/8b21/e9e32cc2e125128438686639a8e321dc.png",
+      "https://cdn.smore.com/u/6696/33d5ab1623331cd9aa4dd74dca72d5fa.png"
+    ],
+    "source_url": "https://app.smore.com/n/u63xy1",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-09-04T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "WHAT'S \n\nCOOKING?! WHAT'S COOKING?!",
+        "id": "b6sz32hq6u"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/8b21/e9e32cc2e125128438686639a8e321dc.png",
+        "id": "bm2arnla6j"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/6696/33d5ab1623331cd9aa4dd74dca72d5fa.png",
+        "id": "bg6vyodw2b"
+      }
+    ],
+    "hash": "b6sz32hq6u-bm2arnla6j-bg6vyodw2b",
+    "summary": "Marshall Elementary's **breakfast and lunch menus for September 2026** are now available. The breakfast menu includes items like Mini Maple Pancakes, French Toast Bites, Bagel Sandwiches, and Breakfast Pizza, with **100% fruit juice, fresh fruit, and choice of milk included with every breakfast**. The lunch menu features Chili Cheese Dogs, Walking Tacos, Chicken Tenders, Detroit Deep Dish Pizza, and various other entrees, with **choice of milk included with every lunch**. School is closed for Labor Day (September 7-8) and September 18. All menus are subject to change based on product availability."
   },
   {
     "title": "Picture Day Information and Reminders",

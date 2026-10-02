@@ -1,5 +1,370 @@
 [
   {
+    "title": "Kramer Carnival This Sunday October 4th",
+    "block_id": "bws6fpx85i-bu4ev0b7w0",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/mcvhe",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-10-02T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Kramer \n\nCarnival \n\nTHIS \n\nSunday \n\nOctober \n\n4th \n\n1pm-4pm  Kramer Carnival THIS Sunday October 4th 1pm-4pm",
+        "id": "bws6fpx85i"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Come Join the Fun! Come on over and enjoy a wonderful day at the PTG Carnival! SUNDAY1:00–4:00 PMBring the family, enjoy the fun, and make some great memories! We can’t wait to see you there!",
+        "id": "bu4ev0b7w0"
+      }
+    ],
+    "hash": "bws6fpx85i-bu4ev0b7w0",
+    "summary": "The **PTG Carnival** is happening this **Sunday, October 4th from 1:00-4:00 PM** at Kramer. Bring your family to enjoy fun activities and make great memories together!",
+    "event_info": [
+      {
+        "title": "Kramer PTG Carnival",
+        "start": "2026-10-04T13:00:00",
+        "end": "2026-10-04T16:00:00",
+        "description": "The **PTG Carnival** is happening this **Sunday, October 4th from 1:00-4:00 PM** at Kramer. Bring your family to enjoy fun activities and make great memories together!",
+        "location": "Kramer"
+      }
+    ]
+  },
+  {
+    "title": "October 2026 School Calendar",
+    "block_id": "b3ompqiql8-brtszmc6g8",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/dbfb/5975dbe2237d12d053fcb7c84ad76420.png"
+    ],
+    "source_url": "https://app.smore.com/n/mcvhe",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-10-02T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "School \n\nCalendar School Calendar",
+        "id": "b3ompqiql8"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/dbfb/5975dbe2237d12d053fcb7c84ad76420.png",
+        "id": "brtszmc6g8"
+      }
+    ],
+    "hash": "b3ompqiql8-brtszmc6g8",
+    "summary": "The October 2026 calendar includes multiple **Big Brother Big Sister** meetings (Mondays: Oct 5, 12, 19, 26 and Thursdays: Oct 1, 8, 15, 22, 29), **Conferences** on Oct 8 and 13 (4-7:30 PM), **Kramer Carnival** on Oct 4 at 1pm, **4th Grade to Miami Softball** on Oct 2, **Picture Retake** on Oct 15, **No School Fall Break** on Oct 16, **4th Grade to Governor Bebb** on Oct 29, and **Halloween Festivities** on Oct 30. Halloween is on Oct 31.",
+    "event_info": [
+      {
+        "title": "Big Brother Big Sister",
+        "start": "2026-10-01T00:00:00",
+        "end": "2026-10-01T01:00:00",
+        "description": "The October 2026 calendar includes multiple **Big Brother Big Sister** meetings (Mondays: Oct 5, 12, 19, 26 and Thursdays: Oct 1, 8, 15, 22, 29), **Conferences** on Oct 8 and 13 (4-7:30 PM), **Kramer ",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "4th Grade to Miami Softball",
+        "start": "2026-10-02T00:00:00",
+        "end": "2026-10-02T01:00:00",
+        "description": "The October 2026 calendar includes multiple **Big Brother Big Sister** meetings (Mondays: Oct 5, 12, 19, 26 and Thursdays: Oct 1, 8, 15, 22, 29), **Conferences** on Oct 8 and 13 (4-7:30 PM), **Kramer ",
+        "location": "Miami"
+      },
+      {
+        "title": "Kramer Carnival",
+        "start": "2026-10-04T13:00:00",
+        "end": "2026-10-04T14:00:00",
+        "description": "The October 2026 calendar includes multiple **Big Brother Big Sister** meetings (Mondays: Oct 5, 12, 19, 26 and Thursdays: Oct 1, 8, 15, 22, 29), **Conferences** on Oct 8 and 13 (4-7:30 PM), **Kramer ",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Big Brother Big Sister",
+        "start": "2026-10-05T00:00:00",
+        "end": "2026-10-05T01:00:00",
+        "description": "The October 2026 calendar includes multiple **Big Brother Big Sister** meetings (Mondays: Oct 5, 12, 19, 26 and Thursdays: Oct 1, 8, 15, 22, 29), **Conferences** on Oct 8 and 13 (4-7:30 PM), **Kramer ",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Conferences",
+        "start": "2026-10-08T16:00:00",
+        "end": "2026-10-08T19:30:00",
+        "description": "The October 2026 calendar includes multiple **Big Brother Big Sister** meetings (Mondays: Oct 5, 12, 19, 26 and Thursdays: Oct 1, 8, 15, 22, 29), **Conferences** on Oct 8 and 13 (4-7:30 PM), **Kramer ",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Big Brother Big Sister",
+        "start": "2026-10-08T00:00:00",
+        "end": "2026-10-08T01:00:00",
+        "description": "The October 2026 calendar includes multiple **Big Brother Big Sister** meetings (Mondays: Oct 5, 12, 19, 26 and Thursdays: Oct 1, 8, 15, 22, 29), **Conferences** on Oct 8 and 13 (4-7:30 PM), **Kramer ",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Big Brother Big Sister",
+        "start": "2026-10-12T00:00:00",
+        "end": "2026-10-12T01:00:00",
+        "description": "The October 2026 calendar includes multiple **Big Brother Big Sister** meetings (Mondays: Oct 5, 12, 19, 26 and Thursdays: Oct 1, 8, 15, 22, 29), **Conferences** on Oct 8 and 13 (4-7:30 PM), **Kramer ",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Conferences",
+        "start": "2026-10-13T16:00:00",
+        "end": "2026-10-13T19:30:00",
+        "description": "The October 2026 calendar includes multiple **Big Brother Big Sister** meetings (Mondays: Oct 5, 12, 19, 26 and Thursdays: Oct 1, 8, 15, 22, 29), **Conferences** on Oct 8 and 13 (4-7:30 PM), **Kramer ",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Picture Retake",
+        "start": "2026-10-15T00:00:00",
+        "end": "2026-10-15T01:00:00",
+        "description": "The October 2026 calendar includes multiple **Big Brother Big Sister** meetings (Mondays: Oct 5, 12, 19, 26 and Thursdays: Oct 1, 8, 15, 22, 29), **Conferences** on Oct 8 and 13 (4-7:30 PM), **Kramer ",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Big Brother Big Sister",
+        "start": "2026-10-15T00:00:00",
+        "end": "2026-10-15T01:00:00",
+        "description": "The October 2026 calendar includes multiple **Big Brother Big Sister** meetings (Mondays: Oct 5, 12, 19, 26 and Thursdays: Oct 1, 8, 15, 22, 29), **Conferences** on Oct 8 and 13 (4-7:30 PM), **Kramer ",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "No School - Fall Break",
+        "start": "2026-10-16T00:00:00",
+        "end": "2026-10-16T23:59:00",
+        "description": "The October 2026 calendar includes multiple **Big Brother Big Sister** meetings (Mondays: Oct 5, 12, 19, 26 and Thursdays: Oct 1, 8, 15, 22, 29), **Conferences** on Oct 8 and 13 (4-7:30 PM), **Kramer ",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Big Brother Big Sister",
+        "start": "2026-10-19T00:00:00",
+        "end": "2026-10-19T01:00:00",
+        "description": "The October 2026 calendar includes multiple **Big Brother Big Sister** meetings (Mondays: Oct 5, 12, 19, 26 and Thursdays: Oct 1, 8, 15, 22, 29), **Conferences** on Oct 8 and 13 (4-7:30 PM), **Kramer ",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Big Brother Big Sister",
+        "start": "2026-10-22T00:00:00",
+        "end": "2026-10-22T01:00:00",
+        "description": "The October 2026 calendar includes multiple **Big Brother Big Sister** meetings (Mondays: Oct 5, 12, 19, 26 and Thursdays: Oct 1, 8, 15, 22, 29), **Conferences** on Oct 8 and 13 (4-7:30 PM), **Kramer ",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Big Brother Big Sister",
+        "start": "2026-10-26T00:00:00",
+        "end": "2026-10-26T01:00:00",
+        "description": "The October 2026 calendar includes multiple **Big Brother Big Sister** meetings (Mondays: Oct 5, 12, 19, 26 and Thursdays: Oct 1, 8, 15, 22, 29), **Conferences** on Oct 8 and 13 (4-7:30 PM), **Kramer ",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "4th Grade to Governor Bebb",
+        "start": "2026-10-29T00:00:00",
+        "end": "2026-10-29T01:00:00",
+        "description": "The October 2026 calendar includes multiple **Big Brother Big Sister** meetings (Mondays: Oct 5, 12, 19, 26 and Thursdays: Oct 1, 8, 15, 22, 29), **Conferences** on Oct 8 and 13 (4-7:30 PM), **Kramer ",
+        "location": "Governor Bebb"
+      },
+      {
+        "title": "Big Brother Big Sister",
+        "start": "2026-10-29T00:00:00",
+        "end": "2026-10-29T01:00:00",
+        "description": "The October 2026 calendar includes multiple **Big Brother Big Sister** meetings (Mondays: Oct 5, 12, 19, 26 and Thursdays: Oct 1, 8, 15, 22, 29), **Conferences** on Oct 8 and 13 (4-7:30 PM), **Kramer ",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Halloween Festivities",
+        "start": "2026-10-30T00:00:00",
+        "end": "2026-10-30T01:00:00",
+        "description": "The October 2026 calendar includes multiple **Big Brother Big Sister** meetings (Mondays: Oct 5, 12, 19, 26 and Thursdays: Oct 1, 8, 15, 22, 29), **Conferences** on Oct 8 and 13 (4-7:30 PM), **Kramer ",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Halloween",
+        "start": "2026-10-31T00:00:00",
+        "end": "2026-10-31T23:59:00",
+        "description": "The October 2026 calendar includes multiple **Big Brother Big Sister** meetings (Mondays: Oct 5, 12, 19, 26 and Thursdays: Oct 1, 8, 15, 22, 29), **Conferences** on Oct 8 and 13 (4-7:30 PM), **Kramer ",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "October 2026 Elementary Lunch Menu",
+    "block_id": "bx11wh24sz-b7q61nv1cu",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/21a5/f3e831d909e08a77c831818a6e72ec2a.png"
+    ],
+    "source_url": "https://app.smore.com/n/mcvhe",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-10-02T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Lunch \n\nMenu Lunch Menu",
+        "id": "bx11wh24sz"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/21a5/f3e831d909e08a77c831818a6e72ec2a.png",
+        "id": "b7q61nv1cu"
+      }
+    ],
+    "hash": "bx11wh24sz-b7q61nv1cu",
+    "summary": "Kramer Elementary's lunch menu for October 2026 includes daily hot meal options with sides and accompaniments. **All lunches include a choice of milk.** Sample meals include pizza varieties, chicken dishes, tacos, pasta, and sandwiches, served with vegetables, fruits, and salads. **No school on October 16th.** Menu is subject to change based on product availability."
+  },
+  {
+    "title": "Unplug & Play at Kramer Event",
+    "block_id": "bhieabqel8-bdu5q8zsoz-bfyj6200yu",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/mcvhe",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-10-02T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Unplug \n\n& \n\nPlay \n\nat \n\nKramer! Unplug & Play at Kramer!",
+        "id": "bhieabqel8"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Bring a lawn chair! Relax and chat with other parents and staff while the kids engage in independent creative play! Join us Wednesday, November 5th 5:30-6:30 Kramer Playground",
+        "id": "bdu5q8zsoz"
+      }
+    ],
+    "hash": "bhieabqel8-bdu5q8zsoz-bfyj6200yu",
+    "summary": "Join parents, staff, and kids for **Unplug & Play** at Kramer Elementary! Bring a lawn chair to relax and chat with other adults while children enjoy independent creative play. **Wednesday, November 5th, 5:30-6:30 PM** at the Kramer Playground.",
+    "event_info": [
+      {
+        "title": "Unplug & Play at Kramer",
+        "start": "2026-11-05T17:30:00",
+        "end": "2026-11-05T18:30:00",
+        "description": "Join parents, staff, and kids for **Unplug & Play** at Kramer Elementary! Bring a lawn chair to relax and chat with other adults while children enjoy independent creative play. **Wednesday, November 5",
+        "location": "Kramer Playground"
+      }
+    ]
+  },
+  {
+    "title": "PTG Meeting, Kramer Carnival, and Conference Meals",
+    "block_id": "beo4if5yiw-bgryqlnvjp-bsvrgddped-b0wjleqm6a-bjz485tyay-biypb9alm3-bd984upzz1-burypuq1rv-b0j4eixxkt-b9wlw0hbif-bcvttgwktx",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/mcvhe",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-10-02T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PTG PTG",
+        "id": "beo4if5yiw"
+      },
+      {
+        "type": "text.title",
+        "content": "PTG \n\nMeeting  PTG Meeting",
+        "id": "bgryqlnvjp"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Please join us for the second PTG Meeting of the year. We will be focusing on Kramer carnival planning as well as regular updates. Come join us in the Karmer Art Room @ 7pm",
+        "id": "bsvrgddped"
+      },
+      {
+        "type": "text.title",
+        "content": "PTG \n\nFacebook \n\nPage PTG Facebook Page",
+        "id": "b0wjleqm6a"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "For important updates check join our PTG Facebook page",
+        "id": "bjz485tyay"
+      },
+      {
+        "type": "text.title",
+        "content": "Kramer \n\nCarnival Kramer Carnival",
+        "id": "bd984upzz1"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "THIS SUNDAY!!!! From 1pm-4pm Come and enjoy the fun at our Carnival",
+        "id": "burypuq1rv"
+      },
+      {
+        "type": "text.title",
+        "content": "Conference \n\nMeal \n\nSign-Up Conference Meal Sign-Up",
+        "id": "b0j4eixxkt"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Fall 2026 Parent-Teacher Conferences Oct 8th & Oct 13th. To show appreciation, PTG provide dinner for our teachers and staff. PTG purchases the main dish while parents provide side dishes, desserts, drinks, etc... WE NEED YOUR HELP!.Please see flyer on peachjar for more information and to sign up",
+        "id": "b9wlw0hbif"
+      }
+    ],
+    "hash": "beo4if5yiw-bgryqlnvjp-bsvrgddped-b0wjleqm6a-bjz485tyay-biypb9alm3-bd984upzz1-burypuq1rv-b0j4eixxkt-b9wlw0hbif-bcvttgwktx",
+    "summary": "**PTG Meeting** on October 2nd at 7pm in the Kramer Art Room will focus on Kramer Carnival planning and regular updates. **Kramer Carnival** is THIS SUNDAY (October 5th) from 1pm-4pm. **Parent-Teacher Conferences** are October 8th & 13th - PTG is providing teacher dinners and needs parents to sign up to bring side dishes, desserts, and drinks (see flyer on Peachjar). Follow the PTG Facebook page for important updates.",
+    "event_info": [
+      {
+        "title": "PTG Meeting",
+        "start": "2026-10-02T19:00:00",
+        "end": "2026-10-02T20:00:00",
+        "description": "**PTG Meeting** on October 2nd at 7pm in the Kramer Art Room will focus on Kramer Carnival planning and regular updates. **Kramer Carnival** is THIS SUNDAY (October 5th) from 1pm-4pm. **Parent-Teacher",
+        "location": "Kramer Art Room"
+      },
+      {
+        "title": "Kramer Carnival",
+        "start": "2026-10-05T13:00:00",
+        "end": "2026-10-05T16:00:00",
+        "description": "**PTG Meeting** on October 2nd at 7pm in the Kramer Art Room will focus on Kramer Carnival planning and regular updates. **Kramer Carnival** is THIS SUNDAY (October 5th) from 1pm-4pm. **Parent-Teacher",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Parent-Teacher Conferences (Conference Meal Sign-Up)",
+        "start": "2026-10-08T00:00:00",
+        "end": "2026-10-13T23:59:00",
+        "description": "**PTG Meeting** on October 2nd at 7pm in the Kramer Art Room will focus on Kramer Carnival planning and regular updates. **Kramer Carnival** is THIS SUNDAY (October 5th) from 1pm-4pm. **Parent-Teacher",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Grading System Changes and District Policies",
+    "block_id": "b1kzf7f4ks-bs3y5xjm5w-b57gw3wk6i-b3bn0goh5u",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/mcvhe",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-10-02T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Important \n\nDistrict \n\nInformation Important District Information",
+        "id": "b1kzf7f4ks"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Changes to the K-5 Grading System at Talawanda  NEW for the 2026-2027 School Year Grades 3-5 - Moving to a Traditional Letter Grading System (A-F)We are excited to shift our grades 3–5 to a traditional letter grade system (A-F) to provide a more detailed look at your child's overall performance and academic habits. This change aligns our 3rd-5th graders with the expectations they will meet in middle and high school, fostering greater accountability and preparing them for future success.For families, this transition offers a familiar and intuitive way to track progress. While the numerical scale focused on specific milestones, letter grades allow for a wider range of feedback to distinguish between meeting basic requirements and consistently exceeding them. This system ensures a clearer dialogue between teachers and parents, highlighting exactly where a student excels or may need extra support.Here is the breakdown of the traditional letter grading system:A - 90-100%B - 80-89%C - 70-79%D - 60-69%F - 0-59%Grades K-2 - Remaining with the Numerical Grading System (1-4)Grades K–2 will continue using the numerical (1–4) grading system to best support our youngest learners. At this foundational level, education is focused on the progressive development of core skills and meeting specific developmental milestones rather than a cumulative letter grade. The 1–4 scale provides a precise way for teachers to communicate exactly where a student is in their learning journey—from beginning to explore a concept to achieving mastery—ensuring that families have a clear understanding of their child's growth in these critical early years. As a reminder, here is a breakdown of the numerical scores:4 - Consistently/Independently Meeting the Standard3 - Meeting the Standard2 - Approaching the Standard1- Not Yet Meeting the Standard",
+        "id": "bs3y5xjm5w"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "TSD Title I-A Parent and Family Engagement Policy We invite and encourage our families to review the TSD Title I-A Parent and Family Engagement Policy linked to our website. If you have feedback to share, please contact your student’s Title Reading teacher. There will also be a feedback session on 11/19/26 ahead of the School Board Meeting at the THS Performing Art Center.",
+        "id": "b57gw3wk6i"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "TSD One Plan Family Engagement We invite and encourage our families to review the TSD One Plan linked to our website. Talawanda is in year one of our current One Plan. Additional information about the One Plan can be found on the Ohio Department of Education and Workforce, linked here.If you have feedback to share or would like to be part of the parent/community advisory group for our One Plan, please contact Ms. Stephanie Aerni, Director of Teaching & Learning (AerniS@talawanda.org). There will also be a feedback session on 11/19/26 ahead of the School Board Meeting at the THS Performing Art Center.",
+        "id": "b3bn0goh5u"
+      }
+    ],
+    "hash": "b1kzf7f4ks-bs3y5xjm5w-b57gw3wk6i-b3bn0goh5u",
+    "summary": "**Major grading changes for 2026-2027:** Grades 3-5 are moving to a traditional letter grading system (A-F with A=90-100%, B=80-89%, C=70-79%, D=60-69%, F=0-59%), while grades K-2 will continue using the numerical 1-4 system. Families are invited to review the **TSD Title I-A Parent and Family Engagement Policy** and the **TSD One Plan** on the district website. A **feedback session for both policies** will be held on **11/19/26** ahead of the School Board Meeting at the THS Performing Art Center. To join the parent/community advisory group or provide feedback, contact Ms. Stephanie Aerni (AerniS@talawanda.org) or your student's Title Reading teacher.",
+    "event_info": [
+      {
+        "title": "TSD Policies Feedback Session",
+        "start": "2026-11-19T00:00:00",
+        "end": "2026-11-19T01:00:00",
+        "description": "**Major grading changes for 2026-2027:** Grades 3-5 are moving to a traditional letter grading system (A-F with A=90-100%, B=80-89%, C=70-79%, D=60-69%, F=0-59%), while grades K-2 will continue using ",
+        "location": "THS Performing Art Center"
+      }
+    ]
+  },
+  {
     "title": "Kramer Celebrates Dolly Parton Week",
     "block_id": "bmvhcjn8r7",
     "content": "",
@@ -507,199 +872,5 @@
     ],
     "hash": "bl3h7nqjcr-bwjraempvm-byqg42uyyt",
     "summary": "Students who love to bake or decorate can enter the **Kids' Baking Competition** at the Kramer Carnival to showcase their skills and help raise money for **Kramer Elementary School**. Interested participants should [fill out an entry form](link) to register for the competition."
-  },
-  {
-    "title": "No School Friday and Dolly Day Reminder",
-    "block_id": "b5j2tt6xtv-bmwlkrdosf",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/be30/767579f68bd6684c7b662d828afda733.png"
-    ],
-    "source_url": "https://app.smore.com/n/afrdup",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-09-18T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "Happy No School Friday! 🍎We hope everyone enjoys a wonderful and relaxing weekend! Thank you for another great week at Kramer Elementary.📚 Reminder: Dolly Day is next Friday, September 25th! We are excited to celebrate and make it a fun day for our students! 🎀🌈Enjoy your weekend, and we’ll see everyone on Monday!",
-        "id": "b5j2tt6xtv"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/be30/767579f68bd6684c7b662d828afda733.png",
-        "id": "bmwlkrdosf"
-      }
-    ],
-    "hash": "b5j2tt6xtv-bmwlkrdosf",
-    "summary": "No school on Friday, September 18th. **Dolly Day is Friday, September 25th** - students may wear a western top, dolly shirt, and/or pink with jeans. Dolly Day celebrates Dolly Parton's commitment to making the world a better place through her charitable work.",
-    "event_info": [
-      {
-        "title": "No School Friday",
-        "start": "2026-09-18T00:00:00",
-        "end": "2026-09-18T23:59:00",
-        "description": "No school on Friday, September 18th. **Dolly Day is Friday, September 25th** - students may wear a western top, dolly shirt, and/or pink with jeans. Dolly Day celebrates Dolly Parton's commitment to m",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Dolly Day - Western/Pink Dress Up Day",
-        "start": "2026-09-25T00:00:00",
-        "end": "2026-09-25T23:59:00",
-        "description": "No school on Friday, September 18th. **Dolly Day is Friday, September 25th** - students may wear a western top, dolly shirt, and/or pink with jeans. Dolly Day celebrates Dolly Parton's commitment to m",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Health Curriculum Update - Erin's Law",
-    "block_id": "bspyp8th8w-b6lu5lnv72",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/afrdup",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-09-18T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Health \n\nEducation \n\nCurriculum \n\nUpdate \n\n- \n\nSB \n\n288-Erin's \n\nLaw Health Education Curriculum Update - SB 288-Erin's Law",
-        "id": "bspyp8th8w"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "The Ohio Department of Education and Workforce (DEW), formally called the Ohio Department of Education, has shared with public schools across the state Senate Bill 288. This legislation requires that health education curricula be updated to include (K-12/developmentally appropriate) prevention education information in the areas of sexual abuse and sexual violence for students in public schools.As promised, the district is providing an opportunity for families to review the curriculum, and parents may opt their students out of the lessons if they choose.  For more information from the Ohio Department of Education- Click HERE. Instruction occurs annually. This year the district will conduct these updates with students October 12-26, 2026.K-3 Curriculum- Click HERE4-6 Curriculum- Click HERE7-8 Curriculum- TMSSocial Inclusion: Click HEREDating Violence: Click HERESuicide Prevention: Click HERE9-12 Curriculum - THS will share their videos in three successive weeks. Social Inclusion: Click HEREDating Violence / Healthy Relationships: Click HERESuicide Prevention: Click HEREContact your student's building and school counselor with any questions.",
-        "id": "b6lu5lnv72"
-      }
-    ],
-    "hash": "bspyp8th8w-b6lu5lnv72",
-    "summary": "Ohio Senate Bill 288 (Erin's Law) requires updated **health education curricula** covering sexual abuse, sexual violence prevention, social inclusion, dating violence, and suicide prevention for grades K-12. Instruction will occur **October 12-26, 2026** at Talawanda. Parents may **review curricula online** and opt students out if desired. Contact your student's school counselor with questions. Curriculum links are provided for all grade levels.",
-    "event_info": [
-      {
-        "title": "Health Education Curriculum - SB 288/Erin's Law Instruction",
-        "start": "2026-10-12T00:00:00",
-        "end": "2026-10-26T23:59:00",
-        "description": "Ohio Senate Bill 288 (Erin's Law) requires updated **health education curricula** covering sexual abuse, sexual violence prevention, social inclusion, dating violence, and suicide prevention for grade",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Kramer Carnival Tickets and Volunteer Opportunities",
-    "block_id": "beo4if5yiw-bnfhtskg8f-bxl6ucpad3",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/afrdup",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-09-18T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PTG PTG",
-        "id": "beo4if5yiw"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "The Kramer Carnival is only a few weeks away and we can't wait to see you there! Ticket order forms went home in students' folders - orders are due by Sept. 30. You can also order tickets and wristbands online here: https://bit.ly/46qMmhc. We need your help to make Carnival a success! Please check out all of our Carnival volunteer and donation opportunities here: bit.ly/46nvxDR.",
-        "id": "bnfhtskg8f"
-      }
-    ],
-    "hash": "beo4if5yiw-bnfhtskg8f-bxl6ucpad3",
-    "summary": "The **Kramer Carnival** is coming up in a few weeks! Ticket order forms were sent home in students' folders with orders **due by September 30**. You can also [order tickets and wristbands online](https://bit.ly/46qMmhc). Volunteers and donations are needed to make the carnival a success - [sign up here](bit.ly/46nvxDR).",
-    "event_info": [
-      {
-        "title": "Kramer Carnival Ticket Orders Due",
-        "start": "2026-09-30T00:00:00",
-        "end": "2026-09-30T23:59:00",
-        "description": "The **Kramer Carnival** is coming up in a few weeks! Ticket order forms were sent home in students' folders with orders **due by September 30**. You can also [order tickets and wristbands online](http",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Silent Auction Class Basket Donations",
-    "block_id": "bm9duc8j9w-b6svj3qf7x-bpgvca6n6h",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/afrdup",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-09-18T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Silent \n\nAuction \n\nClass \n\nBasket Silent Auction Class Basket",
-        "id": "bm9duc8j9w"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Donations Needed Please help PTG fill your child's grade-level basket by donating something relevant to their basket theme:Kindergarten: Outdoor AdventuresFirst Grade: Cooking & BakingSecond Grade: Arts & CraftsThird Grade: Family Fun NightFourth Grade: We Love Local Fifth Grade: Unplug & PlayPlease send donations to your child's classroom by Friday, September 25For more information see flyer in peachjar",
-        "id": "b6svj3qf7x"
-      }
-    ],
-    "hash": "bm9duc8j9w-b6svj3qf7x-bpgvca6n6h",
-    "summary": "PTG is collecting donations for grade-level themed baskets for a silent auction. Each grade has a specific theme: **Kindergarten** (Outdoor Adventures), **First Grade** (Cooking & Baking), **Second Grade** (Arts & Crafts), **Third Grade** (Family Fun Night), **Fourth Grade** (We Love Local), and **Fifth Grade** (Unplug & Play). **Donations should be sent to your child's classroom by Friday, September 25.** More details available in the Peachjar flyer.",
-    "event_info": [
-      {
-        "title": "Silent Auction Class Basket Donation Deadline",
-        "start": "2026-09-25T00:00:00",
-        "end": "2026-09-25T23:59:00",
-        "description": "PTG is collecting donations for grade-level themed baskets for a silent auction. Each grade has a specific theme: **Kindergarten** (Outdoor Adventures), **First Grade** (Cooking & Baking), **Second Gr",
-        "location": "Student classrooms"
-      }
-    ]
-  },
-  {
-    "title": "Conference Meal Sign-Up for Parent-Teacher Conferences",
-    "block_id": "b9wlw0hbif-bcvttgwktx",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/afrdup",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-09-18T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "Conference Meal Sign-Up Fall 2026 Parent-Teacher Conferences Oct 8th & Oct 13th. To show appreciation, PTG provide dinner for our teachers and staff. PTG purchases the main dish while parents provide side dishes, desserts, drinks, etc... WE NEED YOUR HELP!.Please see flyer on peachjar for more information and to sign up",
-        "id": "b9wlw0hbif"
-      }
-    ],
-    "hash": "b9wlw0hbif-bcvttgwktx",
-    "summary": "**Parent-Teacher Conferences** are scheduled for **October 8th and October 13th, 2026**. PTG is providing dinner for teachers and staff, purchasing the main dish while requesting parents to contribute side dishes, desserts, and drinks. Check the **Peachjar flyer** for more information and to sign up to help.",
-    "event_info": [
-      {
-        "title": "Parent-Teacher Conferences (Conference Meal)",
-        "start": "2026-10-08T00:00:00",
-        "end": "2026-10-08T01:00:00",
-        "description": "**Parent-Teacher Conferences** are scheduled for **October 8th and October 13th, 2026**. PTG is providing dinner for teachers and staff, purchasing the main dish while requesting parents to contribute",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Parent-Teacher Conferences (Conference Meal)",
-        "start": "2026-10-13T00:00:00",
-        "end": "2026-10-13T01:00:00",
-        "description": "**Parent-Teacher Conferences** are scheduled for **October 8th and October 13th, 2026**. PTG is providing dinner for teachers and staff, purchasing the main dish while requesting parents to contribute",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "K-Kids Service Club Recruitment for 4th & 5th Graders",
-    "block_id": "bh8jh00yit-b7k464fka3-b0olifss0w",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/afrdup",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-09-18T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "K-Kids K-Kids",
-        "id": "bh8jh00yit"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "4th & 5th Grade ONLY Do you like helping others? Are you interested in making a difference in your school and community while building leadership skills? If so, we’d love to have you join K-Kids—a Kiwanis service club for 4th- and 5th-grade students! Please See the PeachJar Flyer for more information!",
-        "id": "b7k464fka3"
-      }
-    ],
-    "hash": "bh8jh00yit-b7k464fka3-b0olifss0w",
-    "summary": "**K-Kids**, a Kiwanis service club for 4th and 5th grade students, is recruiting members who want to help others and make a difference in their school and community while building leadership skills. More information is available in the **PeachJar Flyer**."
   }
 ]

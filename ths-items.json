@@ -148,33 +148,6 @@
     ]
   },
   {
-    "title": "Football Dine to Donate at Chipotle",
-    "block_id": "bdsclmxr2y",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/gv8qa",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-09-25T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "Talawanda Football Hosting Dine to Donate Talawanda Football is hosting a \"Dine to Donate\" event at Chipotle on Monday, September 28 at the the westside Hamilton location - 1455 Main St. - from 5-9 pm. They will donate 25% of your purchase back to the team, all you have to do is mention that you are there to support Talawanda football. You can order online as well, just be sure to enter the code (DQNJVMX)​. Thank you for your support!",
-        "id": "bdsclmxr2y"
-      }
-    ],
-    "hash": "bdsclmxr2y",
-    "summary": "**Talawanda Football Dine to Donate** fundraiser at **Chipotle** (1455 Main St., Hamilton westside location) on **Monday, September 28, 5-9 PM**. Chipotle will donate **25% of your purchase** to the team—mention you're supporting Talawanda football when ordering. For online orders, use code **DQNJVMX**.",
-    "event_info": [
-      {
-        "title": "Talawanda Football Dine to Donate at Chipotle",
-        "start": "2026-09-28T17:00:00",
-        "end": "2026-09-28T21:00:00",
-        "description": "**Talawanda Football Dine to Donate** fundraiser at **Chipotle** (1455 Main St., Hamilton westside location) on **Monday, September 28, 5-9 PM**. Chipotle will donate **25% of your purchase** to the t",
-        "location": "Chipotle, 1455 Main St., Hamilton"
-      }
-    ]
-  },
-  {
     "title": "London and Paris Trip Summer 2028",
     "block_id": "bwrbl26t27",
     "content": "",
@@ -237,6 +210,33 @@
         "end": "2026-10-27T19:30:00",
         "description": "**FCCLA is hosting their annual Trunk or Treat** on **Tuesday, October 27th from 6:00-7:30 PM** at Talawanda High School. If you would like to sponsor a trunk, you can [RSVP here](link provided via QR",
         "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Football Dine to Donate at Chipotle",
+    "block_id": "bdsclmxr2y",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/gv8qa",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-09-25T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "Talawanda Football Hosting Dine to Donate Talawanda Football is hosting a \"Dine to Donate\" event at Chipotle on Monday, September 28 at the the westside Hamilton location - 1455 Main St. - from 5-9 pm. They will donate 25% of your purchase back to the team, all you have to do is mention that you are there to support Talawanda football. You can order online as well, just be sure to enter the code (DQNJVMX)​. Thank you for your support!",
+        "id": "bdsclmxr2y"
+      }
+    ],
+    "hash": "bdsclmxr2y",
+    "summary": "**Talawanda Football Dine to Donate** fundraiser at **Chipotle** (1455 Main St., Hamilton westside location) on **Monday, September 28, 5-9 PM**. Chipotle will donate **25% of your purchase** to the team—mention you're supporting Talawanda football when ordering. For online orders, use code **DQNJVMX**.",
+    "event_info": [
+      {
+        "title": "Talawanda Football Dine to Donate at Chipotle",
+        "start": "2026-09-28T17:00:00",
+        "end": "2026-09-28T21:00:00",
+        "description": "**Talawanda Football Dine to Donate** fundraiser at **Chipotle** (1455 Main St., Hamilton westside location) on **Monday, September 28, 5-9 PM**. Chipotle will donate **25% of your purchase** to the t",
+        "location": "Chipotle, 1455 Main St., Hamilton"
       }
     ]
   },

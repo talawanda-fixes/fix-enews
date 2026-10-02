@@ -196,38 +196,6 @@
     ]
   },
   {
-    "title": "7th Grade Glen Helen Trip Forms Due",
-    "block_id": "bvpre48kgv-bs4vrha94e",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/ascut2-fall-is-coming?ref=email",
-    "source_title": "FALL IS COMING! | Smore Newsletters for Education",
-    "date": "2026-09-18T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "ATTENTION \n\n7TH \n\nGRADE \n\nFAMILIES! ATTENTION 7TH GRADE FAMILIES!",
-        "id": "bvpre48kgv"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "7th grade students were given a PURPLE packet this week in science classes. This is for the Glen Helen trip and is information about health, allergies, and release forms. Please take the time to complete the packet and return it to your science teacher by Friday, September 25th!",
-        "id": "bs4vrha94e"
-      }
-    ],
-    "hash": "bvpre48kgv-bs4vrha94e",
-    "summary": "**7th grade students** received a **purple packet** in science class this week for the **Glen Helen trip**. The packet contains health information, allergy forms, and release forms that must be completed and **returned to your science teacher by Friday, September 25th**.",
-    "event_info": [
-      {
-        "title": "Glen Helen Trip Forms Due",
-        "start": "2026-09-25T00:00:00",
-        "end": "2026-09-25T23:59:00",
-        "description": "**7th grade students** received a **purple packet** in science class this week for the **Glen Helen trip**. The packet contains health information, allergy forms, and release forms that must be comple",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
     "title": "Gamers Club Meeting Information and Schedule",
     "block_id": "bvgt4bnez3-bxmz5us0zr",
     "content": "",
@@ -278,6 +246,38 @@
         "start": "2026-10-12T00:00:00",
         "end": "2026-10-26T23:59:00",
         "description": "The district is implementing **Senate Bill 288 (Erin's Law)** requirements for updated health education curricula covering sexual abuse and violence prevention (K-12). **Instruction occurs October 12-",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "7th Grade Glen Helen Trip Forms Due",
+    "block_id": "bvpre48kgv-bs4vrha94e",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/ascut2-fall-is-coming?ref=email",
+    "source_title": "FALL IS COMING! | Smore Newsletters for Education",
+    "date": "2026-09-18T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "ATTENTION \n\n7TH \n\nGRADE \n\nFAMILIES! ATTENTION 7TH GRADE FAMILIES!",
+        "id": "bvpre48kgv"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "7th grade students were given a PURPLE packet this week in science classes. This is for the Glen Helen trip and is information about health, allergies, and release forms. Please take the time to complete the packet and return it to your science teacher by Friday, September 25th!",
+        "id": "bs4vrha94e"
+      }
+    ],
+    "hash": "bvpre48kgv-bs4vrha94e",
+    "summary": "**7th grade students** received a **purple packet** in science class this week for the **Glen Helen trip**. The packet contains health information, allergy forms, and release forms that must be completed and **returned to your science teacher by Friday, September 25th**.",
+    "event_info": [
+      {
+        "title": "Glen Helen Trip Forms Due",
+        "start": "2026-09-25T00:00:00",
+        "end": "2026-09-25T23:59:00",
+        "description": "**7th grade students** received a **purple packet** in science class this week for the **Glen Helen trip**. The packet contains health information, allergy forms, and release forms that must be comple",
         "location": "Talawanda High School"
       }
     ]
