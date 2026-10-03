@@ -203,6 +203,54 @@
     ]
   },
   {
+    "title": "October School Breakfast Menus Available",
+    "block_id": "bw0b1h078k-bsfxg96pk6",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/fb3a/867245fef007150d7eb86396597e8b65.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/dvsgyx-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-09-25T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "October Menus Here are the breakfast and lunch menus for October!",
+        "id": "bw0b1h078k"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/fb3a/867245fef007150d7eb86396597e8b65.jpeg",
+        "id": "bsfxg96pk6"
+      }
+    ],
+    "hash": "bw0b1h078k-bsfxg96pk6",
+    "summary": "The breakfast menus for October 2026 are now available for Bogan Elementary. Each breakfast includes **100% fruit juice, apples, oranges or other fresh fruit selection, and choice of milk**. Menu items include various options such as cinnamon buns, sausage & cheese biscuit sandwiches, glazed donuts, mini chocolate chip french toast, pancakes, breakfast pizza, french toast sticks, biscuits & sausage gravy, stuffed hash browns, and pumpkin glazed mini donut holes. Other breakfast options are also available daily. **No school on October 16th.** Menu is subject to change based on product availability."
+  },
+  {
+    "title": "PTG Flower Sale Delivery Information",
+    "block_id": "bpx42aowpj-be9d3uyfej-bvtlum7ghu",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/dvsgyx-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-09-25T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PTG \n\nCorner PTG Corner",
+        "id": "bpx42aowpj"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Flower Sale Delivery If your student sold any flowers during the Foermeyer and Sons Flower Sale, please click the flyer below for delivery details.",
+        "id": "be9d3uyfej"
+      }
+    ],
+    "hash": "bpx42aowpj-be9d3uyfej-bvtlum7ghu",
+    "summary": "The **PTG (Parent-Teacher Group)** has information available for families whose students participated in the **Foermeyer and Sons Flower Sale**. Delivery details can be found by clicking on the flyer provided in the announcement."
+  },
+  {
     "title": "September Attendance Awareness Month",
     "block_id": "bjqvo7kz71-bfmqdkhp7i-bei5uokiq0",
     "content": "",
@@ -267,54 +315,6 @@
     ],
     "hash": "berhllupn2-bbyw57cizv-bbwiju01hj-bp8y5upgdb",
     "summary": "The **PAX Good Behavior Game** is a research-based classroom strategy that helps students make positive choices and collaborate with others. It promotes a calmer, more focused learning environment through kindness, teamwork, and respectful behavior.\n\nThe September and October 2026 calendars show daily PAX activities for students, including tasks like listening to classical music, creating PAX visions, helping others, expressing gratitude, and participating in themed days like National Read a Book Day and National Positivity Thinking Day."
-  },
-  {
-    "title": "October School Breakfast Menus Available",
-    "block_id": "bw0b1h078k-bsfxg96pk6",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/fb3a/867245fef007150d7eb86396597e8b65.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/dvsgyx-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-09-25T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "October Menus Here are the breakfast and lunch menus for October!",
-        "id": "bw0b1h078k"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/fb3a/867245fef007150d7eb86396597e8b65.jpeg",
-        "id": "bsfxg96pk6"
-      }
-    ],
-    "hash": "bw0b1h078k-bsfxg96pk6",
-    "summary": "The breakfast menus for October 2026 are now available for Bogan Elementary. Each breakfast includes **100% fruit juice, apples, oranges or other fresh fruit selection, and choice of milk**. Menu items include various options such as cinnamon buns, sausage & cheese biscuit sandwiches, glazed donuts, mini chocolate chip french toast, pancakes, breakfast pizza, french toast sticks, biscuits & sausage gravy, stuffed hash browns, and pumpkin glazed mini donut holes. Other breakfast options are also available daily. **No school on October 16th.** Menu is subject to change based on product availability."
-  },
-  {
-    "title": "PTG Flower Sale Delivery Information",
-    "block_id": "bpx42aowpj-be9d3uyfej-bvtlum7ghu",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/dvsgyx-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-09-25T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PTG \n\nCorner PTG Corner",
-        "id": "bpx42aowpj"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Flower Sale Delivery If your student sold any flowers during the Foermeyer and Sons Flower Sale, please click the flyer below for delivery details.",
-        "id": "be9d3uyfej"
-      }
-    ],
-    "hash": "bpx42aowpj-be9d3uyfej-bvtlum7ghu",
-    "summary": "The **PTG (Parent-Teacher Group)** has information available for families whose students participated in the **Foermeyer and Sons Flower Sale**. Delivery details can be found by clicking on the flyer provided in the announcement."
   },
   {
     "title": "Dine to Donate at LaRosa's Oxford",

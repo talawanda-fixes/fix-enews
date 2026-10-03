@@ -365,24 +365,6 @@
     ]
   },
   {
-    "title": "Kramer Celebrates Dolly Parton Week",
-    "block_id": "bmvhcjn8r7",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/0jbcr",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-09-25T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "We had a wonderful week at Kramer! We were so excited to honor Dolly Parton and celebrate the wonderful person, philanthropist, and lifelong book lover she was. We hope our students have enjoyed celebrating her love of reading and kindness!Have a wonderful fall weekend, Kramer families!",
-        "id": "bmvhcjn8r7"
-      }
-    ],
-    "hash": "bmvhcjn8r7",
-    "summary": "Kramer Elementary had a special week honoring **Dolly Parton**, celebrating her legacy as a philanthropist and book lover. Students participated in activities focusing on reading and kindness. Families are wished a wonderful fall weekend."
-  },
-  {
     "title": "Health Education Curriculum Update - Erin's Law",
     "block_id": "bspyp8th8w-b6lu5lnv72-bp5342oghe-b1qrqqwqc3",
     "content": "",
@@ -517,6 +499,61 @@
     ],
     "hash": "b1oohprvfy-bk5h4ra52m",
     "summary": "**Student fees** are available to pay online via Payschools Central or in the office with cash/check. **Lunch accounts** can be funded through Payschools Central; accounts reaching -$50 will be added to school fees. Apply for **free or reduced lunch** through the Kramer office or social worker Chelsea Pike—qualifying for free lunch waives all fees, while reduced lunch provides 85% fee reduction and free meals. Update any contact or address changes through **Final Forms** (address changes require new proof of residency submitted to the office)."
+  },
+  {
+    "title": "RAH Reading at Home Program Launch",
+    "block_id": "bi5opyhppq-buyu0ovqxc-b6rbagwof4-barjo0ndhs",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/0jbcr",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-09-25T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "RAH RAH",
+        "id": "bi5opyhppq"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Attention Kindergarten, 1st, and 2nd grade families: RAH begins on Wednesday September 30th. This will be our first redemption day, so please return your RAH sheet by Wednesday!Kramer RAH (Reading At Home) is a voluntary program from K-2nd graders that builds a home-school connection by rewarding students for reading at home. Each week students record the books they've read and turn-in record sheets for rewards. Rewards alternate between a student selected book and a small prize.",
+        "id": "buyu0ovqxc"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Family support and involvement are important! Here’s how it works:Read a book, color a book. Books can be read to, by, or with your child. Books can be read multiple times and you can color a book for each time a book is read. Ten pages of a chapter book counts as one book. Fill the page with 20 books read.Send the completed sheet to school with your child on WEDNESDAYS. The first sheet is on the back of this flyer, but any paper with your child’s name and teacher’s name is fine; just draw a star (or other symbol/shape) to represent each book read. Your child will receive a prize for each sheet with 20 books completed!Students will only receive 1 prize a week. However, you may send in up to 2 completed sheets if your child reads beyond 20 books in a week. We will hold on to the extra sheet, using it if your child has missed a Wednesday or forgotten their sheet. Any remaining extra sheets will be tallied at the end of the year. Classrooms that read 1,000 books every 6 weeks will receive a class reward!",
+        "id": "b6rbagwof4"
+      }
+    ],
+    "hash": "bi5opyhppq-buyu0ovqxc-b6rbagwof4-barjo0ndhs",
+    "summary": "The **RAH (Reading At Home) program** for grades K-2 begins **Wednesday, September 30th**, which is the first redemption day. Students record books read at home (books read to, by, or with child; 10 pages of chapter book = 1 book) and submit sheets with 20 books on **Wednesdays** for rewards alternating between books and prizes. Families can submit up to 2 completed sheets per week, and classrooms reading 1,000 books every 6 weeks receive a class reward.",
+    "event_info": [
+      {
+        "title": "RAH First Redemption Day",
+        "start": "2026-09-30T00:00:00",
+        "end": "2026-09-30T23:59:00",
+        "description": "The **RAH (Reading At Home) program** for grades K-2 begins **Wednesday, September 30th**, which is the first redemption day. Students record books read at home (books read to, by, or with child; 10 p",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Kramer Celebrates Dolly Parton Week",
+    "block_id": "bmvhcjn8r7",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/0jbcr",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-09-25T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "We had a wonderful week at Kramer! We were so excited to honor Dolly Parton and celebrate the wonderful person, philanthropist, and lifelong book lover she was. We hope our students have enjoyed celebrating her love of reading and kindness!Have a wonderful fall weekend, Kramer families!",
+        "id": "bmvhcjn8r7"
+      }
+    ],
+    "hash": "bmvhcjn8r7",
+    "summary": "Kramer Elementary had a special week honoring **Dolly Parton**, celebrating her legacy as a philanthropist and book lover. Students participated in activities focusing on reading and kindness. Families are wished a wonderful fall weekend."
   },
   {
     "title": "September and October 2026 School Calendar",
@@ -809,43 +846,6 @@
         "start": "2026-10-13T00:00:00",
         "end": "2026-10-13T01:00:00",
         "description": "**Fall Parent-Teacher Conferences** are scheduled for **October 8th and October 13th, 2026**. The PTG is providing dinner for teachers and staff, purchasing the main dish while requesting parents to c",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "RAH Reading at Home Program Launch",
-    "block_id": "bi5opyhppq-buyu0ovqxc-b6rbagwof4-barjo0ndhs",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/0jbcr",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-09-25T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "RAH RAH",
-        "id": "bi5opyhppq"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Attention Kindergarten, 1st, and 2nd grade families: RAH begins on Wednesday September 30th. This will be our first redemption day, so please return your RAH sheet by Wednesday!Kramer RAH (Reading At Home) is a voluntary program from K-2nd graders that builds a home-school connection by rewarding students for reading at home. Each week students record the books they've read and turn-in record sheets for rewards. Rewards alternate between a student selected book and a small prize.",
-        "id": "buyu0ovqxc"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Family support and involvement are important! Here’s how it works:Read a book, color a book. Books can be read to, by, or with your child. Books can be read multiple times and you can color a book for each time a book is read. Ten pages of a chapter book counts as one book. Fill the page with 20 books read.Send the completed sheet to school with your child on WEDNESDAYS. The first sheet is on the back of this flyer, but any paper with your child’s name and teacher’s name is fine; just draw a star (or other symbol/shape) to represent each book read. Your child will receive a prize for each sheet with 20 books completed!Students will only receive 1 prize a week. However, you may send in up to 2 completed sheets if your child reads beyond 20 books in a week. We will hold on to the extra sheet, using it if your child has missed a Wednesday or forgotten their sheet. Any remaining extra sheets will be tallied at the end of the year. Classrooms that read 1,000 books every 6 weeks will receive a class reward!",
-        "id": "b6rbagwof4"
-      }
-    ],
-    "hash": "bi5opyhppq-buyu0ovqxc-b6rbagwof4-barjo0ndhs",
-    "summary": "The **RAH (Reading At Home) program** for grades K-2 begins **Wednesday, September 30th**, which is the first redemption day. Students record books read at home (books read to, by, or with child; 10 pages of chapter book = 1 book) and submit sheets with 20 books on **Wednesdays** for rewards alternating between books and prizes. Families can submit up to 2 completed sheets per week, and classrooms reading 1,000 books every 6 weeks receive a class reward.",
-    "event_info": [
-      {
-        "title": "RAH First Redemption Day",
-        "start": "2026-09-30T00:00:00",
-        "end": "2026-09-30T23:59:00",
-        "description": "The **RAH (Reading At Home) program** for grades K-2 begins **Wednesday, September 30th**, which is the first redemption day. Students record books read at home (books read to, by, or with child; 10 p",
         "location": "Talawanda High School"
       }
     ]
