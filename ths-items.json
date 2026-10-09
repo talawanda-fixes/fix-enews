@@ -1,5 +1,39 @@
 [
   {
+    "title": "Butler Tech Tour and Sign-Up Deadline",
+    "block_id": "bi9gh7cqa0-bm7n5jljhi",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/a207/df5dca7fbdb7366d594420e25c216318.png"
+    ],
+    "source_url": "https://app.smore.com/n/ju6v8",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-10-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Butler \n\nTech Butler Tech",
+        "id": "bi9gh7cqa0"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/a207/df5dca7fbdb7366d594420e25c216318.png",
+        "id": "bm7n5jljhi"
+      }
+    ],
+    "hash": "bi9gh7cqa0-bm7n5jljhi",
+    "summary": "Parents and students can tour **Butler Tech** to explore educational options. Sign up using the link sent to your email. **Deadline to sign up: Thursday, October 15.**",
+    "event_info": [
+      {
+        "title": "Butler Tech Sign-Up Deadline",
+        "start": "2026-10-15T00:00:00",
+        "end": "2026-10-15T23:59:00",
+        "description": "Parents and students can tour **Butler Tech** to explore educational options. Sign up using the link sent to your email. **Deadline to sign up: Thursday, October 15.**",
+        "location": ""
+      }
+    ]
+  },
+  {
     "title": "Club Meetings for October 5-9",
     "block_id": "bv0ung9ptn-bghptfzqhm-b171gj9tpc",
     "content": "",
@@ -742,59 +776,6 @@
         "end": "2026-09-03T01:00:00",
         "description": "**National Honor Society** is holding an informational meeting for eligible students. Juniors and Seniors with at least a **3.6 cumulative GPA** can apply. The meeting will be held during **tutorial o",
         "location": "PAC"
-      }
-    ]
-  },
-  {
-    "title": "Upcoming Events and Important Dates",
-    "block_id": "buo31yik3z-bazj2jx48w",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/qdjhs",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-08-21T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Upcoming \n\nEvents Upcoming Events",
-        "id": "buo31yik3z"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Tuesday, September 1st - Art Club will hold their first meeting, more to come!Saturday, September 19th - Homecoming Dance (tickets go on sale September 8th for $15)Wednesday, October 21st - PSAT (sign ups begin August 26th): See Mr. Frank. Cost $20",
-        "id": "bazj2jx48w"
-      }
-    ],
-    "hash": "buo31yik3z-bazj2jx48w",
-    "summary": "Mark your calendars for these upcoming events:\n- **Tuesday, September 1st** - Art Club holds first meeting (more details coming)\n- **Saturday, September 19th** - Homecoming Dance; tickets on sale September 8th for $15\n- **Wednesday, October 21st** - PSAT testing; sign ups begin August 26th, see Mr. Frank, cost $20",
-    "event_info": [
-      {
-        "title": "Art Club First Meeting",
-        "start": "2026-09-01T00:00:00",
-        "end": "2026-09-01T01:00:00",
-        "description": "Mark your calendars for these upcoming events:\n- **Tuesday, September 1st** - Art Club holds first meeting (more details coming)\n- **Saturday, September 19th** - Homecoming Dance; tickets on sale Sept",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Homecoming Dance Tickets Go On Sale",
-        "start": "2026-09-08T00:00:00",
-        "end": "2026-09-08T23:59:00",
-        "description": "Mark your calendars for these upcoming events:\n- **Tuesday, September 1st** - Art Club holds first meeting (more details coming)\n- **Saturday, September 19th** - Homecoming Dance; tickets on sale Sept",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Homecoming Dance",
-        "start": "2026-09-19T00:00:00",
-        "end": "2026-09-19T01:00:00",
-        "description": "Mark your calendars for these upcoming events:\n- **Tuesday, September 1st** - Art Club holds first meeting (more details coming)\n- **Saturday, September 19th** - Homecoming Dance; tickets on sale Sept",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "PSAT",
-        "start": "2026-10-21T00:00:00",
-        "end": "2026-10-21T01:00:00",
-        "description": "Mark your calendars for these upcoming events:\n- **Tuesday, September 1st** - Art Club holds first meeting (more details coming)\n- **Saturday, September 19th** - Homecoming Dance; tickets on sale Sept",
-        "location": "Talawanda High School"
       }
     ]
   }

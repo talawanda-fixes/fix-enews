@@ -1,5 +1,46 @@
 [
   {
+    "title": "Understanding the Green Slip System",
+    "block_id": "b1r4nab8d5-bywh38rh7j",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/dz5wq-it-s-fall-y-all?ref=email",
+    "source_title": "IT'S FALL Y'ALL! | Smore Newsletters for Education",
+    "date": "2026-10-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "WHAT \n\nIS \n\nA \n\nGREEN \n\nSLIP? WHAT IS A GREEN SLIP?",
+        "id": "b1r4nab8d5"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "What is a Green slip?If a student misses a due date for an assignment, they will receive a Green slip. The student's name will be added to a school wide list recording the work that was marked late and the office will call home. The work should be completed and turned in ASAP. Extra help is offered afterschool on Tuesdays and Thursdays until 3:30. If the work is not turned in by the help session, students should stay after. If students did not turn the missing work in after attending the help session, their grade turns to a zero and the work will no longer be accepted.",
+        "id": "bywh38rh7j"
+      }
+    ],
+    "hash": "b1r4nab8d5-bywh38rh7j",
+    "summary": "A **Green Slip** is issued when a student misses an assignment due date. The student's name is added to a school-wide list and the office calls home. Students should complete the work ASAP and can attend **extra help sessions on Tuesdays and Thursdays until 3:30 PM**. If missing work is not turned in after attending a help session, the grade becomes a zero and the work is no longer accepted."
+  },
+  {
+    "title": "Upper Parking Lot Dismissal Safety Alert",
+    "block_id": "bdv6czgbrd",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/dz5wq-it-s-fall-y-all?ref=email",
+    "source_title": "IT'S FALL Y'ALL! | Smore Newsletters for Education",
+    "date": "2026-10-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "zoom_out_map Please be patient and exercise extra caution when exiting the upper parking lot at dismissal, as some staff members are following departing buses from TMS to THS for coaching responsibilities. Please make sure you're looking both ways and not pulling out into oncoming traffic from the lower lot.",
+        "id": "bdv6czgbrd"
+      }
+    ],
+    "hash": "bdv6czgbrd",
+    "summary": "**Exercise caution when exiting the upper parking lot at dismissal.** Staff members are following buses from TMS to THS for coaching duties, creating additional traffic. **Look both ways carefully** and avoid pulling out into oncoming traffic from the lower lot."
+  },
+  {
     "title": "7th & 8th Grade Band Concert",
     "block_id": "bxbrl0ewmd-bnwnhn3xrq",
     "content": "",
@@ -730,60 +771,5 @@
         "location": "Talawanda High School"
       }
     ]
-  },
-  {
-    "title": "Picture Day - September 3rd",
-    "block_id": "b7t4rbm3ov-be5gcuv3xr-baxl2r61o8",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/yegc0-what-a-great-start?ref=email",
-    "source_title": "WHAT A GREAT START! | Smore Newsletters for Education",
-    "date": "2026-08-28T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PICTURE \n\nDAY!!!! PICTURE DAY!!!!",
-        "id": "b7t4rbm3ov"
-      },
-      {
-        "type": "text.title",
-        "content": "THURSDAY, \n\nSEPTEMBER \n\n3RD! THURSDAY, SEPTEMBER 3RD!",
-        "id": "be5gcuv3xr"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Picture Day is coming on Thursday, September 3!You can place your order on mylifetouch.com using your Picture Day ID: EVT2FG6C7. Order before midnight on Picture Day to get FREE shipping!Your child can also bring their completed flyer with cash or check on Picture Day. Orders after Picture Day must be placed online on mylifetouch.com",
-        "id": "baxl2r61o8"
-      }
-    ],
-    "hash": "b7t4rbm3ov-be5gcuv3xr-baxl2r61o8",
-    "summary": "**Picture Day is Thursday, September 3rd.** Order online at **mylifetouch.com** using Picture Day ID: **EVT2FG6C7**. Order before midnight on Picture Day for free shipping, or bring a completed flyer with cash/check on the day. After Picture Day, orders must be placed online.",
-    "event_info": [
-      {
-        "title": "Picture Day",
-        "start": "2026-09-03T00:00:00",
-        "end": "2026-09-03T23:59:00",
-        "description": "**Picture Day is Thursday, September 3rd.** Order online at **mylifetouch.com** using Picture Day ID: **EVT2FG6C7**. Order before midnight on Picture Day for free shipping, or bring a completed flyer ",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Club Information Available",
-    "block_id": "b7fgf5psp4",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/yegc0-what-a-great-start?ref=email",
-    "source_title": "WHAT A GREAT START! | Smore Newsletters for Education",
-    "date": "2026-08-28T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "CLUB \n\nINFORMATION! CLUB INFORMATION!",
-        "id": "b7fgf5psp4"
-      }
-    ],
-    "hash": "b7fgf5psp4",
-    "summary": "Information about clubs is available. No specific details, dates, times, or instructions are provided in this announcement."
   }
 ]

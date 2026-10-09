@@ -1,5 +1,92 @@
 [
   {
+    "title": "3rd Grade State Testing Information",
+    "block_id": "bjqvo7kz71-bsycuuvouy-b3r7j7tqlf",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/cf48/cbc537db119e0385cb9affc9d03c5ea8.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/42nbr-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-10-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Around \n\nBogan Around Bogan",
+        "id": "bjqvo7kz71"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "3rd Grade Testing Our 3rd grade students will take the fall English Language Arts Ohio State Test this month. Students will test on Wednesday, October 21st and Thursday, October 22nd. We will complete makeups during this week as well. All testing will begin at 9:30am. If possible, please avoid scheduling appointments on these two mornings. If you are a 3rd grade parent, we would LOVE for you to write a letter or card of encouragement to your child that they will read before starting the test. If possible, please put the letters in an envelope because we would like for them to be a sweet surprise for our students!We have planned a (short) 3rd grade Pep Rally on Monday, October 19th for our students. The purpose of this pep rally is to build confidence and encouragement.Teachers are also taking time to explain to students what trying their best looks like when taking a test. For example, we encourage students to take their time and check their work. We would appreciate if you would also talk to your student about the importance of doing their best on the test. Students who do their best on the test will be invited to a 3rd grade Movie Party on Thursday, October 29th!",
+        "id": "bsycuuvouy"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/cf48/cbc537db119e0385cb9affc9d03c5ea8.jpeg",
+        "id": "b3r7j7tqlf"
+      }
+    ],
+    "hash": "bjqvo7kz71-bsycuuvouy-b3r7j7tqlf",
+    "summary": "**3rd grade students will take the fall English Language Arts Ohio State Test on Wednesday, October 21st and Thursday, October 22nd, beginning at 9:30am.** Parents are encouraged to write letters of encouragement for their children to read before testing and to avoid scheduling appointments on these mornings. A 3rd grade Pep Rally will be held Monday, October 19th, and students who do their best on the test will be invited to a Movie Party on Thursday, October 29th. **Testing tips include:** get plenty of rest, be on time, eat a good breakfast, relax and take a deep breath, and follow your teacher's directions.",
+    "event_info": [
+      {
+        "title": "3rd Grade Testing Pep Rally",
+        "start": "2026-10-19T00:00:00",
+        "end": "2026-10-19T01:00:00",
+        "description": "**3rd grade students will take the fall English Language Arts Ohio State Test on Wednesday, October 21st and Thursday, October 22nd, beginning at 9:30am.** Parents are encouraged to write letters of e",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "3rd Grade English Language Arts Ohio State Test - Day 1",
+        "start": "2026-10-21T09:30:00",
+        "end": "2026-10-21T10:30:00",
+        "description": "**3rd grade students will take the fall English Language Arts Ohio State Test on Wednesday, October 21st and Thursday, October 22nd, beginning at 9:30am.** Parents are encouraged to write letters of e",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "3rd Grade English Language Arts Ohio State Test - Day 2",
+        "start": "2026-10-22T09:30:00",
+        "end": "2026-10-22T10:30:00",
+        "description": "**3rd grade students will take the fall English Language Arts Ohio State Test on Wednesday, October 21st and Thursday, October 22nd, beginning at 9:30am.** Parents are encouraged to write letters of e",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "3rd Grade Movie Party",
+        "start": "2026-10-29T00:00:00",
+        "end": "2026-10-29T01:00:00",
+        "description": "**3rd grade students will take the fall English Language Arts Ohio State Test on Wednesday, October 21st and Thursday, October 22nd, beginning at 9:30am.** Parents are encouraged to write letters of e",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Class at the Court Basketball Game",
+    "block_id": "bd3p5ml8d4",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/42nbr-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-10-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "2026 Class @ the CourtGreater Oxford Educational CollaborativeMiami University Athletics & Talawanda Elementary SchoolsOn Wednesday, November 11, 2026 our students once again have the fantastic opportunity to attend the Miami University Women’s basketball game “Class at the Court” at Millett Hall during the school day. Thanks to the generous support of Miami University and our educational partnership our students will attend the game free of charge. We will leave school shortly after we take attendance, heading to Millett Hall at 9:30AM, and will return to school after the game. Any student that has NOT arrived at school on 11/11/26 before 9:30AM, will not be able to participate in this activity. Please make note of this. We will contact the parent of any student that experiences illness or behavior issues and the parent will need to pick their student up at Millett Hall.",
+        "id": "bd3p5ml8d4"
+      }
+    ],
+    "hash": "bd3p5ml8d4",
+    "summary": "**Class 2026** students will attend a **Miami University Women's Basketball game** at **Millett Hall** on **Wednesday, November 11, 2026**. The group will leave school at **9:30 AM** after attendance and return after the game. **Students must arrive at school before 9:30 AM to participate.** Admission is free thanks to Miami University's partnership. Parents will need to pick up students from Millett Hall if illness or behavior issues arise.",
+    "event_info": [
+      {
+        "title": "Class at the Court - Miami University Women's Basketball Game",
+        "start": "2026-11-11T09:30:00",
+        "end": "2026-11-11T10:30:00",
+        "description": "**Class 2026** students will attend a **Miami University Women's Basketball game** at **Millett Hall** on **Wednesday, November 11, 2026**. The group will leave school at **9:30 AM** after attendance ",
+        "location": "Millett Hall, Miami University"
+      }
+    ]
+  },
+  {
     "title": "Family Organizes Hygiene Drive for Students",
     "block_id": "bjqvo7kz71-bpn549l2fe-br1rkeh755",
     "content": "",
@@ -701,53 +788,5 @@
         "location": "Talawanda High School"
       }
     ]
-  },
-  {
-    "title": "McCullough-Hyde Foundation Grant for Family Events",
-    "block_id": "bjqvo7kz71-bq8x2b6ej3-b1l5wiubvl",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/7fa9/8c54df6560ccb9550f29cb33e37346c4.jpg"
-    ],
-    "source_url": "https://app.smore.com/n/cqjvne-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-08-28T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Around \n\nBogan Around Bogan",
-        "id": "bjqvo7kz71"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "McCullough-Hyde Foundation Grant Shout out to the McCullough-Hyde Foundation for supporting Bogan students and families!Bogan was recently awarded a $3,000 grant, written by our social worker, Emily White, to host school events that promote family and student engagement. We’re looking forward to kicking things off with a Books & Breakfast event in the fall, followed by a STEM & Math Night in the spring, and capping off the school year with an Unplug & Play event!THANK YOU, McCullough-Hyde Foundation and Mrs. White, for helping us create meaningful opportunities for our students and families to connect, learn, and have fun together!",
-        "id": "bq8x2b6ej3"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/7fa9/8c54df6560ccb9550f29cb33e37346c4.jpg",
-        "id": "b1l5wiubvl"
-      }
-    ],
-    "hash": "bjqvo7kz71-bq8x2b6ej3-b1l5wiubvl",
-    "summary": "Bogan Elementary received a **$3,000 grant** from the McCullough-Hyde Foundation to host family and student engagement events. Social worker Emily White wrote the grant, which will fund three events: a **Books & Breakfast in fall**, a **STEM & Math Night in spring**, and an **Unplug & Play event** at year's end. The photo shows staff receiving a ceremonial check dated June 2026."
-  },
-  {
-    "title": "School Bus Safety Code of Conduct",
-    "block_id": "bhgawjxij4",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/cqjvne-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-08-28T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "Bus Safety Safety at school is our #1 priority, which includes ensuring safety on the school buses. The following Bus Code of Conduct is outlined in Talawanda's Code of Conduct:First Referral: Student/Principal Conference. Will result in a verbal warning and a conference between the student and building administrator. Documentation of the referral and meeting will be mailed home.Second Referral: Will result in a conference between the student and a building administrator, a phone call to parent, and documentation of student misconduct report mailed home.Third Referral: Will result in a conference with the student, phone conference with parent, and 3-day suspension. The administrator will document and mail home the conference summary.Fourth Referral: Will result in a conference between the student, parent, driver, and administrator with a 5-day bus suspension.Fifth Referral: Will result in a conference between the student, parent, driver, and administrator with a removal from the bus until the end of the semester or for a minimum of 10 days.Please talk with your children about the following safety expectations on the bus:Stay seated: Remain in your seat, facing forward, with your feet on the floor and hands inside the bus.Keep the aisle clear: Backpacks and other belongings should be stored under the seat or on your lap to keep the aisle free of obstacles.Listen to the driver: Follow the driver’s instructions and pay attention to all announcements.Don’t distract the driver: Avoid loud talking, shouting, or playing while the bus is moving to allow the driver to focus.Wait for the driver’s signal before crossing: When getting off, if you need to cross the street, wait for the driver’s signal and always cross in front of the bus, not behind it.Be alert and cautious: Look both ways when crossing and be mindful of cars that may not stop.",
-        "id": "bhgawjxij4"
-      }
-    ],
-    "hash": "bhgawjxij4",
-    "summary": "Talawanda prioritizes bus safety with a progressive discipline system for misconduct. Violations result in escalating consequences: 1st offense - warning and conference; 2nd - parent call and documentation; 3rd - 3-day suspension; 4th - 5-day bus suspension with parent conference; 5th - removal from bus for semester or minimum 10 days. **Key safety rules**: stay seated facing forward, keep aisle clear, listen to driver, don't distract driver, wait for driver's signal before crossing, and always cross in front of bus while looking both ways."
   }
 ]

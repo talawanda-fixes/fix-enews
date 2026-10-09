@@ -1,5 +1,44 @@
 [
   {
+    "title": "Fall Break and Parent-Teacher Conferences",
+    "block_id": "b1oohprvfy-bdc8a7t53e-bxweav6n7j",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/b595/eccdc5960ae28386a75f8768ed5bedad.png"
+    ],
+    "source_url": "https://app.smore.com/n/1k743",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-10-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "NEWS \n\n& \n\nINFORMATION  NEWS & INFORMATION",
+        "id": "b1oohprvfy"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "It was wonderful seeing some of our Marshall families in the building for conferences this week! If you weren’t able to meet with your child’s teacher this week, we will be here Tuesday! Please reach out to your child’s teacher to sign up for a time. During Family Groups this week, we also had a great time cheering on our friends who participate in Marshall Running Club! We love celebrating and supporting one another! Just a reminder that there is no school on Friday, October 16th. We hope everyone has a wonderful weekend!Stephanie JonesPrincipal",
+        "id": "bdc8a7t53e"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/b595/eccdc5960ae28386a75f8768ed5bedad.png",
+        "id": "bxweav6n7j"
+      }
+    ],
+    "hash": "b1oohprvfy-bdc8a7t53e-bxweav6n7j",
+    "summary": "**Fall Break** - No school on Friday, October 16th. Parent-teacher conferences continue on Tuesday for families who couldn't attend this week; please contact your child's teacher to schedule a time. Marshall Running Club participants were celebrated during Family Groups this week.",
+    "event_info": [
+      {
+        "title": "Fall Break - No School",
+        "start": "2026-10-16T00:00:00",
+        "end": "2026-10-16T23:59:00",
+        "description": "**Fall Break** - No school on Friday, October 16th. Parent-teacher conferences continue on Tuesday for families who couldn't attend this week; please contact your child's teacher to schedule a time. M",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
     "title": "Title I Reading Corner October Newsletter",
     "block_id": "bmp6wiz0pw-b62i2cqeqa",
     "content": "",
@@ -626,163 +665,6 @@
         "start": "2026-09-19T00:00:00",
         "end": "2026-09-19T23:59:00",
         "description": "The **Fall Foertmeyer Mum Sale** is extended to **Friday, September 11**. Students can purchase colorful mums, mumkins, candles, and more to support Marshall. As the school reaches sales milestones, s",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Important Dates and School Breaks 2026-2027",
-    "block_id": "bo8zh1m29i-bra1kn197y-bb98xb5qun-bjkfhacxvq",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/35e4/6f25db60462455d3a2e5a08e3308963c.png",
-      "https://cdn.smore.com/u/a13e/2bf37dee4880d95354f74303e149f1df.png"
-    ],
-    "source_url": "https://app.smore.com/n/u63xy1",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-09-04T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "DATES \n\n& \n\nBREAKS DATES & BREAKS",
-        "id": "bo8zh1m29i"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/35e4/6f25db60462455d3a2e5a08e3308963c.png",
-        "id": "bra1kn197y"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "September7th: NO SCHOOL - LABOR DAY8th: NO SCHOOL - PD DAY11th: Bookmobile14th: PTG Meeting 6:00 pm17th: Homecoming Parade 6:00 pm18th: NO SCHOOL - DATA DAY23rd: Fall Picture DayOctober8th: Conferences 4:00 pm - 7:30 pm12th: Bookmobile12th: PTG Meeting 6:00 pm13th: Conferences 4:00 pm - 7:30 pm16th: NO SCHOOL - FALL BREAKNovember3rd: NO SCHOOL - PD DAY4th: Picture Retake Day9th: PTG Meeting 6:00 pm13th: Bookmobile23rd - 27th: NO SCHOOL - THANKSGIVING BREAKDecember11th: Bookmobile21st - 31st: NO SCHOOL - WINTER BREAKJanuary1st: NO SCHOOL - WINTER BREAK4th: NO SCHOOL - TEACHER WORK DAY5th: NO SCHOOL - DATA DAY8th: Bookmobile18th: NO SCHOOL - M.L.K. DAYFebruary8th: PTG Meeting 6:00 pm12th: Bookmobile15th: NO SCHOOL - PRESIDENT'S DAYMarch8th: PTG Meeting 6:00 pm9th: Spring Picture Day12th: Bookmobile22nd - 26th: NO SCHOOL - SPRING BREAK29th: NO SCHOOL - CONFERENCE EXCHANGE DAYApril9th: Bookmobile12th: PTG Meeting 6:00 pmMay3rd: NO SCHOOL - DATA DAY4th: NO SCHOOL - PD DAY10th: PTG Meeting 6:00 pm27th: Last Day of School",
-        "id": "bb98xb5qun"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/a13e/2bf37dee4880d95354f74303e149f1df.png",
-        "id": "bjkfhacxvq"
-      }
-    ],
-    "hash": "bo8zh1m29i-bra1kn197y-bb98xb5qun-bjkfhacxvq",
-    "summary": "Key dates for the 2026-2027 school year including **PTG meetings on the 2nd Sunday of most months at 6:00 pm**, **Bookmobile visits**, **picture days**, and **parent-teacher conferences**. Major breaks include: **Fall Break (Oct 16)**, **Thanksgiving Break (Nov 23-27)**, **Winter Break (Dec 21-Jan 1)**, and **Spring Break (Mar 22-26)**. **Last day of school is May 27, 2027**.",
-    "event_info": [
-      {
-        "title": "NO SCHOOL - Labor Day",
-        "start": "2026-09-07T00:00:00",
-        "end": "2026-09-07T23:59:00",
-        "description": "Key dates for the 2026-2027 school year including **PTG meetings on the 2nd Sunday of most months at 6:00 pm**, **Bookmobile visits**, **picture days**, and **parent-teacher conferences**. Major break",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "NO SCHOOL - Professional Development Day",
-        "start": "2026-09-08T00:00:00",
-        "end": "2026-09-08T23:59:00",
-        "description": "Key dates for the 2026-2027 school year including **PTG meetings on the 2nd Sunday of most months at 6:00 pm**, **Bookmobile visits**, **picture days**, and **parent-teacher conferences**. Major break",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Bookmobile",
-        "start": "2026-09-11T00:00:00",
-        "end": "2026-09-11T01:00:00",
-        "description": "Key dates for the 2026-2027 school year including **PTG meetings on the 2nd Sunday of most months at 6:00 pm**, **Bookmobile visits**, **picture days**, and **parent-teacher conferences**. Major break",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "PTG Meeting",
-        "start": "2026-09-14T18:00:00",
-        "end": "2026-09-14T19:00:00",
-        "description": "Key dates for the 2026-2027 school year including **PTG meetings on the 2nd Sunday of most months at 6:00 pm**, **Bookmobile visits**, **picture days**, and **parent-teacher conferences**. Major break",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Homecoming Parade",
-        "start": "2026-09-17T18:00:00",
-        "end": "2026-09-17T19:00:00",
-        "description": "Key dates for the 2026-2027 school year including **PTG meetings on the 2nd Sunday of most months at 6:00 pm**, **Bookmobile visits**, **picture days**, and **parent-teacher conferences**. Major break",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "NO SCHOOL - Data Day",
-        "start": "2026-09-18T00:00:00",
-        "end": "2026-09-18T23:59:00",
-        "description": "Key dates for the 2026-2027 school year including **PTG meetings on the 2nd Sunday of most months at 6:00 pm**, **Bookmobile visits**, **picture days**, and **parent-teacher conferences**. Major break",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Fall Picture Day",
-        "start": "2026-09-23T00:00:00",
-        "end": "2026-09-23T23:59:00",
-        "description": "Key dates for the 2026-2027 school year including **PTG meetings on the 2nd Sunday of most months at 6:00 pm**, **Bookmobile visits**, **picture days**, and **parent-teacher conferences**. Major break",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Parent-Teacher Conferences",
-        "start": "2026-10-08T16:00:00",
-        "end": "2026-10-08T19:30:00",
-        "description": "Key dates for the 2026-2027 school year including **PTG meetings on the 2nd Sunday of most months at 6:00 pm**, **Bookmobile visits**, **picture days**, and **parent-teacher conferences**. Major break",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Bookmobile",
-        "start": "2026-10-12T00:00:00",
-        "end": "2026-10-12T01:00:00",
-        "description": "Key dates for the 2026-2027 school year including **PTG meetings on the 2nd Sunday of most months at 6:00 pm**, **Bookmobile visits**, **picture days**, and **parent-teacher conferences**. Major break",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "PTG Meeting",
-        "start": "2026-10-12T18:00:00",
-        "end": "2026-10-12T19:00:00",
-        "description": "Key dates for the 2026-2027 school year including **PTG meetings on the 2nd Sunday of most months at 6:00 pm**, **Bookmobile visits**, **picture days**, and **parent-teacher conferences**. Major break",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Parent-Teacher Conferences",
-        "start": "2026-10-13T16:00:00",
-        "end": "2026-10-13T19:30:00",
-        "description": "Key dates for the 2026-2027 school year including **PTG meetings on the 2nd Sunday of most months at 6:00 pm**, **Bookmobile visits**, **picture days**, and **parent-teacher conferences**. Major break",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "NO SCHOOL - Fall Break",
-        "start": "2026-10-16T00:00:00",
-        "end": "2026-10-16T23:59:00",
-        "description": "Key dates for the 2026-2027 school year including **PTG meetings on the 2nd Sunday of most months at 6:00 pm**, **Bookmobile visits**, **picture days**, and **parent-teacher conferences**. Major break",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "NO SCHOOL - Professional Development Day",
-        "start": "2026-11-03T00:00:00",
-        "end": "2026-11-03T23:59:00",
-        "description": "Key dates for the 2026-2027 school year including **PTG meetings on the 2nd Sunday of most months at 6:00 pm**, **Bookmobile visits**, **picture days**, and **parent-teacher conferences**. Major break",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Picture Retake Day",
-        "start": "2026-11-04T00:00:00",
-        "end": "2026-11-04T23:59:00",
-        "description": "Key dates for the 2026-2027 school year including **PTG meetings on the 2nd Sunday of most months at 6:00 pm**, **Bookmobile visits**, **picture days**, and **parent-teacher conferences**. Major break",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "PTG Meeting",
-        "start": "2026-11-09T18:00:00",
-        "end": "2026-11-09T19:00:00",
-        "description": "Key dates for the 2026-2027 school year including **PTG meetings on the 2nd Sunday of most months at 6:00 pm**, **Bookmobile visits**, **picture days**, and **parent-teacher conferences**. Major break",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Bookmobile",
-        "start": "2026-11-13T00:00:00",
-        "end": "2026-11-13T01:00:00",
-        "description": "Key dates for the 2026-2027 school year including **PTG meetings on the 2nd Sunday of most months at 6:00 pm**, **Bookmobile visits**, **picture days**, and **parent-teacher conferences**. Major break",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "NO SCHOOL - Thanksgiving Break",
-        "start": "2026-11-23T00:00:00",
-        "end": "2026-11-27T23:59:00",
-        "description": "Key dates for the 2026-2027 school year including **PTG meetings on the 2nd Sunday of most months at 6:00 pm**, **Bookmobile visits**, **picture days**, and **parent-teacher conferences**. Major break",
         "location": "Talawanda High School"
       }
     ]
