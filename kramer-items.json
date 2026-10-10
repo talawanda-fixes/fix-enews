@@ -201,38 +201,6 @@
     ]
   },
   {
-    "title": "Kramer Carnival This Sunday October 4th",
-    "block_id": "bws6fpx85i-bu4ev0b7w0",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/mcvhe",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-10-02T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Kramer \n\nCarnival \n\nTHIS \n\nSunday \n\nOctober \n\n4th \n\n1pm-4pm  Kramer Carnival THIS Sunday October 4th 1pm-4pm",
-        "id": "bws6fpx85i"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Come Join the Fun! Come on over and enjoy a wonderful day at the PTG Carnival! SUNDAY1:00–4:00 PMBring the family, enjoy the fun, and make some great memories! We can’t wait to see you there!",
-        "id": "bu4ev0b7w0"
-      }
-    ],
-    "hash": "bws6fpx85i-bu4ev0b7w0",
-    "summary": "The **PTG Carnival** is happening this **Sunday, October 4th from 1:00-4:00 PM** at Kramer. Bring your family to enjoy fun activities and make great memories together!",
-    "event_info": [
-      {
-        "title": "Kramer PTG Carnival",
-        "start": "2026-10-04T13:00:00",
-        "end": "2026-10-04T16:00:00",
-        "description": "The **PTG Carnival** is happening this **Sunday, October 4th from 1:00-4:00 PM** at Kramer. Bring your family to enjoy fun activities and make great memories together!",
-        "location": "Kramer"
-      }
-    ]
-  },
-  {
     "title": "October 2026 School Calendar",
     "block_id": "b3ompqiql8-brtszmc6g8",
     "content": "",
@@ -411,6 +379,80 @@
     "summary": "Kramer Elementary's lunch menu for October 2026 includes daily hot meal options with sides and accompaniments. **All lunches include a choice of milk.** Sample meals include pizza varieties, chicken dishes, tacos, pasta, and sandwiches, served with vegetables, fruits, and salads. **No school on October 16th.** Menu is subject to change based on product availability."
   },
   {
+    "title": "Grading System Changes and District Policies",
+    "block_id": "b1kzf7f4ks-bs3y5xjm5w-b57gw3wk6i-b3bn0goh5u",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/mcvhe",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-10-02T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Important \n\nDistrict \n\nInformation Important District Information",
+        "id": "b1kzf7f4ks"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Changes to the K-5 Grading System at Talawanda  NEW for the 2026-2027 School Year Grades 3-5 - Moving to a Traditional Letter Grading System (A-F)We are excited to shift our grades 3–5 to a traditional letter grade system (A-F) to provide a more detailed look at your child's overall performance and academic habits. This change aligns our 3rd-5th graders with the expectations they will meet in middle and high school, fostering greater accountability and preparing them for future success.For families, this transition offers a familiar and intuitive way to track progress. While the numerical scale focused on specific milestones, letter grades allow for a wider range of feedback to distinguish between meeting basic requirements and consistently exceeding them. This system ensures a clearer dialogue between teachers and parents, highlighting exactly where a student excels or may need extra support.Here is the breakdown of the traditional letter grading system:A - 90-100%B - 80-89%C - 70-79%D - 60-69%F - 0-59%Grades K-2 - Remaining with the Numerical Grading System (1-4)Grades K–2 will continue using the numerical (1–4) grading system to best support our youngest learners. At this foundational level, education is focused on the progressive development of core skills and meeting specific developmental milestones rather than a cumulative letter grade. The 1–4 scale provides a precise way for teachers to communicate exactly where a student is in their learning journey—from beginning to explore a concept to achieving mastery—ensuring that families have a clear understanding of their child's growth in these critical early years. As a reminder, here is a breakdown of the numerical scores:4 - Consistently/Independently Meeting the Standard3 - Meeting the Standard2 - Approaching the Standard1- Not Yet Meeting the Standard",
+        "id": "bs3y5xjm5w"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "TSD Title I-A Parent and Family Engagement Policy We invite and encourage our families to review the TSD Title I-A Parent and Family Engagement Policy linked to our website. If you have feedback to share, please contact your student’s Title Reading teacher. There will also be a feedback session on 11/19/26 ahead of the School Board Meeting at the THS Performing Art Center.",
+        "id": "b57gw3wk6i"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "TSD One Plan Family Engagement We invite and encourage our families to review the TSD One Plan linked to our website. Talawanda is in year one of our current One Plan. Additional information about the One Plan can be found on the Ohio Department of Education and Workforce, linked here.If you have feedback to share or would like to be part of the parent/community advisory group for our One Plan, please contact Ms. Stephanie Aerni, Director of Teaching & Learning (AerniS@talawanda.org). There will also be a feedback session on 11/19/26 ahead of the School Board Meeting at the THS Performing Art Center.",
+        "id": "b3bn0goh5u"
+      }
+    ],
+    "hash": "b1kzf7f4ks-bs3y5xjm5w-b57gw3wk6i-b3bn0goh5u",
+    "summary": "**Major grading changes for 2026-2027:** Grades 3-5 are moving to a traditional letter grading system (A-F with A=90-100%, B=80-89%, C=70-79%, D=60-69%, F=0-59%), while grades K-2 will continue using the numerical 1-4 system. Families are invited to review the **TSD Title I-A Parent and Family Engagement Policy** and the **TSD One Plan** on the district website. A **feedback session for both policies** will be held on **11/19/26** ahead of the School Board Meeting at the THS Performing Art Center. To join the parent/community advisory group or provide feedback, contact Ms. Stephanie Aerni (AerniS@talawanda.org) or your student's Title Reading teacher.",
+    "event_info": [
+      {
+        "title": "TSD Policies Feedback Session",
+        "start": "2026-11-19T00:00:00",
+        "end": "2026-11-19T01:00:00",
+        "description": "**Major grading changes for 2026-2027:** Grades 3-5 are moving to a traditional letter grading system (A-F with A=90-100%, B=80-89%, C=70-79%, D=60-69%, F=0-59%), while grades K-2 will continue using ",
+        "location": "THS Performing Art Center"
+      }
+    ]
+  },
+  {
+    "title": "Kramer Carnival This Sunday October 4th",
+    "block_id": "bws6fpx85i-bu4ev0b7w0",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/mcvhe",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-10-02T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Kramer \n\nCarnival \n\nTHIS \n\nSunday \n\nOctober \n\n4th \n\n1pm-4pm  Kramer Carnival THIS Sunday October 4th 1pm-4pm",
+        "id": "bws6fpx85i"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Come Join the Fun! Come on over and enjoy a wonderful day at the PTG Carnival! SUNDAY1:00–4:00 PMBring the family, enjoy the fun, and make some great memories! We can’t wait to see you there!",
+        "id": "bu4ev0b7w0"
+      }
+    ],
+    "hash": "bws6fpx85i-bu4ev0b7w0",
+    "summary": "The **PTG Carnival** is happening this **Sunday, October 4th from 1:00-4:00 PM** at Kramer. Bring your family to enjoy fun activities and make great memories together!",
+    "event_info": [
+      {
+        "title": "Kramer PTG Carnival",
+        "start": "2026-10-04T13:00:00",
+        "end": "2026-10-04T16:00:00",
+        "description": "The **PTG Carnival** is happening this **Sunday, October 4th from 1:00-4:00 PM** at Kramer. Bring your family to enjoy fun activities and make great memories together!",
+        "location": "Kramer"
+      }
+    ]
+  },
+  {
     "title": "Unplug & Play at Kramer Event",
     "block_id": "bhieabqel8-bdu5q8zsoz-bfyj6200yu",
     "content": "",
@@ -519,92 +561,6 @@
         "start": "2026-10-08T00:00:00",
         "end": "2026-10-13T23:59:00",
         "description": "**PTG Meeting** on October 2nd at 7pm in the Kramer Art Room will focus on Kramer Carnival planning and regular updates. **Kramer Carnival** is THIS SUNDAY (October 5th) from 1pm-4pm. **Parent-Teacher",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Grading System Changes and District Policies",
-    "block_id": "b1kzf7f4ks-bs3y5xjm5w-b57gw3wk6i-b3bn0goh5u",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/mcvhe",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-10-02T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Important \n\nDistrict \n\nInformation Important District Information",
-        "id": "b1kzf7f4ks"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Changes to the K-5 Grading System at Talawanda  NEW for the 2026-2027 School Year Grades 3-5 - Moving to a Traditional Letter Grading System (A-F)We are excited to shift our grades 3–5 to a traditional letter grade system (A-F) to provide a more detailed look at your child's overall performance and academic habits. This change aligns our 3rd-5th graders with the expectations they will meet in middle and high school, fostering greater accountability and preparing them for future success.For families, this transition offers a familiar and intuitive way to track progress. While the numerical scale focused on specific milestones, letter grades allow for a wider range of feedback to distinguish between meeting basic requirements and consistently exceeding them. This system ensures a clearer dialogue between teachers and parents, highlighting exactly where a student excels or may need extra support.Here is the breakdown of the traditional letter grading system:A - 90-100%B - 80-89%C - 70-79%D - 60-69%F - 0-59%Grades K-2 - Remaining with the Numerical Grading System (1-4)Grades K–2 will continue using the numerical (1–4) grading system to best support our youngest learners. At this foundational level, education is focused on the progressive development of core skills and meeting specific developmental milestones rather than a cumulative letter grade. The 1–4 scale provides a precise way for teachers to communicate exactly where a student is in their learning journey—from beginning to explore a concept to achieving mastery—ensuring that families have a clear understanding of their child's growth in these critical early years. As a reminder, here is a breakdown of the numerical scores:4 - Consistently/Independently Meeting the Standard3 - Meeting the Standard2 - Approaching the Standard1- Not Yet Meeting the Standard",
-        "id": "bs3y5xjm5w"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "TSD Title I-A Parent and Family Engagement Policy We invite and encourage our families to review the TSD Title I-A Parent and Family Engagement Policy linked to our website. If you have feedback to share, please contact your student’s Title Reading teacher. There will also be a feedback session on 11/19/26 ahead of the School Board Meeting at the THS Performing Art Center.",
-        "id": "b57gw3wk6i"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "TSD One Plan Family Engagement We invite and encourage our families to review the TSD One Plan linked to our website. Talawanda is in year one of our current One Plan. Additional information about the One Plan can be found on the Ohio Department of Education and Workforce, linked here.If you have feedback to share or would like to be part of the parent/community advisory group for our One Plan, please contact Ms. Stephanie Aerni, Director of Teaching & Learning (AerniS@talawanda.org). There will also be a feedback session on 11/19/26 ahead of the School Board Meeting at the THS Performing Art Center.",
-        "id": "b3bn0goh5u"
-      }
-    ],
-    "hash": "b1kzf7f4ks-bs3y5xjm5w-b57gw3wk6i-b3bn0goh5u",
-    "summary": "**Major grading changes for 2026-2027:** Grades 3-5 are moving to a traditional letter grading system (A-F with A=90-100%, B=80-89%, C=70-79%, D=60-69%, F=0-59%), while grades K-2 will continue using the numerical 1-4 system. Families are invited to review the **TSD Title I-A Parent and Family Engagement Policy** and the **TSD One Plan** on the district website. A **feedback session for both policies** will be held on **11/19/26** ahead of the School Board Meeting at the THS Performing Art Center. To join the parent/community advisory group or provide feedback, contact Ms. Stephanie Aerni (AerniS@talawanda.org) or your student's Title Reading teacher.",
-    "event_info": [
-      {
-        "title": "TSD Policies Feedback Session",
-        "start": "2026-11-19T00:00:00",
-        "end": "2026-11-19T01:00:00",
-        "description": "**Major grading changes for 2026-2027:** Grades 3-5 are moving to a traditional letter grading system (A-F with A=90-100%, B=80-89%, C=70-79%, D=60-69%, F=0-59%), while grades K-2 will continue using ",
-        "location": "THS Performing Art Center"
-      }
-    ]
-  },
-  {
-    "title": "Health Education Curriculum Update - Erin's Law",
-    "block_id": "bspyp8th8w-b6lu5lnv72-bp5342oghe-b1qrqqwqc3",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/0jbcr",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-09-25T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Health \n\nEducation \n\nCurriculum \n\nUpdate \n\n- \n\nSB \n\n288-Erin's \n\nLaw Health Education Curriculum Update - SB 288-Erin's Law",
-        "id": "bspyp8th8w"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "The Ohio Department of Education and Workforce (DEW), formally called the Ohio Department of Education, has shared with public schools across the state Senate Bill 288. This legislation requires that health education curricula be updated to include (K-12/developmentally appropriate) prevention education information in the areas of sexual abuse and sexual violence for students in public schools.As promised, the district is providing an opportunity for families to review the curriculum, and parents may opt their students out of the lessons if they choose.  For more information from the Ohio Department of Education- Click HERE. Instruction occurs annually. This year the district will conduct these updates with students October 12-26, 2026.K-3 Curriculum- Click HERE4-6 Curriculum- Click HERE7-8 Curriculum- TMSSocial Inclusion: Click HEREDating Violence: Click HERESuicide Prevention: Click HERE9-12 Curriculum - THS will share their videos in three successive weeks. Social Inclusion: Click HEREDating Violence / Healthy Relationships: Click HERESuicide Prevention: Click HEREContact your student's building and school counselor with any questions.",
-        "id": "b6lu5lnv72"
-      },
-      {
-        "type": "text.title",
-        "content": "To \n\nopt \n\nout \n\nfor \n\nyour \n\nchild. \n\nPlease \n\nclick \n\nlink \n\n& \n\nfill \n\nout \n\nform \n\n& \n\nreturn \n\nby \n\nOct \n\n7th To opt out for your child. Please click link & fill out form & return by Oct 7th",
-        "id": "bp5342oghe"
-      }
-    ],
-    "hash": "bspyp8th8w-b6lu5lnv72-bp5342oghe-b1qrqqwqc3",
-    "summary": "Ohio Senate Bill 288 (Erin's Law) requires updated health education curriculum on sexual abuse and sexual violence prevention for grades K-12. **Instruction will occur October 12-26, 2026** and covers topics including social inclusion, dating violence/healthy relationships, and suicide prevention (curriculum links provided for each grade band). Parents may **review the curriculum and opt out by October 7th** using the provided form. Contact your student's school counselor with questions.",
-    "event_info": [
-      {
-        "title": "Erin's Law Health Education Instruction Period",
-        "start": "2026-10-12T00:00:00",
-        "end": "2026-10-26T23:59:00",
-        "description": "Ohio Senate Bill 288 (Erin's Law) requires updated health education curriculum on sexual abuse and sexual violence prevention for grades K-12. **Instruction will occur October 12-26, 2026** and covers",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Opt-Out Form Deadline for Health Education Curriculum",
-        "start": "2026-10-07T23:59:00",
-        "end": "2026-10-07T23:59:00",
-        "description": "Ohio Senate Bill 288 (Erin's Law) requires updated health education curriculum on sexual abuse and sexual violence prevention for grades K-12. **Instruction will occur October 12-26, 2026** and covers",
         "location": "Talawanda High School"
       }
     ]
@@ -734,6 +690,50 @@
         "start": "2026-09-30T00:00:00",
         "end": "2026-09-30T23:59:00",
         "description": "The **RAH (Reading At Home) program** for grades K-2 begins **Wednesday, September 30th**, which is the first redemption day. Students record books read at home (books read to, by, or with child; 10 p",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Health Education Curriculum Update - Erin's Law",
+    "block_id": "bspyp8th8w-b6lu5lnv72-bp5342oghe-b1qrqqwqc3",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/0jbcr",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-09-25T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Health \n\nEducation \n\nCurriculum \n\nUpdate \n\n- \n\nSB \n\n288-Erin's \n\nLaw Health Education Curriculum Update - SB 288-Erin's Law",
+        "id": "bspyp8th8w"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "The Ohio Department of Education and Workforce (DEW), formally called the Ohio Department of Education, has shared with public schools across the state Senate Bill 288. This legislation requires that health education curricula be updated to include (K-12/developmentally appropriate) prevention education information in the areas of sexual abuse and sexual violence for students in public schools.As promised, the district is providing an opportunity for families to review the curriculum, and parents may opt their students out of the lessons if they choose.  For more information from the Ohio Department of Education- Click HERE. Instruction occurs annually. This year the district will conduct these updates with students October 12-26, 2026.K-3 Curriculum- Click HERE4-6 Curriculum- Click HERE7-8 Curriculum- TMSSocial Inclusion: Click HEREDating Violence: Click HERESuicide Prevention: Click HERE9-12 Curriculum - THS will share their videos in three successive weeks. Social Inclusion: Click HEREDating Violence / Healthy Relationships: Click HERESuicide Prevention: Click HEREContact your student's building and school counselor with any questions.",
+        "id": "b6lu5lnv72"
+      },
+      {
+        "type": "text.title",
+        "content": "To \n\nopt \n\nout \n\nfor \n\nyour \n\nchild. \n\nPlease \n\nclick \n\nlink \n\n& \n\nfill \n\nout \n\nform \n\n& \n\nreturn \n\nby \n\nOct \n\n7th To opt out for your child. Please click link & fill out form & return by Oct 7th",
+        "id": "bp5342oghe"
+      }
+    ],
+    "hash": "bspyp8th8w-b6lu5lnv72-bp5342oghe-b1qrqqwqc3",
+    "summary": "Ohio Senate Bill 288 (Erin's Law) requires updated health education curriculum on sexual abuse and sexual violence prevention for grades K-12. **Instruction will occur October 12-26, 2026** and covers topics including social inclusion, dating violence/healthy relationships, and suicide prevention (curriculum links provided for each grade band). Parents may **review the curriculum and opt out by October 7th** using the provided form. Contact your student's school counselor with questions.",
+    "event_info": [
+      {
+        "title": "Erin's Law Health Education Instruction Period",
+        "start": "2026-10-12T00:00:00",
+        "end": "2026-10-26T23:59:00",
+        "description": "Ohio Senate Bill 288 (Erin's Law) requires updated health education curriculum on sexual abuse and sexual violence prevention for grades K-12. **Instruction will occur October 12-26, 2026** and covers",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Opt-Out Form Deadline for Health Education Curriculum",
+        "start": "2026-10-07T23:59:00",
+        "end": "2026-10-07T23:59:00",
+        "description": "Ohio Senate Bill 288 (Erin's Law) requires updated health education curriculum on sexual abuse and sexual violence prevention for grades K-12. **Instruction will occur October 12-26, 2026** and covers",
         "location": "Talawanda High School"
       }
     ]

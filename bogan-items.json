@@ -87,36 +87,6 @@
     ]
   },
   {
-    "title": "Family Organizes Hygiene Drive for Students",
-    "block_id": "bjqvo7kz71-bpn549l2fe-br1rkeh755",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/7b21/436670ac571f53cf34baf0f4315c09e4.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/ymb6h-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-10-02T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Around \n\nBogan Around Bogan",
-        "id": "bjqvo7kz71"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "One of our amazing families organized a hygiene drive to support our Bogan students with basic necessities. It truly takes a village!",
-        "id": "bpn549l2fe"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/7b21/436670ac571f53cf34baf0f4315c09e4.jpeg",
-        "id": "br1rkeh755"
-      }
-    ],
-    "hash": "bjqvo7kz71-bpn549l2fe-br1rkeh755",
-    "summary": "A Talawanda family organized a successful hygiene drive to provide basic necessities for Bogan students. The donation collection includes paper towels, toilet paper, tissues, laundry detergent bottles, wipes, and other essential hygiene items displayed on a cart. The school expresses gratitude for this community support."
-  },
-  {
     "title": "PAX Good Behavior Game Student Calendar",
     "block_id": "berhllupn2-bbyw57cizv-bp8y5upgdb",
     "content": "",
@@ -288,6 +258,36 @@
         "location": "Talawanda High School"
       }
     ]
+  },
+  {
+    "title": "Family Organizes Hygiene Drive for Students",
+    "block_id": "bjqvo7kz71-bpn549l2fe-br1rkeh755",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/7b21/436670ac571f53cf34baf0f4315c09e4.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/ymb6h-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-10-02T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Around \n\nBogan Around Bogan",
+        "id": "bjqvo7kz71"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "One of our amazing families organized a hygiene drive to support our Bogan students with basic necessities. It truly takes a village!",
+        "id": "bpn549l2fe"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/7b21/436670ac571f53cf34baf0f4315c09e4.jpeg",
+        "id": "br1rkeh755"
+      }
+    ],
+    "hash": "bjqvo7kz71-bpn549l2fe-br1rkeh755",
+    "summary": "A Talawanda family organized a successful hygiene drive to provide basic necessities for Bogan students. The donation collection includes paper towels, toilet paper, tissues, laundry detergent bottles, wipes, and other essential hygiene items displayed on a cart. The school expresses gratitude for this community support."
   },
   {
     "title": "October School Breakfast Menus Available",

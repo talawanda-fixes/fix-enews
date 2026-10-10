@@ -164,43 +164,6 @@
     ]
   },
   {
-    "title": "RAH Reading Program Kicks Off October 7th",
-    "block_id": "bwe49hjzaj-bn7ncoa0un-bldn81nfp9",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/2bwsu",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-09-25T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "RAH RAH",
-        "id": "bwe49hjzaj"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "We will be kicking RAH off this year on WEDNESDAY, October 7th! Thank YOU for encouraging your students to read nightly and for all of your support for our RAH program!",
-        "id": "bn7ncoa0un"
-      },
-      {
-        "type": "items",
-        "content": "zoom_out_map    zoom_out_map    zoom_out_map",
-        "id": "bldn81nfp9"
-      }
-    ],
-    "hash": "bwe49hjzaj-bn7ncoa0un-bldn81nfp9",
-    "summary": "The **RAH (Read at Home) program** will launch on **Wednesday, October 7th**. Parents are thanked for encouraging students to read nightly and for supporting the RAH program.",
-    "event_info": [
-      {
-        "title": "RAH Program Kickoff",
-        "start": "2026-10-07T00:00:00",
-        "end": "2026-10-07T23:59:00",
-        "description": "The **RAH (Read at Home) program** will launch on **Wednesday, October 7th**. Parents are thanked for encouraging students to read nightly and for supporting the RAH program.",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
     "title": "Coffee & Donuts Before Marshall Halloween Parade",
     "block_id": "bi6881i3gq-by7vra2rsd",
     "content": "",
@@ -238,6 +201,43 @@
         "end": "2026-10-30T10:30:00",
         "description": "Marshall PTG is hosting a **Coffee & Donuts meetup on Friday, October 30, 2026** before the Marshall Halloween Parade. Families can gather at the shelter house near the overflow parking lot from **8:5",
         "location": "Marshall bus loop"
+      }
+    ]
+  },
+  {
+    "title": "RAH Reading Program Kicks Off October 7th",
+    "block_id": "bwe49hjzaj-bn7ncoa0un-bldn81nfp9",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/2bwsu",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-09-25T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "RAH RAH",
+        "id": "bwe49hjzaj"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "We will be kicking RAH off this year on WEDNESDAY, October 7th! Thank YOU for encouraging your students to read nightly and for all of your support for our RAH program!",
+        "id": "bn7ncoa0un"
+      },
+      {
+        "type": "items",
+        "content": "zoom_out_map    zoom_out_map    zoom_out_map",
+        "id": "bldn81nfp9"
+      }
+    ],
+    "hash": "bwe49hjzaj-bn7ncoa0un-bldn81nfp9",
+    "summary": "The **RAH (Read at Home) program** will launch on **Wednesday, October 7th**. Parents are thanked for encouraging students to read nightly and for supporting the RAH program.",
+    "event_info": [
+      {
+        "title": "RAH Program Kickoff",
+        "start": "2026-10-07T00:00:00",
+        "end": "2026-10-07T23:59:00",
+        "description": "The **RAH (Read at Home) program** will launch on **Wednesday, October 7th**. Parents are thanked for encouraging students to read nightly and for supporting the RAH program.",
+        "location": "Talawanda High School"
       }
     ]
   },
@@ -428,6 +428,45 @@
     ]
   },
   {
+    "title": "Dental Van Visit - October 12th",
+    "block_id": "bomk6tbtpd-bm6k3gvnrb-bs401aswgs",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/1f00/1b3744a5c0ba0c4806653a619c51275c.png"
+    ],
+    "source_url": "https://app.smore.com/n/u63xy1",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-09-04T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "NOTES \n\nFROM \n\nOUR \n\nSOCIAL \n\nWORKER NOTES FROM OUR SOCIAL WORKER",
+        "id": "bomk6tbtpd"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/1f00/1b3744a5c0ba0c4806653a619c51275c.png",
+        "id": "bm6k3gvnrb"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "🔗: https://phs.jotform.com/form/252455535246055",
+        "id": "bs401aswgs"
+      }
+    ],
+    "hash": "bomk6tbtpd-bm6k3gvnrb-bs401aswgs",
+    "summary": "A **Dental Van** will visit the school on **Monday, October 12th, 2026** during school hours to provide dental services to students. Parents/guardians must complete consent forms at **https://phs.jotform.com/form/252455535246055**. For questions, contact Social Worker Chrissy Rolfes.",
+    "event_info": [
+      {
+        "title": "Dental Van Visit",
+        "start": "2026-10-12T00:00:00",
+        "end": "2026-10-12T23:59:00",
+        "description": "A **Dental Van** will visit the school on **Monday, October 12th, 2026** during school hours to provide dental services to students. Parents/guardians must complete consent forms at **https://phs.jotf",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
     "title": "Volunteer and Visitor Policy Requirements",
     "block_id": "b2gl7gfvmy-b8qo9r1giy-bhwsnb4j3v",
     "content": "",
@@ -535,45 +574,6 @@
         "end": "2026-09-23T01:00:00",
         "description": "**Picture Day is Wednesday, September 23, 2026** at Maude Marshall Elementary School. Order online at **mylifetouch.com** using Picture Day ID **EVTVTTF7C** before midnight on Picture Day for FREE shi",
         "location": "Maude Marshall Elementary School"
-      }
-    ]
-  },
-  {
-    "title": "Dental Van Visit - October 12th",
-    "block_id": "bomk6tbtpd-bm6k3gvnrb-bs401aswgs",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/1f00/1b3744a5c0ba0c4806653a619c51275c.png"
-    ],
-    "source_url": "https://app.smore.com/n/u63xy1",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-09-04T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "NOTES \n\nFROM \n\nOUR \n\nSOCIAL \n\nWORKER NOTES FROM OUR SOCIAL WORKER",
-        "id": "bomk6tbtpd"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/1f00/1b3744a5c0ba0c4806653a619c51275c.png",
-        "id": "bm6k3gvnrb"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "🔗: https://phs.jotform.com/form/252455535246055",
-        "id": "bs401aswgs"
-      }
-    ],
-    "hash": "bomk6tbtpd-bm6k3gvnrb-bs401aswgs",
-    "summary": "A **Dental Van** will visit the school on **Monday, October 12th, 2026** during school hours to provide dental services to students. Parents/guardians must complete consent forms at **https://phs.jotform.com/form/252455535246055**. For questions, contact Social Worker Chrissy Rolfes.",
-    "event_info": [
-      {
-        "title": "Dental Van Visit",
-        "start": "2026-10-12T00:00:00",
-        "end": "2026-10-12T23:59:00",
-        "description": "A **Dental Van** will visit the school on **Monday, October 12th, 2026** during school hours to provide dental services to students. Parents/guardians must complete consent forms at **https://phs.jotf",
-        "location": "Talawanda High School"
       }
     ]
   },
