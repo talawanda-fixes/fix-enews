@@ -359,38 +359,6 @@
     "summary": "Marshall Elementary's **breakfast and lunch menus for October 2026** are now available. The breakfast menu includes items like Mini Chocolate Chip French Toast, Cinnamon Pull-Aparts, pancakes, biscuits & gravy, and various breakfast pizzas throughout the month. The lunch menu features entrées such as Orange Chicken w/ Rice, Tony's Deep Dish Cheese Pizza, Walking Tacos, Chicken Tenders, and Grilled Cheese Sandwiches, with sides including fresh vegetables, fruits, and choice of milk. **No school on October 16th**. Both menus are subject to change based on product availability."
   },
   {
-    "title": "Health Education Curriculum Update - Erin's Law",
-    "block_id": "bh9mmwk9fi-bl3ucwtv3n",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/2bwsu",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-09-25T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "IMPORTANT \n\nUPDATES \n\n& \n\nREMINDERS IMPORTANT UPDATES & REMINDERS",
-        "id": "bh9mmwk9fi"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Health Education Curriculum Update - SB 288-Erin's Law The Ohio Department of Education and Workforce (DEW), formally called the Ohio Department of Education, has shared with public schools across the state Senate Bill 288. This legislation requires that health education curricula be updated to include (K-12/developmentally appropriate) prevention education information in the areas of sexual abuse and sexual violence for students in public schools.As promised, the district is providing an opportunity for families to review the curriculum, and parents may opt their students out of the lessons if they choose.  For more information from the Ohio Department of Education- Click HERE. Instruction occurs annually. This year the district will conduct these updates with students October 12-26, 2026.K-3 Curriculum- Click HERE4-6 Curriculum- Click HERE7-8 Curriculum- TMSSocial Inclusion: Click HEREDating Violence: Click HERESuicide Prevention: Click HERE9-12 Curriculum - THS will share their videos in three successive weeks. Social Inclusion: Click HEREDating Violence / Healthy Relationships: Click HERESuicide Prevention: Click HEREContact your student's building and school counselor with any questions.",
-        "id": "bl3ucwtv3n"
-      }
-    ],
-    "hash": "bh9mmwk9fi-bl3ucwtv3n",
-    "summary": "Ohio Senate Bill 288 (Erin's Law) requires updated health education curriculum including **developmentally appropriate prevention education on sexual abuse and sexual violence** for K-12 students. Instruction will occur **October 12-26, 2026** across all grade levels. Families can review curriculum materials online (links provided for K-3, 4-6, 7-8, and 9-12 covering topics like social inclusion, dating violence, and suicide prevention), and parents may opt their students out. Contact your student's school counselor with questions.",
-    "event_info": [
-      {
-        "title": "Health Education Curriculum Instruction - Erin's Law (SB 288)",
-        "start": "2026-10-12T00:00:00",
-        "end": "2026-10-26T23:59:00",
-        "description": "Ohio Senate Bill 288 (Erin's Law) requires updated health education curriculum including **developmentally appropriate prevention education on sexual abuse and sexual violence** for K-12 students. Ins",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
     "title": "School Counselor Update on SPARK Day and Second Step",
     "block_id": "b68gjqtrf8-bdraqkmvtd",
     "content": "",
@@ -467,6 +435,38 @@
         "end": "2026-10-30T10:30:00",
         "description": "Marshall PTG is hosting a **Coffee & Donuts meetup on Friday, October 30, 2026** before the Marshall Halloween Parade. Families can gather at the shelter house near the overflow parking lot from **8:5",
         "location": "Marshall bus loop"
+      }
+    ]
+  },
+  {
+    "title": "Health Education Curriculum Update - Erin's Law",
+    "block_id": "bh9mmwk9fi-bl3ucwtv3n",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/2bwsu",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-09-25T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "IMPORTANT \n\nUPDATES \n\n& \n\nREMINDERS IMPORTANT UPDATES & REMINDERS",
+        "id": "bh9mmwk9fi"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Health Education Curriculum Update - SB 288-Erin's Law The Ohio Department of Education and Workforce (DEW), formally called the Ohio Department of Education, has shared with public schools across the state Senate Bill 288. This legislation requires that health education curricula be updated to include (K-12/developmentally appropriate) prevention education information in the areas of sexual abuse and sexual violence for students in public schools.As promised, the district is providing an opportunity for families to review the curriculum, and parents may opt their students out of the lessons if they choose.  For more information from the Ohio Department of Education- Click HERE. Instruction occurs annually. This year the district will conduct these updates with students October 12-26, 2026.K-3 Curriculum- Click HERE4-6 Curriculum- Click HERE7-8 Curriculum- TMSSocial Inclusion: Click HEREDating Violence: Click HERESuicide Prevention: Click HERE9-12 Curriculum - THS will share their videos in three successive weeks. Social Inclusion: Click HEREDating Violence / Healthy Relationships: Click HERESuicide Prevention: Click HEREContact your student's building and school counselor with any questions.",
+        "id": "bl3ucwtv3n"
+      }
+    ],
+    "hash": "bh9mmwk9fi-bl3ucwtv3n",
+    "summary": "Ohio Senate Bill 288 (Erin's Law) requires updated health education curriculum including **developmentally appropriate prevention education on sexual abuse and sexual violence** for K-12 students. Instruction will occur **October 12-26, 2026** across all grade levels. Families can review curriculum materials online (links provided for K-3, 4-6, 7-8, and 9-12 covering topics like social inclusion, dating violence, and suicide prevention), and parents may opt their students out. Contact your student's school counselor with questions.",
+    "event_info": [
+      {
+        "title": "Health Education Curriculum Instruction - Erin's Law (SB 288)",
+        "start": "2026-10-12T00:00:00",
+        "end": "2026-10-26T23:59:00",
+        "description": "Ohio Senate Bill 288 (Erin's Law) requires updated health education curriculum including **developmentally appropriate prevention education on sexual abuse and sexual violence** for K-12 students. Ins",
+        "location": "Talawanda High School"
       }
     ]
   },
@@ -694,45 +694,6 @@
     ]
   },
   {
-    "title": "Dental Van Visit - October 12th",
-    "block_id": "bomk6tbtpd-bm6k3gvnrb-bs401aswgs",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/1f00/1b3744a5c0ba0c4806653a619c51275c.png"
-    ],
-    "source_url": "https://app.smore.com/n/u63xy1",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-09-04T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "NOTES \n\nFROM \n\nOUR \n\nSOCIAL \n\nWORKER NOTES FROM OUR SOCIAL WORKER",
-        "id": "bomk6tbtpd"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/1f00/1b3744a5c0ba0c4806653a619c51275c.png",
-        "id": "bm6k3gvnrb"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "🔗: https://phs.jotform.com/form/252455535246055",
-        "id": "bs401aswgs"
-      }
-    ],
-    "hash": "bomk6tbtpd-bm6k3gvnrb-bs401aswgs",
-    "summary": "A **Dental Van** will visit the school on **Monday, October 12th, 2026** during school hours to provide dental services to students. Parents/guardians must complete consent forms at **https://phs.jotform.com/form/252455535246055**. For questions, contact Social Worker Chrissy Rolfes.",
-    "event_info": [
-      {
-        "title": "Dental Van Visit",
-        "start": "2026-10-12T00:00:00",
-        "end": "2026-10-12T23:59:00",
-        "description": "A **Dental Van** will visit the school on **Monday, October 12th, 2026** during school hours to provide dental services to students. Parents/guardians must complete consent forms at **https://phs.jotf",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
     "title": "Volunteer and Visitor Policy Requirements",
     "block_id": "b2gl7gfvmy-b8qo9r1giy-bhwsnb4j3v",
     "content": "",
@@ -754,5 +715,28 @@
     ],
     "hash": "b2gl7gfvmy-b8qo9r1giy-bhwsnb4j3v",
     "summary": "All adult volunteers must have a volunteer application on file with the office each school year. After a second visit, parents must complete **fingerprinting and a background check** through the Central Registration Office at least **3 weeks prior** to their event. Background checks are valid for **5 years**. Contact Ruth Michael at **513-273-3101** for Central Registration."
+  },
+  {
+    "title": "Peachjar Digital Flyer Program Introduced",
+    "block_id": "bidm12oeju-bz3f64i2zv-b9vouro3as",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/u63xy1",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-09-04T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PEACHJAR \n\nDIGITAL \n\nFLYER \n\nPROGRAM PEACHJAR DIGITAL FLYER PROGRAM",
+        "id": "bidm12oeju"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Talawanda School District is pleased to use Peachjar, a digital flyer delivery service, to provide families with information about educational, athletic, cultural, and community opportunities available to students and families.Using Peachjar helps reduce paper waste, ensures flyers are delivered directly to families electronically, and provides a convenient way to access current community information at any time. Families will receive an email each week.",
+        "id": "bz3f64i2zv"
+      }
+    ],
+    "hash": "bidm12oeju-bz3f64i2zv-b9vouro3as",
+    "summary": "Talawanda School District now uses **Peachjar**, a digital flyer delivery service, to share information about educational, athletic, cultural, and community opportunities with families. This paperless system delivers flyers electronically and provides convenient access to current community information. **Families will receive a weekly email** with flyers."
   }
 ]
