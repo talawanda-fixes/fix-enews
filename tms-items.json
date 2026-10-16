@@ -156,38 +156,6 @@
     "summary": "**Exercise caution when exiting the upper parking lot at dismissal.** Staff members are following buses from TMS to THS for coaching duties, creating additional traffic. **Look both ways carefully** and avoid pulling out into oncoming traffic from the lower lot."
   },
   {
-    "title": "7th & 8th Grade Band Concert",
-    "block_id": "bxbrl0ewmd-bnwnhn3xrq",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/7u8va-spooky-season?ref=email",
-    "source_title": "SPOOKY SEASON! | Smore Newsletters for Education",
-    "date": "2026-10-02T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "7th \n\n& \n\n8th \n\nGrade \n\nBand \n\nConcert 7th & 8th Grade Band Concert",
-        "id": "bxbrl0ewmd"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "The 7th Grade and 8th Grade Bands will have their first concert of the year Wednesday, October 14th at the Talawanda Performing Arts Center located on the THS campus. The student report time is 6:30 pm no later than 6:45 pm. Dress attire for students is all black similar to previous years.",
-        "id": "bnwnhn3xrq"
-      }
-    ],
-    "hash": "bxbrl0ewmd-bnwnhn3xrq",
-    "summary": "The **7th and 8th Grade Bands** will perform their first concert of the year on **Wednesday, October 14th** at the **Talawanda Performing Arts Center** (THS campus). Students must report between **6:30-6:45 PM** wearing **all black attire**.",
-    "event_info": [
-      {
-        "title": "7th & 8th Grade Band Concert",
-        "start": "2026-10-14T18:30:00",
-        "end": "2026-10-14T19:30:00",
-        "description": "The **7th and 8th Grade Bands** will perform their first concert of the year on **Wednesday, October 14th** at the **Talawanda Performing Arts Center** (THS campus). Students must report between **6:3",
-        "location": "Talawanda Performing Arts Center, THS campus"
-      }
-    ]
-  },
-  {
     "title": "TSD OnePlan Family Engagement Opportunity",
     "block_id": "bpe0bh5emq-buznoiwpac",
     "content": "",
@@ -216,6 +184,38 @@
         "end": "2026-11-19T01:00:00",
         "description": "Families are invited to review the **TSD OnePlan** (year one) on the district website and provide feedback. To participate in the parent/community advisory group, contact **Ms. Stephanie Aerni, Direct",
         "location": "THS Performing Arts Center"
+      }
+    ]
+  },
+  {
+    "title": "7th & 8th Grade Band Concert",
+    "block_id": "bxbrl0ewmd-bnwnhn3xrq",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/7u8va-spooky-season?ref=email",
+    "source_title": "SPOOKY SEASON! | Smore Newsletters for Education",
+    "date": "2026-10-02T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "7th \n\n& \n\n8th \n\nGrade \n\nBand \n\nConcert 7th & 8th Grade Band Concert",
+        "id": "bxbrl0ewmd"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "The 7th Grade and 8th Grade Bands will have their first concert of the year Wednesday, October 14th at the Talawanda Performing Arts Center located on the THS campus. The student report time is 6:30 pm no later than 6:45 pm. Dress attire for students is all black similar to previous years.",
+        "id": "bnwnhn3xrq"
+      }
+    ],
+    "hash": "bxbrl0ewmd-bnwnhn3xrq",
+    "summary": "The **7th and 8th Grade Bands** will perform their first concert of the year on **Wednesday, October 14th** at the **Talawanda Performing Arts Center** (THS campus). Students must report between **6:30-6:45 PM** wearing **all black attire**.",
+    "event_info": [
+      {
+        "title": "7th & 8th Grade Band Concert",
+        "start": "2026-10-14T18:30:00",
+        "end": "2026-10-14T19:30:00",
+        "description": "The **7th and 8th Grade Bands** will perform their first concert of the year on **Wednesday, October 14th** at the **Talawanda Performing Arts Center** (THS campus). Students must report between **6:3",
+        "location": "Talawanda Performing Arts Center, THS campus"
       }
     ]
   },

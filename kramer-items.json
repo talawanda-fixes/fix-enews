@@ -355,6 +355,38 @@
     ]
   },
   {
+    "title": "Unplug & Play at Kramer Playground",
+    "block_id": "bhieabqel8-bdu5q8zsoz-bf61p1h76d",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/6cfh8",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-10-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Unplug \n\n& \n\nPlay \n\nat \n\nKramer! Unplug & Play at Kramer!",
+        "id": "bhieabqel8"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Bring a lawn chair! Relax and chat with other parents and staff while the kids engage in independent creative play! Join us Thursday, November 5th 5:30-6:30 Kramer Playground",
+        "id": "bdu5q8zsoz"
+      }
+    ],
+    "hash": "bhieabqel8-bdu5q8zsoz-bf61p1h76d",
+    "summary": "Join other families for **Unplug & Play at Kramer** on **Thursday, November 5th from 5:30-6:30 PM** at the Kramer Playground. Parents and staff can bring lawn chairs to relax and chat while children enjoy independent creative play.",
+    "event_info": [
+      {
+        "title": "Unplug & Play at Kramer",
+        "start": "2026-11-05T17:30:00",
+        "end": "2026-11-05T18:30:00",
+        "description": "Join other families for **Unplug & Play at Kramer** on **Thursday, November 5th from 5:30-6:30 PM** at the Kramer Playground. Parents and staff can bring lawn chairs to relax and chat while children e",
+        "location": "Kramer Playground"
+      }
+    ]
+  },
+  {
     "title": "Busy Week at Kramer Elementary School",
     "block_id": "bkx6j9ko18",
     "content": "",
@@ -424,38 +456,6 @@
         "end": "2026-10-16T23:59:00",
         "description": "**No school on Friday, October 16th.** Students and staff have the day off.",
         "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Unplug & Play at Kramer Playground",
-    "block_id": "bhieabqel8-bdu5q8zsoz-bf61p1h76d",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/6cfh8",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-10-09T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Unplug \n\n& \n\nPlay \n\nat \n\nKramer! Unplug & Play at Kramer!",
-        "id": "bhieabqel8"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Bring a lawn chair! Relax and chat with other parents and staff while the kids engage in independent creative play! Join us Thursday, November 5th 5:30-6:30 Kramer Playground",
-        "id": "bdu5q8zsoz"
-      }
-    ],
-    "hash": "bhieabqel8-bdu5q8zsoz-bf61p1h76d",
-    "summary": "Join other families for **Unplug & Play at Kramer** on **Thursday, November 5th from 5:30-6:30 PM** at the Kramer Playground. Parents and staff can bring lawn chairs to relax and chat while children enjoy independent creative play.",
-    "event_info": [
-      {
-        "title": "Unplug & Play at Kramer",
-        "start": "2026-11-05T17:30:00",
-        "end": "2026-11-05T18:30:00",
-        "description": "Join other families for **Unplug & Play at Kramer** on **Thursday, November 5th from 5:30-6:30 PM** at the Kramer Playground. Parents and staff can bring lawn chairs to relax and chat while children e",
-        "location": "Kramer Playground"
       }
     ]
   },
@@ -552,6 +552,73 @@
         "end": "2026-11-05T23:59:00",
         "description": "**Next PTG Meeting:** Join us in the Kramer Art Room at 7pm to focus on Kramer carnival planning and regular updates. **Dine to Donate** at Larosa's on **November 5, 2026** to support Kramer PTG. **Co",
         "location": "Larosa's"
+      }
+    ]
+  },
+  {
+    "title": "October 2026 Elementary Lunch Menu",
+    "block_id": "bx11wh24sz-b7q61nv1cu",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/21a5/f3e831d909e08a77c831818a6e72ec2a.png"
+    ],
+    "source_url": "https://app.smore.com/n/mcvhe",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-10-02T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Lunch \n\nMenu Lunch Menu",
+        "id": "bx11wh24sz"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/21a5/f3e831d909e08a77c831818a6e72ec2a.png",
+        "id": "b7q61nv1cu"
+      }
+    ],
+    "hash": "bx11wh24sz-b7q61nv1cu",
+    "summary": "Kramer Elementary's lunch menu for October 2026 includes daily hot meal options with sides and accompaniments. **All lunches include a choice of milk.** Sample meals include pizza varieties, chicken dishes, tacos, pasta, and sandwiches, served with vegetables, fruits, and salads. **No school on October 16th.** Menu is subject to change based on product availability."
+  },
+  {
+    "title": "Grading System Changes and District Policies",
+    "block_id": "b1kzf7f4ks-bs3y5xjm5w-b57gw3wk6i-b3bn0goh5u",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/mcvhe",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-10-02T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Important \n\nDistrict \n\nInformation Important District Information",
+        "id": "b1kzf7f4ks"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Changes to the K-5 Grading System at Talawanda  NEW for the 2026-2027 School Year Grades 3-5 - Moving to a Traditional Letter Grading System (A-F)We are excited to shift our grades 3–5 to a traditional letter grade system (A-F) to provide a more detailed look at your child's overall performance and academic habits. This change aligns our 3rd-5th graders with the expectations they will meet in middle and high school, fostering greater accountability and preparing them for future success.For families, this transition offers a familiar and intuitive way to track progress. While the numerical scale focused on specific milestones, letter grades allow for a wider range of feedback to distinguish between meeting basic requirements and consistently exceeding them. This system ensures a clearer dialogue between teachers and parents, highlighting exactly where a student excels or may need extra support.Here is the breakdown of the traditional letter grading system:A - 90-100%B - 80-89%C - 70-79%D - 60-69%F - 0-59%Grades K-2 - Remaining with the Numerical Grading System (1-4)Grades K–2 will continue using the numerical (1–4) grading system to best support our youngest learners. At this foundational level, education is focused on the progressive development of core skills and meeting specific developmental milestones rather than a cumulative letter grade. The 1–4 scale provides a precise way for teachers to communicate exactly where a student is in their learning journey—from beginning to explore a concept to achieving mastery—ensuring that families have a clear understanding of their child's growth in these critical early years. As a reminder, here is a breakdown of the numerical scores:4 - Consistently/Independently Meeting the Standard3 - Meeting the Standard2 - Approaching the Standard1- Not Yet Meeting the Standard",
+        "id": "bs3y5xjm5w"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "TSD Title I-A Parent and Family Engagement Policy We invite and encourage our families to review the TSD Title I-A Parent and Family Engagement Policy linked to our website. If you have feedback to share, please contact your student’s Title Reading teacher. There will also be a feedback session on 11/19/26 ahead of the School Board Meeting at the THS Performing Art Center.",
+        "id": "b57gw3wk6i"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "TSD One Plan Family Engagement We invite and encourage our families to review the TSD One Plan linked to our website. Talawanda is in year one of our current One Plan. Additional information about the One Plan can be found on the Ohio Department of Education and Workforce, linked here.If you have feedback to share or would like to be part of the parent/community advisory group for our One Plan, please contact Ms. Stephanie Aerni, Director of Teaching & Learning (AerniS@talawanda.org). There will also be a feedback session on 11/19/26 ahead of the School Board Meeting at the THS Performing Art Center.",
+        "id": "b3bn0goh5u"
+      }
+    ],
+    "hash": "b1kzf7f4ks-bs3y5xjm5w-b57gw3wk6i-b3bn0goh5u",
+    "summary": "**Major grading changes for 2026-2027:** Grades 3-5 are moving to a traditional letter grading system (A-F with A=90-100%, B=80-89%, C=70-79%, D=60-69%, F=0-59%), while grades K-2 will continue using the numerical 1-4 system. Families are invited to review the **TSD Title I-A Parent and Family Engagement Policy** and the **TSD One Plan** on the district website. A **feedback session for both policies** will be held on **11/19/26** ahead of the School Board Meeting at the THS Performing Art Center. To join the parent/community advisory group or provide feedback, contact Ms. Stephanie Aerni (AerniS@talawanda.org) or your student's Title Reading teacher.",
+    "event_info": [
+      {
+        "title": "TSD Policies Feedback Session",
+        "start": "2026-11-19T00:00:00",
+        "end": "2026-11-19T01:00:00",
+        "description": "**Major grading changes for 2026-2027:** Grades 3-5 are moving to a traditional letter grading system (A-F with A=90-100%, B=80-89%, C=70-79%, D=60-69%, F=0-59%), while grades K-2 will continue using ",
+        "location": "THS Performing Art Center"
       }
     ]
   },
@@ -705,73 +772,6 @@
         "end": "2026-10-31T23:59:00",
         "description": "The October 2026 calendar includes multiple **Big Brother Big Sister** meetings (Mondays: Oct 5, 12, 19, 26 and Thursdays: Oct 1, 8, 15, 22, 29), **Conferences** on Oct 8 and 13 (4-7:30 PM), **Kramer ",
         "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "October 2026 Elementary Lunch Menu",
-    "block_id": "bx11wh24sz-b7q61nv1cu",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/21a5/f3e831d909e08a77c831818a6e72ec2a.png"
-    ],
-    "source_url": "https://app.smore.com/n/mcvhe",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-10-02T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Lunch \n\nMenu Lunch Menu",
-        "id": "bx11wh24sz"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/21a5/f3e831d909e08a77c831818a6e72ec2a.png",
-        "id": "b7q61nv1cu"
-      }
-    ],
-    "hash": "bx11wh24sz-b7q61nv1cu",
-    "summary": "Kramer Elementary's lunch menu for October 2026 includes daily hot meal options with sides and accompaniments. **All lunches include a choice of milk.** Sample meals include pizza varieties, chicken dishes, tacos, pasta, and sandwiches, served with vegetables, fruits, and salads. **No school on October 16th.** Menu is subject to change based on product availability."
-  },
-  {
-    "title": "Grading System Changes and District Policies",
-    "block_id": "b1kzf7f4ks-bs3y5xjm5w-b57gw3wk6i-b3bn0goh5u",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/mcvhe",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-10-02T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Important \n\nDistrict \n\nInformation Important District Information",
-        "id": "b1kzf7f4ks"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Changes to the K-5 Grading System at Talawanda  NEW for the 2026-2027 School Year Grades 3-5 - Moving to a Traditional Letter Grading System (A-F)We are excited to shift our grades 3–5 to a traditional letter grade system (A-F) to provide a more detailed look at your child's overall performance and academic habits. This change aligns our 3rd-5th graders with the expectations they will meet in middle and high school, fostering greater accountability and preparing them for future success.For families, this transition offers a familiar and intuitive way to track progress. While the numerical scale focused on specific milestones, letter grades allow for a wider range of feedback to distinguish between meeting basic requirements and consistently exceeding them. This system ensures a clearer dialogue between teachers and parents, highlighting exactly where a student excels or may need extra support.Here is the breakdown of the traditional letter grading system:A - 90-100%B - 80-89%C - 70-79%D - 60-69%F - 0-59%Grades K-2 - Remaining with the Numerical Grading System (1-4)Grades K–2 will continue using the numerical (1–4) grading system to best support our youngest learners. At this foundational level, education is focused on the progressive development of core skills and meeting specific developmental milestones rather than a cumulative letter grade. The 1–4 scale provides a precise way for teachers to communicate exactly where a student is in their learning journey—from beginning to explore a concept to achieving mastery—ensuring that families have a clear understanding of their child's growth in these critical early years. As a reminder, here is a breakdown of the numerical scores:4 - Consistently/Independently Meeting the Standard3 - Meeting the Standard2 - Approaching the Standard1- Not Yet Meeting the Standard",
-        "id": "bs3y5xjm5w"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "TSD Title I-A Parent and Family Engagement Policy We invite and encourage our families to review the TSD Title I-A Parent and Family Engagement Policy linked to our website. If you have feedback to share, please contact your student’s Title Reading teacher. There will also be a feedback session on 11/19/26 ahead of the School Board Meeting at the THS Performing Art Center.",
-        "id": "b57gw3wk6i"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "TSD One Plan Family Engagement We invite and encourage our families to review the TSD One Plan linked to our website. Talawanda is in year one of our current One Plan. Additional information about the One Plan can be found on the Ohio Department of Education and Workforce, linked here.If you have feedback to share or would like to be part of the parent/community advisory group for our One Plan, please contact Ms. Stephanie Aerni, Director of Teaching & Learning (AerniS@talawanda.org). There will also be a feedback session on 11/19/26 ahead of the School Board Meeting at the THS Performing Art Center.",
-        "id": "b3bn0goh5u"
-      }
-    ],
-    "hash": "b1kzf7f4ks-bs3y5xjm5w-b57gw3wk6i-b3bn0goh5u",
-    "summary": "**Major grading changes for 2026-2027:** Grades 3-5 are moving to a traditional letter grading system (A-F with A=90-100%, B=80-89%, C=70-79%, D=60-69%, F=0-59%), while grades K-2 will continue using the numerical 1-4 system. Families are invited to review the **TSD Title I-A Parent and Family Engagement Policy** and the **TSD One Plan** on the district website. A **feedback session for both policies** will be held on **11/19/26** ahead of the School Board Meeting at the THS Performing Art Center. To join the parent/community advisory group or provide feedback, contact Ms. Stephanie Aerni (AerniS@talawanda.org) or your student's Title Reading teacher.",
-    "event_info": [
-      {
-        "title": "TSD Policies Feedback Session",
-        "start": "2026-11-19T00:00:00",
-        "end": "2026-11-19T01:00:00",
-        "description": "**Major grading changes for 2026-2027:** Grades 3-5 are moving to a traditional letter grading system (A-F with A=90-100%, B=80-89%, C=70-79%, D=60-69%, F=0-59%), while grades K-2 will continue using ",
-        "location": "THS Performing Art Center"
       }
     ]
   },
