@@ -1,5 +1,57 @@
 [
   {
+    "title": "Bogan Free Pantry for Students",
+    "block_id": "bh1mh3rers-b3i39vwdzt",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/bf33/a0a629a8eba4df1b36745c760ee9e0db.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/3bpfd-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-10-15T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Social \n\nWork \n\nSpotlight Social Work Spotlight",
+        "id": "bh1mh3rers"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/bf33/a0a629a8eba4df1b36745c760ee9e0db.jpeg",
+        "id": "b3i39vwdzt"
+      }
+    ],
+    "hash": "bh1mh3rers-b3i39vwdzt",
+    "summary": "The **Bogan Free Pantry** is located at the entrance to Bogan and provides free food and hygiene items to all students. Available items include cereal, fruit, veggies, peanut butter, spaghetti, mac and cheese, soup, shampoo, and toothbrushes. To donate, ask questions, or make suggestions, contact Emily, Bogan Social Worker, at **513-273-3403** or **whiteeetalawanda.org**."
+  },
+  {
+    "title": "Health Education Curriculum Update - Erin's Law",
+    "block_id": "bh5ola3f42",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/3bpfd-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-10-15T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "Health Education Curriculum Update - SB 288-Erin's Law The Ohio Department of Education and Workforce (DEW), formally called the Ohio Department of Education, has shared with public schools across the state Senate Bill 288. This legislation requires that health education curricula be updated to include (K-12/developmentally appropriate) prevention education information in the areas of sexual abuse and sexual violence for students in public schools.As promised, the district is providing an opportunity for families to review the curriculum, and parents may opt their students out of the lessons if they choose. For more information from the Ohio Department of Education- Click HERE.Instruction occurs annually. This year the district will conduct these updates with students October 12-26, 2026.K-3 Curriculum- Click HERE4-6 Curriculum- Click HERE7-8 Curriculum- TMSSocial Inclusion: Click HEREDating Violence: Click HERESuicide Prevention: Click HERE9-12 Curriculum - THS will share their videos in three successive weeks.Social Inclusion: Click HEREDating Violence / Healthy Relationships: Click HERESuicide Prevention: Click HEREContact your student's building and school counselor with any questions.",
+        "id": "bh5ola3f42"
+      }
+    ],
+    "hash": "bh5ola3f42",
+    "summary": "**Senate Bill 288 (Erin's Law)** requires Ohio schools to provide developmentally appropriate prevention education on sexual abuse and sexual violence for K-12 students. Talawanda will conduct this instruction **October 12-26, 2026**, with grade-specific curriculum materials available for parent review. Parents may opt their students out of these lessons by contacting their building's school counselor.",
+    "event_info": [
+      {
+        "title": "Health Education - SB 288/Erin's Law Instruction (K-12)",
+        "start": "2026-10-12T00:00:00",
+        "end": "2026-10-26T23:59:00",
+        "description": "**Senate Bill 288 (Erin's Law)** requires Ohio schools to provide developmentally appropriate prevention education on sexual abuse and sexual violence for K-12 students. Talawanda will conduct this in",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
     "title": "3rd Grade State Testing Information",
     "block_id": "bjqvo7kz71-bsycuuvouy-b3r7j7tqlf",
     "content": "",
@@ -697,94 +749,6 @@
         "start": "2026-09-13T00:00:00",
         "end": "2026-09-13T23:59:00",
         "description": "**PAX (Peace, Productivity, Health, Happiness)** is a research-based classroom strategy that helps students make positive choices and collaborate with others. The program promotes kindness, teamwork, ",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Unplug and Play Playground Event",
-    "block_id": "bjqvo7kz71-b74m6trbab",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/43a1/00fe3b711e1fb6a18ad654a3ec10b28b.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/bcwm1-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-09-04T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Around \n\nBogan Around Bogan",
-        "id": "bjqvo7kz71"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/43a1/00fe3b711e1fb6a18ad654a3ec10b28b.jpeg",
-        "id": "b74m6trbab"
-      }
-    ],
-    "hash": "bjqvo7kz71-b74m6trbab",
-    "summary": "**Unplug and Play** event at the Bogan playground on **Thursday, September 10** from **5:30pm-7:30pm**. Students can hang out with friends, see their teachers, and enjoy popsicles. The event features playground equipment including a yellow slide, and sports activities with soccer and football available.",
-    "event_info": [
-      {
-        "title": "Unplug and Play at Bogan Playground",
-        "start": "2026-09-10T17:30:00",
-        "end": "2026-09-10T19:30:00",
-        "description": "**Unplug and Play** event at the Bogan playground on **Thursday, September 10** from **5:30pm-7:30pm**. Students can hang out with friends, see their teachers, and enjoy popsicles. The event features ",
-        "location": "Bogan playground"
-      }
-    ]
-  },
-  {
-    "title": "PTG Fall Programs: Mumkins and Reading at Home",
-    "block_id": "bpx42aowpj-bh8qc4w12s-bamkc9zs79",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/b8cc/0c156455b6b6657a13505d660dfddffb.jpeg",
-      "https://cdn.smore.com/u/4e0e/d0c9a9011a951b6d80e2476fd4ce8a29.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/cqjvne-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-08-28T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PTG \n\nCorner PTG Corner",
-        "id": "bpx42aowpj"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/b8cc/0c156455b6b6657a13505d660dfddffb.jpeg",
-        "id": "bh8qc4w12s"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/4e0e/d0c9a9011a951b6d80e2476fd4ce8a29.jpeg",
-        "id": "bamkc9zs79"
-      }
-    ],
-    "hash": "bpx42aowpj-bh8qc4w12s-bamkc9zs79",
-    "summary": "**Mumkins and Mumsters** are back! Sales run September 2-16 with delivery on October 3rd. These decorative items are made from recycled, eco-friendly, and reusable materials.\n\n**Reading at Home (RAH)** program starts September 11th. Details will be provided in children's folders. The PTG gladly accepts donations of gently used chapter books.",
-    "event_info": [
-      {
-        "title": "Mumkins and Mumsters Sale",
-        "start": "2026-09-02T00:00:00",
-        "end": "2026-09-16T23:59:00",
-        "description": "**Mumkins and Mumsters** are back! Sales run September 2-16 with delivery on October 3rd. These decorative items are made from recycled, eco-friendly, and reusable materials.\n\n**Reading at Home (RAH)*",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Mumkins and Mumsters Delivery",
-        "start": "2026-10-03T00:00:00",
-        "end": "2026-10-03T23:59:00",
-        "description": "**Mumkins and Mumsters** are back! Sales run September 2-16 with delivery on October 3rd. These decorative items are made from recycled, eco-friendly, and reusable materials.\n\n**Reading at Home (RAH)*",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Reading at Home (RAH) Program Starts",
-        "start": "2026-09-11T00:00:00",
-        "end": "2026-09-11T23:59:00",
-        "description": "**Mumkins and Mumsters** are back! Sales run September 2-16 with delivery on October 3rd. These decorative items are made from recycled, eco-friendly, and reusable materials.\n\n**Reading at Home (RAH)*",
         "location": "Talawanda High School"
       }
     ]
