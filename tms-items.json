@@ -490,57 +490,6 @@
     ]
   },
   {
-    "title": "8th Grade Butler Tech Tour Dates",
-    "block_id": "b0m2lr7813-brt4re7p2o-by2dsmb2h1",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/ascut2-fall-is-coming?ref=email",
-    "source_title": "FALL IS COMING! | Smore Newsletters for Education",
-    "date": "2026-09-18T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "8TH \n\nGRADE \n\nBUTLER \n\nTECH 8TH GRADE BUTLER TECH",
-        "id": "b0m2lr7813"
-      },
-      {
-        "type": "text.title",
-        "content": "TOUR \n\nDATES TOUR DATES",
-        "id": "brt4re7p2o"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "October 1, 2026Advanced Manufacturing Center & Natural Science CenterOctober 13, 2026D. Russel Lee Campus & AviationOctober 20, 2026BioScience Center & School of the Arts",
-        "id": "by2dsmb2h1"
-      }
-    ],
-    "hash": "b0m2lr7813-brt4re7p2o-by2dsmb2h1",
-    "summary": "Butler Tech tours are scheduled for 8th grade students at three different locations:\n- **October 1, 2026**: Advanced Manufacturing Center & Natural Science Center\n- **October 13, 2026**: D. Russel Lee Campus & Aviation\n- **October 20, 2026**: BioScience Center & School of the Arts",
-    "event_info": [
-      {
-        "title": "8th Grade Butler Tech Tour - Advanced Manufacturing Center & Natural Science Center",
-        "start": "2026-10-01T00:00:00",
-        "end": "2026-10-01T01:00:00",
-        "description": "Butler Tech tours are scheduled for 8th grade students at three different locations:\n- **October 1, 2026**: Advanced Manufacturing Center & Natural Science Center\n- **October 13, 2026**: D. Russel Lee",
-        "location": "Advanced Manufacturing Center & Natural Science Center"
-      },
-      {
-        "title": "8th Grade Butler Tech Tour - D. Russel Lee Campus & Aviation",
-        "start": "2026-10-13T00:00:00",
-        "end": "2026-10-13T01:00:00",
-        "description": "Butler Tech tours are scheduled for 8th grade students at three different locations:\n- **October 1, 2026**: Advanced Manufacturing Center & Natural Science Center\n- **October 13, 2026**: D. Russel Lee",
-        "location": "D. Russel Lee Campus & Aviation"
-      },
-      {
-        "title": "8th Grade Butler Tech Tour - BioScience Center & School of the Arts",
-        "start": "2026-10-20T00:00:00",
-        "end": "2026-10-20T01:00:00",
-        "description": "Butler Tech tours are scheduled for 8th grade students at three different locations:\n- **October 1, 2026**: Advanced Manufacturing Center & Natural Science Center\n- **October 13, 2026**: D. Russel Lee",
-        "location": "BioScience Center & School of the Arts"
-      }
-    ]
-  },
-  {
     "title": "Gamers Club Meeting Information and Schedule",
     "block_id": "bvgt4bnez3-bxmz5us0zr",
     "content": "",
@@ -592,6 +541,57 @@
         "end": "2026-10-26T23:59:00",
         "description": "The district is implementing **Senate Bill 288 (Erin's Law)** requirements for updated health education curricula covering sexual abuse and violence prevention (K-12). **Instruction occurs October 12-",
         "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "8th Grade Butler Tech Tour Dates",
+    "block_id": "b0m2lr7813-brt4re7p2o-by2dsmb2h1",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/ascut2-fall-is-coming?ref=email",
+    "source_title": "FALL IS COMING! | Smore Newsletters for Education",
+    "date": "2026-09-18T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "8TH \n\nGRADE \n\nBUTLER \n\nTECH 8TH GRADE BUTLER TECH",
+        "id": "b0m2lr7813"
+      },
+      {
+        "type": "text.title",
+        "content": "TOUR \n\nDATES TOUR DATES",
+        "id": "brt4re7p2o"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "October 1, 2026Advanced Manufacturing Center & Natural Science CenterOctober 13, 2026D. Russel Lee Campus & AviationOctober 20, 2026BioScience Center & School of the Arts",
+        "id": "by2dsmb2h1"
+      }
+    ],
+    "hash": "b0m2lr7813-brt4re7p2o-by2dsmb2h1",
+    "summary": "Butler Tech tours are scheduled for 8th grade students at three different locations:\n- **October 1, 2026**: Advanced Manufacturing Center & Natural Science Center\n- **October 13, 2026**: D. Russel Lee Campus & Aviation\n- **October 20, 2026**: BioScience Center & School of the Arts",
+    "event_info": [
+      {
+        "title": "8th Grade Butler Tech Tour - Advanced Manufacturing Center & Natural Science Center",
+        "start": "2026-10-01T00:00:00",
+        "end": "2026-10-01T01:00:00",
+        "description": "Butler Tech tours are scheduled for 8th grade students at three different locations:\n- **October 1, 2026**: Advanced Manufacturing Center & Natural Science Center\n- **October 13, 2026**: D. Russel Lee",
+        "location": "Advanced Manufacturing Center & Natural Science Center"
+      },
+      {
+        "title": "8th Grade Butler Tech Tour - D. Russel Lee Campus & Aviation",
+        "start": "2026-10-13T00:00:00",
+        "end": "2026-10-13T01:00:00",
+        "description": "Butler Tech tours are scheduled for 8th grade students at three different locations:\n- **October 1, 2026**: Advanced Manufacturing Center & Natural Science Center\n- **October 13, 2026**: D. Russel Lee",
+        "location": "D. Russel Lee Campus & Aviation"
+      },
+      {
+        "title": "8th Grade Butler Tech Tour - BioScience Center & School of the Arts",
+        "start": "2026-10-20T00:00:00",
+        "end": "2026-10-20T01:00:00",
+        "description": "Butler Tech tours are scheduled for 8th grade students at three different locations:\n- **October 1, 2026**: Advanced Manufacturing Center & Natural Science Center\n- **October 13, 2026**: D. Russel Lee",
+        "location": "BioScience Center & School of the Arts"
       }
     ]
   },

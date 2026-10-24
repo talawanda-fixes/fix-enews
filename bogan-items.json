@@ -205,6 +205,33 @@
     ]
   },
   {
+    "title": "Class at the Court Basketball Game",
+    "block_id": "bd3p5ml8d4",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/42nbr-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-10-09T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "2026 Class @ the CourtGreater Oxford Educational CollaborativeMiami University Athletics & Talawanda Elementary SchoolsOn Wednesday, November 11, 2026 our students once again have the fantastic opportunity to attend the Miami University Women’s basketball game “Class at the Court” at Millett Hall during the school day. Thanks to the generous support of Miami University and our educational partnership our students will attend the game free of charge. We will leave school shortly after we take attendance, heading to Millett Hall at 9:30AM, and will return to school after the game. Any student that has NOT arrived at school on 11/11/26 before 9:30AM, will not be able to participate in this activity. Please make note of this. We will contact the parent of any student that experiences illness or behavior issues and the parent will need to pick their student up at Millett Hall.",
+        "id": "bd3p5ml8d4"
+      }
+    ],
+    "hash": "bd3p5ml8d4",
+    "summary": "**Class 2026** students will attend a **Miami University Women's Basketball game** at **Millett Hall** on **Wednesday, November 11, 2026**. The group will leave school at **9:30 AM** after attendance and return after the game. **Students must arrive at school before 9:30 AM to participate.** Admission is free thanks to Miami University's partnership. Parents will need to pick up students from Millett Hall if illness or behavior issues arise.",
+    "event_info": [
+      {
+        "title": "Class at the Court - Miami University Women's Basketball Game",
+        "start": "2026-11-11T09:30:00",
+        "end": "2026-11-11T10:30:00",
+        "description": "**Class 2026** students will attend a **Miami University Women's Basketball game** at **Millett Hall** on **Wednesday, November 11, 2026**. The group will leave school at **9:30 AM** after attendance ",
+        "location": "Millett Hall, Miami University"
+      }
+    ]
+  },
+  {
     "title": "3rd Grade State Testing Information",
     "block_id": "bjqvo7kz71-bsycuuvouy-b3r7j7tqlf",
     "content": "",
@@ -261,33 +288,6 @@
         "end": "2026-10-29T01:00:00",
         "description": "**3rd grade students will take the fall English Language Arts Ohio State Test on Wednesday, October 21st and Thursday, October 22nd, beginning at 9:30am.** Parents are encouraged to write letters of e",
         "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Class at the Court Basketball Game",
-    "block_id": "bd3p5ml8d4",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/42nbr-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-10-09T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "2026 Class @ the CourtGreater Oxford Educational CollaborativeMiami University Athletics & Talawanda Elementary SchoolsOn Wednesday, November 11, 2026 our students once again have the fantastic opportunity to attend the Miami University Women’s basketball game “Class at the Court” at Millett Hall during the school day. Thanks to the generous support of Miami University and our educational partnership our students will attend the game free of charge. We will leave school shortly after we take attendance, heading to Millett Hall at 9:30AM, and will return to school after the game. Any student that has NOT arrived at school on 11/11/26 before 9:30AM, will not be able to participate in this activity. Please make note of this. We will contact the parent of any student that experiences illness or behavior issues and the parent will need to pick their student up at Millett Hall.",
-        "id": "bd3p5ml8d4"
-      }
-    ],
-    "hash": "bd3p5ml8d4",
-    "summary": "**Class 2026** students will attend a **Miami University Women's Basketball game** at **Millett Hall** on **Wednesday, November 11, 2026**. The group will leave school at **9:30 AM** after attendance and return after the game. **Students must arrive at school before 9:30 AM to participate.** Admission is free thanks to Miami University's partnership. Parents will need to pick up students from Millett Hall if illness or behavior issues arise.",
-    "event_info": [
-      {
-        "title": "Class at the Court - Miami University Women's Basketball Game",
-        "start": "2026-11-11T09:30:00",
-        "end": "2026-11-11T10:30:00",
-        "description": "**Class 2026** students will attend a **Miami University Women's Basketball game** at **Millett Hall** on **Wednesday, November 11, 2026**. The group will leave school at **9:30 AM** after attendance ",
-        "location": "Millett Hall, Miami University"
       }
     ]
   },
