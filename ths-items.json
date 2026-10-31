@@ -749,29 +749,6 @@
     ]
   },
   {
-    "title": "Miami University Mentorship Program for Juniors/Seniors",
-    "block_id": "b3g8k756ja-bddi8t4vu2",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/9qeum",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-09-04T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "School \n\nCounseling \n\nOffice School Counseling Office",
-        "id": "b3g8k756ja"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Juniors and Seniors,We are reaching out to you regarding a new mentorship opportunity with college students at Miami University. A group of students at Miami University are starting a mentorship club connecting Talawanda High School students with current college students. If you have any questions about a certain major, life after high school, or you just want someone to talk to who has been through the college application process these Miami students would love to be a resource to you. They will be coming during Tutorial Period every other Friday, so you won't have to stay after school to participate. Before these Miami students can start coming in, they need to gauge your interest. If this is something that you would be interested in, we would love for you to fill out the form below. Mentorship Interest FormIf you have any questions, feel free to email the Miami students at hopeandafutureclub@gmail.com. Thank you!",
-        "id": "bddi8t4vu2"
-      }
-    ],
-    "hash": "b3g8k756ja-bddi8t4vu2",
-    "summary": "Juniors and seniors can sign up for a **mentorship program with Miami University college students** who will visit during Tutorial Period every other Friday. Mentors can answer questions about college majors, life after high school, and the application process. Interested students should fill out the **[Mentorship Interest Form](hopeandafutureclub@gmail.com)** or email hopeandafutureclub@gmail.com with questions."
-  },
-  {
     "title": "Peachjar Digital Flyer Solution Access",
     "block_id": "b2vm14dwnz-b9f7soitkm",
     "content": "",
@@ -793,5 +770,28 @@
     ],
     "hash": "b2vm14dwnz-b9f7soitkm",
     "summary": "Talawanda School District uses **Peachjar** as its digital flyer distribution system. Access all community and school flyers through the [Peachjar Flyers Page](https://www.peachjar.com/flyers/all/schools/67890)."
+  },
+  {
+    "title": "Miami University Mentorship Program for Juniors/Seniors",
+    "block_id": "b3g8k756ja-bddi8t4vu2",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/9qeum",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-09-04T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "School \n\nCounseling \n\nOffice School Counseling Office",
+        "id": "b3g8k756ja"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Juniors and Seniors,We are reaching out to you regarding a new mentorship opportunity with college students at Miami University. A group of students at Miami University are starting a mentorship club connecting Talawanda High School students with current college students. If you have any questions about a certain major, life after high school, or you just want someone to talk to who has been through the college application process these Miami students would love to be a resource to you. They will be coming during Tutorial Period every other Friday, so you won't have to stay after school to participate. Before these Miami students can start coming in, they need to gauge your interest. If this is something that you would be interested in, we would love for you to fill out the form below. Mentorship Interest FormIf you have any questions, feel free to email the Miami students at hopeandafutureclub@gmail.com. Thank you!",
+        "id": "bddi8t4vu2"
+      }
+    ],
+    "hash": "b3g8k756ja-bddi8t4vu2",
+    "summary": "Juniors and seniors can sign up for a **mentorship program with Miami University college students** who will visit during Tutorial Period every other Friday. Mentors can answer questions about college majors, life after high school, and the application process. Interested students should fill out the **[Mentorship Interest Form](hopeandafutureclub@gmail.com)** or email hopeandafutureclub@gmail.com with questions."
   }
 ]

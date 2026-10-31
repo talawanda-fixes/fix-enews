@@ -113,6 +113,61 @@
     ]
   },
   {
+    "title": "Parent Teacher Conferences Scheduled for November",
+    "block_id": "b33f702bet-brw5thb1ni",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/gn9j2-spooky-time-is-near?ref=email",
+    "source_title": "SPOOKY TIME IS NEAR! | Smore Newsletters for Education",
+    "date": "2026-10-23T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PARENT \n\nTEACHER \n\nCONFERENCES! PARENT TEACHER CONFERENCES!",
+        "id": "b33f702bet"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "There will be Parent/Teacher conferences on NOVEMBER 18TH FROM 3PM - 6PM.Please call the front office to schedule,513.273.3300.",
+        "id": "brw5thb1ni"
+      }
+    ],
+    "hash": "b33f702bet-brw5thb1ni",
+    "summary": "**Parent/Teacher conferences** will be held on **November 18th from 3:00 PM to 6:00 PM**. To schedule an appointment, please call the front office at **513.273.3300**.",
+    "event_info": [
+      {
+        "title": "Parent Teacher Conferences",
+        "start": "2026-11-18T15:00:00",
+        "end": "2026-11-18T18:00:00",
+        "description": "**Parent/Teacher conferences** will be held on **November 18th from 3:00 PM to 6:00 PM**. To schedule an appointment, please call the front office at **513.273.3300**.",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Winter Sports Information Available",
+    "block_id": "bvtlb0ck2b-bxcdh5zm99",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/gn9j2-spooky-time-is-near?ref=email",
+    "source_title": "SPOOKY TIME IS NEAR! | Smore Newsletters for Education",
+    "date": "2026-10-23T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "WINTER \n\nSPORTS \n\nINFORMATION! WINTER SPORTS INFORMATION!",
+        "id": "bvtlb0ck2b"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Please use this LINK to access all of the winter sports information.(Boys Basketball, Girls Basketball, and Wrestling)If you have any other questions please email Annie Klenk, klenke@talawanda.org.",
+        "id": "bxcdh5zm99"
+      }
+    ],
+    "hash": "bvtlb0ck2b-bxcdh5zm99",
+    "summary": "Winter sports information is now available for **Boys Basketball, Girls Basketball, and Wrestling**. Access all details through the provided link or contact Annie Klenk at klenke@talawanda.org with questions."
+  },
+  {
     "title": "Upcoming Events and Important Dates",
     "block_id": "bnjebupzyg-btnrhcxaik-b1crrvfki1",
     "content": "",
@@ -183,61 +238,6 @@
         "location": "Talawanda High School"
       }
     ]
-  },
-  {
-    "title": "Parent Teacher Conferences Scheduled for November",
-    "block_id": "b33f702bet-brw5thb1ni",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/gn9j2-spooky-time-is-near?ref=email",
-    "source_title": "SPOOKY TIME IS NEAR! | Smore Newsletters for Education",
-    "date": "2026-10-23T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PARENT \n\nTEACHER \n\nCONFERENCES! PARENT TEACHER CONFERENCES!",
-        "id": "b33f702bet"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "There will be Parent/Teacher conferences on NOVEMBER 18TH FROM 3PM - 6PM.Please call the front office to schedule,513.273.3300.",
-        "id": "brw5thb1ni"
-      }
-    ],
-    "hash": "b33f702bet-brw5thb1ni",
-    "summary": "**Parent/Teacher conferences** will be held on **November 18th from 3:00 PM to 6:00 PM**. To schedule an appointment, please call the front office at **513.273.3300**.",
-    "event_info": [
-      {
-        "title": "Parent Teacher Conferences",
-        "start": "2026-11-18T15:00:00",
-        "end": "2026-11-18T18:00:00",
-        "description": "**Parent/Teacher conferences** will be held on **November 18th from 3:00 PM to 6:00 PM**. To schedule an appointment, please call the front office at **513.273.3300**.",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Winter Sports Information Available",
-    "block_id": "bvtlb0ck2b-bxcdh5zm99",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/gn9j2-spooky-time-is-near?ref=email",
-    "source_title": "SPOOKY TIME IS NEAR! | Smore Newsletters for Education",
-    "date": "2026-10-23T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "WINTER \n\nSPORTS \n\nINFORMATION! WINTER SPORTS INFORMATION!",
-        "id": "bvtlb0ck2b"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Please use this LINK to access all of the winter sports information.(Boys Basketball, Girls Basketball, and Wrestling)If you have any other questions please email Annie Klenk, klenke@talawanda.org.",
-        "id": "bxcdh5zm99"
-      }
-    ],
-    "hash": "bvtlb0ck2b-bxcdh5zm99",
-    "summary": "Winter sports information is now available for **Boys Basketball, Girls Basketball, and Wrestling**. Access all details through the provided link or contact Annie Klenk at klenke@talawanda.org with questions."
   },
   {
     "title": "Halloween Spirit Week October 26-30",
