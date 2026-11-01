@@ -1,5 +1,149 @@
 [
   {
+    "title": "Meet Sadie, Bogan's New Therapy Dog",
+    "block_id": "bjqvo7kz71-bnt8pe9hcf-b1skn7qqzo",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/410e/b4bb12dec6c720ca5078fa62823a0750.jpg"
+    ],
+    "source_url": "https://app.smore.com/n/5d964-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-10-30T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Around \n\nBogan Around Bogan",
+        "id": "bjqvo7kz71"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Meet Sadie! Please welcome our newest Bogan staff member, Sadie! Sadie is Dr. Cannon's dog. Sadie is fully trained and certified as a therapy dog through AAAIP, which is affiliated with Pet Partners. She is also an AKC certified Good Citizen! Sadie took her therapy evaluation test at Bogan, so the evaluator was able to make sure that she is a good fit to work in elementary schools.Sadie is going to start visiting Bogan once a week. She will visit and spend time with our students and staff. Students will always have the choice of whether or not they would like to interact with or pet Sadie.",
+        "id": "bnt8pe9hcf"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/410e/b4bb12dec6c720ca5078fa62823a0750.jpg",
+        "id": "b1skn7qqzo"
+      }
+    ],
+    "hash": "bjqvo7kz71-bnt8pe9hcf-b1skn7qqzo",
+    "summary": "**Sadie**, a black therapy dog, is joining Bogan Elementary as Dr. Cannon's certified therapy dog. She is fully trained and certified through AAAIP (affiliated with Pet Partners) and is an AKC certified Good Citizen. Sadie will visit Bogan once a week to spend time with students and staff, and students can choose whether or not to interact with her."
+  },
+  {
+    "title": "Breakfast and Books Event Sign-Up",
+    "block_id": "bfyucpsjso-bjco3sa2hn",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/9477/80279805cb14e14e20c1d9359aed1f87.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/5d964-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-10-30T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/9477/80279805cb14e14e20c1d9359aed1f87.jpeg",
+        "id": "bfyucpsjso"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "You can also click the flyer to sign-up!",
+        "id": "bjco3sa2hn"
+      }
+    ],
+    "hash": "bfyucpsjso-bjco3sa2hn",
+    "summary": "**Breakfast and Books** event for families and students on **Wednesday, November 18th from 8:15-8:45 AM** in the Bogan Cafeteria. Attendees can enjoy breakfast, listen to a story with Mr. Farmer, and pick out free books. RSVP required at https://forms.gle/v5eB1QRVcy7cgh3B6. Event sponsored by the McCullough-Hyde Foundation.",
+    "event_info": [
+      {
+        "title": "Breakfast and Books",
+        "start": "2026-11-18T08:15:00",
+        "end": "2026-11-18T08:45:00",
+        "description": "**Breakfast and Books** event for families and students on **Wednesday, November 18th from 8:15-8:45 AM** in the Bogan Cafeteria. Attendees can enjoy breakfast, listen to a story with Mr. Farmer, and ",
+        "location": "Bogan Cafeteria"
+      }
+    ]
+  },
+  {
+    "title": "PAX Good Behavior Game Program",
+    "block_id": "berhllupn2-bbyw57cizv",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/5d964-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-10-30T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PAX PAX",
+        "id": "berhllupn2"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "The PAX Good Behavior Game is a research-based classroom strategy that helps children make positive choices, and collaborate with others. It supports a calmer, more focused learning environment by promoting kindness, teamwork, and respectful behavior.",
+        "id": "bbyw57cizv"
+      }
+    ],
+    "hash": "berhllupn2-bbyw57cizv",
+    "summary": "The **PAX Good Behavior Game** is a research-based classroom strategy that helps students make positive choices and collaborate with others. It creates a calmer, more focused learning environment by promoting **kindness, teamwork, and respectful behavior**."
+  },
+  {
+    "title": "Superintendent Meetings in November",
+    "block_id": "bwk8x8y5ub-b5eyil4qvq",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/5d964-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-10-30T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Around \n\nTalawanda Around Talawanda",
+        "id": "bwk8x8y5ub"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Coming Up...Meet with the Superintendent: Come meet with the Superintendent at the Administrative Offices at 131 W. Chestnut Street Oxford, OH 45056:November 2, 2026 at 4 PM to share informational items on the new Attendance Law, 40 by 2040 federal funding, and Talawanda financialsNovember 13, 2026 at 7:30 or 8 AM to share information regarding property taxes, school funding, and Talawanda financialsBring your coffee and we can share information.",
+        "id": "b5eyil4qvq"
+      }
+    ],
+    "hash": "bwk8x8y5ub-b5eyil4qvq",
+    "summary": "The Superintendent is hosting two informal meetings at the Administrative Offices (131 W. Chestnut Street, Oxford, OH 45056):\n\n- **November 2, 2026 at 4 PM**: Topics include the new Attendance Law, 40 by 2040 federal funding, and Talawanda financials\n- **November 13, 2026 at 7:30 or 8 AM**: Topics include property taxes, school funding, and Talawanda financials. Coffee is encouraged.",
+    "event_info": [
+      {
+        "title": "Meet with the Superintendent - Attendance Law & Funding",
+        "start": "2026-11-02T16:00:00",
+        "end": "2026-11-02T17:00:00",
+        "description": "The Superintendent is hosting two informal meetings at the Administrative Offices (131 W. Chestnut Street, Oxford, OH 45056):\n\n- **November 2, 2026 at 4 PM**: Topics include the new Attendance Law, 40",
+        "location": "Administrative Offices, 131 W. Chestnut Street, Oxford, OH 45056"
+      },
+      {
+        "title": "Meet with the Superintendent - Taxes & Funding",
+        "start": "2026-11-13T07:30:00",
+        "end": "2026-11-13T08:30:00",
+        "description": "The Superintendent is hosting two informal meetings at the Administrative Offices (131 W. Chestnut Street, Oxford, OH 45056):\n\n- **November 2, 2026 at 4 PM**: Topics include the new Attendance Law, 40",
+        "location": "Administrative Offices, 131 W. Chestnut Street, Oxford, OH 45056"
+      }
+    ]
+  },
+  {
+    "title": "K-5 Grading System Curriculum Updates",
+    "block_id": "b0ivmvuqyr",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/5d964-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-10-30T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "Curriculum Updates Changes to the K-5 Grading System",
+        "id": "b0ivmvuqyr"
+      }
+    ],
+    "hash": "b0ivmvuqyr",
+    "summary": "The school district is implementing changes to the grading system for grades K-5. No additional details about the specific changes or implementation timeline are provided in this announcement."
+  },
+  {
     "title": "5th Grade CogAt Testing Schedule",
     "block_id": "bjqvo7kz71-b1srv5h0ee",
     "content": "",
@@ -541,155 +685,5 @@
     ],
     "hash": "bpx42aowpj-be9d3uyfej-bvtlum7ghu",
     "summary": "The **PTG (Parent-Teacher Group)** has information available for families whose students participated in the **Foermeyer and Sons Flower Sale**. Delivery details can be found by clicking on the flyer provided in the announcement."
-  },
-  {
-    "title": "September Attendance Awareness Month",
-    "block_id": "bjqvo7kz71-bfmqdkhp7i-bei5uokiq0",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/53a1/754db729f7b2d55f69f3d183bdfa24fe.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/dvsgyx-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-09-25T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Around \n\nBogan Around Bogan",
-        "id": "bjqvo7kz71"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "September is Attendance Awareness Month! Student attendance is crucial to your student's success here at school.The state of Ohio defines chronic absenteeism as a student being absent for 10% of the year for both unexcused AND excused. In addition, the state looks at hours that a student has missed school- not just days. This mean that tardies in the morning and early dismissals in the afternoon contribute to chronic absenteeism.If your family has a fun trip planned, we absolutely encourage you to go and make those memories!! Please just be mindful of other days that your student is absent.We will send monthly letters home if your child has reached 10% or more absences. This is a way for us to proactively share information with you about your child's attendance.Please know that we are here to help!! Do not hesitate reach out if you have any questions or need assistance!",
-        "id": "bfmqdkhp7i"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/53a1/754db729f7b2d55f69f3d183bdfa24fe.jpeg",
-        "id": "bei5uokiq0"
-      }
-    ],
-    "hash": "bjqvo7kz71-bfmqdkhp7i-bei5uokiq0",
-    "summary": "**September is Attendance Awareness Month.** Ohio defines chronic absenteeism as missing 10% of the year (both excused and unexcused absences), and this is calculated by *hours* missed, not just days—meaning tardies and early dismissals count. Families will receive monthly letters if their child reaches 10% or more absences. The school encourages families to be mindful of attendance and reach out if they need assistance."
-  },
-  {
-    "title": "PAX Good Behavior Game Program",
-    "block_id": "berhllupn2-bbyw57cizv-bbwiju01hj-bp8y5upgdb",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/3c38/8e60823c540babe6d036d498e811d82f.jpeg",
-      "https://cdn.smore.com/u/b606/778fa299bba820fa72ae352c1830fc6e.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/dvsgyx-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-09-25T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PAX PAX",
-        "id": "berhllupn2"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "The PAX Good Behavior Game is a research-based classroom strategy that helps children make positive choices, and collaborate with others. It supports a calmer, more focused learning environment by promoting kindness, teamwork, and respectful behavior.",
-        "id": "bbyw57cizv"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/3c38/8e60823c540babe6d036d498e811d82f.jpeg",
-        "id": "bbwiju01hj"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/b606/778fa299bba820fa72ae352c1830fc6e.jpeg",
-        "id": "bp8y5upgdb"
-      }
-    ],
-    "hash": "berhllupn2-bbyw57cizv-bbwiju01hj-bp8y5upgdb",
-    "summary": "The **PAX Good Behavior Game** is a research-based classroom strategy that helps students make positive choices and collaborate with others. It promotes a calmer, more focused learning environment through kindness, teamwork, and respectful behavior.\n\nThe September and October 2026 calendars show daily PAX activities for students, including tasks like listening to classical music, creating PAX visions, helping others, expressing gratitude, and participating in themed days like National Read a Book Day and National Positivity Thinking Day."
-  },
-  {
-    "title": "Dine to Donate at LaRosa's Oxford",
-    "block_id": "bpx42aowpj-bto8crem3z",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/8db7/0ef74fcbe8b4aee72a84d9e3577fd4b7.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/6xrbjt-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-09-18T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PTG \n\nCorner PTG Corner",
-        "id": "bpx42aowpj"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/8db7/0ef74fcbe8b4aee72a84d9e3577fd4b7.jpeg",
-        "id": "bto8crem3z"
-      }
-    ],
-    "hash": "bpx42aowpj-bto8crem3z",
-    "summary": "**Dine to Donate fundraiser at LaRosa's Family Pizzeria in Oxford on Tuesday, September 22nd from 4 pm-11 pm.** Present the flyer for dine-in, carry-out, or delivery to support the Bogan PTG, students, and staff. For questions, contact BoganPTG@gmail.com.",
-    "event_info": [
-      {
-        "title": "Dine to Donate at LaRosa's Oxford",
-        "start": "2026-09-22T16:00:00",
-        "end": "2026-09-22T23:00:00",
-        "description": "**Dine to Donate fundraiser at LaRosa's Family Pizzeria in Oxford on Tuesday, September 22nd from 4 pm-11 pm.** Present the flyer for dine-in, carry-out, or delivery to support the Bogan PTG, students",
-        "location": "LaRosa's Family Pizzeria, Oxford"
-      }
-    ]
-  },
-  {
-    "title": "School Health Guidelines: When to Stay Home",
-    "block_id": "bfk3x3z2v4-b27mhl6bz5",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/d262/0dd86f6daad954baf5d4ca7ccf556dfd.png"
-    ],
-    "source_url": "https://app.smore.com/n/y12ne-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-09-11T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Nurse's \n\nNotes Nurse's Notes",
-        "id": "bfk3x3z2v4"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/d262/0dd86f6daad954baf5d4ca7ccf556dfd.png",
-        "id": "b27mhl6bz5"
-      }
-    ],
-    "hash": "bfk3x3z2v4-b27mhl6bz5",
-    "summary": "Students should **stay home** if they have: fever of 100°F or higher, vomiting or diarrhea within 24 hours, undiagnosed rash with fever, active head lice, sore throat with fever/swollen glands/strep, eye infection with discharge, severe respiratory illness, or feel too sick to participate. Students can **return when**: fever-free for 24 hours without medicine, vomiting resolved overnight and can hold down food, diarrhea improved to no more than 2 accidents per 24 hours, rash cleared by doctor, lice treatment completed, 12-24 hours after antibiotics (for strep/eye infection), or respiratory symptoms improving for 24 hours and fever-free. **Stay healthy** by washing hands, covering coughs, and being kind."
-  },
-  {
-    "title": "Peachjar Digital Flyer Service Introduction",
-    "block_id": "bwk8x8y5ub-bupxh9h4hd",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/4641/c3f314da6321871983cdeab978dbcac4.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/y12ne-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-09-11T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Around \n\nTalawanda Around Talawanda",
-        "id": "bwk8x8y5ub"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/4641/c3f314da6321871983cdeab978dbcac4.jpeg",
-        "id": "bupxh9h4hd"
-      }
-    ],
-    "hash": "bwk8x8y5ub-bupxh9h4hd",
-    "summary": "Talawanda School District now uses **Peachjar**, a digital flyer delivery service, to share information with families about educational, athletic, cultural, and community opportunities. Families can click the image to access TSD and community flyers through this new platform."
   }
 ]
