@@ -1,5 +1,120 @@
 [
   {
+    "title": "Breakfast and Books Event for Families",
+    "block_id": "bjqvo7kz71-b28ywgegjj-bjco3sa2hn",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/14d0/ec110b875576c9bfe9a1fa810f69677b.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/hgx2d0-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-11-06T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Around \n\nBogan Around Bogan",
+        "id": "bjqvo7kz71"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/14d0/ec110b875576c9bfe9a1fa810f69677b.jpeg",
+        "id": "b28ywgegjj"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "You can also click the flyer to sign-up!",
+        "id": "bjco3sa2hn"
+      }
+    ],
+    "hash": "bjqvo7kz71-b28ywgegjj-bjco3sa2hn",
+    "summary": "Families and students are invited to **Breakfast and Books** on **Wednesday, November 18th from 8:15-8:45 AM** in the **Bogan Cafeteria**. Attendees will enjoy breakfast, listen to a story with Mr. Farmer, and pick out free books. **RSVP required** at https://forms.gle/v5eb1QRvcy7cGH3B6. Event sponsored by the McCullough-Hyde Foundation.",
+    "event_info": [
+      {
+        "title": "Breakfast and Books",
+        "start": "2026-11-18T08:15:00",
+        "end": "2026-11-18T08:45:00",
+        "description": "Families and students are invited to **Breakfast and Books** on **Wednesday, November 18th from 8:15-8:45 AM** in the **Bogan Cafeteria**. Attendees will enjoy breakfast, listen to a story with Mr. Fa",
+        "location": "Bogan Cafeteria"
+      }
+    ]
+  },
+  {
+    "title": "PAX Good Behavior Game Student Calendar",
+    "block_id": "berhllupn2-bbyw57cizv-b0dc91eyb3",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/f7a4/692e88b1c8ac699fe4d562c2dda494be.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/hgx2d0-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-11-06T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PAX PAX",
+        "id": "berhllupn2"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "The PAX Good Behavior Game is a research-based classroom strategy that helps children make positive choices, and collaborate with others. It supports a calmer, more focused learning environment by promoting kindness, teamwork, and respectful behavior.",
+        "id": "bbyw57cizv"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/f7a4/692e88b1c8ac699fe4d562c2dda494be.jpeg",
+        "id": "b0dc91eyb3"
+      }
+    ],
+    "hash": "berhllupn2-bbyw57cizv-b0dc91eyb3",
+    "summary": "The **PAX Good Behavior Game** is a research-based classroom strategy that promotes positive choices, collaboration, kindness, teamwork, and respectful behavior in students. The November 2026 student calendar includes daily activities such as complimenting others, leading green-team activities, participating in World Kindness Day (November 13), National Child Day (November 20), World Hello Day (November 21), and Thanksgiving-themed activities. Students are encouraged to practice PAX leadership skills, healthy habits, and community engagement throughout the month.",
+    "event_info": [
+      {
+        "title": "World Kindness Day - Do Something Nice",
+        "start": "2026-11-13T00:00:00",
+        "end": "2026-11-13T23:59:00",
+        "description": "The **PAX Good Behavior Game** is a research-based classroom strategy that promotes positive choices, collaboration, kindness, teamwork, and respectful behavior in students. The November 2026 student ",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "National Child Day - Play with a Friend",
+        "start": "2026-11-20T00:00:00",
+        "end": "2026-11-20T23:59:00",
+        "description": "The **PAX Good Behavior Game** is a research-based classroom strategy that promotes positive choices, collaboration, kindness, teamwork, and respectful behavior in students. The November 2026 student ",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "World Hello Day - Say Hi to Neighbors",
+        "start": "2026-11-21T00:00:00",
+        "end": "2026-11-21T23:59:00",
+        "description": "The **PAX Good Behavior Game** is a research-based classroom strategy that promotes positive choices, collaboration, kindness, teamwork, and respectful behavior in students. The November 2026 student ",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Miami University Orchestra Discovery Event",
+    "block_id": "bwk8x8y5ub-bn4icniuvb-bylz1l2jvf",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/hgx2d0-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-11-06T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Around \n\nTalawanda Around Talawanda",
+        "id": "bwk8x8y5ub"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Miami University: Discover the Orchestra! Meet the instruments of the orchestra and hear exciting live music! Click the Peachjar link below for the flyer.",
+        "id": "bn4icniuvb"
+      }
+    ],
+    "hash": "bwk8x8y5ub-bn4icniuvb-bylz1l2jvf",
+    "summary": "**Miami University is hosting \"Discover the Orchestra!\"** - an opportunity to meet the instruments of the orchestra and hear exciting live music. A flyer with more details is available through the Peachjar link referenced in the announcement."
+  },
+  {
     "title": "Meet Sadie, Bogan's New Therapy Dog",
     "block_id": "bjqvo7kz71-bnt8pe9hcf-b1skn7qqzo",
     "content": "",
@@ -607,83 +722,5 @@
         "location": "Talawanda High School"
       }
     ]
-  },
-  {
-    "title": "Family Organizes Hygiene Drive for Students",
-    "block_id": "bjqvo7kz71-bpn549l2fe-br1rkeh755",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/7b21/436670ac571f53cf34baf0f4315c09e4.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/ymb6h-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-10-02T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Around \n\nBogan Around Bogan",
-        "id": "bjqvo7kz71"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "One of our amazing families organized a hygiene drive to support our Bogan students with basic necessities. It truly takes a village!",
-        "id": "bpn549l2fe"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/7b21/436670ac571f53cf34baf0f4315c09e4.jpeg",
-        "id": "br1rkeh755"
-      }
-    ],
-    "hash": "bjqvo7kz71-bpn549l2fe-br1rkeh755",
-    "summary": "A Talawanda family organized a successful hygiene drive to provide basic necessities for Bogan students. The donation collection includes paper towels, toilet paper, tissues, laundry detergent bottles, wipes, and other essential hygiene items displayed on a cart. The school expresses gratitude for this community support."
-  },
-  {
-    "title": "October School Breakfast Menus Available",
-    "block_id": "bw0b1h078k-bsfxg96pk6",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/fb3a/867245fef007150d7eb86396597e8b65.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/dvsgyx-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-09-25T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "October Menus Here are the breakfast and lunch menus for October!",
-        "id": "bw0b1h078k"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/fb3a/867245fef007150d7eb86396597e8b65.jpeg",
-        "id": "bsfxg96pk6"
-      }
-    ],
-    "hash": "bw0b1h078k-bsfxg96pk6",
-    "summary": "The breakfast menus for October 2026 are now available for Bogan Elementary. Each breakfast includes **100% fruit juice, apples, oranges or other fresh fruit selection, and choice of milk**. Menu items include various options such as cinnamon buns, sausage & cheese biscuit sandwiches, glazed donuts, mini chocolate chip french toast, pancakes, breakfast pizza, french toast sticks, biscuits & sausage gravy, stuffed hash browns, and pumpkin glazed mini donut holes. Other breakfast options are also available daily. **No school on October 16th.** Menu is subject to change based on product availability."
-  },
-  {
-    "title": "PTG Flower Sale Delivery Information",
-    "block_id": "bpx42aowpj-be9d3uyfej-bvtlum7ghu",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/dvsgyx-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-09-25T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PTG \n\nCorner PTG Corner",
-        "id": "bpx42aowpj"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Flower Sale Delivery If your student sold any flowers during the Foermeyer and Sons Flower Sale, please click the flyer below for delivery details.",
-        "id": "be9d3uyfej"
-      }
-    ],
-    "hash": "bpx42aowpj-be9d3uyfej-bvtlum7ghu",
-    "summary": "The **PTG (Parent-Teacher Group)** has information available for families whose students participated in the **Foermeyer and Sons Flower Sale**. Delivery details can be found by clicking on the flyer provided in the announcement."
   }
 ]

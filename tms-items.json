@@ -1,5 +1,149 @@
 [
   {
+    "title": "Pie & Butterbraid Fundraiser Pick Up",
+    "block_id": "b48xm46h1y-bb5leqq4h7",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/es5gb-be-thankful?ref=email",
+    "source_title": "Be Thankful! | Smore Newsletters for Education",
+    "date": "2026-11-06T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PIE \n\n& \n\nBUTTERBRAID \n\nPICK \n\nUP! PIE & BUTTERBRAID PICK UP!",
+        "id": "b48xm46h1y"
+      },
+      {
+        "type": "text.title",
+        "content": "WEDNESDAY, \n\nNOVEMBER \n\n18TH \n\nFROM \n\n2:30 \n\n- \n\n6:30PM! WEDNESDAY, NOVEMBER 18TH FROM 2:30 - 6:30PM!",
+        "id": "bb5leqq4h7"
+      }
+    ],
+    "hash": "b48xm46h1y-bb5leqq4h7",
+    "summary": "**Pie and Butterbraid fundraiser orders** are ready for pick up on **Wednesday, November 18th from 2:30-6:30 PM**. Please plan to collect your orders during this time window.",
+    "event_info": [
+      {
+        "title": "Pie & Butterbraid Pick Up",
+        "start": "2026-11-18T14:30:00",
+        "end": "2026-11-18T18:30:00",
+        "description": "**Pie and Butterbraid fundraiser orders** are ready for pick up on **Wednesday, November 18th from 2:30-6:30 PM**. Please plan to collect your orders during this time window.",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Medication Policy Reminder from School Nurse",
+    "block_id": "bywgf99mla-bi8t43rq8m",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/es5gb-be-thankful?ref=email",
+    "source_title": "Be Thankful! | Smore Newsletters for Education",
+    "date": "2026-11-06T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "A \n\nMESSAGE \n\nFROM \n\nTHE \n\nNURSE A MESSAGE FROM THE NURSE",
+        "id": "bywgf99mla"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Hello TMS families. This is a friendly reminder. Please do not send medications of any kind to school with your students. This includes medications for Camp Glen Helen, prescription medications and any over the counter medications. If the student needs medication at school, there are forms that need to be filled out and a parent or guardian must bring the medication in. If you have any questions or concerns, please contact me at 513-273-3314 or by email at hartr@talawanda.org.",
+        "id": "bi8t43rq8m"
+      }
+    ],
+    "hash": "bywgf99mla-bi8t43rq8m",
+    "summary": "**Do not send medications to school with students.** All medications—including those for Camp Glen Helen, prescription drugs, and over-the-counter medicines—require completed forms and must be brought in by a parent or guardian. Contact the nurse at 513-273-3314 or hartr@talawanda.org with questions."
+  },
+  {
+    "title": "Winter Sports Information and Registration",
+    "block_id": "ba3hwlr0br-b55qbzxr73",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/es5gb-be-thankful?ref=email",
+    "source_title": "Be Thankful! | Smore Newsletters for Education",
+    "date": "2026-11-06T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "WINTER \n\nSPORTS \n\nINFORMATION! WINTER SPORTS INFORMATION!",
+        "id": "ba3hwlr0br"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Please use this LINK to access all of the winter sports information.(Boys Basketball, Girls Basketball, and Wrestling)If you have any other questions please email Annie Klenk, klenke@talawanda.org.",
+        "id": "b55qbzxr73"
+      }
+    ],
+    "hash": "ba3hwlr0br-b55qbzxr73",
+    "summary": "Winter sports information is now available for **Boys Basketball, Girls Basketball, and Wrestling**. Access all details through the provided link. For questions, contact Annie Klenk at klenke@talawanda.org."
+  },
+  {
+    "title": "Little Aggies Club Meeting - Animal Science",
+    "block_id": "b9tlz4y5lg-b3pdy24okx",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/es5gb-be-thankful?ref=email",
+    "source_title": "Be Thankful! | Smore Newsletters for Education",
+    "date": "2026-11-06T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "LITTLE \n\nAGGIES! LITTLE AGGIES!",
+        "id": "b9tlz4y5lg"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "NEXT MEETING!Wednesday, November 18th2:15-3:15 in Room 301.All are welcome to attend.This month's focus is Animal Science!",
+        "id": "b3pdy24okx"
+      }
+    ],
+    "hash": "b9tlz4y5lg-b3pdy24okx",
+    "summary": "The **Little Aggies** club will hold their next meeting on **Wednesday, November 18th from 2:15-3:15 PM in Room 301**. All students are welcome to attend. This month's focus topic is **Animal Science**.",
+    "event_info": [
+      {
+        "title": "Little Aggies Meeting - Animal Science Focus",
+        "start": "2026-11-18T14:15:00",
+        "end": "2026-11-18T15:15:00",
+        "description": "The **Little Aggies** club will hold their next meeting on **Wednesday, November 18th from 2:15-3:15 PM in Room 301**. All students are welcome to attend. This month's focus topic is **Animal Science*",
+        "location": "Room 301"
+      }
+    ]
+  },
+  {
+    "title": "Literacy and Language Night at TMS",
+    "block_id": "bk9c5k6lr4-bmp4iq50tu",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/d124/2b6a25a599e4e0ba37909c17344362ba.png"
+    ],
+    "source_url": "https://app.smore.com/n/es5gb-be-thankful?ref=email",
+    "source_title": "Be Thankful! | Smore Newsletters for Education",
+    "date": "2026-11-06T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "BRING \n\nYOUR \n\nSTUDENTS! BRING YOUR STUDENTS!",
+        "id": "bk9c5k6lr4"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/d124/2b6a25a599e4e0ba37909c17344362ba.png",
+        "id": "bmp4iq50tu"
+      }
+    ],
+    "hash": "bk9c5k6lr4-bmp4iq50tu",
+    "summary": "**Literacy and Language Night at Talawanda Middle School (TMS)** is scheduled for **November 18, 3:00-6:30 PM in the TMS Cafeteria** during Parent-Teacher Conferences. All students and parents are welcome to attend for free books, games with Miami University students, and parent resources.",
+    "event_info": [
+      {
+        "title": "Literacy and Language Night at TMS",
+        "start": "2026-11-18T15:00:00",
+        "end": "2026-11-18T18:30:00",
+        "description": "**Literacy and Language Night at Talawanda Middle School (TMS)** is scheduled for **November 18, 3:00-6:30 PM in the TMS Cafeteria** during Parent-Teacher Conferences. All students and parents are wel",
+        "location": "TMS Cafeteria"
+      }
+    ]
+  },
+  {
     "title": "Meet with the Superintendent Sessions",
     "block_id": "b44rlvsce0-bgyac9pyw7",
     "content": "",
@@ -561,181 +705,6 @@
         "start": "2026-10-05T00:00:00",
         "end": "2026-10-05T23:59:00",
         "description": "**Chromebook insurance fee reminder:** At least half of the $40 fee is due by **Friday, October 2nd**. If payment is not received, chromebooks will be shut down on **Monday, October 5th**. To set up a",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Little Aggies Club Meeting Information",
-    "block_id": "b7fgf5psp4-bqqrrjbyka-b9lqs808qi",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/sdq0we-fall-has-arrived?ref=email",
-    "source_title": "FALL HAS ARRIVED! | Smore Newsletters for Education",
-    "date": "2026-09-25T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "CLUB \n\nINFORMATION! CLUB INFORMATION!",
-        "id": "b7fgf5psp4"
-      },
-      {
-        "type": "text.title",
-        "content": "LITTLE \n\nAGGIES! LITTLE AGGIES!",
-        "id": "bqqrrjbyka"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "NEXT MEETINGOCTOBER 7TH!",
-        "id": "b9lqs808qi"
-      }
-    ],
-    "hash": "b7fgf5psp4-bqqrrjbyka-b9lqs808qi",
-    "summary": "**Little Aggies Club** is meeting next on **October 7th**. This is club information for students interested in participating.",
-    "event_info": [
-      {
-        "title": "Little Aggies Club Meeting",
-        "start": "2026-10-07T00:00:00",
-        "end": "2026-10-07T01:00:00",
-        "description": "**Little Aggies Club** is meeting next on **October 7th**. This is club information for students interested in participating.",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Gamers Club Meeting Information and Schedule",
-    "block_id": "bvgt4bnez3-bxmz5us0zr",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/ascut2-fall-is-coming?ref=email",
-    "source_title": "FALL IS COMING! | Smore Newsletters for Education",
-    "date": "2026-09-18T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "GAMERS \n\nCLUB! GAMERS CLUB!",
-        "id": "bvgt4bnez3"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "What is it?An after-school group for students who want to play tabletop, role-playing, or card games! We have some games on hand, but you are encouraged to bring your own games/cards to share and play with others. This is not computer games - old school board and card games only!Who can join? Any student at TMS who enjoys playing old school games (not computers/phones).When will it meet? Wednesday from 2:10 - 3pm SEE ATTACHED CALENDAR FOR MEETING DATES.Where?Room 202 (Mrs. Vu’s Room)Who are the advisors?Mrs. Vu, vut@talawanda.org and Ms. Krause, krausel@talawanda.orgOther FAQsYou MUST have a ride or be able to walk home at 3pm to be able to stay for club.LINK to Calendar and Permission Form",
-        "id": "bxmz5us0zr"
-      }
-    ],
-    "hash": "bvgt4bnez3-bxmz5us0zr",
-    "summary": "**Gamers Club** is an after-school group for TMS students to play tabletop, role-playing, and card games (no computer games). The club meets **Wednesdays from 2:10-3:00 PM in Room 202** (Mrs. Vu's room). Students must have transportation home at 3 PM, and a [permission form and calendar](link provided in original). Advisors: Mrs. Vu (vut@talawanda.org) and Ms. Krause (krausel@talawanda.org)."
-  },
-  {
-    "title": "Health Education Curriculum Update Information",
-    "block_id": "bcaxly60mf-b1s9ud9cj1",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/ascut2-fall-is-coming?ref=email",
-    "source_title": "FALL IS COMING! | Smore Newsletters for Education",
-    "date": "2026-09-18T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Health \n\nEducation \n\nInformation Health Education Information",
-        "id": "bcaxly60mf"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Health Education Curriculum Update - SB 288-Erin's LawThe Ohio Department of Education and Workforce (DEW), formally called the Ohio Department of Education, has shared with public schools across the state Senate Bill 288. This legislation requires that health education curricula be updated to include (K-12/developmentally appropriate) prevention education information in the areas of sexual abuse and sexual violence for students in public schools.As promised, the district is providing an opportunity for families to review the curriculum, and parents may opt their students out of the lessons if they choose.  For more information from the Ohio Department of Education- Click HERE. Instruction occurs annually. This year the district will conduct these updates with students October 12-26, 2026.K-3 Curriculum- Click HERE4-6 Curriculum- Click HERE7-8 Curriculum- TMSSocial Inclusion: Click HEREDating Violence: Click HERESuicide Prevention: Click HERE9-12 Curriculum - THS will share their videos in three successive weeks. Social Inclusion: Click HEREDating Violence / Healthy Relationships: Click HERESuicide Prevention: Click HEREContact your student's building and school counselor with any questions.",
-        "id": "b1s9ud9cj1"
-      }
-    ],
-    "hash": "bcaxly60mf-b1s9ud9cj1",
-    "summary": "The district is implementing **Senate Bill 288 (Erin's Law)** requirements for updated health education curricula covering sexual abuse and violence prevention (K-12). **Instruction occurs October 12-26, 2026**. Families can review grade-level curriculum materials online and opt students out if desired. Topics include social inclusion, dating violence/healthy relationships, and suicide prevention. Contact your student's school counselor with questions.",
-    "event_info": [
-      {
-        "title": "Health Education Instruction - SB 288 (Erin's Law)",
-        "start": "2026-10-12T00:00:00",
-        "end": "2026-10-26T23:59:00",
-        "description": "The district is implementing **Senate Bill 288 (Erin's Law)** requirements for updated health education curricula covering sexual abuse and violence prevention (K-12). **Instruction occurs October 12-",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "8th Grade Butler Tech Tour Dates",
-    "block_id": "b0m2lr7813-brt4re7p2o-by2dsmb2h1",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/ascut2-fall-is-coming?ref=email",
-    "source_title": "FALL IS COMING! | Smore Newsletters for Education",
-    "date": "2026-09-18T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "8TH \n\nGRADE \n\nBUTLER \n\nTECH 8TH GRADE BUTLER TECH",
-        "id": "b0m2lr7813"
-      },
-      {
-        "type": "text.title",
-        "content": "TOUR \n\nDATES TOUR DATES",
-        "id": "brt4re7p2o"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "October 1, 2026Advanced Manufacturing Center & Natural Science CenterOctober 13, 2026D. Russel Lee Campus & AviationOctober 20, 2026BioScience Center & School of the Arts",
-        "id": "by2dsmb2h1"
-      }
-    ],
-    "hash": "b0m2lr7813-brt4re7p2o-by2dsmb2h1",
-    "summary": "Butler Tech tours are scheduled for 8th grade students at three different locations:\n- **October 1, 2026**: Advanced Manufacturing Center & Natural Science Center\n- **October 13, 2026**: D. Russel Lee Campus & Aviation\n- **October 20, 2026**: BioScience Center & School of the Arts",
-    "event_info": [
-      {
-        "title": "8th Grade Butler Tech Tour - Advanced Manufacturing Center & Natural Science Center",
-        "start": "2026-10-01T00:00:00",
-        "end": "2026-10-01T01:00:00",
-        "description": "Butler Tech tours are scheduled for 8th grade students at three different locations:\n- **October 1, 2026**: Advanced Manufacturing Center & Natural Science Center\n- **October 13, 2026**: D. Russel Lee",
-        "location": "Advanced Manufacturing Center & Natural Science Center"
-      },
-      {
-        "title": "8th Grade Butler Tech Tour - D. Russel Lee Campus & Aviation",
-        "start": "2026-10-13T00:00:00",
-        "end": "2026-10-13T01:00:00",
-        "description": "Butler Tech tours are scheduled for 8th grade students at three different locations:\n- **October 1, 2026**: Advanced Manufacturing Center & Natural Science Center\n- **October 13, 2026**: D. Russel Lee",
-        "location": "D. Russel Lee Campus & Aviation"
-      },
-      {
-        "title": "8th Grade Butler Tech Tour - BioScience Center & School of the Arts",
-        "start": "2026-10-20T00:00:00",
-        "end": "2026-10-20T01:00:00",
-        "description": "Butler Tech tours are scheduled for 8th grade students at three different locations:\n- **October 1, 2026**: Advanced Manufacturing Center & Natural Science Center\n- **October 13, 2026**: D. Russel Lee",
-        "location": "BioScience Center & School of the Arts"
-      }
-    ]
-  },
-  {
-    "title": "7th Grade Glen Helen Trip Forms Due",
-    "block_id": "bvpre48kgv-bs4vrha94e",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/ascut2-fall-is-coming?ref=email",
-    "source_title": "FALL IS COMING! | Smore Newsletters for Education",
-    "date": "2026-09-18T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "ATTENTION \n\n7TH \n\nGRADE \n\nFAMILIES! ATTENTION 7TH GRADE FAMILIES!",
-        "id": "bvpre48kgv"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "7th grade students were given a PURPLE packet this week in science classes. This is for the Glen Helen trip and is information about health, allergies, and release forms. Please take the time to complete the packet and return it to your science teacher by Friday, September 25th!",
-        "id": "bs4vrha94e"
-      }
-    ],
-    "hash": "bvpre48kgv-bs4vrha94e",
-    "summary": "**7th grade students** received a **purple packet** in science class this week for the **Glen Helen trip**. The packet contains health information, allergy forms, and release forms that must be completed and **returned to your science teacher by Friday, September 25th**.",
-    "event_info": [
-      {
-        "title": "Glen Helen Trip Forms Due",
-        "start": "2026-09-25T00:00:00",
-        "end": "2026-09-25T23:59:00",
-        "description": "**7th grade students** received a **purple packet** in science class this week for the **Glen Helen trip**. The packet contains health information, allergy forms, and release forms that must be comple",
         "location": "Talawanda High School"
       }
     ]
