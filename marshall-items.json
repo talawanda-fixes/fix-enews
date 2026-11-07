@@ -130,40 +130,6 @@
     ]
   },
   {
-    "title": "Important Updates and Reminders",
-    "block_id": "bh9mmwk9fi-btitni4qgp",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/0132/978339bfcf843f835d5f81e9eaecb45f.png"
-    ],
-    "source_url": "https://app.smore.com/n/hzcx3",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-10-30T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "IMPORTANT \n\nUPDATES \n\n& \n\nREMINDERS IMPORTANT UPDATES & REMINDERS",
-        "id": "bh9mmwk9fi"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/0132/978339bfcf843f835d5f81e9eaecb45f.png",
-        "id": "btitni4qgp"
-      }
-    ],
-    "hash": "bh9mmwk9fi-btitni4qgp",
-    "summary": "**Picture Retake Day is scheduled for November 4th.** This is an opportunity for students to have their school photos retaken if needed.",
-    "event_info": [
-      {
-        "title": "Picture Retake Day",
-        "start": "2026-11-04T00:00:00",
-        "end": "2026-11-04T23:59:00",
-        "description": "**Picture Retake Day is scheduled for November 4th.** This is an opportunity for students to have their school photos retaken if needed.",
-        "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
     "title": "Class at the Court Basketball Game",
     "block_id": "bugz5hmd0h",
     "content": "",
@@ -187,82 +153,6 @@
         "end": "2026-11-11T10:30:00",
         "description": "**Talawanda Elementary students** will attend a Miami University women's basketball game at **Millett Hall on Wednesday, November 11, 2026**, free of charge. Students must arrive at school **before 9:",
         "location": "Millett Hall, Miami University"
-      }
-    ]
-  },
-  {
-    "title": "PTG Meeting Schedule for 2026-2027",
-    "block_id": "bi6881i3gq-bfipndhc0c",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/7ba1/8d0c762564432a80cfa2f002e7eb7547.png"
-    ],
-    "source_url": "https://app.smore.com/n/hzcx3",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-10-30T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PTG \n\nCORNER PTG CORNER",
-        "id": "bi6881i3gq"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/7ba1/8d0c762564432a80cfa2f002e7eb7547.png",
-        "id": "bfipndhc0c"
-      }
-    ],
-    "hash": "bi6881i3gq-bfipndhc0c",
-    "summary": "The Parent Teacher Group (PTG) will hold meetings on the following dates: **September 14, 2026**, **October 12, 2026**, **November 9, 2026**, **February 8, 2027**, **March 8, 2027**, **April 12, 2027**, and **May 10, 2027**. All meetings will be held at the **Marshall Elementary Cafeteria** from **6:00-7:00 p.m.**",
-    "event_info": [
-      {
-        "title": "PTG Meeting",
-        "start": "2026-09-14T18:00:00",
-        "end": "2026-09-14T19:00:00",
-        "description": "The Parent Teacher Group (PTG) will hold meetings on the following dates: **September 14, 2026**, **October 12, 2026**, **November 9, 2026**, **February 8, 2027**, **March 8, 2027**, **April 12, 2027*",
-        "location": "Marshall Elementary Cafeteria"
-      },
-      {
-        "title": "PTG Meeting",
-        "start": "2026-10-12T18:00:00",
-        "end": "2026-10-12T19:00:00",
-        "description": "The Parent Teacher Group (PTG) will hold meetings on the following dates: **September 14, 2026**, **October 12, 2026**, **November 9, 2026**, **February 8, 2027**, **March 8, 2027**, **April 12, 2027*",
-        "location": "Marshall Elementary Cafeteria"
-      },
-      {
-        "title": "PTG Meeting",
-        "start": "2026-11-09T18:00:00",
-        "end": "2026-11-09T19:00:00",
-        "description": "The Parent Teacher Group (PTG) will hold meetings on the following dates: **September 14, 2026**, **October 12, 2026**, **November 9, 2026**, **February 8, 2027**, **March 8, 2027**, **April 12, 2027*",
-        "location": "Marshall Elementary Cafeteria"
-      },
-      {
-        "title": "PTG Meeting",
-        "start": "2027-02-08T18:00:00",
-        "end": "2027-02-08T19:00:00",
-        "description": "The Parent Teacher Group (PTG) will hold meetings on the following dates: **September 14, 2026**, **October 12, 2026**, **November 9, 2026**, **February 8, 2027**, **March 8, 2027**, **April 12, 2027*",
-        "location": "Marshall Elementary Cafeteria"
-      },
-      {
-        "title": "PTG Meeting",
-        "start": "2027-03-08T18:00:00",
-        "end": "2027-03-08T19:00:00",
-        "description": "The Parent Teacher Group (PTG) will hold meetings on the following dates: **September 14, 2026**, **October 12, 2026**, **November 9, 2026**, **February 8, 2027**, **March 8, 2027**, **April 12, 2027*",
-        "location": "Marshall Elementary Cafeteria"
-      },
-      {
-        "title": "PTG Meeting",
-        "start": "2027-04-12T18:00:00",
-        "end": "2027-04-12T19:00:00",
-        "description": "The Parent Teacher Group (PTG) will hold meetings on the following dates: **September 14, 2026**, **October 12, 2026**, **November 9, 2026**, **February 8, 2027**, **March 8, 2027**, **April 12, 2027*",
-        "location": "Marshall Elementary Cafeteria"
-      },
-      {
-        "title": "PTG Meeting",
-        "start": "2027-05-10T18:00:00",
-        "end": "2027-05-10T19:00:00",
-        "description": "The Parent Teacher Group (PTG) will hold meetings on the following dates: **September 14, 2026**, **October 12, 2026**, **November 9, 2026**, **February 8, 2027**, **March 8, 2027**, **April 12, 2027*",
-        "location": "Marshall Elementary Cafeteria"
       }
     ]
   },
@@ -480,6 +370,116 @@
         "end": "2027-04-29T01:00:00",
         "description": "The 2026-27 music schedule includes five concert dates by grade level:\n- **November 11th**: 3rd Grade Veterans Day Concert\n- **December 10th**: 2nd Grade Winter Concert\n- **March 16th**: 1st Grade Con",
         "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "Important Updates and Reminders",
+    "block_id": "bh9mmwk9fi-btitni4qgp",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/0132/978339bfcf843f835d5f81e9eaecb45f.png"
+    ],
+    "source_url": "https://app.smore.com/n/hzcx3",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-10-30T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "IMPORTANT \n\nUPDATES \n\n& \n\nREMINDERS IMPORTANT UPDATES & REMINDERS",
+        "id": "bh9mmwk9fi"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/0132/978339bfcf843f835d5f81e9eaecb45f.png",
+        "id": "btitni4qgp"
+      }
+    ],
+    "hash": "bh9mmwk9fi-btitni4qgp",
+    "summary": "**Picture Retake Day is scheduled for November 4th.** This is an opportunity for students to have their school photos retaken if needed.",
+    "event_info": [
+      {
+        "title": "Picture Retake Day",
+        "start": "2026-11-04T00:00:00",
+        "end": "2026-11-04T23:59:00",
+        "description": "**Picture Retake Day is scheduled for November 4th.** This is an opportunity for students to have their school photos retaken if needed.",
+        "location": "Talawanda High School"
+      }
+    ]
+  },
+  {
+    "title": "PTG Meeting Schedule for 2026-2027",
+    "block_id": "bi6881i3gq-bfipndhc0c",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/7ba1/8d0c762564432a80cfa2f002e7eb7547.png"
+    ],
+    "source_url": "https://app.smore.com/n/hzcx3",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-10-30T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "PTG \n\nCORNER PTG CORNER",
+        "id": "bi6881i3gq"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/7ba1/8d0c762564432a80cfa2f002e7eb7547.png",
+        "id": "bfipndhc0c"
+      }
+    ],
+    "hash": "bi6881i3gq-bfipndhc0c",
+    "summary": "The Parent Teacher Group (PTG) will hold meetings on the following dates: **September 14, 2026**, **October 12, 2026**, **November 9, 2026**, **February 8, 2027**, **March 8, 2027**, **April 12, 2027**, and **May 10, 2027**. All meetings will be held at the **Marshall Elementary Cafeteria** from **6:00-7:00 p.m.**",
+    "event_info": [
+      {
+        "title": "PTG Meeting",
+        "start": "2026-09-14T18:00:00",
+        "end": "2026-09-14T19:00:00",
+        "description": "The Parent Teacher Group (PTG) will hold meetings on the following dates: **September 14, 2026**, **October 12, 2026**, **November 9, 2026**, **February 8, 2027**, **March 8, 2027**, **April 12, 2027*",
+        "location": "Marshall Elementary Cafeteria"
+      },
+      {
+        "title": "PTG Meeting",
+        "start": "2026-10-12T18:00:00",
+        "end": "2026-10-12T19:00:00",
+        "description": "The Parent Teacher Group (PTG) will hold meetings on the following dates: **September 14, 2026**, **October 12, 2026**, **November 9, 2026**, **February 8, 2027**, **March 8, 2027**, **April 12, 2027*",
+        "location": "Marshall Elementary Cafeteria"
+      },
+      {
+        "title": "PTG Meeting",
+        "start": "2026-11-09T18:00:00",
+        "end": "2026-11-09T19:00:00",
+        "description": "The Parent Teacher Group (PTG) will hold meetings on the following dates: **September 14, 2026**, **October 12, 2026**, **November 9, 2026**, **February 8, 2027**, **March 8, 2027**, **April 12, 2027*",
+        "location": "Marshall Elementary Cafeteria"
+      },
+      {
+        "title": "PTG Meeting",
+        "start": "2027-02-08T18:00:00",
+        "end": "2027-02-08T19:00:00",
+        "description": "The Parent Teacher Group (PTG) will hold meetings on the following dates: **September 14, 2026**, **October 12, 2026**, **November 9, 2026**, **February 8, 2027**, **March 8, 2027**, **April 12, 2027*",
+        "location": "Marshall Elementary Cafeteria"
+      },
+      {
+        "title": "PTG Meeting",
+        "start": "2027-03-08T18:00:00",
+        "end": "2027-03-08T19:00:00",
+        "description": "The Parent Teacher Group (PTG) will hold meetings on the following dates: **September 14, 2026**, **October 12, 2026**, **November 9, 2026**, **February 8, 2027**, **March 8, 2027**, **April 12, 2027*",
+        "location": "Marshall Elementary Cafeteria"
+      },
+      {
+        "title": "PTG Meeting",
+        "start": "2027-04-12T18:00:00",
+        "end": "2027-04-12T19:00:00",
+        "description": "The Parent Teacher Group (PTG) will hold meetings on the following dates: **September 14, 2026**, **October 12, 2026**, **November 9, 2026**, **February 8, 2027**, **March 8, 2027**, **April 12, 2027*",
+        "location": "Marshall Elementary Cafeteria"
+      },
+      {
+        "title": "PTG Meeting",
+        "start": "2027-05-10T18:00:00",
+        "end": "2027-05-10T19:00:00",
+        "description": "The Parent Teacher Group (PTG) will hold meetings on the following dates: **September 14, 2026**, **October 12, 2026**, **November 9, 2026**, **February 8, 2027**, **March 8, 2027**, **April 12, 2027*",
+        "location": "Marshall Elementary Cafeteria"
       }
     ]
   },

@@ -297,6 +297,103 @@
     ]
   },
   {
+    "title": "Veterans Day Breakfast and Assembly",
+    "block_id": "br7o2hhsgv-bvl3euguqf-b6fnj3vo15-b20f1ykxo8",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/c8cc/c1fbab40c15d6ee5a3d925f8b9fee438.png"
+    ],
+    "source_url": "https://app.smore.com/n/rpwyn",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-10-30T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "FCCLA FCCLA",
+        "id": "br7o2hhsgv"
+      },
+      {
+        "type": "text.title",
+        "content": "Veteran's \n\nDay Veteran's Day",
+        "id": "bvl3euguqf"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/c8cc/c1fbab40c15d6ee5a3d925f8b9fee438.png",
+        "id": "b6fnj3vo15"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "It is our honor and privilege to invite Veterans to our annual Veterans Day Breakfast and Recognition Ceremony. Please RSVP by November 4 by using this link.",
+        "id": "b20f1ykxo8"
+      }
+    ],
+    "hash": "br7o2hhsgv-bvl3euguqf-b6fnj3vo15-b20f1ykxo8",
+    "summary": "Veterans are invited to a **Veterans Day Breakfast at 7:45 AM** followed by an **Assembly at 9:00 AM on November 11, 2026** at Talawanda High School (5301 University Park Blvd, Oxford, OH 45056). The event honors all who served. **RSVP by November 4** using the provided link or QR code.",
+    "event_info": [
+      {
+        "title": "Veterans Day RSVP Deadline",
+        "start": "2026-11-04T23:59:00",
+        "end": "2026-11-05T00:59:00",
+        "description": "Veterans are invited to a **Veterans Day Breakfast at 7:45 AM** followed by an **Assembly at 9:00 AM on November 11, 2026** at Talawanda High School (5301 University Park Blvd, Oxford, OH 45056). The ",
+        "location": "Talawanda High School"
+      },
+      {
+        "title": "Veterans Day Breakfast",
+        "start": "2026-11-11T07:45:00",
+        "end": "2026-11-11T08:45:00",
+        "description": "Veterans are invited to a **Veterans Day Breakfast at 7:45 AM** followed by an **Assembly at 9:00 AM on November 11, 2026** at Talawanda High School (5301 University Park Blvd, Oxford, OH 45056). The ",
+        "location": "Talawanda High School, 5301 University Park Blvd, Oxford, OH 45056"
+      },
+      {
+        "title": "Veterans Day Assembly",
+        "start": "2026-11-11T09:00:00",
+        "end": "2026-11-11T10:00:00",
+        "description": "Veterans are invited to a **Veterans Day Breakfast at 7:45 AM** followed by an **Assembly at 9:00 AM on November 11, 2026** at Talawanda High School (5301 University Park Blvd, Oxford, OH 45056). The ",
+        "location": "Talawanda High School, 5301 University Park Blvd, Oxford, OH 45056"
+      }
+    ]
+  },
+  {
+    "title": "Meet with the Superintendent Sessions",
+    "block_id": "bim36t9tqx-b2nke3l7km",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/rpwyn",
+    "source_title": "Talawanda High School | Smore Newsletters for Education",
+    "date": "2026-10-30T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Community \n\nNews Community News",
+        "id": "bim36t9tqx"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Coming Up...Meet with the Superintendent:Come meet with the Superintendent at the Administrative Offices at 131 W. Chestnut Street Oxford, OH 45056:November 2, 2026 at 4 PM to share informational items on the new Attendance Law, 40 by 2040 federal funding, and Talawanda financialsNovember 13, 2026 at 7:30 or 8 AM to share information regarding property taxes, school funding, and Talawanda financialsBring your coffee and we can share information.",
+        "id": "b2nke3l7km"
+      }
+    ],
+    "hash": "bim36t9tqx-b2nke3l7km",
+    "summary": "The Superintendent is hosting two community meetings at the Administrative Offices (131 W. Chestnut Street, Oxford, OH 45056):\n- **November 2, 2026 at 4 PM**: Information on the new Attendance Law, 40 by 2040 federal funding, and Talawanda financials\n- **November 13, 2026 at 7:30 or 8 AM**: Information on property taxes, school funding, and Talawanda financials. Bring your coffee!",
+    "event_info": [
+      {
+        "title": "Meet with the Superintendent - Attendance Law & Funding",
+        "start": "2026-11-02T16:00:00",
+        "end": "2026-11-02T17:00:00",
+        "description": "The Superintendent is hosting two community meetings at the Administrative Offices (131 W. Chestnut Street, Oxford, OH 45056):\n- **November 2, 2026 at 4 PM**: Information on the new Attendance Law, 40",
+        "location": "Administrative Offices, 131 W. Chestnut Street, Oxford, OH 45056"
+      },
+      {
+        "title": "Meet with the Superintendent - Taxes & School Funding",
+        "start": "2026-11-13T07:30:00",
+        "end": "2026-11-13T08:30:00",
+        "description": "The Superintendent is hosting two community meetings at the Administrative Offices (131 W. Chestnut Street, Oxford, OH 45056):\n- **November 2, 2026 at 4 PM**: Information on the new Attendance Law, 40",
+        "location": "Administrative Offices, 131 W. Chestnut Street, Oxford, OH 45056"
+      }
+    ]
+  },
+  {
     "title": "Local Scholarship Opportunities for Seniors",
     "block_id": "b3g8k756ja-brhd5ea56q",
     "content": "",
@@ -401,103 +498,6 @@
         "end": "2026-11-01T23:59:00",
         "description": "**THS Best Buddies** is holding a shirt and sweatshirt fundraiser sale. For every item purchased, the chapter receives a **$5 donation**. Order online at [https://talawanda-best-buddies.spiritsale.com",
         "location": "Online at https://talawanda-best-buddies.spiritsale.com/"
-      }
-    ]
-  },
-  {
-    "title": "Veterans Day Breakfast and Assembly",
-    "block_id": "br7o2hhsgv-bvl3euguqf-b6fnj3vo15-b20f1ykxo8",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/c8cc/c1fbab40c15d6ee5a3d925f8b9fee438.png"
-    ],
-    "source_url": "https://app.smore.com/n/rpwyn",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-10-30T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "FCCLA FCCLA",
-        "id": "br7o2hhsgv"
-      },
-      {
-        "type": "text.title",
-        "content": "Veteran's \n\nDay Veteran's Day",
-        "id": "bvl3euguqf"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/c8cc/c1fbab40c15d6ee5a3d925f8b9fee438.png",
-        "id": "b6fnj3vo15"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "It is our honor and privilege to invite Veterans to our annual Veterans Day Breakfast and Recognition Ceremony. Please RSVP by November 4 by using this link.",
-        "id": "b20f1ykxo8"
-      }
-    ],
-    "hash": "br7o2hhsgv-bvl3euguqf-b6fnj3vo15-b20f1ykxo8",
-    "summary": "Veterans are invited to a **Veterans Day Breakfast at 7:45 AM** followed by an **Assembly at 9:00 AM on November 11, 2026** at Talawanda High School (5301 University Park Blvd, Oxford, OH 45056). The event honors all who served. **RSVP by November 4** using the provided link or QR code.",
-    "event_info": [
-      {
-        "title": "Veterans Day RSVP Deadline",
-        "start": "2026-11-04T23:59:00",
-        "end": "2026-11-05T00:59:00",
-        "description": "Veterans are invited to a **Veterans Day Breakfast at 7:45 AM** followed by an **Assembly at 9:00 AM on November 11, 2026** at Talawanda High School (5301 University Park Blvd, Oxford, OH 45056). The ",
-        "location": "Talawanda High School"
-      },
-      {
-        "title": "Veterans Day Breakfast",
-        "start": "2026-11-11T07:45:00",
-        "end": "2026-11-11T08:45:00",
-        "description": "Veterans are invited to a **Veterans Day Breakfast at 7:45 AM** followed by an **Assembly at 9:00 AM on November 11, 2026** at Talawanda High School (5301 University Park Blvd, Oxford, OH 45056). The ",
-        "location": "Talawanda High School, 5301 University Park Blvd, Oxford, OH 45056"
-      },
-      {
-        "title": "Veterans Day Assembly",
-        "start": "2026-11-11T09:00:00",
-        "end": "2026-11-11T10:00:00",
-        "description": "Veterans are invited to a **Veterans Day Breakfast at 7:45 AM** followed by an **Assembly at 9:00 AM on November 11, 2026** at Talawanda High School (5301 University Park Blvd, Oxford, OH 45056). The ",
-        "location": "Talawanda High School, 5301 University Park Blvd, Oxford, OH 45056"
-      }
-    ]
-  },
-  {
-    "title": "Meet with the Superintendent Sessions",
-    "block_id": "bim36t9tqx-b2nke3l7km",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/rpwyn",
-    "source_title": "Talawanda High School | Smore Newsletters for Education",
-    "date": "2026-10-30T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Community \n\nNews Community News",
-        "id": "bim36t9tqx"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Coming Up...Meet with the Superintendent:Come meet with the Superintendent at the Administrative Offices at 131 W. Chestnut Street Oxford, OH 45056:November 2, 2026 at 4 PM to share informational items on the new Attendance Law, 40 by 2040 federal funding, and Talawanda financialsNovember 13, 2026 at 7:30 or 8 AM to share information regarding property taxes, school funding, and Talawanda financialsBring your coffee and we can share information.",
-        "id": "b2nke3l7km"
-      }
-    ],
-    "hash": "bim36t9tqx-b2nke3l7km",
-    "summary": "The Superintendent is hosting two community meetings at the Administrative Offices (131 W. Chestnut Street, Oxford, OH 45056):\n- **November 2, 2026 at 4 PM**: Information on the new Attendance Law, 40 by 2040 federal funding, and Talawanda financials\n- **November 13, 2026 at 7:30 or 8 AM**: Information on property taxes, school funding, and Talawanda financials. Bring your coffee!",
-    "event_info": [
-      {
-        "title": "Meet with the Superintendent - Attendance Law & Funding",
-        "start": "2026-11-02T16:00:00",
-        "end": "2026-11-02T17:00:00",
-        "description": "The Superintendent is hosting two community meetings at the Administrative Offices (131 W. Chestnut Street, Oxford, OH 45056):\n- **November 2, 2026 at 4 PM**: Information on the new Attendance Law, 40",
-        "location": "Administrative Offices, 131 W. Chestnut Street, Oxford, OH 45056"
-      },
-      {
-        "title": "Meet with the Superintendent - Taxes & School Funding",
-        "start": "2026-11-13T07:30:00",
-        "end": "2026-11-13T08:30:00",
-        "description": "The Superintendent is hosting two community meetings at the Administrative Offices (131 W. Chestnut Street, Oxford, OH 45056):\n- **November 2, 2026 at 4 PM**: Information on the new Attendance Law, 40",
-        "location": "Administrative Offices, 131 W. Chestnut Street, Oxford, OH 45056"
       }
     ]
   },
