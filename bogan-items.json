@@ -1,5 +1,39 @@
 [
   {
+    "title": "Thanksgiving Meal for Talawanda Families",
+    "block_id": "bh1mh3rers-b6cmxuzcoo",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/1a42/495c212d563b460ccce26576b728484e.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/m7bya-bogan-weekly-news",
+    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
+    "date": "2026-11-13T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Social \n\nWork \n\nSpotlight Social Work Spotlight",
+        "id": "bh1mh3rers"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/1a42/495c212d563b460ccce26576b728484e.jpeg",
+        "id": "b6cmxuzcoo"
+      }
+    ],
+    "hash": "bh1mh3rers-b6cmxuzcoo",
+    "summary": "**Pickle and Pig in Oxford** is providing preprepared Thanksgiving meals for Talawanda families. Meals can be picked up on **Tuesday, November 24th from 10:00 AM to 2:00 PM** at Pickle and Pig. To sign up, contact Bogan Social Worker Emily White at **whitee@talawanda.org** or **513-273-3403**.",
+    "event_info": [
+      {
+        "title": "Thanksgiving Meal Pickup at Pickle and Pig",
+        "start": "2026-11-24T10:00:00",
+        "end": "2026-11-24T14:00:00",
+        "description": "**Pickle and Pig in Oxford** is providing preprepared Thanksgiving meals for Talawanda families. Meals can be picked up on **Tuesday, November 24th from 10:00 AM to 2:00 PM** at Pickle and Pig. To sig",
+        "location": "Pickle and Pig, Oxford"
+      }
+    ]
+  },
+  {
     "title": "Breakfast and Books Event for Families",
     "block_id": "bjqvo7kz71-b28ywgegjj-bjco3sa2hn",
     "content": "",
@@ -695,32 +729,5 @@
     ],
     "hash": "bwk8x8y5ub-bij35cpcqj",
     "summary": "The Talawanda School District has announced several important curriculum and policy updates:\n- **Changes to the K-5 Grading System** are being implemented\n- **TSD Title I-A Parent and Family Engagement Policy** has been updated\n- **TSD One Plan Notification** is now available for review"
-  },
-  {
-    "title": "Health Education Curriculum Update - Erin's Law",
-    "block_id": "brjyybo05h",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/ymb6h-bogan-weekly-news",
-    "source_title": "Bogan Weekly News | Smore Newsletters for Education",
-    "date": "2026-10-02T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "Health Education Curriculum Update- SB 288: Erin's Law The Ohio Department of Education and Workforce (DEW), formally called the Ohio Department of Education, has shared with public schools across the state Senate Bill 288. This legislation requires that health education curricula be updated to include (K-12/developmentally appropriate) prevention education information in the areas of sexual abuse and sexual violence for students in public schools.As promised, the district is providing an opportunity for families to review the curriculum, and parents may opt their students out of the lessons if they choose. For more information from the Ohio Department of Education- Click HERE.Instruction occurs annually. This year the district will conduct these updates with students October 12-26, 2026.K-3 Curriculum- Click HERE4-6 Curriculum- Click HERE7-8 Curriculum- TMSSocial Inclusion: Click HEREDating Violence: Click HERESuicide Prevention: Click HERE9-12 Curriculum - THS will share their videos in three successive weeks.Social Inclusion: Click HEREDating Violence / Healthy Relationships: Click HERESuicide Prevention: Click HEREContact your student's building and school counselor with any questions.",
-        "id": "brjyybo05h"
-      }
-    ],
-    "hash": "brjyybo05h",
-    "summary": "**Senate Bill 288 (Erin's Law)** requires Ohio schools to provide developmentally appropriate sexual abuse and sexual violence prevention education for grades K-12. Talawanda will conduct these lessons **October 12-26, 2026**. Families can review the curriculum materials online (separate links provided for K-3, 4-6, 7-8, and 9-12 covering topics like social inclusion, dating violence, and suicide prevention), and parents may opt their students out. Contact your school counselor with questions.",
-    "event_info": [
-      {
-        "title": "Health Education Curriculum Update - Erin's Law Instruction",
-        "start": "2026-10-12T00:00:00",
-        "end": "2026-10-26T23:59:00",
-        "description": "**Senate Bill 288 (Erin's Law)** requires Ohio schools to provide developmentally appropriate sexual abuse and sexual violence prevention education for grades K-12. Talawanda will conduct these lesson",
-        "location": "Talawanda High School"
-      }
-    ]
   }
 ]

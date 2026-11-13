@@ -1,5 +1,83 @@
 [
   {
+    "title": "Kramer Elementary Class @ the Court",
+    "block_id": "bjxm0u6upf",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/47d6t",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-11-13T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "Kramer Elementary had a wonderful week! Class @ the Court made its return, bringing together elementary students from across the district for an exciting morning of Miami University women's basketball! It was amazing to see our students cheering on the RedHawks, showing their school spirit, and enjoying a victorious Miami win! What a fun way to bring our elementary schools together. We hope everyone has a wonderful weekend filled with fun, family, and a little time to relax. Thank you for sharing your amazing kids with us each day. We look forward to another great week at Kramer! Have a wonderful weekend!",
+        "id": "bjxm0u6upf"
+      }
+    ],
+    "hash": "bjxm0u6upf",
+    "summary": "Kramer Elementary students joined other district elementary schools for **Class @ the Court**, attending a Miami University women's basketball game. Students cheered on the RedHawks to victory in this exciting district-wide event. The school thanked families and wished everyone a wonderful weekend."
+  },
+  {
+    "title": "Final Texas Roadhouse Pick Up Reminder",
+    "block_id": "ba3x6oedni-b8845swj7d",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/47d6t",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-11-13T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Missed \n\nTexas \n\nRoadhouse \n\nPick \n\nUp???  Missed Texas Roadhouse Pick Up???",
+        "id": "ba3x6oedni"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "LAST CHANCE!!! Last day to pick up Texas Roadhouse is Monday 16th from 4-6pm in the Kramer cafeteria",
+        "id": "b8845swj7d"
+      }
+    ],
+    "hash": "ba3x6oedni-b8845swj7d",
+    "summary": "**Last chance** to pick up Texas Roadhouse orders! Final pick-up is **Monday, November 16th from 4-6pm** in the **Kramer cafeteria**.",
+    "event_info": [
+      {
+        "title": "Texas Roadhouse Final Pick Up",
+        "start": "2026-11-16T16:00:00",
+        "end": "2026-11-16T18:00:00",
+        "description": "**Last chance** to pick up Texas Roadhouse orders! Final pick-up is **Monday, November 16th from 4-6pm** in the **Kramer cafeteria**.",
+        "location": "Kramer cafeteria"
+      }
+    ]
+  },
+  {
+    "title": "RAH Reading at Home Program",
+    "block_id": "bi5opyhppq-b96ifu2wre-buyu0ovqxc-barjo0ndhs",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/47d6t",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-11-13T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "RAH RAH",
+        "id": "bi5opyhppq"
+      },
+      {
+        "type": "text.title",
+        "content": "RAH \n\nis \n\nevery \n\nWednesday RAH is every Wednesday",
+        "id": "b96ifu2wre"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Attention Kindergarten, 1st, and 2nd grade families: Please return your RAH sheet every week by Wednesday!Kramer RAH (Reading At Home) is a voluntary program from K-2nd graders that builds a home-school connection by rewarding students for reading at home. Each week students record the books they've read and turn-in record sheets for rewards. Rewards alternate between a student selected book and a small prize.",
+        "id": "buyu0ovqxc"
+      }
+    ],
+    "hash": "bi5opyhppq-b96ifu2wre-buyu0ovqxc-barjo0ndhs",
+    "summary": "**RAH (Reading At Home)** is a voluntary reading program for K-2nd graders that occurs **every Wednesday**. Students record books they've read at home and turn in their RAH sheets by Wednesday to earn rewards (alternating between a student-selected book and a small prize). Families are asked to return RAH sheets every week."
+  },
+  {
     "title": "Weekend Greeting and School Safety Reminder",
     "block_id": "b3680ipv7s-boew4u5eo5",
     "content": "",
@@ -644,104 +722,5 @@
     ],
     "hash": "bjo2wl4otb-bv90vfdo5s",
     "summary": "Kramer Elementary School is implementing the **PAX Good Behavior Game (PAX GBG)** school-wide, an evidence-based strategy to help students build self-regulation, focus, and teamwork. Key terms students will use include **PAX Behaviors** (positive actions), **SPLEEMS** (minor disruptions to reduce), **PAX Quiet** (attention signal using harmonica), **Tootles** (notes recognizing kind acts), and **PAX Prizes** (30-second activity breaks earned by reducing SPLEEMS). Families can support PAX at home by asking children about their PAX experiences and choices throughout the day."
-  },
-  {
-    "title": "Understanding Bullying vs. Peer Conflict",
-    "block_id": "bk6vupuf8g-bv5p7ws1uh",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/2nrd6",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-10-23T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Counselor \n\nCorner  Counselor Corner",
-        "id": "bk6vupuf8g"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Bullying vs. Peer Conflict BullyingBullying is unwanted, aggressive behavior among school aged children that involves a real or perceived power imbalance. The behavior is repeated, or has the potential to be repeated, over time. Both kids who are bullied and who bully others may have serious, lasting problems.In order to be considered bullying, the behavior must be aggressive and include:An Imbalance of Power: Kids who bully use their power—such as physical strength, access to embarrassing information, or popularity—to control or harm others. Power imbalances can change over time and in different situations, even if they involve the same people.Repetition: Bullying behaviors happen more than once or have the potential to happen more than once.Bullying includes actions such as making threats, spreading rumors, attacking someone physically or verbally, and excluding someone from a group on purpose.Peer ConflictIt is not bullying when two kids with no perceived power imbalance fight, have an argument, or disagree. These behaviors can occur at different ages, including early childhood, adolescence, and young adulthood. Parents and caregivers, school staff, and other adults can help younger children develop skills for getting along with others in age-appropriate ways. Conflict resolution or peer mediation may be appropriate when these situations occur during adolescence and young adulthood.",
-        "id": "bv5p7ws1uh"
-      }
-    ],
-    "hash": "bk6vupuf8g-bv5p7ws1uh",
-    "summary": "**Bullying** is unwanted, aggressive behavior involving a **power imbalance** and **repetition** (or potential for repetition). It includes making threats, spreading rumors, physical or verbal attacks, and intentional exclusion. **Peer conflict** is different—when two kids with no power imbalance fight, argue, or disagree, it's not bullying. Conflict resolution or peer mediation can help address peer conflicts appropriately."
-  },
-  {
-    "title": "Halloween Costume Guidelines and Parade",
-    "block_id": "blugj7k9g7-br4wlo6wo6-bad3rvdz8o",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/2nrd6",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-10-23T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Halloween \n\nEvents \n\nFriday \n\nOctober \n\n30th, \n\n2026 Halloween Events Friday October 30th, 2026",
-        "id": "blugj7k9g7"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Costumes will be permitted with the following guidelines:1. NO Costume Masks2. NO Props3. Minimal Makeup4. Costumes MUST be worn to school. There will not be a “Change Time”5. Please make sure your child will be able to function comfortable throughout day (bathroom needs, recess, school work. and specials) while wearing his/her costume.The parade will take place outside in the vehicle pickup area behind the school at 9:30 a.m.",
-        "id": "br4wlo6wo6"
-      }
-    ],
-    "hash": "blugj7k9g7-br4wlo6wo6-bad3rvdz8o",
-    "summary": "**Halloween celebrations will be held Friday, October 30th, 2026.** Costumes are permitted with restrictions: no masks, props, or excessive makeup; costumes must be worn to school (no changing time); and students must be able to function comfortably throughout the day. **A Halloween parade will take place at 9:30 a.m. in the vehicle pickup area behind the school.**",
-    "event_info": [
-      {
-        "title": "Halloween Parade",
-        "start": "2026-10-30T09:30:00",
-        "end": "2026-10-30T10:30:00",
-        "description": "**Halloween celebrations will be held Friday, October 30th, 2026.** Costumes are permitted with restrictions: no masks, props, or excessive makeup; costumes must be worn to school (no changing time); ",
-        "location": "Vehicle pickup area behind the school"
-      }
-    ]
-  },
-  {
-    "title": "Class @ the Court Field Trip",
-    "block_id": "bm246zql9v-b4tm0w9rz3-bvq6or6dhw",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/npjm7b",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-10-15T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Class \n\n@ \n\nthe \n\nCourt Class @ the Court",
-        "id": "bm246zql9v"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "2026 Class @ the CourtGreater Oxford Educational CollaborativeMiami University Athletics & Talawanda Elementary SchoolsOn Wednesday, November 11, 2026 our students once again have the fantastic opportunity to attend the Miami University Women’s basketball game “Class at the Court” at Millett Hall during the school day. Thanks to the generous support of Miami University and our educational partnership our students will attend the game free of charge. We will leave school shortly after we take attendance, heading to Millett Hall at 9:30AM, and will return to school after the game. Any student that has NOT arrived at school on 11/11/26 before 9:30AM, will not be able to participate in this activity. Please make note of this. We will contact the parent of any student that experiences illness or behavior issues and the parent will need to pick their student up at Millett Hall. Permission slips will be shared with our families the last week in October.",
-        "id": "b4tm0w9rz3"
-      },
-      {
-        "type": "text.title",
-        "content": "Kramer \n\nBuilding \n\nwill \n\nbe \n\nCLOSED \n\n9:30am-1pm Kramer Building will be CLOSED 9:30am-1pm",
-        "id": "bvq6or6dhw"
-      }
-    ],
-    "hash": "bm246zql9v-b4tm0w9rz3-bvq6or6dhw",
-    "summary": "**Talawanda Elementary Schools** students will attend a Miami University Women's basketball game at **Millett Hall on Wednesday, November 11, 2026**. Students must arrive at school before **9:30 AM** to participate in this free field trip. The group will depart at 9:30 AM and return after the game. Permission slips will be distributed the last week of October. **The Kramer Building will be closed from 9:30 AM to 1:00 PM** on this day.",
-    "event_info": [
-      {
-        "title": "Class @ the Court - Miami University Women's Basketball Game",
-        "start": "2026-11-11T09:30:00",
-        "end": "2026-11-11T10:30:00",
-        "description": "**Talawanda Elementary Schools** students will attend a Miami University Women's basketball game at **Millett Hall on Wednesday, November 11, 2026**. Students must arrive at school before **9:30 AM** ",
-        "location": "Millett Hall, Miami University"
-      },
-      {
-        "title": "Kramer Building Closed",
-        "start": "2026-11-11T09:30:00",
-        "end": "2026-11-11T13:00:00",
-        "description": "**Talawanda Elementary Schools** students will attend a Miami University Women's basketball game at **Millett Hall on Wednesday, November 11, 2026**. Students must arrive at school before **9:30 AM** ",
-        "location": "Kramer Building"
-      }
-    ]
   }
 ]
