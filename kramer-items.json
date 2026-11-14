@@ -78,31 +78,6 @@
     "summary": "**RAH (Reading At Home)** is a voluntary reading program for K-2nd graders that occurs **every Wednesday**. Students record books they've read at home and turn in their RAH sheets by Wednesday to earn rewards (alternating between a student-selected book and a small prize). Families are asked to return RAH sheets every week."
   },
   {
-    "title": "Weekend Greeting and School Safety Reminder",
-    "block_id": "b3680ipv7s-boew4u5eo5",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/49e8/80db388207c9fb1b6ebd75d0d0d8167b.jpeg"
-    ],
-    "source_url": "https://app.smore.com/n/yet3c",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-11-06T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "Happy Friday, Kramer Families!  We hope everyone had a wonderful week! As we head into our 1st weekend of November, we are reminded how much we have to be thankful for in our Kramer community. Our students and staff continue to make each week special through learning, laughter, and kindness. Thank you for being such an important part of our school family! We hope you have a relaxing weekend, and we look forward to another great week at Kramer! Have a wonderful weekend, Kramer Families!",
-        "id": "b3680ipv7s"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/49e8/80db388207c9fb1b6ebd75d0d0d8167b.jpeg",
-        "id": "boew4u5eo5"
-      }
-    ],
-    "hash": "b3680ipv7s-boew4u5eo5",
-    "summary": "A warm Friday greeting to Kramer families expressing gratitude for the school community and wishing everyone a relaxing weekend. **Important safety reminder: School does not open until 8:50 AM. Students not accompanied by an adult should not be hanging out in front of the building before 8:50 AM.** This policy helps keep the school safe."
-  },
-  {
     "title": "Lost and Found Items Need Claimed",
     "block_id": "blzrigpmcr-btwfjfjh6a",
     "content": "",
@@ -131,38 +106,6 @@
         "end": "2026-11-20T23:59:00",
         "description": "The school's **Lost & Found** is overflowing with unclaimed items including jackets, sweatshirts, water bottles, lunchboxes, and other belongings. Students should check for their missing items soon. *",
         "location": "Talawanda High School"
-      }
-    ]
-  },
-  {
-    "title": "Fourth Grade Concert Information and Expectations",
-    "block_id": "biz1hjdd6h-bctlgmsmob",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/yet3c",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-11-06T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Attention \n\n4th \n\nGrade \n\nFamilies Attention 4th Grade Families",
-        "id": "biz1hjdd6h"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Dear Fourth Grade Families,We are working hard in music class to prepare for our upcoming fourth-grade concert, and I am excited for the students to share all of their hard work with you! Our concert is next Wednesday, November 11, at 7p.m in the Kramer Cafeteria. Students should look nice, but be comfortable as we are going to square dance. Students will line up with their class by the music room ramp at 6:50.A concert is a team effort, and every student plays an important part in making it successful. I have been very proud of the students who come to class ready to participate, follow directions, show respect, and give their best effort. Their positive attitudes and hard work are making a difference!As we continue preparing, I want to remind everyone of my expectations. All students are expected to participate, follow directions, stay on task, and demonstrate respectful behavior during music rehearsals. This includes singing, playing instruments, learning movements, and working cooperatively with classmates.Unfortunately, participation and behavior have been concerns for some students during our rehearsals. We need everyone on board in order to put together the best concert possible. Choosing not to participate, distracting others, or not following directions takes away from the learning experience for the entire class.Please take a few minutes to talk with your child about the importance of being a responsible member of the group. I want every student to feel successful, confident, and proud of what they contribute to our concert.Thank you for your support and for helping us make this a positive experience for everyone!Sincerely,Mrs. Kelly",
-        "id": "bctlgmsmob"
-      }
-    ],
-    "hash": "biz1hjdd6h-bctlgmsmob",
-    "summary": "The **4th grade concert is scheduled for Wednesday, November 11 at 7:00 PM in the Kramer Cafeteria**. Students should dress nicely but comfortably for square dancing and line up by the music room ramp at 6:50 PM. Mrs. Kelly reminds families that all students are expected to participate fully in rehearsals, as some students have shown concerns with participation and behavior—parents are asked to discuss the importance of being a responsible group member with their child.",
-    "event_info": [
-      {
-        "title": "Fourth Grade Concert",
-        "start": "2026-11-11T19:00:00",
-        "end": "2026-11-11T20:00:00",
-        "description": "The **4th grade concert is scheduled for Wednesday, November 11 at 7:00 PM in the Kramer Cafeteria**. Students should dress nicely but comfortably for square dancing and line up by the music room ramp",
-        "location": "Kramer Cafeteria"
       }
     ]
   },
@@ -278,6 +221,63 @@
     ]
   },
   {
+    "title": "Weekend Greeting and School Safety Reminder",
+    "block_id": "b3680ipv7s-boew4u5eo5",
+    "content": "",
+    "images": [
+      "https://cdn.smore.com/u/49e8/80db388207c9fb1b6ebd75d0d0d8167b.jpeg"
+    ],
+    "source_url": "https://app.smore.com/n/yet3c",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-11-06T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "Happy Friday, Kramer Families!  We hope everyone had a wonderful week! As we head into our 1st weekend of November, we are reminded how much we have to be thankful for in our Kramer community. Our students and staff continue to make each week special through learning, laughter, and kindness. Thank you for being such an important part of our school family! We hope you have a relaxing weekend, and we look forward to another great week at Kramer! Have a wonderful weekend, Kramer Families!",
+        "id": "b3680ipv7s"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/49e8/80db388207c9fb1b6ebd75d0d0d8167b.jpeg",
+        "id": "boew4u5eo5"
+      }
+    ],
+    "hash": "b3680ipv7s-boew4u5eo5",
+    "summary": "A warm Friday greeting to Kramer families expressing gratitude for the school community and wishing everyone a relaxing weekend. **Important safety reminder: School does not open until 8:50 AM. Students not accompanied by an adult should not be hanging out in front of the building before 8:50 AM.** This policy helps keep the school safe."
+  },
+  {
+    "title": "Fourth Grade Concert Information and Expectations",
+    "block_id": "biz1hjdd6h-bctlgmsmob",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/yet3c",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-11-06T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Attention \n\n4th \n\nGrade \n\nFamilies Attention 4th Grade Families",
+        "id": "biz1hjdd6h"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Dear Fourth Grade Families,We are working hard in music class to prepare for our upcoming fourth-grade concert, and I am excited for the students to share all of their hard work with you! Our concert is next Wednesday, November 11, at 7p.m in the Kramer Cafeteria. Students should look nice, but be comfortable as we are going to square dance. Students will line up with their class by the music room ramp at 6:50.A concert is a team effort, and every student plays an important part in making it successful. I have been very proud of the students who come to class ready to participate, follow directions, show respect, and give their best effort. Their positive attitudes and hard work are making a difference!As we continue preparing, I want to remind everyone of my expectations. All students are expected to participate, follow directions, stay on task, and demonstrate respectful behavior during music rehearsals. This includes singing, playing instruments, learning movements, and working cooperatively with classmates.Unfortunately, participation and behavior have been concerns for some students during our rehearsals. We need everyone on board in order to put together the best concert possible. Choosing not to participate, distracting others, or not following directions takes away from the learning experience for the entire class.Please take a few minutes to talk with your child about the importance of being a responsible member of the group. I want every student to feel successful, confident, and proud of what they contribute to our concert.Thank you for your support and for helping us make this a positive experience for everyone!Sincerely,Mrs. Kelly",
+        "id": "bctlgmsmob"
+      }
+    ],
+    "hash": "biz1hjdd6h-bctlgmsmob",
+    "summary": "The **4th grade concert is scheduled for Wednesday, November 11 at 7:00 PM in the Kramer Cafeteria**. Students should dress nicely but comfortably for square dancing and line up by the music room ramp at 6:50 PM. Mrs. Kelly reminds families that all students are expected to participate fully in rehearsals, as some students have shown concerns with participation and behavior—parents are asked to discuss the importance of being a responsible group member with their child.",
+    "event_info": [
+      {
+        "title": "Fourth Grade Concert",
+        "start": "2026-11-11T19:00:00",
+        "end": "2026-11-11T20:00:00",
+        "description": "The **4th grade concert is scheduled for Wednesday, November 11 at 7:00 PM in the Kramer Cafeteria**. Students should dress nicely but comfortably for square dancing and line up by the music room ramp",
+        "location": "Kramer Cafeteria"
+      }
+    ]
+  },
+  {
     "title": "RAH Reading Program - Thursday This Week",
     "block_id": "bi5opyhppq-b96ifu2wre-buyu0ovqxc-b6rbagwof4-barjo0ndhs",
     "content": "",
@@ -366,45 +366,6 @@
     ],
     "hash": "bg0d0xncp1-bjo2wl4otb-bv90vfdo5s",
     "summary": "Kramer Elementary School is implementing the **PAX Good Behavior Game (PAX GBG)** school-wide, an evidence-based strategy to help students build self-regulation, focus, and teamwork. Key concepts include **PAX Behaviors** (positive actions), **SPLEEMS** (minor disruptions to reduce), **PAX Quiet** (attention signal using harmonica), **Tootles** (notes recognizing kind acts), and **PAX Prizes** (activity breaks earned by keeping SPLEEMS low). Families can support by asking children about their PAX experiences and using PAX concepts at home during daily routines."
-  },
-  {
-    "title": "Meet with the Superintendent Sessions",
-    "block_id": "bp2hwtoyit-bj7xyisuiu",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/arhtu",
-    "source_title": "Kramer Elementary | Smore Newsletters for Education",
-    "date": "2026-10-30T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "Coming \n\nUp...Meet \n\nwith \n\nthe \n\nSuperintendent Coming Up...Meet with the Superintendent",
-        "id": "bp2hwtoyit"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Come meet with the Superintendent at the Administrative Offices at 131 W. Chestnut Street Oxford, OH 45056:November 2, 2026 at 4 PM to share informational items on the new Attendance Law, 40 by 2040 federal funding, and Talawanda financialsNovember 13, 2026 at 7:30 or 8 AM to share information regarding property taxes, school funding, and Talawanda financialsBring your coffee and we can share information.",
-        "id": "bj7xyisuiu"
-      }
-    ],
-    "hash": "bp2hwtoyit-bj7xyisuiu",
-    "summary": "The Superintendent is hosting two informal meeting sessions at the Administrative Offices (131 W. Chestnut Street, Oxford, OH 45056):\n\n- **November 2, 2026 at 4 PM**: Topics include the new Attendance Law, 40 by 2040 federal funding, and Talawanda financials\n- **November 13, 2026 at 7:30 or 8 AM**: Topics include property taxes, school funding, and Talawanda financials\n\nCoffee and conversation welcome!",
-    "event_info": [
-      {
-        "title": "Meet with the Superintendent - Attendance Law & Funding",
-        "start": "2026-11-02T16:00:00",
-        "end": "2026-11-02T17:00:00",
-        "description": "The Superintendent is hosting two informal meeting sessions at the Administrative Offices (131 W. Chestnut Street, Oxford, OH 45056):\n\n- **November 2, 2026 at 4 PM**: Topics include the new Attendance",
-        "location": "Administrative Offices, 131 W. Chestnut Street, Oxford, OH 45056"
-      },
-      {
-        "title": "Meet with the Superintendent - Property Taxes & Funding",
-        "start": "2026-11-13T07:30:00",
-        "end": "2026-11-13T08:30:00",
-        "description": "The Superintendent is hosting two informal meeting sessions at the Administrative Offices (131 W. Chestnut Street, Oxford, OH 45056):\n\n- **November 2, 2026 at 4 PM**: Topics include the new Attendance",
-        "location": "Administrative Offices, 131 W. Chestnut Street, Oxford, OH 45056"
-      }
-    ]
   },
   {
     "title": "November 2026 School Calendar",
@@ -559,6 +520,45 @@
     ],
     "hash": "b1kzf7f4ks-bs3y5xjm5w",
     "summary": "**Starting in the 2026-2027 school year**, Talawanda is changing its elementary grading systems:\n\n- **Grades 3-5**: Moving to traditional **letter grades (A-F)** to align with middle/high school expectations (A=90-100%, B=80-89%, C=70-79%, D=60-69%, F=0-59%)\n- **Grades K-2**: Continuing with the **numerical system (1-4)** where 4=Consistently/Independently Meeting Standard, 3=Meeting Standard, 2=Approaching Standard, 1=Not Yet Meeting Standard\n\nThis change prepares upper elementary students for future academic expectations while maintaining developmentally appropriate assessment for younger learners."
+  },
+  {
+    "title": "Meet with the Superintendent Sessions",
+    "block_id": "bp2hwtoyit-bj7xyisuiu",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/arhtu",
+    "source_title": "Kramer Elementary | Smore Newsletters for Education",
+    "date": "2026-10-30T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "Coming \n\nUp...Meet \n\nwith \n\nthe \n\nSuperintendent Coming Up...Meet with the Superintendent",
+        "id": "bp2hwtoyit"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Come meet with the Superintendent at the Administrative Offices at 131 W. Chestnut Street Oxford, OH 45056:November 2, 2026 at 4 PM to share informational items on the new Attendance Law, 40 by 2040 federal funding, and Talawanda financialsNovember 13, 2026 at 7:30 or 8 AM to share information regarding property taxes, school funding, and Talawanda financialsBring your coffee and we can share information.",
+        "id": "bj7xyisuiu"
+      }
+    ],
+    "hash": "bp2hwtoyit-bj7xyisuiu",
+    "summary": "The Superintendent is hosting two informal meeting sessions at the Administrative Offices (131 W. Chestnut Street, Oxford, OH 45056):\n\n- **November 2, 2026 at 4 PM**: Topics include the new Attendance Law, 40 by 2040 federal funding, and Talawanda financials\n- **November 13, 2026 at 7:30 or 8 AM**: Topics include property taxes, school funding, and Talawanda financials\n\nCoffee and conversation welcome!",
+    "event_info": [
+      {
+        "title": "Meet with the Superintendent - Attendance Law & Funding",
+        "start": "2026-11-02T16:00:00",
+        "end": "2026-11-02T17:00:00",
+        "description": "The Superintendent is hosting two informal meeting sessions at the Administrative Offices (131 W. Chestnut Street, Oxford, OH 45056):\n\n- **November 2, 2026 at 4 PM**: Topics include the new Attendance",
+        "location": "Administrative Offices, 131 W. Chestnut Street, Oxford, OH 45056"
+      },
+      {
+        "title": "Meet with the Superintendent - Property Taxes & Funding",
+        "start": "2026-11-13T07:30:00",
+        "end": "2026-11-13T08:30:00",
+        "description": "The Superintendent is hosting two informal meeting sessions at the Administrative Offices (131 W. Chestnut Street, Oxford, OH 45056):\n\n- **November 2, 2026 at 4 PM**: Topics include the new Attendance",
+        "location": "Administrative Offices, 131 W. Chestnut Street, Oxford, OH 45056"
+      }
+    ]
   },
   {
     "title": "Halloween Wishes and Daylight Saving Reminder",

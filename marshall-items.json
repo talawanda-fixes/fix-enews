@@ -78,40 +78,6 @@
     ]
   },
   {
-    "title": "PTG Meeting in Marshall Cafeteria",
-    "block_id": "bi6881i3gq-bjxolp03hz",
-    "content": "",
-    "images": [
-      "https://cdn.smore.com/u/22ae/bafaeadb359d471d97e1db8bb3b5b7ba.png"
-    ],
-    "source_url": "https://app.smore.com/n/g5v73f",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-11-06T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "PTG \n\nCORNER PTG CORNER",
-        "id": "bi6881i3gq"
-      },
-      {
-        "type": "image.single",
-        "url": "https://cdn.smore.com/u/22ae/bafaeadb359d471d97e1db8bb3b5b7ba.png",
-        "id": "bjxolp03hz"
-      }
-    ],
-    "hash": "bi6881i3gq-bjxolp03hz",
-    "summary": "**PTG Meeting on Monday, November 9th** from 6-7 PM in the Marshall Cafeteria. All are welcome to attend.",
-    "event_info": [
-      {
-        "title": "PTG Meeting",
-        "start": "2026-11-09T18:00:00",
-        "end": "2026-11-09T19:00:00",
-        "description": "**PTG Meeting on Monday, November 9th** from 6-7 PM in the Marshall Cafeteria. All are welcome to attend.",
-        "location": "Marshall Cafeteria"
-      }
-    ]
-  },
-  {
     "title": "Math Fact Fluency Challenge: Daily Practice at Home",
     "block_id": "b7xrdsrba0-bt068w29o7-bnkl0wwq94",
     "content": "",
@@ -176,29 +142,36 @@
     ]
   },
   {
-    "title": "Class at the Court Basketball Game",
-    "block_id": "bugz5hmd0h",
+    "title": "PTG Meeting in Marshall Cafeteria",
+    "block_id": "bi6881i3gq-bjxolp03hz",
     "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/hzcx3",
+    "images": [
+      "https://cdn.smore.com/u/22ae/bafaeadb359d471d97e1db8bb3b5b7ba.png"
+    ],
+    "source_url": "https://app.smore.com/n/g5v73f",
     "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-10-30T00:00:00+00:00",
+    "date": "2026-11-06T00:00:00+00:00",
     "blocks": [
       {
-        "type": "text.paragraph",
-        "content": "2026 Class @ the Court Greater Oxford Educational CollaborativeMiami University Athletics & Talawanda Elementary SchoolsOn Wednesday, November 11, 2026 our students once again have the fantastic opportunity to attend the Miami University Women’s basketball game “Class at the Court” at Millett Hall during the school day. Thanks to the generous support of Miami University and our educational partnership our students will attend the game free of charge.We will leave school shortly after we take attendance, heading to Millett Hall at 9:30AM, and will return to school after the game. Any student that has NOT arrived at school on 11/11/26 before 9:30AM, will not be able to participate in this activity. Please make note of this. We will contact the parent of any student that experiences illness or behavior issues and the parent will need to pick their student up at Millett Hall. Permission slips will be shared with our families the last week in October.",
-        "id": "bugz5hmd0h"
+        "type": "text.title",
+        "content": "PTG \n\nCORNER PTG CORNER",
+        "id": "bi6881i3gq"
+      },
+      {
+        "type": "image.single",
+        "url": "https://cdn.smore.com/u/22ae/bafaeadb359d471d97e1db8bb3b5b7ba.png",
+        "id": "bjxolp03hz"
       }
     ],
-    "hash": "bugz5hmd0h",
-    "summary": "**Talawanda Elementary students** will attend a Miami University women's basketball game at **Millett Hall on Wednesday, November 11, 2026**, free of charge. Students must arrive at school **before 9:30 AM** to participate, as buses depart shortly after attendance. Permission slips will be distributed the last week of October, and parents must pick up students from Millett Hall if illness or behavior issues arise.",
+    "hash": "bi6881i3gq-bjxolp03hz",
+    "summary": "**PTG Meeting on Monday, November 9th** from 6-7 PM in the Marshall Cafeteria. All are welcome to attend.",
     "event_info": [
       {
-        "title": "Class at the Court - Miami University Women's Basketball Game",
-        "start": "2026-11-11T09:30:00",
-        "end": "2026-11-11T10:30:00",
-        "description": "**Talawanda Elementary students** will attend a Miami University women's basketball game at **Millett Hall on Wednesday, November 11, 2026**, free of charge. Students must arrive at school **before 9:",
-        "location": "Millett Hall, Miami University"
+        "title": "PTG Meeting",
+        "start": "2026-11-09T18:00:00",
+        "end": "2026-11-09T19:00:00",
+        "description": "**PTG Meeting on Monday, November 9th** from 6-7 PM in the Marshall Cafeteria. All are welcome to attend.",
+        "location": "Marshall Cafeteria"
       }
     ]
   },
@@ -276,63 +249,6 @@
         "location": "Marshall Elementary"
       }
     ]
-  },
-  {
-    "title": "Meet with the Superintendent Sessions",
-    "block_id": "b2gl7gfvmy-btxwox2583",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/hzcx3",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-10-30T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.title",
-        "content": "DISTRICT \n\nINFORMATION DISTRICT INFORMATION",
-        "id": "b2gl7gfvmy"
-      },
-      {
-        "type": "text.paragraph",
-        "content": "Coming Up...Meet with the Superintendent: Come meet with the Superintendent at the Administrative Offices at 131 W. Chestnut Street Oxford, OH 45056:November 2, 2026 at 4 PM to share informational items on the new Attendance Law, 40 by 2040 federal funding, and Talawanda financialsNovember 13, 2026 at 7:30 or 8 AM to share information regarding property taxes, school funding, and Talawanda financialsBring your coffee and we can share information.",
-        "id": "btxwox2583"
-      }
-    ],
-    "hash": "b2gl7gfvmy-btxwox2583",
-    "summary": "The Superintendent is hosting two informal meeting sessions at the Administrative Offices (131 W. Chestnut Street, Oxford, OH 45056):\n\n- **November 2, 2026 at 4 PM**: Topics include new Attendance Law, 40 by 2040 federal funding, and Talawanda financials\n- **November 13, 2026 at 7:30 or 8 AM**: Topics include property taxes, school funding, and Talawanda financials\n\nCommunity members are invited to bring coffee and share information with the Superintendent.",
-    "event_info": [
-      {
-        "title": "Meet with the Superintendent - Attendance Law & Funding",
-        "start": "2026-11-02T16:00:00",
-        "end": "2026-11-02T17:00:00",
-        "description": "The Superintendent is hosting two informal meeting sessions at the Administrative Offices (131 W. Chestnut Street, Oxford, OH 45056):\n\n- **November 2, 2026 at 4 PM**: Topics include new Attendance Law",
-        "location": "Administrative Offices, 131 W. Chestnut Street, Oxford, OH 45056"
-      },
-      {
-        "title": "Meet with the Superintendent - Property Taxes & Funding",
-        "start": "2026-11-13T07:30:00",
-        "end": "2026-11-13T08:30:00",
-        "description": "The Superintendent is hosting two informal meeting sessions at the Administrative Offices (131 W. Chestnut Street, Oxford, OH 45056):\n\n- **November 2, 2026 at 4 PM**: Topics include new Attendance Law",
-        "location": "Administrative Offices, 131 W. Chestnut Street, Oxford, OH 45056"
-      }
-    ]
-  },
-  {
-    "title": "K-5 Grading System Changes for 2026-2027",
-    "block_id": "bludm09rnv",
-    "content": "",
-    "images": [],
-    "source_url": "https://app.smore.com/n/hzcx3",
-    "source_title": "Marshall E-News | Smore Newsletters for Education",
-    "date": "2026-10-30T00:00:00+00:00",
-    "blocks": [
-      {
-        "type": "text.paragraph",
-        "content": "Changes to the K-5 Grading System at Talawanda NEW for the 2026-2027 School Year Grades 3-5 - Moving to a Traditional Letter Grading System (A-F)We are excited to shift our grades 3–5 to a traditional letter grade system (A-F) to provide a more detailed look at your child's overall performance and academic habits. This change aligns our 3rd-5th graders with the expectations they will meet in middle and high school, fostering greater accountability and preparing them for future success.For families, this transition offers a familiar and intuitive way to track progress. While the numerical scale focused on specific milestones, letter grades allow for a wider range of feedback to distinguish between meeting basic requirements and consistently exceeding them. This system ensures a clearer dialogue between teachers and parents, highlighting exactly where a student excels or may need extra support.Here is the breakdown of the traditional letter grading system:A - 90-100%B - 80-89%C - 70-79%D - 60-69%F - 0-59%Grades K-2 - Remaining with the Numerical Grading System (1-4)Grades K–2 will continue using the numerical (1–4) grading system to best support our youngest learners. At this foundational level, education is focused on the progressive development of core skills and meeting specific developmental milestones rather than a cumulative letter grade. The 1–4 scale provides a precise way for teachers to communicate exactly where a student is in their learning journey—from beginning to explore a concept to achieving mastery—ensuring that families have a clear understanding of their child's growth in these critical early years.As a reminder, here is a breakdown of the numerical scores:4 - Consistently/Independently Meeting the Standard3 - Meeting the Standard2 - Approaching the Standard1- Not Yet Meeting the Standard",
-        "id": "bludm09rnv"
-      }
-    ],
-    "hash": "bludm09rnv",
-    "summary": "**Grades 3-5** will transition to a traditional **letter grading system (A-F)** starting in the 2026-2027 school year to better prepare students for middle and high school expectations. The scale includes: A (90-100%), B (80-89%), C (70-79%), D (60-69%), F (0-59%). **Grades K-2** will continue using the **numerical system (1-4)** where 4=Consistently Meeting Standard, 3=Meeting Standard, 2=Approaching Standard, 1=Not Yet Meeting Standard."
   },
   {
     "title": "Volunteer and Visitor Policy Requirements",
@@ -418,6 +334,90 @@
         "location": "Talawanda High School"
       }
     ]
+  },
+  {
+    "title": "Class at the Court Basketball Game",
+    "block_id": "bugz5hmd0h",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/hzcx3",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-10-30T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "2026 Class @ the Court Greater Oxford Educational CollaborativeMiami University Athletics & Talawanda Elementary SchoolsOn Wednesday, November 11, 2026 our students once again have the fantastic opportunity to attend the Miami University Women’s basketball game “Class at the Court” at Millett Hall during the school day. Thanks to the generous support of Miami University and our educational partnership our students will attend the game free of charge.We will leave school shortly after we take attendance, heading to Millett Hall at 9:30AM, and will return to school after the game. Any student that has NOT arrived at school on 11/11/26 before 9:30AM, will not be able to participate in this activity. Please make note of this. We will contact the parent of any student that experiences illness or behavior issues and the parent will need to pick their student up at Millett Hall. Permission slips will be shared with our families the last week in October.",
+        "id": "bugz5hmd0h"
+      }
+    ],
+    "hash": "bugz5hmd0h",
+    "summary": "**Talawanda Elementary students** will attend a Miami University women's basketball game at **Millett Hall on Wednesday, November 11, 2026**, free of charge. Students must arrive at school **before 9:30 AM** to participate, as buses depart shortly after attendance. Permission slips will be distributed the last week of October, and parents must pick up students from Millett Hall if illness or behavior issues arise.",
+    "event_info": [
+      {
+        "title": "Class at the Court - Miami University Women's Basketball Game",
+        "start": "2026-11-11T09:30:00",
+        "end": "2026-11-11T10:30:00",
+        "description": "**Talawanda Elementary students** will attend a Miami University women's basketball game at **Millett Hall on Wednesday, November 11, 2026**, free of charge. Students must arrive at school **before 9:",
+        "location": "Millett Hall, Miami University"
+      }
+    ]
+  },
+  {
+    "title": "Meet with the Superintendent Sessions",
+    "block_id": "b2gl7gfvmy-btxwox2583",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/hzcx3",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-10-30T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.title",
+        "content": "DISTRICT \n\nINFORMATION DISTRICT INFORMATION",
+        "id": "b2gl7gfvmy"
+      },
+      {
+        "type": "text.paragraph",
+        "content": "Coming Up...Meet with the Superintendent: Come meet with the Superintendent at the Administrative Offices at 131 W. Chestnut Street Oxford, OH 45056:November 2, 2026 at 4 PM to share informational items on the new Attendance Law, 40 by 2040 federal funding, and Talawanda financialsNovember 13, 2026 at 7:30 or 8 AM to share information regarding property taxes, school funding, and Talawanda financialsBring your coffee and we can share information.",
+        "id": "btxwox2583"
+      }
+    ],
+    "hash": "b2gl7gfvmy-btxwox2583",
+    "summary": "The Superintendent is hosting two informal meeting sessions at the Administrative Offices (131 W. Chestnut Street, Oxford, OH 45056):\n\n- **November 2, 2026 at 4 PM**: Topics include new Attendance Law, 40 by 2040 federal funding, and Talawanda financials\n- **November 13, 2026 at 7:30 or 8 AM**: Topics include property taxes, school funding, and Talawanda financials\n\nCommunity members are invited to bring coffee and share information with the Superintendent.",
+    "event_info": [
+      {
+        "title": "Meet with the Superintendent - Attendance Law & Funding",
+        "start": "2026-11-02T16:00:00",
+        "end": "2026-11-02T17:00:00",
+        "description": "The Superintendent is hosting two informal meeting sessions at the Administrative Offices (131 W. Chestnut Street, Oxford, OH 45056):\n\n- **November 2, 2026 at 4 PM**: Topics include new Attendance Law",
+        "location": "Administrative Offices, 131 W. Chestnut Street, Oxford, OH 45056"
+      },
+      {
+        "title": "Meet with the Superintendent - Property Taxes & Funding",
+        "start": "2026-11-13T07:30:00",
+        "end": "2026-11-13T08:30:00",
+        "description": "The Superintendent is hosting two informal meeting sessions at the Administrative Offices (131 W. Chestnut Street, Oxford, OH 45056):\n\n- **November 2, 2026 at 4 PM**: Topics include new Attendance Law",
+        "location": "Administrative Offices, 131 W. Chestnut Street, Oxford, OH 45056"
+      }
+    ]
+  },
+  {
+    "title": "K-5 Grading System Changes for 2026-2027",
+    "block_id": "bludm09rnv",
+    "content": "",
+    "images": [],
+    "source_url": "https://app.smore.com/n/hzcx3",
+    "source_title": "Marshall E-News | Smore Newsletters for Education",
+    "date": "2026-10-30T00:00:00+00:00",
+    "blocks": [
+      {
+        "type": "text.paragraph",
+        "content": "Changes to the K-5 Grading System at Talawanda NEW for the 2026-2027 School Year Grades 3-5 - Moving to a Traditional Letter Grading System (A-F)We are excited to shift our grades 3–5 to a traditional letter grade system (A-F) to provide a more detailed look at your child's overall performance and academic habits. This change aligns our 3rd-5th graders with the expectations they will meet in middle and high school, fostering greater accountability and preparing them for future success.For families, this transition offers a familiar and intuitive way to track progress. While the numerical scale focused on specific milestones, letter grades allow for a wider range of feedback to distinguish between meeting basic requirements and consistently exceeding them. This system ensures a clearer dialogue between teachers and parents, highlighting exactly where a student excels or may need extra support.Here is the breakdown of the traditional letter grading system:A - 90-100%B - 80-89%C - 70-79%D - 60-69%F - 0-59%Grades K-2 - Remaining with the Numerical Grading System (1-4)Grades K–2 will continue using the numerical (1–4) grading system to best support our youngest learners. At this foundational level, education is focused on the progressive development of core skills and meeting specific developmental milestones rather than a cumulative letter grade. The 1–4 scale provides a precise way for teachers to communicate exactly where a student is in their learning journey—from beginning to explore a concept to achieving mastery—ensuring that families have a clear understanding of their child's growth in these critical early years.As a reminder, here is a breakdown of the numerical scores:4 - Consistently/Independently Meeting the Standard3 - Meeting the Standard2 - Approaching the Standard1- Not Yet Meeting the Standard",
+        "id": "bludm09rnv"
+      }
+    ],
+    "hash": "bludm09rnv",
+    "summary": "**Grades 3-5** will transition to a traditional **letter grading system (A-F)** starting in the 2026-2027 school year to better prepare students for middle and high school expectations. The scale includes: A (90-100%), B (80-89%), C (70-79%), D (60-69%), F (0-59%). **Grades K-2** will continue using the **numerical system (1-4)** where 4=Consistently Meeting Standard, 3=Meeting Standard, 2=Approaching Standard, 1=Not Yet Meeting Standard."
   },
   {
     "title": "Important Updates and Reminders",
